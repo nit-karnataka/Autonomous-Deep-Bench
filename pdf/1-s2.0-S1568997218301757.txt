@@ -1,0 +1,1281 @@
+Autoimmunity Reviews 17 (2018) 945–955
+
+Contents lists available at ScienceDirect
+
+Autoimmunity Reviews
+journal homepage: www.elsevier.com/locate/autrev
+
+The link between immunity, autoimmunity and endometriosis: a literature
+update
+Tao Zhanga,b,1, Caterina De Carolisc,
+
+⁎⁎,1
+
+, Gene Chi Wai Mana,d, Chi Chiu Wanga,e,f,
+
+T
+
+⁎
+
+a
+
+Department of Obstetrics and Gynaecology, Faculty of Medicine, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, Hong Kong
+Shenzhen Youshare Biotechnology Co. Ltd, Shenzhen, Guangdong, China
+c
+Polymedical Center for Prevention of Recurrent Spontaneous Abortion, Rome, Italy
+d
+Department of Orthopaedics and Traumatology, Faculty of Medicine, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, Hong Kong
+e
+Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Hong Kong
+f
+School of Biomedical Sciences, The Chinese University of Hong Kong, Hong Kong
+b
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Endometriosis (EMS)
+Autoimmune disease (AD)
+Autoantibodies
+Complement (C)
+Cytokines
+Immune escape
+Immunomodulators
+
+Endometriosis (EMS), an estrogen-dependent inﬂammatory disorder aﬀects approximately 5–10% of the general
+female population of reproductive age and 20–90% of women with pelvic pain and infertility. Many immunological factors are known to contribute signiﬁcantly to the pathogenesis and pathophysiology of EMS, and
+both chronic local inﬂammation and autoantibodies in EMS shares many similarities with autoimmune diseases
+(AD). However, the autoimmune etiology in EMS remains controversial, and its evidence on autoimmune basis
+may be limited. Here we aim to review the current understanding between autoimmunity and EMS to provide
+important knowledge to develop future potential immunomodulatory therapy for the treatment of EMS.
+
+1. Introduction
+Endometriosis (EMS), deﬁned by the presence of endometrial glands
+and stroma outside the uterus, is a common chronic disease aﬀecting up
+to 10% of the general female population of reproductive age [1,2] and
+20-90% women with pelvic pain and infertility. Exacting prevalence in
+the population is diﬃcult to determine because it is asymptomatic or
+subclinical in the majority of cases. Although its pathogenesis has not
+been completely identiﬁed, EMS has been characterized as an estrogendependent chronic inﬂammatory disease. [2–4] The most popular and
+widely accepted etiology is Sampson’s theory of retrograde menstruation. [5] This theory describes how viable endometrial tissue can be
+spread into the peritoneal cavity through the fallopian tubes during
+menstruation eliciting an inﬂammatory response. This was further
+supported by ﬁnding showing women with EMS with greater volume of
+reﬂuxed blood during menses than those without EMS. [6] Recent
+evidences suggest that the endocrine/paracrine inﬂuences and immunological aspects such as growth factors, cytokines, immune cells
+and hormones have been proposed as involved in the pathophysiology
+of EMS-related infertility, via altering both the eutopic and the ectopic
+
+endometrium. [1–3,6,7–9] However because not all women with reﬂux
+menstruation also have EMS, the retrograde menstruation theory
+cannot explain all case of EMS. One theory to complement the retrograde menstruation is the autoimmunity theory. EMS is associated with
+a chronic local inﬂammatory process and the presence of autoantibodies, and these are characteristics of other autoimmune diseases
+(AD). [10–12] If autoimmunity is present, immunomodulatory therapy
+for AD might then be used as a potential treatment for EMS without the
+shortcoming of current hormonal and surgical therapy. [13] In this
+review, we aim to connect the lines of evidence that link the (auto)
+immune dysfunction with the pathophysiology of EMS and the comparison and association with AD for developing potential treatments.
+2. Pathophysiology of endometriosis
+Animal models and human samples are paramount in the study of
+pathogenesis and progression of EMS. Many factors are involved in this
+disease, endocrine alterations but also an altered immune response
+against endometrial cells including inﬂammation and cytokine/chemokine expression. These last factors not only cannot eﬀectively
+
+⁎
+Correspondence to: Chi-Chiu Wang, Department of Obstetrics and Gynaecology, Faculty of Medicine, The Chinese University of Hong Kong, Prince of Wales
+Hospital, Shatin, Hong Kong SAR.
+⁎⁎
+Correspondence to: Caterina De Carolis, Polymedical Center for Prevention of Recurrent Spontaneous Abortion, Rome, Italy.
+E-mail addresses: caterina.decarolis@fastwebnet.it (C. De Carolis), ccwang@cuhk.edu.hk (C.C. Wang).
+1
+Tao Zhang and Caterina De Carolis contributed equally to this work
+
+https://doi.org/10.1016/j.autrev.2018.03.017
+Received 15 March 2018; Accepted 20 March 2018
+Available online 11 August 2018
+1568-9972/ © 2018 Elsevier B.V. All rights reserved.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+with high levels of free redox-active iron that retrospectively act as an
+autophagic stimulus [24] and on the other hand, a dramatic loss of the
+master inducer of apoptosis and negative regulator of cell proliferation,
+p53 [25] has been observed in ovarian endometriotic cyst tissues,
+which in addition to suggesting that apoptosis is impaired, may also be
+responsible for stimulating autophagy. According to a more recent
+study, the expression of HIF-1α (hypoxia-inducible factor-1α), a heterodimeric transcriptional factor mediating the cellular response to
+hypoxia, is increased in ovarian endometriotic lesions and enhances the
+migration and invasion of HESCs by upregulating autophagy in a hypoxic environment. Thus, autophagy is also induced through HIF-dependent pathways, which are involved in the high autophagy level
+detected in ovarian endometriotic lesions [21].
+
+remove endometrial debris in the pelvic cavity from menstrual blood
+ﬂow, but also can facilitate its implantation, neoangiogenesis and
+proliferation.
+2.1. Endometrium
+The ovarian steroid hormones regulate endometrial function and
+human menstruation. After human ovulation, the corpus luteum secretes high levels of progesterone to maintain endometrial receptivity
+should fertilization occur. In the absence of pregnancy the corpus luteum regresses, causing a sharp decline in circulating progesterone levels. This triggers a local inﬂammatory response in the endometrium
+involving inﬁltration of leukocytes, cytokine release, oedema and activation of matrix metalloproteinases. [14] The processes involved in
+endometrial repair appear to be analogous to classic wound healing and
+include inﬂammation, its resolution, angiogenesis, tissue formation and
+tissue remodelling. The human endometrium has two central balancing
+factors, estrogen and progestogen and these control autophagy in endometrial Ishikawa cells during the menstrual cycle. Ishikawa cells are
+typically cultured in the presence of both hormones, and an increased
+degree of autophagy and a higher incidence of apoptotic cell death is
+observed upon the withdrawal of one or both hormones. As a nonapoptotic form of programmed cell death, autophagy is the major cellular pathway for the degradation of long-lived proteins and cytoplasmic organelles in eukaryotic cells [15] and the induction of autophagy exerts a pro-apoptotic eﬀect on normal human endometrial
+cells. [16] Based on accumulating evidences, the level of autophagy is
+most likely associated with the pathogenesis of EMS. The cross-talk
+between autophagy, a pathway that functions primarily in cell survival,
+and apoptosis, a pathway that invariably leads to cell death, is complex.
+The two pathways are regulated by common factors, they share
+common components, and each can regulate and modify the activity of
+the other. [17,18] Many signals originally studied in the context of
+apoptosis activation induce autophagy, whereas signals that inhibit
+apoptosis also inhibit autophagy. [19] However, it does seem likely that
+the coordinated regulation of ‘self-digestion’ by autophagy and ‘selfkilling’ by apoptosis may underlie diverse aspects of development,
+tissue homeostasis and disease pathogenesis. [18] Autophagy plays
+important roles in the process of cell growth, diﬀerentiation, tissue
+remodeling, cell immunity, environmental adaptation, and death such
+as apoptosis. EMS-derived endometrial tissues are characterized by
+reduced autophagy compared with the normal endometrium [20,21]
+and estrogen promotes the survival of human secretory phase endometrial stromal cells via CXCL12/CXCR4 up-regulation-mediated
+autophagy inhibition. [22] The ability of cells to undergo autophagy is
+reduced in the ectopic and eutopic endometrium of patients with EMS,
+and autophagy has been shown to be related to the pathogenesis and
+progression of EMS. In eutopic EMS foci, a slightly decreased level of
+autophagy is identiﬁed in both proliferative EECs and ESCs compared
+with the endometrium from controls. [20,21] Regarding ectopic endometriotic tissues, Ruiz et al. [23] have identiﬁed a decrease in autophagy levels in endometrial glandular epithelial cells (EECs) and
+endometrial stromal cells (ESCs) throughout the menstrual cycle;
+however, diﬀerences were observed among distinct endometriotic lesions (from ovaries, fallopian tubes, peritoneal, gastrointestinal, and
+skin). Furthermore the induction of autophagy in endometrial cells
+treated with estrogen alone (as in the proliferative phase) increase with
+the addition of progesterone (as in the secretory phase) and simultaneously diversiﬁcation is observed with the removal of estrogen and
+progesterone (as in the menstrual phase). These ﬁndings demonstrate
+that the low level of autophagy observed in secretory phase ESCs is
+involved in the pathogenesis of EMS. [23] Accordingly, ESCs are primarily involved in the interaction between the endometrial tissue and
+the mesothelial cell lining of the peritoneum and play a fundamental
+role in the pathogenesis of EMS. Endometriotic cells inside the ovarian
+endometriotic cysts experience a persistent condition of oxidative stress
+
+3. EMS is an inﬂammatory disease: role of immune response
+3.1. Monocytes/macrophages
+The prime regulators of the innate immune response are macrophages which come into play in case of injury, damage and infection.
+Macrophages are an integral component of the mononuclear phagocyte
+system (MPS). After reaching peripheral tissues, they reside as macrophages or antigen-presenting cells (APC) including dendritic cells
+(DCs). In mouse models, in the absence of macrophages, endometriotic
+tissue retains the ability to adhere to the peritoneal layer. Peripheral
+monocytes and peritoneal macrophages have been studied extensively
+in pathogenesis of EMS [26].
+One of the main functions of macrophage is phagocytosis mediated
+by scavenger receptors for cell recognition and regulated by various
+cytokines and growth factors. The defect in phagocytic ability of macrophages in EMS has been associated with downregulation of scavenger
+receptors expression and reduced function of the CD36, a class B scavenger receptor. [27] Women aﬀected of EMS have a signiﬁcantly
+higher concentrations of PF macrophages, even when compared to
+cases with abdominal infections. In the latter condition, a predominance of neutrophils has been observed (85% of PF leukocytes).
+The mechanism responsible for such cell distribution is still unknown.
+Akoum et al. [28] demonstrated that peritoneal macrophages of these
+women had an increased capacity to secrete MCP-1 (monocyte chemotactic protein-1) [28] a member of the small inducible gene family,
+which plays a role in the recruitment of monocytes to sites of injury and
+inﬂammation. When the macrophages were depleted by clodronate liposomes after the establishment of the endometriotic lesion, the
+glandular and stromal structure of the lesions was morphologically
+distorted and ultimately failed to grow. [26] This observation implies
+that macrophages are not only involved in the early immune escape of
+endometriotic cells, but also are favored later establishment and growth
+with the cytokines produced. Importantly, these ﬁndings showed that
+aberrant increased inﬂammatory cytokines produced by the endometriotic lesion and peritoneal immune cells, especially macrophages, would critically contribute to the pathogenesis of EMS in which
+they can interact with each other to convey a cascade of functions.
+3.2. Cytokines
+The adaptive immune system includes of two main types of lymphocytes: T and B cells. Each of these originate from diﬀerent lymphoid
+organs: the thymus and bone marrow, respectively. Cytokines are
+proteins produced and secreted by a variety of cells including stromal
+cells, ﬁbroblasts, and endothelial cells. In the immune system they are
+produced by leukocytes and exert their function on other leukocytes or
+tissues that express the cytokine receptor. [29] Pro-inﬂammatory cytokine activated macrophages have an essential role in the onset and
+progression of EMS. Both the endometrial and inﬁltrating immune cells
+produce inﬂammatory cytokines, such as TNF-α, IL-1β, IL-4, IL-6, IL-8,
+IL-17 [10] that further stimulate a cascade of inﬂammatory response.
+946
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+derived from the PF and peripheral blood, respectively, of patients with
+EMS and controls. This study suggests that elevations in Tregs in patients with EMS are not systemic but are locally induced in the peritoneal cavity [60].
+
+[30] This creates a regulatory feed forward loop inﬂuencing both the
+progression and symptomatology of the disease [31] resulting in a
+unique microenvironment that contributes to these lesions being able to
+evade immune surveillance. [32] TNF-α mainly acts as a precursor to
+initiate inﬂammatory response at the acute phase by activating a cascade of other cytokines, such as IL-1, IL-6 and VEGF. [33] In addition it
+can promote the adherence of ectopic endometrial cells to the peritoneum [34] and plays a crucial role on increasing the invasiveness of
+endometrial fragments by upregulating MMP and reducing the eﬀect of
+tissue inhibitors of MMP. [35] IL-1 plays a central role in the regulation
+of inﬂammation and immune response and peritoneal IL-1β has been
+found to onset cascade of other cytokine production in endometriotic
+stromal cells, such as vascular endothelial growth factor (VEGF) to
+promote angiogenesis and [36,37] IL-6 stimulate stromal cell proliferation. [38] sICAM-1 is able to impair NK cell activity, [39,40] B
+cells proliferation and autoantibody production. [41] IL-8 concentration in the peritoneal ﬂuid and serum seems to be higher in women with
+EMS [42] than women without EMS. [43] In addition to macrophages,
+eutopic and ectopic endometrial cells are another important source of
+IL-8, [44] and also IL-17A released by endometriotic lesions signiﬁcantly increase angiogenic cytokines (IL-8,VEGF,) and proinﬂammatory cytokines (IL-6 and IL-1β) in the peritoneal cavity favoring
+the establishment, proliferation and migration of endometriotic cells
+[45,26].
+
+3.4. Dendritic cells
+Dendritic cells (DCs) are bone marrow-derived hemotopoietic cells
+which act as a “bridge” between innate and adaptive immunity. They
+are critically involved in the initiation and modulation of the adaptive
+immune response by recognizing and capturing antigens to naïve T cells
+as well as immune tolerance in inﬂammatory and neoplastic diseases.
+DCs are extremely heterogeneous and subpopulations can be deﬁned
+based on their origin and function. Schulke et al. [61] demonstrated
+signiﬁcant increase of immature DCs (iDCs) in peritoneal endometriotic
+lesions and in the surrounding peritoneum when compared with paired
+eutopic endometrium and peritoneum distant from the lesion, [61]
+while the mature DCs (mDCs) have opposite results. This ﬁnding suggested that the endometriotic lesions or its peritoneal microenvironment would prominently recruit iDCs, rather than mDCs, to clear the
+ectopic endometrium. However, the increased iDCs may not be capable
+to present a detectable ectopic antigen in the endometriotic lesions for
+T cells to recognize due to its defectiveness in maturation. More recently, diﬀerent subtypes of DCs were compared in peritoneal ﬂuid
+from women with and without EMS. Myeloid conventional DC type 1
+(MDC1s), type 2 (MDC2s) and plasmacytoid DC (pDC) were similar
+between groups, where MDC1s constituted the main proportion [62].
+Further analysis of surface markers of MDC1s showed that Mannose
+Receptor (MR) + MDC1s were signiﬁcantly increased in women with
+EMS. [62] The MR, a pattern recognition receptor belonging to the Ctype lectin superfamily, mediates recognition and uptake of pathogens
+as well as endocytosis and phagocytosis. [63] It remains uncertain on
+why MR+MDC1s fail to clear the ectopic endometrial cells. The results
+of murine model to study the role of DCs of EMS is quite controversial.
+In a study conducted by Fainaru et al. [64] was reported that supplementation of DCs led to enhancement of endometriotic lesion growth
+and angiogenesis. [64,65] On the other hand, another study showed
+activated DCs within endometriotic lesions impaired the establishment
+of endometriotic lesions by enhancing the activity of T cells. [66] Although both study utilized the same process to ablate DCs, diﬀerence
+may relate to how the murine model was derived. The size and amount
+of endometrial biopsies being employed in the model are matter. Certainly, varying immune response may be resulted when compared suturing four pieces of 2-mm endometrial biopsy to peritoneal wall with
+injecting a large bulk of endometrial fragments into peritoneal cavity.
+Hence, similar comparable models are needed to elucidate the role of
+DCs in the development of EMS.
+
+3.3. T-cells
+T-helper 1 (Th1) T-helper 2 (Th2) imbalance has been associated
+with EMS wherein the pro-inﬂammatory Th1 proﬁle dominates over the
+Th2 anti-inﬂammatory response. One of the key regulators of immune
+processes in EMS are regulatory T cells (Tregs) derived from CD4
+lineage. Tregs are produced naturally in the thymus and express the
+forkhead box P3 transcription factor (Foxp3+). Cytokine-induced increase of Foxp3 expression drives Tregs diﬀerentiation/activation and
+suppresses the response of eﬀector T cell proliferation and FoxP3-expressing CD4+ regulatory T cells (Tregs) play an indispensable role in
+the maintenance of self-tolerance and immune homeostasis [46] and
+are involved in various human diseases, such as autoimmune diseases,
+allergies, and cancer. [47–49] The absence or depletion of Tregs lead to
+multi-systemic autoimmunity in mice and humans. [50] Tregs induce
+immune tolerance by production of IL-10, TGF-β, and anti-inﬂammatory cytokines that inhibit T helper cell activation. In line with a
+role for a modiﬁed immunity in the pathogenesis of EMS, CD4+/
+FoxP3+ Tregs are present in endometriotic lesions. [51] In humans,
+conﬂicting results have been obtained regarding whether populations of
+Tregs in the peritoneal ﬂuid (PF) or peripheral blood (PB) diﬀer signiﬁcantly between patients with EMS and controls, [52–54] even if
+FoxP3 mRNA is increased in ectopic endometrial tissue, since the percentage of Tregs and its cytokines products is signiﬁcantly reduced in
+the peripheral ﬂuid from women with EMS compared to normal controls. However in the peritoneal ﬂuid the Treg percentage is increased.
+[53] This discrepancy could suggest a diﬀerential immune modulatory
+system at the local and global levels. The polymorphisms of FOXP3 gene
+may change the quantity or function of Tregs as in AD, and FOXP3 gene
+was predominantly restricted to the function or cell numbers of Tregs.
+[55] A Brazilian study showed remarkable association on the FOXP3
+polymorphisms associated with risk of idiopathic infertility and EMS.
+[56] Recently has been demonstrated that also TECK derived from
+endometrial stromal cells and macrophages promotes the diﬀerentiation and cytokines production of Tregs. [57] According to several studies, a strong association between Transforming growth factor-β (TGFβ) levels in PF and EMS has been observed, [58] and TGF-β induces
+FoxP3+ Tregs and inhibits the proliferation of immune cells and cytokine production via FoxP3-dependent and independent mechanisms.
+[59] Recently was assessed the immunotolerance of patients with EMS
+by analyzing Treg subpopulations in macrophages and monocytes
+
+3.5. Natural killer cells (NK)
+The peritoneal environment of women with EMS demonstrate
+quantitative and qualitative changes in monocyte/macrophage and
+natural killer cells (NK), multifunctional immune cells responsible for
+cell mediated immunity able to control the activity of other cells with a
+key role in the pathogenesis of EMS and the cytotoxic activity of peripheral and peritoneal NK cells was obviously decreased with the severity of the disease. [67–69] These changes may disturb the surveillance, recognition and destruction of misplaced endometrial cells and
+this situation may possible leads to EMS [70]. NK cells constitute a
+major component of the innate immune system and play a crucial role
+in anti-tumour immunity because of their innate ability to diﬀerentiate
+between malignant versus normal cells. [71] They participate in the
+host defense by ﬁrstly expressing diﬀerent receptors binding to target
+cells, such as immunoglobulin G (IgG) while the second receptors
+would either promote cytotoxic activity, e.g. killer-activating receptors
+(KAR), or suppress cytotoxic activity, e.g. killer-inhibitory receptors
+947
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+Fig. 1. Schematic representation of the complex pathophysiology of endometriosis with immunity. Endometrium ﬂow through fallopian tube into peritoneal cavity
+during menstruation. (A) Retrograded endometrium can usually be cleared by peritoneal immune cells in normal healthy individuals. (B) However, once an endometriotic fragment bypassed the immunosurveillance and adhere onto the peritoneum wall, a cascade of cytokines regulation will begin. Impaired NK cell activity
+with lower expression of KAR but higher expression of KIR, decreased phagocytosis of macrophages with decreased expression of scavenger receptors, and induction
+of Tregs are involved in helping endometrium escaping from peritoneal immunosurveillance. Dramatic increase of MDSCs within short time after the presence of
+endometrium in peritoneal cavity might be the reason causing depressed immunosurveillance. Cytokines ICAM-1, IL-6, IL-8, VEGF etc. released by ectopic endometrium and immune cells might be another reason causing immune tolerance and they also contribute to following adhesion, invasion, angiogenesis and growth.
+Higher frequency of autoantibodies in peritoneal cavity is also identiﬁed in women with endometriosis. (C) The changes of cellular and hormonal immune response in
+peritoneal cavity, follicular ﬂuid and endometrium lead to decreased fecundity, even infertility by reducing endometrial receptivity, oocyte quality, sperm mobility
+and embryo cytotoxicity. KAR = killer-activating receptors; KIR = killer-inhibotory receptors; mDC = mature dendritic cells; iDC = immature dendritic cells;
+Tregs = T regulatory cells; IL = interleukin; PDGF = platelet derived growth factor; ICAM-1 = intercellular adhesion molecule-1; MCP-1 = monocyte chemotactic
+protein-1; TGF-β = transforming growth factor-β; VEGF = vascular endothelial growth factor; TNF-α = tumor necrosis factor-α.
+
+(KIR). The decrease in NK-mediated cytotoxicity in the peritoneal ﬂuid
+might promote retrograded endometrial cells to escape immune surveillance and promote its lesion establishment on the peritoneal cavity.
+Although the exact mechanism that brought upon aberrant NK cell
+cytotoxicity are not completely clear, previous literatures indicated the
+involvement in overexpression of KIR, such as KIR2DL1 [72,73] and
+increase of soluble ligands (MICA, MICB and ULBP-2) for the NKG2D
+receptor (a subclass of KAR) to impair NK cell function. [32] More recently, increased peritoneal IL-6 produced by ectopic endometrium was
+reported to display a suppressive eﬀect on NK cell activity through the
+modulation of Src homology region 2-containing protein tyrosine
+phosphatase-2 (SHP-2) expression. [74] Similarly, higher level of IL-15
+in peritoneal ﬂuid and ectopic endometrium from patients with EMS
+has been demonstrated, when compared with control group, which
+enable endometrial stromal cells to escape immune surveillance by
+inhibiting cytotoxic activity of NK cells. [75] Consistently, platelet-derived transforming growth factor-β released by endometrial stromal
+cells suppresses the expression of NKG2D on NK cells leading to decreased cytotoxicity in women with EMS. [76,77] Again, the aberrant
+cytokines in peritoneal ﬂuid are the potential reasons causing dysfunction of NK cells in EMS. EMS showed higher percentage of cytotoxic
+CD16+ uNK cells and higher ratio of p46+NK:CD56+NK cells in the
+eutopic endometrium when compared with fertile control women. [78]
+This indicates that altered uNK cells in women with EMS may also
+generate an excessive inﬂammatory and hypoxia environment during
+embryo implantation or decidualization to increase the risk for infertility and miscarriage [78].
+
+women with EMS has been identiﬁed since the last century, the underlying mechanisms remain unclear. Recently, we reported for the ﬁrst
+time to the best of our knowledge that myeloid derived suppressor cells
+(MDSCs) play a critical role in the pathogenesis of EMS. [79] MDSCs are
+deﬁned by their myeloid origin immature state [80] and fot their ability
+to potently suppress T cell responses as well as those of NK cells and B
+cells and are highly immunosuppressive. [81] These cells are found in
+small numbers in healthy status, and they rapidly expand in response to
+cancer, infections and inﬂammation. [82,83] In our study MDSCs were
+increased in peripheral blood of patients with EMS and MDSCs decreased following laparoscopic excision of the endometriotic lesions.
+This suggested that MDSCs might be involved in the process of EMS.
+Further analysis revealed that MDSCs promote the development of EMS
+in animal models. Based on the well-known immune suppressive role of
+MDCSs in tumors, we believe that MDSCs might contribute to the escape of ectopic endometrial cells from immune surveillance through 1)
+inducing diﬀerentiation of Tregs [84] 2) dysfunction of NK cells cytotoxic activity [85,86] and 3) promoting polarization of M2 macrophages which was characterized with decreased phagocytosis but increased tissue remodeling and angiogenesis [87,88] thereby
+contributing to the development of EMS.
+5. Adhesion/invasion, angiogenesis and proliferation/growth
+In order for endometriotic lesions to occur, the cells must invade
+and implant in distant locations. Both monocyte chemotactic protein-1
+(MCP-1) and regulated on activation, normal T cell expressed and secreted (RANTES) are signiﬁcantly increased in peritoneal ﬂuid from
+women with EMS and these concentrations are signiﬁcantly correlated
+with severity of the disease. [89,90] The main source for the production
+of these two chemokines is from the ectopic endometrium. [91,92] In
+
+4. Myeloid derived suppressor cells
+Although the characteristics of aberrant cell mediated immunity in
+948
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+6.2. B-cells and autoantibodies
+
+addition to being the chemotaxis of macrophages to peritoneal cavity,
+MCP-1 promotes the growth of endometriotic lesions by stimulating the
+proliferation and invasiveness of endometrial cells directly. [89,93]
+Also, there was evidence indicating that RANTES might be associated
+with the aberrant proliferation and apoptosis of endometriotic cells.
+[94] Cell adhesion molecules, including integrins, cadherins and ICAM1, are expressed in endometrial and mesothelial cell surface to promote
+endometrial-mesothelial adhesion. Following adhesion, endometrial
+cells invade the peritoneal tissue by proteolytic digestion of extracellular matrix (ECM), such as serine proteases and matrix metalloproteinases (MMPs) [95] and have increased adhesive capacity to
+various components of the ECM including collagen type IV, laminin,
+vitronectin and ﬁbronectin. ECM degradation could play a key role in
+initiation of EMS. [96] Furthermore growth and development of endometrial cells will heavily depend on neovascularization that is
+mediated by cytokines produced by immune cells, peritoneal cavity and
+retrograde sheds (summarized in Fig. 1). In particular the expression of
+VEGF, which is dependent on estradiol, hypoxia and peritoneal inﬂammatory cytokines, is known to be an important precursor toward
+promoting the pathological angiogenesis for the endometrial lesions to
+grow and develop [97]. With the neovascularization formed, the proliferation of endometriotic cells and endothelial cells are further stimulated by various growth factors circulated in the peritoneal ﬂuid,
+such as insulin-like growth factor (IGF), TGF-β, platelet derived growth
+factor (PDGF), macrophage-colony stimulating factor (MCSF) and hepatocyte growth factor (HGF) [98,99]. Glycodelin A (GdA), a protein
+secreted by endometrial glands during the secretory, but not the follicular phase of the menstrual cycle, is reduced in uterine ﬂushings but
+also in the epithelial endometrium of women with EMS. These ﬁndings
+conﬁrm that biomarkers associated with implantation window are reduced in these women and indicate that proangiogenic factors have
+pivotal roles in the pathogenesis of EMS [100,101].
+
+EMS shares many charateristics with AD, since women aﬀected
+exhibit altered immune surveillance with abnormal functions of T and B
+cells, heightened humoral immune response (high serum levels of IgG,
+IgA, IgM autoantibodies, and anti-endometrial antibodies) and inﬂammatory tissue damage. [11,107] The increased B-cell function was
+ﬁrstly documented in the 1980’s. [108,109] Around the same year,
+Weed and coworkers [110] reported that C3 and IgG deposited in the
+endometrium of women with EMS is associated with a reduction in the
+serum total complement level, which suggested an intra-endometrial
+antigen-antibody reaction. [110] Further studies demonstrated higher
+incidence of autoantibodies in sera, cervical and vaginal secretions from
+women with EMS. [111–114] However, the correlation between autoantibodies concentration and the severity of EMS remains controversial.
+[115–118] As anti-endometrial antibodies are the most well-studied
+autoantibodies, it has been characterized as a potential diagnostic or
+follow-up marker on the assessment of treatment and recurrence toward EMS. Such profound anti-endometrial antibodies include transferrin and alpha 2 Heremans Schmidt (α2-HS) glycoprotein. The levels
+of endometrial transferrin in the peritoneal ﬂuid of patients with EMS
+are signiﬁcantly elevated, whereas the serum levels are lower when
+compared with controls. [111] With the concentration of transferrin
+and α2-HS glycoprotein being found higher in peritoneal ﬂuid from
+women with EMS, it has been showed that transferrin attenuates FSHinduced diﬀerentiation of granulosa cells and might consequently lead
+to the varying degrees of ovarian dysfunction. [119] α2-HS glycoprotein, a negative acute phase protein, suppresses the maturation conversion of mouse embryo zona pellucida protein ZP3 to ZP3f and causes
+polyspermia. [120] Furthermore the addition of antibodies speciﬁcally
+to transferrin and α 2-HS glycoprotein to sperm cells in vitro can inhibit
+motility and survival. [111] Finally, an alteration of cellular mediated
+immunity and higher prevalence of autoantibodies in women with endometriosis would consequently aﬀect fecundity. This can lead to a
+disturbance on endometrial receptivity, oocyte quality, sperm motility,
+fertilization failure and embryotoxicity summarized in Fig. 1.
+On the other hand, the reason causing the elevated purge of autoantibodies in women with EMS is still uncertain. Case reports have
+suggested co-morbidity of EMS with the autoimmune disorders alopecia
+universalis, autoimmune thyroiditis, multiple sclerosis (MS), and autoimmune progesterone dermatitis. [121,122] Recently identiﬁcation
+of shared molecular signature indicate the susceptibility of EMS to MS,
+with shared genes up-regulating both EMS and MS such Neuronal
+growth regulator 1 (NEGR1), leptin receptor (LEPR), Cholinergic receptor muscarinic 3(CH3M3), Inositol 1,4,5-triphosphate receptor type
+1 (ITPR1) the last able to disregulate oocyte meiosis and calcium signaling pathway. Diﬀerent shared genes are able to down regulate both
+EMS and MS, such as Solute carrier family 8 member A1 (SLC8A1), Erbb2 receptor tyrosine kinase 3 (ERBB3), Cadherin 1 (CDH1), Integrin
+subunit beta8 (ITGB8) Protein tyrosine phosphatase, non receptor type
+11 (PTPN11), and Protein phosphatase 2 regulatory subunit B epsilon
+(PPP2R5E). The last one is able to disregulate oocyte meiosis. [123] A
+comparative evaluation of clinical and humoral immunologic abnormalities between SLE and EMS has observed that the diseases are associated, but that this association is confounded by hysterectomy, oophorectomy, and analgesic use. EMS was also associated with a lesser
+magnitude with RA risk, and this association was similarly inﬂuenced
+by hysterectomy, oophorectomy, and analgesic use. Perhaps the associations are primarily explained by a common inﬂuence of hormonal
+factors and immunologic abnormalities, although in these analyses little
+confounding was observed after adjustment for reproductive history
+and other hormonal factors. [124] Furthermore also Graves disease, an
+AD characterized by an IgG antibody binds to the thyroid-stimulating
+hormone receptor (TSHR) is linked with EMS. [125] This association
+was explained for the high incidence of positive antinuclear antibodies
+(ANA) in both the disease and for diﬀerential expression of the estrogen
+
+6. Between innate immunity and humoral-mediated immunity
+6.1. Complement system (CS)
+One of the most important immune mechanisms taking part in the
+peritoneal clearance and inﬂammation is the complement system (CS).
+[102–104] The complement (C), a crucial component of the innate
+immune system, consists of over 30 small proteins which act as a cascade of proteases that activate each other in an enzymatic fashion, with
+eﬀector mechanisms mediated by several speciﬁc cell receptors. The
+general function of the C is to recognize microbial pathogens and other
+target cells and let them lyse. The C cascade can be activated via one of
+three pathways: the classical pathway, the lectin pathway and the alternative pathway. These pathways are activated via diﬀerent recognition molecules. We have demonstrated [105] that human follicular ﬂuid (FF) contain functionally active C in amounts similar to those
+present in normal human serum. The presence of active C in FF may be
+very important for the function of the enzymatic multi-factorial mechanisms, included ovulation. [105] More recently has been demonstrated a higher concentration of C factors in peritoneal ﬂuid of women
+with EMS in comparison to control. [106] Moreover, C levels were
+increased in women with an early stage of disease compared to advanced EMS. The results showed higher levels of C1q, the recognition
+molecule of the classical pathway that has the ability to modulate the
+functions of immune and non-immune cells and Mannose-Binding
+Lectin (MBL), a serum pattern recognition molecule, able to activate C
+in association with MASP proteases. Both the factors which started the
+classical and lectin activation of the C system, so it may suggest that the
+activation of C in women with EMS is correct and is a further link between EMS initiating events and immune surveillance via Complement
+system.
+
+949
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+[144].
+The depletion of ATTG results in the loss of binding to nuclear
+proteins and reduces promoter activity. In EMS the frequency of the
+ATTG [2]/ATTG [2] genotype and ATTG [2] allele was signiﬁcantly
+increased when compared with healthy individuals. This suggested that
+the polymorphism of NF-κB gene might be a predisposition gene toward
+EMS susceptibility [145].
+AD are usually associated with certain HLA alleles. [146] Similar
+phenomenon has also been observed in EMS. [11] In the Japanese
+population, Class I HLA-B54 and HLA-Cw7, class II HLA-DRB1*1403
+and HLADQB1*0301 were associated with EMS. [147–148] Another
+study found that EMS was associated with class I HLA-B*0702 alleles, in
+linkage disequilibrium with HLA-A24, HLA-Cw*0702 and class II HLADRB1*0101 alleles [149] while in the Chinese population, class I HLAB46, class II HLA-DRB1*15, and HLADQA1*0401 were reported to be
+associated with EMS. [150–152] However, this was not replicable in the
+Korean population [153].
+Similarly, the association between HLA alleles and EMS was not
+consistent in Europe. In a study conducted by Sundqvist et al., they
+found signiﬁcant association between CCL21, HLA-DRB1 and EMS in
+the Swedish/Belgian population [154] however this association was not
+found in the Polish population. [155] The disparity between the different populations indicated multiple genetic factors might be involved
+to result in variable prevalence of EMS among diﬀerent ethnicities.
+
+receptor beta gene (ESR2) conﬁrmed in patients with EMS and associated with susceptibility to Graves disease [126,127].
+Another possible explanation that can lead to self-tolerance breakdown women with EMS [128] is the overexpression of B lymphocyte
+activating factor (BAFF), alternatively called B lymphocyte stimulator
+(BLyS), member of the tumor necrosis factor (TNF) ligand superfamily.
+Increasing evidence suggests that BAFF is essentially implicated in the
+pathogenesis of B cell-mediated AD and increased serum levels of BAFF
+were reported in both non-organ-speciﬁc AD (such as systemic lupus
+erythematosus and Sjögrens’s syndrome) and organ-speciﬁc conditions.
+[129–131] In addition, as the mRNA levels expressed by macrophages
+and its receptor BCMA expressed by plasma cells was strongly upregulated in endometriotic lesions, this indicated their role in facilitating the survival of plasma cells [128].
+Other studies showed that signiﬁcantly elevated IgG antilaminin-1
+antibodies are strongly associated with EMS in infertile patients. [132]
+Laminin is a major multifunctional basement membrane glycoprotein
+with at least 15 known isoforms. It plays a critical role during embryo
+implantation by synthesizing network-forming complement during
+early embryo development. Also, it has been found to elevate the trophoblast adhesion to the maternal extracellular matrix and then decidua in endometrium, which further promote proliferation and differentiation of trophoblast when interacts with integrin receptors. In a
+study conducted by Inagaki and coworkers, they found signiﬁcant association between IgG anti-laminin-1 antibodies and infertile patients
+with endometriosis for stage II or more. [132] The same group also
+demonstrated that anti-laminin-1 antibodies are signiﬁcantly higher in
+women with recurrent miscarriage when compared with healthy controls, which causes a disruption in early reproductive stages by interfering with embryogenesis and placental development. [133,134]
+Moreover anti-laminin-1 in follicular ﬂuid was noted to be related with
+oocyte maturation, it aﬀected oocyte quality resulting in reduced fertility. [135,132] It was demonstrated that these antibodies may directly
+interfere with the function of laminin-1 to disrupt early reproductive
+stages and be involved in the development of EMS. In light of these
+ﬁndings, anti-laminin-1 antibodies might be clinically important in
+development of autoimmune-mediated reproductive failure and the
+antibody assessment may provide a novel non-invasive diagnosis of
+EMS [136].
+
+8. Impact of immunological dysfunction on endometriosis
+associated infertility
+The pathophysiology of EMS involves chronic dysregulation of inﬂammatory and vascular signaling.
+Galectin-1 and -3 are overexpressed in various forms of endometriotic tissues. Galectins belong to a subfamily of lectins and
+regulate a wide variety of key biological processes, such as cell growth,
+proliferation and diﬀerentiation, apoptosis, but are also pivotal in immune responses since they regulate host-pathogen interactions, acute
+and chronic inﬂammation, and immune tolerance [111, 156–160].
+Higher galectin-3 concentrations are also detected in peritoneal
+ﬂuid samples from women with EMS than from controls [161,162] and
+galectin-1 is strongly expressed by human uterine natural killer (uNK)
+cells compared to peripheral blood NK cells (pNK). These CD56+galectin-1+uNK cells comprise ~70% of maternal leukocytes at the implantation site, promote angiogenesis and trophoblast invasion [163,
+164].
+Along the way, other autoantibodies have also been found in infertile women with EMS undergoing assisted reproduction. A retrospective study tested the eﬀect of circulating IgG, IgM and IgA isotype
+antibodies to cardiolipin, phosphatidylserine (PS), phosphatidylethanolamine (PE), phosphatidylglycerol (PG), phosphatidylinositol (PI),
+phosphatic acid (PA), histone 2A (H2A) and 2B (H2B) fractions, singlestranded DNA (ssDNA) and double-stranded DNA (dsDNA) in women
+with and without endometriosis on IVF outcome. [165] The result
+showed three or more positive autoantibodies were detected in 50% of
+patients with EMS and the pregnancy rates in autoantibody-positive
+group and autoantibody-negative group was 23% and 46%, respectively. [165] Importantly, administration of corticosteroid for patients
+with autoantibodies improved the pregnancy rate. [165] A similar
+study analyzed the presence of several diﬀerent antinuclear antibodies
+(ANA), antiphospholipid antibodies (APA), antithyroid antibodies
+(ATA) and lupus anticoagulant in infertile women with recurrent
+pregnancy loss. [166] The result showed that positive rate of autoantibodies was similar in women with reproductive failure and EMS,
+which is higher than fertile controls. [166] Based on these evidences,
+autoantibodies could be a potential monitoring marker in infertility and
+recurrent miscarriage associated with EMS.
+
+7. Role of autoimmune-related genetics in endometriosis
+There is accumulating evidence to support the etiology of EMS as an
+epigenetic disease, even if remains to be studied the role of epigenetic
+factors in the development of EMS. DNA methylation (hypo or hypermethylation) plays an important role in cellular processes and regulation of gene expression and a number of aberrantly expressed genes
+reported in EMS, such as aromatase (key molecule for estrogen production), E.cadherin, Steroidogenic factor-1 (SF-1) and others are related to aberrant DNA methylation. [137,138] Common genetic polymorphisms related in immune system were both detected in EMS and
+AD, including region in the genes of FOXP3, FCRL3, NF-κB and B lymphocyte stimulator. [139] Fc receptor-like 3 (FCRL3) gene encodes a
+glycoprotein belonging to the immunoglobulin receptor superfamily. It
+plays a role in B cells diﬀerentiation into autoreactive cells through the
+modulation of signal transduction via activation/inactivation of signaling tyrosine protein kinases. [140] As reported by Bianco et al.,
+[141] FCRL3-169C/T was signiﬁcantly associated with risk of endometriosis regardless of the stage of the disease. [141] Also, the
+FCRL3-169C allele was found to be correlated with an increased production of autoantibodies. [142] NF-κB, a major transcription factor of
+immune response leading to cell apoptosis and growth. It was reported
+to play an important role to mediate anti-apoptosis, growth of endometriotic cells, invasion, angiogenesis and cytokine production in
+EMS [143] and recently, a common insertion/deletion polymorphism
+(-94 insertion/deletion ATTG) in the NF-κB gene was identiﬁed in SLE
+950
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+9. Current therapies for EMS
+
+isolated from peripheral blood (T lymphocytes, NK cells) [179–180]
+and the women aﬀected show dysfunctional, increased accumulation of
+regulatory T suppressor cells all factors able to favor chronic inﬂammation and promote initiation and progression of EMS associated
+ovarian cancer. Etanercept, a TNF-α blocker, a potential immunomodulatory agents was used in a baboon model, and led to a
+statistically signiﬁcant decrease in red lesion surface area in the treatment group with a trend toward a decrease in the absolute number of
+red lesions. [181] Another immunomodulator (loxoribine) caused a
+reduction in NK cells and endometriotic lesions in a rat model [182]
+and a similar reduction of endometriotic lesions was observed with lipoxin, [183,184] rapamycin, [185] and pentoxifylline. [186] A Cochrane review [187] evaluated four clinical trials, and demonstrated a
+lack of evidence to recommend pentoxifylline for pain relief or to improve the chances of spontaneous pregnancies. So, even if these novel
+therapeutic agents appear promising on the treatment of EMS, further
+studies from multi-center clinical trials are still needed prior to be recommended as a routine regime for women with EMS. [187] In the last
+few decades, numerous studies have investigated the link between vitamin D (VD) (1,25(OH)2D3) and the incidence and severity of AD.
+[188] VD is is a steroid hormone that, in addition to its actions on
+calcium and bone metabolism, exhibits a plethora of regulatory eﬀects
+on immune cells. [189] Active VD can work as a positive immunomodulator on both the innate and adaptive immune responses
+[190] and hypovitaminosis D is highly prevalent in autoimmune diseases and correlate with disease activity and comorbidities. [190] VD
+exerts a broad range of biological activities since “…a lack of vitamin D
+renders patients liable to the development of an autoimmune disease.”
+[190] In recent years, accumulating evidences showed that VD supplementation could be used as an immunomodulator for managing also
+EMS, since EMS shares some characteristics with AD, [11] and inﬂammatory changes in the peritoneal cavity may be associated with
+lesion development. Furthermore other comorbid AD (i.e., systemic
+lupus erythematosus, rheumatoid arthritis, multiple sclerosis)
+[123,124] can coincide with the presence of EMS. [191,192] Mariani
+et al. [193] and other groups [194] have demonstrated that rodents
+supplemented with 1,25(OH)2D3 showed a regression of endometriotic
+lesion by signiﬁcantly reducing VEGF and MMP-9, and increasing
+MMP-2 inhibitors. [195] Therefore VD might be a novel therapeutic
+approach for managing EMS as an AD through its immunomodulatory
+and anti-inﬂammatory properties. Importantly, dairy products rich in
+calcium and VD have been linked to lower the risk of developing EMS in
+humans [196].
+Hydroxychloroquine (HCQ), derivative of Chloroquine, ﬁrstly used
+to treat malaria, is an eﬀective therapeutic agent for a range of autoimmune disorders non-organ speciﬁc, such as SLE, rheumatoid arthritis,
+and mixed connective tissue disorders. [197] HCQ can antagonize
+communication among cells in the immune system that are inappropriately activated, and recently Ruiz et al. [23] identiﬁed HCQ as
+a potential new non-hormonal treatment demonstrating the therapeutic
+eﬀects on human endometriotic cells in an established mouse model of
+EMS.
+Also a wide variety of antiangiogenic agents has been evaluated in
+vitro as potential treatments for EMS. These include growth factor inhibitors, endogenous angiogenesis inhibitors, fumagillin analogues,
+statins, cyclooxygenase-2 inhibitors, phytochemical compounds, immunomodulators, dopamine agonists, peroxisome proliferator-activated receptor agonists, progestins, danazol, and gonadotropin-releasing hormone (GnRH) agonists. However, clinical evidence for the
+eﬃcacy and safety of most of them is still lacking [198,199].
+Recent data have linked disorders of the C system activation and
+pathogenesis of EMS. [200] Under normal circumstances, C activation
+is tightly controlled by several regulatory proteins to minimize host
+tissue damage. In the available literature, there is no information about
+the role of C1q and C1INH in the formation and development of EMS.
+C1INH has been shown to inhibit the C safely and an impairment in the
+
+Despite a range of symptoms, diagnosis of EMS is often delayed due
+to lack of non invasive, deﬁnitive and consistent biomarkers and until
+now the visual inspection of the pelvis at laparoscopy with histologic
+conﬁrmation is the gold standard for diagnosis of EMS. [167,168]
+Furthermore all currently available treatments of EMS are suppressive,
+not curative. They are associated with the temporary relief of symptoms
+during treatment. On treatment discontinuation, recurrence of the
+symptoms is the rule. For instance, EMS-associated pain can continue
+after medical treatment or conservative surgery. The current treatment
+options for EMS-associated pain are contraceptive rather than fertilitypromoter therapy. Women desirous of pregnancy who have painful
+EMS, nonsteroidal anti-inﬂammatory drugs (NSAIDs) appear to be the
+only medical option consistent with the maintenance of fertility with a
+pretreatment with a gonadotropin-releasing hormone (GnRH).
+10. Hormonal therapies
+GnRH agonists are usually the ﬁrst-line agents because they are
+highly eﬀective at suppressing ovarian hormone production and able to
+inhibit the growth of the extrapelvic endometrial tissue. Failure of
+medical treatment is frequently encountered with these aggressive
+disease phenotypes. [169] Selective progesterone receptor modulators
+(SPRM) can have variable eﬀects on progesterone receptors from different tissues, ranging from being a pure agonist or a mixed agonist/
+antagonist to a pure antagonist. Mifepristone (RU486) was shown to
+have a positive eﬀect on pain symptoms. [170,171] Ulipristal acetate
+and asoprisnil are other members of the same family but feasibility of
+ulipristal acetate and others SPRM for the treatment of EMS has yet to
+be determined. Raloxifene, a commercially available selective estrogen
+receptor modulator (SERM), has been used for the treatment of postmenopausal osteoporosis. Raloxifene was tested at various doses in a rat
+model of EMS and was shown to have an estrogen-antagonist eﬀect in
+rat uterine tissue [172] but the eﬀectiveness on EMS in humans has yet
+to be evaluated. Aromatase inhibitors are a treatment option that
+usually is reserved for managing severe, intractable EMS- associated
+pain in combination therapy with oral contraceptive pills, progestins,
+and GnRH analogues and patients should be counseled about the oﬀlabel nature of its use for endometriosis-associated pain. [173] Nevertheless these treatment remains suboptimal owing to the side eﬀects,
+e.g. hypoestrogenic condition, and unsatisfactory outcomes to restore
+fertility.
+11. Non hormonal treatments: immunomodulatory therapies
+Many studies have evaluated the diagnostic value of biomarkers of
+EMS, but no data on recommended biomarkers in endometrial tissue,
+menstrual or uterine ﬂuids and immunologic markers in blood or urine
+for clinical use as a diagnostic test for EMS. Recently Vodolazkaia A
+et al, [174] selected a diagnostic panel of four biomarkers (annexin V,
+VEGF, CA-125 and sICAM-1/glycodelin) in plasma samples obtained
+during menstruation. A multivariate analysis could predict US-negative
+endometriosis with a sensitivity of 81– 90% and a speciﬁcity of 63 –
+81%. [174] The relevance of this selected diagnostic panel (annexin V,
+VEGF, CA-125 and sICAM-1/glycodelin) is conﬁrmed by the fact that
+these biomarkers are involved in apoptosis, angiogenesis, adhesion and
+tumorogenesis, which are highly related to the pathogenesis of EMS.
+[174,175] However, although EMS remains largely benign, malignant
+transformation may occur in up to 1% of cases, most commonly from
+ovarian lesions, [176] and this transformation could be due to a culmination of a multifaceted complex of pathogenic factors in conjunction with endocrine imbalance and oxidative stress and immune surveillance dysregulation. [177] In women with EMS most of the studies
+have focused on secreted chemokine proﬁle [178] or immune cells
+resident in the peritoneal ﬂuid (macrophages and NK cells) and/ or
+951
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+activity and concentration of C1INH can cause such diseases as hereditary angioedema (HANE), deﬁned as a local, noninﬂammatory, selflimiting edema or the systemic lupus erythematosus (SLE). [201] One
+of the mainstays in long term management of HANE is long-term
+therapy with danazol, a mild androgen capable of correcting low Cl INH
+concentrations and of almost completely putting into remission the
+typical symptoms of the disease, [202] and is capable to improve
+ovarian condition in HANE. [203] Another important hormonal therapy
+for EMS, GnRH agonists, can modulate serum C function in vivo [204]
+and GnRH agonists were used also in long term prophylaxis of HANE
+attacks. [205] Furthermore C pathway was demonstrated associated
+with all gene expression changes (benign EMS, atypical EMS and EMS
+associated ovarian cancer) [104] so these ﬁndings reveal that chronic
+inﬂammation in EMS is dominated by C system activation and suggest a
+link between initiating events and immune surveillance via C. New
+therapies could point also to this pathway as a potential target for early
+prevention of EMS.
+
+with endometriosis. Fertil Sterility 2000;74:760–6.
+[13] Jones RK, Searle RF, Bulmer JN. Apoptosis and bcl-2 expression in normal human
+endometrium, endometriosis and adenomyosis. Hum Reprod 1998;13:3496–502.
+[14] Jabbour HN, Kelly RW, Fraser HM, Critchley HO. Endocrine regulation of menstruation. Endocr Rev 2006;27:17–46.
+[15] Levine B, Klionsky DJ. Development by self-digestion: molecular mechanisms and
+biological functions of autophagy. Dev Cell 2004;6:463–77.
+[16] Choi J, Jo M, Lee E, Oh YK, Choi D. The role of autophagy in human endometrium.
+Biol Reprod 2012;86:1–10.
+[17] Levine B, Yuan J. Autophagy in cell death: an innocent convict? J Clin Invest
+2005;115:2679–88.
+[18] Maiuri C, Zalckvar E, Kimchi A, Kroemer G. Self-eating and self-killing: crosstalk
+between autophagy and apoptosis. Nature Rev Mol Cell Biol 2007;8:741–52.
+[19] Gozuacik D, Kimchi A. Autophagy and cell death. Curr Top Dev Biol
+2007;78:217–45.
+[20] Mizushima N, Levine B, Cuervo AM, Klions DJ. Autophagy ﬁghts disease through
+cellular self-digestion. Nature 2008;F 451:1069–75.
+[21] Yang Hui-Li, Me Jie, Chang Kai-Kai, Zhou Wen-Jie, Huang Li-Qing, Li Ming-Qing.
+Autophagy in endometriosis. Am J Transl Res 2017;9(11):4707–25.
+[22] Mei J, Zhu XY, Jin LP, Duan ZL, Li DJ, Li MQ. Hum Reprod 2015;30:1677–89.
+[23] Ruiz A, Rockﬁeld S, Taran N, Haller E, Engelman RW, Flores I, et al. Eﬀect of
+hydroxychloroquine and characterization of autophagy in a mouse model of endometriosis. Cell Death Dis 2016;7:2059.
+[24] Soares MP, Bach FH. Heme oxygenase-1: from biology to therapeutic potential.
+Trends Mol Med 2009;15:50–8.
+[25] Vousden KH, Prives C. Blinded by the light: the growing complexity of p53. Cell
+2009;137:413–31.
+[26] Bacci M, Capobianco A, Monno A, Cottone L, Di Puppo F, Camisa B, et al.
+Macrophages are alternatively activated in patients with endometriosis and required for growth and vascularization of lesions in a mouse model of disease. Am J
+Pathol 2009;175:547–56.
+[27] Chuang PC, Wu MH, Shoji Y, Tsai SJ. Downregulation of CD36 results in reduced
+phagocytic ability of peritoneal macrophages of women with endometriosis. J
+Pathol 2009;219:232–41.
+[28] Akoum A, Kong J, Metz C. Beaumont MC spontaneous and stimulated secretion of
+monocyte chemotactic protein-1 and macrophage migration inhibitory factor by
+peritoneal macrophages in women with and without endometriosis. Fertil Steril
+2002;77:989–94.
+[29] Brocker C, Thompson D, Matsumoto A, Nebert DW, Vasiliou V. Evolutionary divergence and functions of the human interleukin (IL) gene family. Human Genom.
+2010;5:30–55.
+[30] Hanada T, Tsuji S, Nakayama M, Wakinoue S, Kasahara K, Kimura F, et al.
+Suppressive regulatory T cells and latent transforming growth factor-beta-expressing macrophages are altered in the peritoneal ﬂuid of patients with endometriosis. RB&E 2018;16:1–8.
+[31] Yu JJ, Sun HT, Zhang ZF, Shi RX, Liu LB, Shang WL, et al. IL15 promotes growth
+and invasion of endometrial stromal cells and inhibits killing activity of NK cells in
+endometriosis. Reproduction 2016;152:151–60.
+[32] Gonzalez-Foruria I, Santulli P, Chouzenoux S, Carmona F, Batteux F, Chapron C.
+Soluble ligands for the NKG2D receptor are released during endometriosis and
+correlate with disease severity. PloS One 2015;10:1–15.
+[33] De Barros IBL, Malvezzi H, Gueuvoghlanian-Silva BY, Piccinato CA, Rizzo LV,
+Podgaec S. What do we know about regulatory T cells and endometriosis? A systematic review. J Reprod Immunol 2017;120:48–55.
+[34] Zhang RJ, Wild RA, Ojago JM. Eﬀect of tumor necrosis factor-alpha on adhesion of
+human endometrial stromal cells to peritoneal mesothelial cells: an in vitro system.
+Fertil Steril 1993;59:1196–201.
+[35] Siristatidis C, Nissotakis C, Chrelias C, Iacovidou H, Salamalekis E. Immunological
+factors and their role in the genesis and development of endometriosis. J Obstet
+Gynaecol Res 2006;32:162–70.
+[36] Lebovic DI, Bentzien F, Chao VA, Garrett EN, Meng YG, Taylor RN. Induction of an
+angiogenic phenotype in endometriotic stromal cell cultures by interleukin-1beta.
+Mol Hum Reprod 2000;6:269–75.
+[37] Lebovic DI, Mueller MD, Taylor RN. Immunobiology of endometriosis. Fertil Steril
+2001;75:1–10.
+[38] Yoshino O, Izumi G, Shi J, Osuga Y, Hirota Y, Hirata T, et al. Activin-A is induced
+by interleukin-1beta and tumor necrosis factor-alpha and enhances the mRNA
+expression of interleukin-6 and protease-activated receptor-2 and proliferation of
+stromal cells from endometrioma. Fertil Steril 2011;96:118–21.
+[39] Daniel Y, Geva E, Amit A, Eshed-Englender T, Baram A, Fait G, et al. Do soluble
+cell adhesion molecules play a role in endometriosis? Am J Reprod Immunol
+2000;43:160–6.
+[40] Vigano P, Gaﬀuri B, Somigliana E, Busacca M, Di Blasio AM, Vignali M. Expression
+of intercellular adhesion molecule (ICAM)-1 mRNA and protein is enhanced in
+endometriosis versus endometrial stromal cells in culture. Mol Hum Reprod
+1998;4:1150–6.
+[41] Senturk LM, Arici A. Immunology of endometriosis. J Reprod Immunol
+1999;43:67–83.
+[42] Sikora J, Smycz-Kubanska M, Mielczarek-Palacz A, Kondera-Anasz Z. Abnormal
+peritoneal regulation of chemokine activation-The role of IL-8 in pathogenesis of
+endometriosis. Am J Reprod Immunol 2017;77:e12622.
+[43] Rana N, Braun DP, House R, Gebel H, Rotman C, Dmowski WP. Basal and stimulated secretion of cytokines by peritoneal macrophages in women with endometriosis. Fertil Steril 1996;65:925–30.
+[44] Ulukus M, Ulukus EC, Tavmergen Goker EN, Tavmergen E, Zheng W, Arici A.
+Expression of interleukin-8 and monocyte chemotactic protein 1 in women with
+
+12. Conclusions
+EMS, still incurable and common disease, that impacts the quality of
+life, represents a unique immunological scenario. The aberrant changes
+in cellular immune response and its cytokines are found to be related to
+the pathophysiology (immune escape, adhesion, invasion, angiogenesis
+and proliferation). Also, the presence of autoantibodies is another
+consequence of dysfunction of immune system. These immunological
+alterations cause decreased fecundity or even infertility by aﬀecting
+endometrial receptivity, follicular ﬂuid, sperm mobility and embryo
+cytotoxicity.
+Although EMS is still not deﬁned speciﬁcally as an AD, both diseases
+share several similar characteristics, such as female (and hormonal)
+predominance, genetic polymorphisms, immunological abnormalities
+and chronic condition. Diagnostic delays are common and may lead to a
+decline in reproductive potential and fertility, therefore more research
+is needed in this area of medicine.
+Recently potential biomarkers including cytokines and autoantibodies are developing promisingly for use in early screening, to
+reduce late diagnosis and the cost of surgical intervention, but also new
+therapeutic strategies able to provide long-term beneﬁt and ameliorate
+fertility in these women.
+References
+[1] Bulun SE. Endometriosis. New Engl J Med 2009;360:268–79.
+[2] Mathias SD, Kuppermann M, Liberman RF, Lipschutz RC, Steege JF. Chronic pelvic
+pain: Prevalence, health-related quality of life, and economic correlates. Obstet
+Gynecol 1996;87:321–7.
+[3] Koninckx PR, Meuleman C, Demeyere S, Lesaﬀre E, Cornillie FJ. Suggestive evidence that pelvic endometriosis is a progressive disease, whereas deeply inﬁltrating endometriosis is associated with pelvic pain. Fertil Steril
+1991;55:759–65.
+[4] Barnhart K, Dunsmoor-Su R, Coutifaris C. Eﬀect of endometriosis on in vitro fertilization. Fertil Steril 2002;77:1148–55.
+[5] Sampson JA. Metastatic or embolic endometriosis, due to the menstrual dissemination of endometrial tissue into the venous circulation. Am J Pathol
+1927;93:110–43.
+[6] Halme J, Becker S, Wing R. Accentuated cyclic activation of peritoneal macrophages in patients with endometriosis. Am J Obst Gynecol 1984;148:85–90.
+[7] Olovsson M. Immunological aspects of endometriosis: an update. Am J Reprod
+Immunol 2011(Suppl. 166):101–4.
+[8] Kanzaki H, Nakajima T, Yoshimura T. Immunological aspects of endometriosis,
+Nihon rinsho. Jpn J Clin Med 2001;59(Suppl. 1):44–7.
+[9] Sidell N, Han SW and Parthasarathy S, Regulation and modulation of abnormal
+immune responses in endometriosis, Ann NY Acad Sci. 2002, 955:159-73 (discussion 199-200), 396-406.
+[10] Matarese G, De Placido G, Nikas Y, Alviggi C. Pathogenesis of endometriosis:
+natural immunity dysfunction or autoimmune disease? Trends Mol Med
+2003;9:223–8.
+[11] Nothnick WB. Treating endometriosis as an autoimmune disease. Fertil Steril
+2001;76:223–31.
+[12] Meresman GF, Vighi S, Buquet RA, Contreras-Ortiz O, Tesone M, Rumi LS.
+Apoptosis and expression of Bcl-2 and Bax in eutopic endometrium from women
+
+952
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+[75] Yu JJ, Sun HT, Zhang ZF, Shi RX, Liu LB, Shang WH, et al. IL15 promotes growth
+and invasion of endometrial stromal cells and inhibits killing activity of NK cells in
+endometriosis. Reproduction 2016;152:151–60.
+[76] Du Y, Liu X, Guo SW. Platelets impair natural killer cell reactivity and function in
+endometriosis through multiple mechanisms. Hum Reprod 2017;32:794–810.
+[77] Guo SW, Ding D, Liu X. Anti-platelet therapy is eﬃcacious in treating endometriosis induced in mouse. Reprod Biomed Online 2016;33:484–99.
+[78] Giuliani E, Parkin KL, Lessey BA, Young SL, Fazleabas AT. Characterization of
+uterine NK cells in women with infertility or recurrent pregnancy loss and associated endometriosis. Am J Reprod Immunol 2014;72:262–9.
+[79] Zhang T, Zhou J, Man GCW, Leung KT, Liang B, Xiao B, et al. MDSCs drive the
+process of endometriosis by enhancing angiogenesis and are a new potential
+therapeutic target. Eur J Immunol 2018;48(6):1059–73.
+[80] Bronte V, Brandau S, Chen SH, Colombo MP, Frey AB, Greten TF, et al.
+Recommendations for myeloid-derived suppressor cell nomenclature and characterization standards. Nat Commun 2016;6(7):1–10.
+[81] Fleming V, Hu X, Weber R, Nagibin V, Groth C, Altevogt P, et al. Targeting
+myeloid-derived suppressor cells to bypass tumor-induced immunosuppression.
+Front Immunol 2018;9(398):1–11.
+[82] Ostrand-Rosenberg S, Sinha P. Myeloid-derived suppressor cells: linking inﬂammation and cancer. J Immunol 2009;182:4499–506.
+[83] Luan Y, Mosheir E, Menon MC, Wilson D, Woytovich C, Ochando J, et al.
+Monocytic myeloid-derived suppressor cells accumulate in renal transplant patients and mediate CD4(+) Foxp3(+) Treg expansion. Am J Transplant
+2013;13(12):3123–31.
+[84] Huang B, Pan PY, Li Q, Sato AI, Levy DE, Bromberg J, et al. Gr-1+CD115+ immature myeloid suppressor cells mediate the development of tumor-induced T
+regulatory cells and T-cell anergy in tumor-bearing host. Cancer Res
+2006;15(66(2)):1123–31.
+[85] Elkabets M, Ribeiro VS, Dinarello CA, Ostrand-Rosenberg S, Di Santo SJ, Apte RN,
+et al. IL-1beta regulates a novel myeloid-derived suppressor cell subset that impairs NK cell development and function. Eur J Immunol 2010;40(12):3347–57.
+[86] Li H, Han Y, Guo Q, Zhang M, Cao X. Cancer-expanded myeloid-derived suppressor
+cells induce anergy of NK cells through membrane-bound TGF-beta 1. J Immunol
+2009;182:240–9.
+[87] Kusmartsev S, Gabrilovich DI. STAT1 signaling regulates tumor-associated macrophage-mediated T cell deletion. J Immunol 2005;174:4880–91.
+[88] Corzo CA, Condamine T, Lu L, Cotter MJ, Youn JI, Cheng P, et al. HIF-1alpha
+regulates function and diﬀerentiation of myeloid-derived suppressor cells in the
+tumor microenvironment. J Exp Med 2010;207:2439–53.
+[89] Akoum A, Lemay A, McColl S, Turcot-Lemay L, Maheux R. Elevated concentration
+and biologic activity of monocyte chemotactic protein-1 in the peritoneal ﬂuid of
+patients with endometriosis. Fertil Steril 1996;66:17–23.
+[90] Tsukada K, Katoh H, Shiojima M, Suzuki T, Takenoshita S, Nagamachi Y.
+Concentrations of cytokines in peritoneal ﬂuid after abdominal surgery. Eur J Surg
+1993;159(9):475–9.
+[91] Akoum A, Lemay A, Brunet C, Hebert J. Secretion of monocyte chemotactic protein-1 by cytokine-stimulated endometrial cells of women with endometriosis Le
+groupe d'investigation en gynecologie. Fertil Steril 1995;63:322–8.
+[92] Hornung D, Ryan IP, Chao VA, Vigne JL, Schriock ED, Taylor RN.
+Immunolocalization and regulation of the chemokine RANTES in human endometrial and endometriosis tissues and cells. J Clin Endocrinol Metab
+1997;82(5):1621–8.
+[93] Li MQ, Li HP, Meng YH, Wang XQ, Zhu XY, Mei J, et al. Chemokine CCL2 enhances
+survival and invasiveness of endometrial stromal cells in an autocrine manner by
+activating Akt and MAPK/Erk1/2 signal pathway. Fertil Steri 2012;97:919–29.
+[94] Wieser F, Yu J, Park J, Gaeddert A, Cohen M, Vigne JL, et al. A botanical extract
+from channel ﬂow inhibits cell proliferation, induces apoptosis, and suppresses
+CCL5 in human endometriotic stromal cells. Biol Reprod. 2009;81(2):371–7.
+[95] Christodoulakos C, Augoulea A, Lambrinoudaki I, Sioulas V, Creatsas G.
+Pathogenesis of endometriosis: the role of defective 'immunosurveillance'. Eur J
+Contracept Reprod Health Care 2007 Sep;12(3):194–202.
+[96] Lessey BA, Castelbaum AJ, Sawin SW, Buck CA, Schinnar R, Biker W, et al.
+Aberrant integrin expression in the endometrium of women with endometriosis. J
+Clin Endocrinol Metab 1994;79:643–9.
+[97] McLaren J. Vascular endothelial growth factor and endometriotic angiogenesis.
+Hum Reprod Update 2000;6:45–55.
+[98] Kim JG, Suh CS, Kim SH, Choi YM, Moon SY, Lee JY. Insulin-like growth factors
+(IGFs), IGF-binding proteins (IGFBPs), and IGFBP-3 protease activity in the peritoneal ﬂuid of patients with and without endometriosis. Fertil Steril
+2000;73:996–1000.
+[99] Halme J, White C, Kauma S, Estes J, Haskill S. Peritoneal macrophages from patients with endometriosis release growth factor activity in vitro. JCEM
+1988;66:1044–9.
+[100] Wei Q. St. Clair JB, Fu T, Stratton P, Nieman LK. Reduced expression of biomarkers
+associated with the implantation window in women with endometriosis. Fertil
+Steril 2009;91(5):1686–91.
+[101] Aznaurova YB, Zhumataev MB, Roberts TK, Aliper AM, Zhavoronkov AA.
+Molecular aspects of development and regulation of endometriosis. Reprod Biol
+Endocrinol 2014;12(50). https://doi.org/10.1186/1477-7827-12-50.
+[102] Blom M. The role of complement inhibitors beyond controlling inﬂammation. J
+Intern Med 2017;282:116–28.
+[103] Lubbers R, van Essen MF, van Kooten C. Trouw LA Production of complement
+components by cells of the immune system. Clin Exp Immunol 2017;188:183–91.
+[104] Suryawanshi S, Huang X, Elishaev E, Budiu RA, Zhang L, Kim SH, et al.
+Complement pathway is frequently altered in endometriosis and endometriosis-
+
+endometriosis. Fertil Steril 2009;91:687–93.
+[45] McLaren J. Vascular endothelial growth factor and endometriotic angiogenesis.
+Hum Reprod Update 2000;6:45–55.
+[46] Sakaguchi S, Yamaguchi T, Nomura T, Ono M. Regulatory T cells and immune
+tolerance. Cell 2008;133:775–87.
+[47] Curiel TJ, Coukos G, Zou L, Alvarez X, Cheng P, Mottram P, et al. Speciﬁc recruitment of regulatory T cells in ovarian carcinoma fosters immune privilege and
+predicts reduced survival. Nat Med 2004;10:942–9.
+[48] Ehrenstein MR, Evans JG, Singh A, Moore S, Warnes G, Isenberg DA, et al.
+Compromised function of regulatory T cells in rheumatoid arthritis and reversal by
+anti-TNFalpha therapy. J Exp Med 2004;200:277–85.
+[49] Miyara M, Amoura Z, Parizot C, Badoual C, Dorgham K, Trad S, et al. Global
+natural regulatory T cell depletion in active systemic lupus erythematosus. J
+Immunol 2005;175:8392–4.
+[50] Buckner JH. Mechanisms of impaired regulation by CD4+CD25+FOXP3+ regulatory T cells in human autoimmune diseases. Rev Immunol 2010;10(12):849–59.
+[51] Maridas DE, Hey-Cunningham AJ, Ng CHM, Markham R, Fraser IS, Berbic M.
+Peripheral and endometrial dendritic cell populations during the normal cycle and
+in the presence of endometriosis. J Endometr Pelvic Pain Disord
+2014;6(2):67–119.
+[52] Gogacz M, Winkler I, Bojarska-Junak A, Tabarkiewicz J, Semczuk A, Rechberger T,
+et al. T regulatory lymphocytes in patients with endometriosis. Mol Med Rep
+2014;10:1072–6.
+[53] Olkowska-Truchanowicz J, Bocian K, Maksym RB, Bialoszewska A, Wlodarczyk D,
+Baranowski W, et al. CD4(+) CD25(+) FOXP3(+) regulatory T cells in peripheral
+blood and peritoneal ﬂuid of patients with endometriosis. Hum Reprod
+2013;28:119–24.
+[54] Takamura M, Koga K, Izumi G, Hirata T, Harada M, Hirota Y, et al. Simultaneous
+detection and evaluation of four subsets of CD4+ T lymphocyte in lesions and
+peripheral blood in endometriosis. Am J Reprod Immunol 2015;74:480–6.
+[55] Hori S, Nomura T, Hori S, Nomura T, Sakaguchi S. Control of regulatory T cell
+development by the transcription factor Foxp3. Science 2003;299:1057–61.
+[56] Andre GM, Barbosa CP, Teles JS, Vilarino FL, Christofolini DM, Bianco B. Analysis
+of FOXP3 polymorphisms in infertile women with and without endometriosis.
+Fertil Steril 2011;95:2223–7.
+[57] Li MQ, Wang Y, Chang KK, Meng YH, Liu LB, Mei J, et al. CD4+Foxp3+ regulatory T cell diﬀerentiation mediated by endometrial stromal cell-derived TECK
+promotes the growth and invasion of endometriotic lesions. Cell Death Dis
+2014;5(10):e1436.
+[58] Harada T, Iwabe T, Terakawa N. Role of cytokines in endometriosis. Fertil Steril
+2001;76:1–10.
+[59] Yoshimura A, Wakabayashi Y, Mori T. Cellular and molecular basis for the regulation of inﬂammation by TGF-beta. J Biochem 2010;147:781–92.
+[60] Hanada T, Tsuji S, Nakayama M, Wakinoue S, Kasahara K, Kimura F, et al.
+Suppressive regulatory T cells and latent transforming growth factor-β-expressing
+macrophages are altered in the peritoneal ﬂuid of patients with endometriosis.
+Reprod Biol Endocrin 2018;16:9.
+[61] Schulke L, Berbic M, Manconi F, Tokushige N, Markham R, Fraser IS. Dendritic
+cellpopulations in the eutopic and ectopic endometrium of women with endometriosis. Hum Reprod 2009;24:1695–703.
+[62] Izumi G, Koga K, Takamura M, Makabe T, Nagai M, Urata Y, et al. Mannose receptor is highly expressed by peritoneal dendritic cells in endometriosis. Fertil
+Steril 2017;107:167–73.
+[63] Kerrigan AM, Brown GD. C-type lectins and phagocytosis. Immunobiol
+2009;214:562–75.
+[64] Fainaru O, Adini A, Benny O, Adini I, Short S, Bazinet L, et al. Dendritic cells
+support angiogenesis and promote lesion growth in a murine model of endometriosis. FASEB J 2008;22:522–9.
+[65] Pencovich N, Luk J, Hantisteanu S, Hornstein MD, Fainaru O. The development of
+endometriosis in a murine model is dependent on the presence of dendritic cells.
+Reprod Biomed Online 2014;28:515–21.
+[66] Stanic AK, Kim M, Styer AK, Rueda BR. Dendritic cells attenuate the early establishment of endometriosis-like lesions in a murine model. Reprod Sci
+2014;21:1228–36.
+[67] Wilson TJ, Hertzog PJ, Angus D, Munnery L, Wood EC, Kola I. Decreased natural
+killer cell activity in endometriosis patients: relationship to disease pathogenesis.
+Fertil Steril 1994;62:1086–8.
+[68] Tanaka E, Sendo F, Kawagoe S, Hiroi M. Decreased natural killer cell activity in
+women with endometriosis. Gynecol Obst Invest 1992;34:27–30.
+[69] Oosterlynck DJ, Cornillie FJ, Waer M, Vandeputte M, Koninckx PR. Women with
+endometriosis show a defect in natural killer activity resulting in a decreased cytotoxicity to autologous endometrium. Fertil Steril 1991;56:45–51.
+[70] Gogacz M, Gałczyński K, Wojtaś M, Winkler I, Adamiak A, Romanek-Piva K, et al.
+Fas-related apoptosis of peritoneal ﬂuid macrophages in endometriosis patients:
+understanding the disease. J Immunol Res 2017:1–8.
+[71] Angka L, Khan ST, Kilgour MK, Xu R, Kennedy MA, Auer RC. Dysfunctional natural
+killer cells in the aftermath of cancer surgery. Int J Mol Sci 2017;18(178):1–20.
+[72] Wu MY, Yang JH, Chao KH, Hwang JL, Yang YS, Ho HN. Increase in the expression
+of killer cell inhibitory receptors on peritoneal natural killer cells in women with
+endometriosis. Fertil Steril 2000;74:1187–91.
+[73] Maeda N, Izumiya C, Yamamoto Y, Oguri H, Kusume T, Fukaya T. Increased killer
+inhibitory receptor KIR2DL1 expression among natural killer cells in women with
+pelvic endometriosis. Fertil Steril 2002;77:297–302.
+[74] Kang YJ, Jeung IC, Park A, Park YJ, Jung H, Kim TD, et al. An increased level of IL6 suppresses NK cell activity in peritoneal ﬂuid of patients with endometriosis via
+regulation of SHP-2 expression. Hum Reprod 2014;29:2176–89.
+
+953
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+andtherapeutic target. J Obstet Gynaecol Res 2011;37:683–95.
+[138] Guo SW. Epigenetics of endometriosis. MHR: Basic Sci. Reprod. Med. 1 October
+2009;15(10):587–607.
+[139] Uimari O, Rahmioglu N, Nyholt DR, Vincent K, Missmer SA, Becker C, et al.
+Genome-wide genetic analyses highlight mitogen-activated protein kinase (MAPK)
+signaling in the pathogenesis of endometriosis. Hum Reprod 2017;32(4):780–93.
+[140] Chistiakov DA, Chistiakov AP. Is FCRL3 a new general autoimmunity gene?
+Human Immunol 2007;68:375–83.
+[141] Bianco B, Teles JS, Lerner TG, Vilarino FL, Christofolini DM, Barbosa CP.
+Association of FCRL3 -169T/C polymorphism with endometriosis and identiﬁcation of a protective haplotype against the development of the disease in Brazilian
+population. Human Immunol 2011;72:774–8.
+[142] Owen CJ, Kelly H, Eden JA, Merriman ME, Pearce SH, Merriman TR. Analysis of
+the Fc receptor-like-3 (FCRL3) locus in Caucasians with autoimmune disorders
+suggests a complex pattern of disease association. JCEM 2007;92:1106–11.
+[143] Gonzalez-Ramos R, Van Langendonckt A, Defrere S, Lousse JC, Colette S, Devoto L,
+et al. Involvement of the nuclear factor-kappa B pathway in the pathogenesis of
+endometriosis. Fertil Steril 2010;94:1985–94.
+[144] Gao M, Wang CH, Sima X, Han XM. NFKB1 -94 insertion/deletion ATTG polymorphism contributes to risk of systemic lupus erythematosus. DNA Cell Biol
+2012;31:611–5.
+[145] Zhou B, Rao L, Peng Y, Wang Y, Qie M, Zhang Z, et al. A functional promoter
+polymorphism in NFKB1 increases susceptibility to endometriosis. DNA Cell Biol
+2010;29:235–9.
+[146] Kong YC, Flynn JC, Banga JP, David CS. Application of HLA class II transgenic
+mice to study autoimmune regulation. Thyroid 2007;17:995–1003.
+[147] Ishii K, Takakuwa K, Adachi H, Higashino M, Hataya I, Tanaka K. Studies on the
+human leukocyte antigen class I antigens in Japanese patients with macroscopically diagnosed endometriosis. Gynecol Obstet Invest 2002;54:150–3.
+[148] Ishii K, Takakuwa K, Mitsui T, Tanaka K. Studies on the human leukocyte antigenDR in patients with endometriosis: genotyping of HLA-DRB1 alleles. Human
+Reprod 2002;17:560–3.
+[149] Kitawaki J, Obayashi H, Kado N, Ishihara H, Koshiba H, Maruya E, et al.
+Association of HLA class I and class II alleles with susceptibility to endometriosis.
+Human Immunol 2002;63:1033–8.
+[150] Wang X, Liu C, Lin Q, Fang X, Lin L, Mei Q. Study on polymorphism of human
+leukocyte antigen-DRB1 allele in patients with endometriosis. Zhonghua fu chan
+ke za zhi 2002;37:346–8.
+[151] Zong L, Pan D, Chen W, He Y, Liu Z, Lin J, et al. Comparative study of HLA-DQA1
+and HLA-DRB1 allele in patients with endometriosis and adenomyosis. Chin J Med
+Genet 2002;19:49–51.
+[152] Zong L, He Y, Pan D. Association of human leukocyte antigen-DQA1 with endometriosis of women in southern China. Zhonghua fu chan ke za zhi
+2001;36:405–7.
+[153] Whang DH, Kim SH, Choi YM, Park MH, Noh JH, Kim YB. No association between
+HLA-DRB1 alleles and susceptibility to advanced stage endometriosis in a Korean
+population. Human Reprod 2006;21:129–33.
+[154] Sundqvist J, Falconer H, Seddighzadeh M, Vodolazkaia A, Fassbender A, Kyama C,
+et al. Endometriosis and autoimmune disease: association of susceptibility to
+moderate/severe endometriosis with CCL21 and HLA-DRB1. Fertil Steril
+2011;95:437–40.
+[155] Roszkowski PI, Sankowska M, Jalbrzykowska A, Radomski D, Dragowska K, Ploski
+R, et al. Susceptibility to ovarian endometriosis in Polish population is not associated with HLA-DRB1 alleles. Human Reprod 2005;20:970–3.
+[156] Noël JC, Chapron C, Borghese B, Fayt I, Anaf V. Galectin-3 is overexpressed in
+various forms of endometriosis. Appl Immunohistochem Mol Morphol
+2011;19:253–7.
+[157] Bastón JI, Barañao RI, Ricci AG, et al. Targeting galectin-1-induced angiogenesis
+mitigates the severity of endometriosis. J Pathol 2014;234:329–37.
+[158] Dias Jr. JA, de Oliveira RM, Abrao MS. Antinuclear antibodies and endometriosis.
+Int J Gynaecol Obstet 2006;93:262–3.
+[159] Hever A, Roth RB, Hevezi P, Marin ME, Acosta JA, Acosta H, et al. Human endometriosis is associated with plasma cells and overexpression of B lymphocyte
+stimulator. Proc Natl Acad Sci USA 2007;104:12451–6.
+[160] Schiemann B, Gommerman JL, Vora K, Cachero TG, Shulga-Morskaya S, Dobles M,
+et al. An essential role for BAFF in the normal development of B cells through a
+BCMA-independent pathway. Science 2001;293:2111–4.
+[161] Caserta D, Di Benedetto L, Bordi G, D’Ambrosio A, Moscarini M. Levels of galectin3 and stimulation expressed gene 2 in the peritoneal ﬂuid of women with endometriosis: a pilot study. Gynecol Endocrinol 2014;30:877–80.
+[162] Vergetaki A, Jeschke U, Vrekoussis T, et al. Galectin-1 overexpression in endometriosis and its regulation by neuropeptides (CRH, UCN) indicating its important role in reproduction and inﬂammation. PLoS One 2014;9:1–17.
+[163] Koopman LA, Kopcow HD, Rybalov B, et al. Human decidual natural killer cells
+are a unique NKcell subset with immunomodulatory potential. J Exp Med
+2003;198:1201–12.
+[164] Than NG, Romero R, Balogh A, et al. Galectins: double-edged swords in the crossroads of pregnancy complications and female reproductive tract inﬂammation and
+neoplasia. J Pathol Transl Med 2015 May;49(3):181–208.
+[165] Dmowski WP, Rana N, Michalowska J, Friberg J, Papierniak C, El-Roeiy A. The
+eﬀect of endometriosis, its stage and activity, and of autoantibodies on in vitro
+fertilization and embryo transfer success rates. Fertil Steril 1995;63:555–62.
+[166] Kaider AS, Kaider BD, Janowicz PB, Roussev RG. Immunodiagnostic evaluation in
+women with reproductive failure. Am Journal Reprod Immunol 1999;42:335–46.
+[167] Brown J, Farquhar C. An overview of treatments for endometriosis. JAMA
+2015;313(3):296–7.
+
+associated ovarian cancer. Clin Cancer Res 2014;1(20(23)):6163–74.
+[105] Perricone R, De Carolis C, Moretti C, Santuari E, De Sanctis G, Fontana L.
+Complement, complement activation and anaphylatoxins in human ovarian follicular ﬂuid. Clin Exp Immunol 1990;82(2):359–62.
+[106] Sikora J, Wróblewska-Czech A, Smycz-Kubańska M, et al. The role of complement
+components C1q, MBL and C1 inhibitor in pathogenesis of endometriosis. Arch
+Gynecol Obstet 2018;297:1495–501.
+[107] Eisenberg VH, Zolti M, Soriano D. Is there an association between autoimmunity
+and endometriosis? Autoimmun Rev 2012;11(11):806–14.
+[108] Startseva NV. Clinical immunological aspects of genital endometriosis.
+Akusherstvo i ginekologiia 1980:23–6.
+[109] Gleicher N, El-Roeiy A, Conﬁno E, Friberg J. Is endometriosis an autoimmune
+disease? Obstet Gynecol 1987;70:115–22.
+[110] Weed JC, Arquembourg PC. Endometriosis: can it produce an autoimmune response resulting in infertility? Clin Obst Gynecol 1980;23:885–93.
+[111] Mathur S, Peress MR, Williamson HO, Youmans CD, Maney SA, Garvin AJ, et al.
+Autoimmunity to endometrium and ovary in endometriosis. Clin Exp Immunol
+1982;50:259–66.
+[112] Fernandez-Shaw S, Hicks BR, Yudkin PL, Kennedy S, Barlow DH, Starkey PM. Antiendometrial and anti-endothelial auto-antibodies in women with endometriosis.
+Hum Reprod 1993;8:310–5.
+[113] Kennedy SH, Sargent IL, Starkey PM, Hicks BR, Barlow DH. Localization of antiendometrial antibody binding in women with endometriosis using a double-labelling immunohistochemical method. Br J Obstet Gynaecol 1990;97(8):671–4.
+[114] Wild RA, Shivers CA. Antiendometrial antibodies in patients with endometriosis.
+AJRIM 1985;8:84–6.
+[115] Taylor PV, Maloney MD, Campbell JM, Skerrow SM, Nip MM, Parmar R, et al.
+Autoreactivity in women with endometriosis. Br J Obstet Gynaecol
+1991;98(7):680–4.
+[116] Evers L, Dunselman GA, Van der Linden PJ. Markers for endometriosis. Bailliere's
+Clin Obstetr Gynaecol 1993;7:15–39.
+[117] Badaway SZ, Cuenca V, Freliech H, Stefanu C. Endometrial antibodies in serum
+and peritoneal ﬂuid of infertile patients with and without endometriosis. Fertil
+Steril 1990;53:930–2.
+[118] Dias Jr. JA, de Oliveira RM, Abrao MS. Antinuclear antibodies and endometriosis.
+Int J Gynaecol Obstet 2006;93(3):262–3.
+[119] Sensky TE, Liu DT. Endometriosis: associations with menorrhagia, infertility and
+oral contraceptives. Int J Gynaecol Obstet 1980;17:573–6.
+[120] Kalab P, Schultz RM, Kopf GS. Modiﬁcations of the mouse zona pellucida during
+oocyte maturation: inhibitory eﬀects of follicular ﬂuid, fetuin, and alpha 2HSglycoprotein. Biol Reprod 1993;49:561–7.
+[121] Alviggi C, Carrieri P, Pivonello R, et al. Association of pelvic endometriosis with
+alopecia universalis, autoimmune thyroiditis and multiple sclerosis. J Endocrinol
+Invest 2006;29(2):182–9.
+[122] Baptist A, Baldwin J. Autoimmune progesterone dermatitis in a patient with endometriosis: case report and review of the literature. Clin Mol Allergy
+2004;2(1):10.
+[123] Katiyar A, Sharma S, Singh TP, Kaur P. Identiﬁcation of shared molecular signatures indicate the susceptibility of endometriosis to Multiple sclerosis. Front
+Genet 2018;9:42. https://doi.org/10.3389/fgene.2018.00042.
+[124] Harris HR, Costenbader KH, Mu F, Kvaskoﬀ M, Malspeis S, Karlson EW, et al.
+Endometriosis and the risks of systemic lupus erythematosus and rheumatoid arthritis in the Nurses’ Health Study II. Ann. the Rheum Dis. 2016;75(7):1279–84.
+[125] Bahn RS. Autoimmunity and Graves’ disease. Clin Pharmacol Ther 2012;91:577–9.
+[126] Kisiel B, Bednarczuk T, Kostrzewa G, et al. Polymorphism of the oestrogen receptor beta gene (ESR2) is associated with susceptibility to Graves’ disease. Clin
+Endocrinol 2008;68:429–34.
+[127] Yuk J-S, Park E-J, Seo Y-S, Kim HJ, Kwon S-Y, Park WI, et al. Medicine
+2016;95(10):1–5.
+[128] Hever RB, Roth P, Hevezi ME, Marin JA, Acosta H, Acosta J, et al. Human endometriosis is associated with plasma cells and overexpression of B lymphocyte
+stimulator. Proc Natl Acad Sci USA 2007;104:12451–6.
+[129] Groom JR, Fletcher CA, Walters SN, et al. BAFF and MyD88 signals promote a
+lupuslike disease independent of T cells. J Exp Med 2007;204(8):1959–71.
+[130] Lied GA, Lillestøl K, Valeur J, Berstad A. Intestinal B cell-activating factor: an
+indicator of non-IgE-mediated hypersensitivity reactions to food? Aliment
+Pharmacol Ther 2010;32(1):66–73.
+[131] Vincent FB, Morand EF, Schneider P, Mackay F. The BAFF/APRIL system in SLE
+pathogenesis. Nat Rev Rheumatol 2014;10(6):365–73.
+[132] Inagaki J, Sugiura-Ogasawara M, Nomizu M, Nakatsuka M, Ikuta K, Suzuki N,
+et al. An association of IgG anti-laminin-1 autoantibodies with endometriosis in
+infertile patients. Hum Reprod 2003;18:544–9.
+[133] Inagaki J, Kondo A, Lopez LR, Shoenfeld Y, Matsuura E. Pregnancy loss and endometriosis: pathogenic role of anti-laminin-1 autoantibodies. Ann NY Acad Sci
+2005;1051:174–84.
+[134] Inagaki E, Matsuura M, Nomizu M, Sugiura-Ogasawara K, Katano K, Kaihara K,
+et al. IgG anti-laminin-1 autoantibody and recurrent miscarriages. Am J Reprod
+Immunol 2001;45:232–8.
+[135] Caccavo D, Pellegrino NM, Totaro I, Vacca MP, Selvaggi L, Depalo R. Anti-laminin1 antibodies in sera and follicular ﬂuid of women with endometriosis undergoing
+in vitro fertilization. Int J Immunopathol Pharmacol 2011;24:481–8.
+[136] Inagaki J, Kondo A, Lopez LR, Shoenfeld Y, Matsuura E. Anti-laminin-1 autoantibodies, pregnancy loss and endometriosis. Clin Dev Immunol 2004;11(34):261–6.
+[137] Nasu K, Kawano Y, Tsukamoto Y, Takano M, Takai N, Li H, et al. Aberrant DNA
+methylation status of endometriosis: epigenetics as the pathogenesis, biomarker
+
+954
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Autoimmunity Reviews 17 (2018) 945–955
+
+T. Zhang et al.
+
+2010;93:1316–23.
+[187] Lu D, Song H, Li Y, Clarke J, Shi G. Pentoxifylline for endometriosis. Cochrane
+Database Syst Rev 2012(1). https://doi.org/10.1002/14651858.CD007677.pub3.
+(Art. No.: CD007677).
+[188] Dankers W, Colin EM, van Hamburg JP, Lubberts E. Vitamin D in autoimmunity:
+molecular mechanisms and therapeutic potential. Front Immunol. 2016;7:697.
+[189] Orbach H, Zandman-Goddard G, Amital H, et al. Novel biomarkers in autoimmune
+diseases: prolactin, ferritin, vitamin D, and TPA levels in autoimmune diseases.
+Ann NY Acad Sci 2007;1109:385–400.
+[190] Perricone C, Agmon-Levin N, Colafrancesco S, Shoenfeld Y. Vitamins and systemic
+lupus erythematosus: to D or not to D Expert Rev. Clin. Immunol 2013;9(5):397–9.
+[191] Marinho A, Carvalho C, Boleixa D, Bettencourt A, Leal B, Guimaraes J, et al.
+Vitamin D supplementation eﬀects on FoxP3 expression in T cells and FoxP3(+)/
+IL-17A ratio and clinical course in systemic lupus erythematosus patients: a study
+in a Portuguese cohort. Immunol Res 2017;65:197–206.
+[192] Simpson Jr. S, der Mei IV, Taylor B. The role of vitamin D in Multiple sclerosis:
+biology and biochemistry, epidemiology and potential roles in treatment. Med
+Chem 2018;14:129–43.
+[193] Mariani M, Vigano P, Gentilini D, Camisa B, Caporizzo E, Di Lucia P, et al. The
+selective vitamin D receptor agonist, elocalcitol, reduces endometriosis development in a mouse model by inhibiting peritoneal inﬂammation. Human Reprod
+2012;27:2010–9.
+[194] Abbas MA, Taha MO, Disi AM, Shomaf M. Regression of endometrial implants
+treated with vitamin D3 in a rat model of endometriosis. Eur J Pharmacol
+2013;715:72–5.
+[195] Yildirim B, Guler T, Akbulut M, Oztekin O, Sariiz G. 1-alpha,25-dihydroxyvitamin
+D3 regresses endometriotic implants in rats by inhibiting neovascularization and
+altering regulation of matrix metalloproteinase. Postgrad Med J 2014;126:104–10.
+[196] Jurkiewicz-Przondziono J, Lemm M, Kwiatkowska-Pamula A, Ziolko E, Wojtowicz
+MK. Inﬂuence of diet on the risk of developing endometriosis. Ginekol Polska
+2017;88:96–102.
+[197] Lee SJ, Silverman E, Bargman JM. The role of antimalarial agents in the treatment
+of SLE and lupus nephritis. Nat Rev Nephrol 2011;7:718–29.
+[198] Laschke M, Menger M. Anti-angiogenic treatment strategies for the therapy of
+endometriosis. Hum Reprod Update 2012;18:682–702.
+[199] Nirgianakis K, Bersinger NA, McKinnon B, Kostov P, Imboden S, Mueller MD.
+Regression of the inﬂammatory microenvironment of the peritoneal cavity in
+women with endometriosis by GnRHa treatment. Eur J Obstet Gynecol Reprod
+Biol 2013;170:550–4.
+[200] Edwards RP, Huang X. Vlad AM Chronic inﬂammation in endometriosis and endometriosis-associated ovarian cancer: new roles for the “old” complement
+pathway. Oncoimmunology 2015;4:e1002732.
+[201] Cicardi M, Suﬀritti C, Perego F. Caccia S Novelties in the diagnosis and treatment
+of angioedema. J Investig Allergol Clin Immunol 2016;26:212–21.
+[202] Zurlo JJ, Frank MM. The long-term safety of danazol in women with hereditary
+angioedema. Fertil Steril 1990;54:64–72.
+[203] Perricone R, De Carolis C, Fontana L. Danazol improves ovarian condition in
+hereditary angioedema. Mol Immunolo 2003;40:221–2.
+[204] De Carolis C, Perricone R, Pasetto N, Dal Lago A, Fontana L. LH-RH can modulate
+serum complement function in vivo in man. Complement and Inﬂamm
+1991;8:139.
+[205] De Carolis C, Perricone R, Miriello D, Fontana L. Long term prophylaxis of hereditary angioedema (HANE) attacks with leuprolide acetate, an LH-RH agonist.
+Mol Immunol 1993;30:7.
+
+[168] Streuli I, de Ziegler D, Santulli P, Marcellin L, Borghese B. Batteux F and Chapron
+C. An update on the pharmacological management of endometriosis Expert Opin
+Pharmaco J 2013;14:3.
+[169] Abrão MS, Petraglia F, Falcone T, Keckstein J, Osuga Y, Chapron C. Deep endometriosis inﬁltrating the recto-sigmoid: critical factors to consider before
+management. Hum Reprod Update 2015;21(3):329–39.
+[170] Kettel LM, Murphy AA, Morales AJ, Ulmann A, Baulieu EE, Yen SS. Treatment of
+endometriosis with the antiprogesterone mifepristone (RU486). Fertil Steril
+1996;65:23–8.
+[171] Kettel LM, Murphy AA, Morales AJ, Yen SS. Preliminary report on the treatment of
+endometriosis with low-dose mifepristone (RU 486). Am J Obstet Gynecol
+1998;178:1151–6.
+[172] Yao Z, Shen X, Capodanno I, Donnelly M, Fenyk-Melody J, Hausamann J, et al.
+Validation of rat endometriosis model by using raloxifene as a positive control for
+the evaluation of novel SERM compounds. J Investig Surg 2005;18:177–83.
+[173] Patwardhan S, Nawathe A, Yates D, Harrison G, Khan K. Systematic review of the
+eﬀects of aromatase inhibitors on pain associated with endometri- osis. BJOG
+2008;115:818–22.
+[174] Vodolazkaia A, El-Aalamat Y, Popovic D, Mihalyi A, Bossuyt X, Kyama CM, et al.
+Evaluation of a panel of 28 biomarkers for the non-invasive diagnosis of endometriosis. Human Reprod 2012;27(9):2698–3271.
+[175] Parasar P, Ozcan P, Terr KL. Curr Obstet Gynecol Rep 2017;6:34.
+[176] Nishida M, Watanabe K, Sato N, Ichikawa Y. Malignant transformation of ovarian
+endometriosis. Gynecol Obstet Invest 2000;50(Suppl. 1):18–25.
+[177] Khan KN, Kitajima M, Hiraki K, Fujishita A, Sekine I, Ishimaru T, et al. Toll-like
+receptors in innate immunity: role of bacterial endotoxin and toll-like receptor 4 in
+endometrium and endometriosis. Gynecol Obstet Invest 2009;68:40–52.
+[178] Borrelli GM, Abrão MS, Mechsner S. Can chemokines be used as biomarkers for
+endometriosis? A systematic review. Hum Reprod 2014;29:253–66.
+[179] Fukui A, Funamizu A, Fuchinoue K, Kamoi M, Taima A, Fukuhara R, et al.
+Functional role of uterine natural killer cells. In: Kanzaki H, editor. Uterine
+Endometrial Function. 2016. p. 61–81.
+[180] Itoh F, Komohara Y, Takaishi K, Honda R, Tashiro H, Kyo S, et al. Possible involvement of signal transducer and activator of transcription-3 in cell-cell interactions of peritoneal macrophages and endometrial stromal cells in human endometriosis. Fertil Steril 2013;99(6):1705–13.
+[181] Barrier BF, Bates GW, Leland MM, Leach DA, Robinson RD, Propst AM. Eﬃcacy of
+anti-tumor necrosis factor therapy in the treatment of spontaneous endometriosis
+in baboons. Fertil Steril 2004;81(Suppl. 1):775–9.
+[182] Keenan JA, Williams-Boyce PK, Massey PJ, Chen TT, Caudle MR, Bukovsky A.
+Regression of endometrial explants in a rat model of endometriosis treated with
+the immune modulators loxoribine and levamisole. Fertil Steril 1999;72:135–41.
+[183] Xu Z, Zhao F, Lin F, Chen J, Huang Y. Lipoxin A4 inhibits the development of
+endometriosis in mice: the role of anti-inﬂammation and anti-angiogenesis. Am J
+Reprod Immunol 2012;67:491–7.
+[184] Kumar R, Clerc AC, Gori I, Russell R, Pellegrini C, Govender L, et al. Lipoxin
+prevents the progression of de novo and established endometriosis in a mouse
+model by attenuating prostaglandin E2 production and estrogen signaling. PLoS
+One 2014;9:e89742.
+[185] Ren XU, Wang Y, Xu G, Dai L. Eﬀect of rapamycin on endometriosis in mice. Exp
+Ther Med 2016;12:101–6.
+[186] Vlahos NF, Gregoriou O, Deliveliotou A, Perrea D, Vlachos A, Zhao Y, et al. Eﬀect
+of pentoxifylline on vascular endothelial growth factor C and ﬂk-1 expression on
+endometrial implants in the rat endometriosis model. Fertil Steril
+
+955
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

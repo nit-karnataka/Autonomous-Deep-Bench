@@ -1,0 +1,685 @@
+Current Therapeutic Research 75 (2013) 39–43
+
+Contents lists available at ScienceDirect
+
+Current Therapeutic Research
+journal homepage: www.elsevier.com/locate/cuthre
+
+Comparison of Propofol and Ketamine-Propofol Mixture (Ketofol)
+on Laryngeal Tube-Suction II Conditions and Hemodynamics:
+A Randomized, Prospective, Double-Blind Trial
+Ulku Ozgul, MD1, Zekine Begec, MD1, Kalender Karahan, MD1, Mehmet Ali Erdogan, MD1,n,
+Mustafa Said Aydogan, MD1, Cemil Colak, PhD2, Mahmut Durmus, MD1, M. Ozcan Ersoy, MD1
+1
+2
+
+Department of Anesthesiology and Reanimation, School of Medicine, Inonu University, Malatya, Turkey
+Department of Biostatistics, School of Medicine, Inonu University, Malatya, Turkey
+
+a r t i c l e i n fo
+
+a b s t r a c t
+
+Article history:
+Accepted 13 June 2013
+
+Objective: The aim of our study is to compare the effect of ketamine–propofol mixture (ketofol) and
+propofol on the laryngeal tube-Suction II (LTS II) insertion conditions and hemodynamics.
+Methods: Eighty American Society of Anesthesiologists class 1 and 2 patients were divided into 2 random
+groups to receive either 1 mg/kg remifentanil and propofol 2 mg/kg in Group P (n ¼ 40), or 1 mg/kg
+remifentanil and ketofol (using a 1:1 single syringe mixture of 5 mg/mL ketamine and 5 mg/mL propofol)
+in Group K (n ¼ 40) before induction of anesthesia. After induction, LTS II was inserted. Heart rate and
+noninvasive blood pressure were recorded before induction of anesthesia (t0); immediately following
+induction (t1); immediately after LTS II insertion (t2); and 3 minutes (t3), 5 minutes (t4), and 10 (t5)
+minutes after LTS II insertion. Conditions of insertion of LTS II were assessed and scored 1 to 3 using
+6 variables as follows: mouth opening, swallowing, coughing, head and body movements, laryngospasm,
+and ease of LTS II insertion by the same experienced anesthesiologist who did not know the agents. LTS II
+insertion summed score was prepared depending upon these variables.
+Results: In regard to LTS II insertion summed score, Group K was more favorable than Group P (P o
+0.05). Apnea duration was longer in Group P (385.0 seconds [range ¼ 195.0–840.0 seconds]) compared
+with Group K (325.50 seconds [range ¼ 60.0–840.0 seconds]) but this was not statically signiﬁcant. The
+heart rate values were signiﬁcantly lower at all measurement intervals in both groups compared with the
+baseline values (P o 0.05). There was no difference in heart rate between Group P and Group K. The
+mean arterial pressure values were signiﬁcantly lower at all measurement intervals in Group P compared
+with baseline values (P o 0.05). In Group K, the mean arterial pressure values were signiﬁcantly lower
+at all measurement intervals compared with the baseline values, except t2 (P o 0.05). There was a
+signiﬁcant difference between Group P and Group K in terms of mean arterial pressure at t3 (P o 0.05).
+Conclusions: We found that ketofol provided better insertion summed score for LTS II than propofol, with
+minimal hemodynamic changes.
+& 2013. The Authors. Published by Elsevier Inc. Open access under CC BY-NC-SA license.
+
+Key words:
+anesthesia
+ketamine
+laryngeal tube-Suction II
+propofol
+
+Introduction
+Propofol is an agent that provides rapid induction and recovery,
+depresses airway reﬂexes, and is used for sedation and anesthesia.
+The fact that it causes dose-dependent hypotension and respiratory
+depression, limits the use of propofol.1,2 If it is used as a single agent
+
+n
+Address correspondence to: Mehmet Ali Erdogan, MD, Department of Anesthesiology and Reanimation, School of Medicine, Inonu University, Malatya, Turkey.
+E-mail address: drmalierdogan@gmail.com (M. A. Erdogan).
+
+to place laryngeal mask (LMA), it can cause unwanted responses
+such as coughing, hiccups, laryngospasm, and movements.3
+In addition to its amnesic and analgesic properties, ketamine
+increases heart rate and blood pressure by activating the sympathetic nervous system.4 It was observed that a combination of
+ketamine and propofol reduced consumption of propofol and
+opioids and ensured better hemodynamic and respiratory stability
+in patients.5–7
+Ketamine and propofol mixture (ketofol) is 5 mg/mL ketamine
+and 5 mg/mL propofol, 1:1 mixture in a 20-mL syringe. It is
+reported that if ketamine and propofol are mixed in a polypropylene syringe they are physically compatible and chemically stable,
+and that they can be stored at room temperature and under light.8
+Ketofol has successfully been used in brief, painful interventions in
+
+0011-393X & 2013. The Authors. Published by Elsevier Inc. Open access under CC BY-NC-SA license.
+http://dx.doi.org/10.1016/j.curtheres.2013.06.003
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+40
+
+U. Ozgul et al. / Current Therapeutic Research 75 (2013) 39–43
+
+emergency departments; for sedation in pediatric cases; for
+regional anesthesia; and in anesthesia applications in electroconvulsive therapy.9–12
+Laryngeal tube-Suction II (LTS II) (VBM, Medizintechnik, Sulz,
+Germany) is a double-lumen silicone tube and it is the latest
+version of the laryngeal tube (LT), which is a supraglottic airway
+device. It is inserted blindly in the upper esophagus and hypopharynx by determining position with the distal tip. LTS II has
+2 lumens: 1 for ventilation and the other for the passage of a
+gastric tube. It was originally designed for emergency airway
+management, including out-of-hospital use, but now it is used
+for indications where LMA is used during general anesthesia.13–15
+There is no research on the use of ketofol for insertion of LTS II.
+The aim of this study is to compare the effect of ketofol and
+propofol on LTS II insertion conditions and hemodynamics.
+
+Methods
+Following approval of the ethics committee of Inonu University
+Faculty of Medicine, Malatya, Turkey (No. 2010/158, January 4,
+2011), and provision of written informed consent from the
+patients, 80 American Society of Anesthesiologists class 1 and
+2 patients, aged between 18 and 65 years, scheduled for elective
+surgery that would last o2 hours were included in the study
+between January 2011 and November 2011. Patients with
+increased aspiration risk, body mass index 4 30, allergy to any
+of the agents used in the study, predicted to have difﬁcult airway
+(eg, Mallampati score 4 2 or mouth opening o 3 cm), an open eye
+injury or other ophthalmologic disorder, psychiatric disease such
+as schizophrenia, a history of adverse reaction to ketamine, and
+vascular aneurysms were excluded from the study.
+The patients were not premedicated. In the operating room
+standard anesthetic monitoring was applied with noninvasive
+blood pressure, ECG, and peripheric oxygen saturation. After
+providing intravenous access, Ringer’s lactate solution infusion
+was started. Patients were divided into 2 random groups: a
+propofol group (Group P; n ¼ 40) and a ketofol group (Group K;
+n ¼ 40) using a computer-generated random number table. All
+study medications were prepared in identical 20-mL polypropylene syringes. A 20-mL syringe of propofol 1% (10 mg/mL) was
+used for Group P. For Group K, a ketofol solution (total 20 mL) was
+prepared, with the agents in the same syringe, using ketamine
+100 mg (Ketalar 50 mg/mL; Pﬁzer, New York, NY) and propofol
+100 mg (1% propofol; Fresenius, Waltham, MA); the ketofol
+syringes contained ketamine 2 mL (100 mg), propofol 1% 10 mL
+(100 mg), and saline 8 mL. The concentrations of these drugs were
+thus 5 mg/mL ketamine and 5 mg/mL propofol, and there was no
+interaction between these drugs in the mixture.
+After 3 minutes of preoxygenation, 1 mg/kg remifentanil was
+given in 60 seconds. Later, Group P was administered 0.2 mL/kg
+propofol and Group K was administered 0.2 mL/kg ketofol (1 mg/kg
+ketamine þ 1 mg/kg propofol) approximately in 30 seconds.
+If required, further increments of drugs (ketofol or propofol), at
+0.05 mL/kg, were given every 30 seconds until loss of consciousness
+and loss of eyelash reﬂex. Sixty seconds after induction, LTS II with
+deﬂated cuff was inserted by an anesthetist who was unaware of
+the agents given, using a water-soluble lubricant per guidelines of
+the manufacturer. A size-3 LTS II was used for patients shorter than
+155 cm, a size 4 was used for patients between 155 and 180 cm, and
+a size 5 was used for patients taller than 180 cm. Cuffs were inﬂated
+with the proposed amount of air using the injector proposed by the
+manufacturing company. Effective ventilation was conﬁrmed by
+capnography and chest expansion. With the cuff manometer (VBM,
+Sulz, Germany) maximum pressure was set to 60 cm water and cuff
+pressure was measured at certain times during operation. A gastric
+
+tube was inserted along the gastric channel of LTS II and correctness
+of the insertion was assessed by aspiration of the gastric ﬂuid and
+auscultation of the injected air in the epigastrium.
+A maximum of 3 attempts were allowed for the insertion of LTS
+II and scoring was done only for the ﬁrst attempt. If LTS II could not
+be inserted in the 3 attempts, alternative airway devices were
+used. After successful LTS II insertion, anesthesia was maintained
+with sevoﬂurane 2%, 60% nitrous oxide, and 40% oxygen. Following
+insertion of LTS II, patients were ventilated manually until spontaneous respiration returned and this period was recorded as apnea
+time. Patients were ventilated with the synchronized intermittent
+mandatory ventilation mode until end of the operation.
+Conditions of insertion of LTS II were assessed using 6 variables:
+mouth opening (1 ¼ full, 2 ¼ partial, and 3 ¼ nil), gagging or
+coughing (1 ¼ nil, 2 ¼ slight, and 3 ¼ gross), swallowing (1 ¼ nil,
+2 ¼ slight, and 3 ¼ gross), head or limb movements (1 ¼ nil, 2 ¼
+slight, and 3 ¼ gross), laryngospasm (1 ¼ nil, 2 ¼ partial, and
+3 ¼ complete), and ease of laryngeal tube insertion (1 ¼ easy, 2 ¼
+difﬁcult, and 3 ¼ impossible). The insertion condition summed
+score for LTS II insertion was calculated by summing the insertion
+score for each patient and then totaling the score for all patients in
+the groups. Insertion time was recorded from the time of removal
+of the facemask to delivery of the ﬁrst breath through the assigned
+airway device.
+Systolic arterial pressure, mean arterial pressure (MAP), heart
+rate (HR), and peripheric oxygen saturation were measured before
+anesthesia induction (t0); immediately after induction (t1); immediately after insertion of LTS II (t2); and 3 minutes (t3), 5 minutes
+(t4), and 10 minutes (t5) after insertion of LTS II. The incidence of
+adverse events during anesthesia such as laryngospasm, bronchospasm, excessive secretion, hallucination, bradycardia, muscular
+rigidity, nausea, and vomiting were recorded.
+At the end of the operation, LTS II was removed by deﬂating the
+cuff when patients were in deep anesthesia and had sufﬁcient
+spontaneous respiration (tidal volume 4 5 mL/kg, number of
+breaths 4 12 breaths/min). After patients were taken to recovery
+unit, nausea, vomiting, hallucination, sore throat, hoarseness, and
+dysphagia were monitored within postoperative period of 1 to
+24 hours.
+A power analysis suggested a minimum 39 patients in each
+group with a mean (SD) change of 8 (13) mm Hg in MAP in Group
+P, and 8 (12) mm Hg in Group K (α ¼ 0.05 and β ¼ 0.20 [0.80
+power]). We included 40 patients in both groups in the study. The
+SPSS version 16 software package (IBM SPSS Inc, Armonk, New
+York) was used in evaluation of the data. Normality of the
+distribution within the groups was measured by Shapiro-Wilk
+test. Differences between the groups were assessed by independent samples t test and Mann-Whitney U test. Repeating measurements of analysis of variance was performed in the comparison of
+the hemodynamic data within each group based on our hypothesis, and then Bonferroni test was carried out for multiple
+comparisons. Conditions of the insertion of LTS II were evaluated
+by Fisher exact χ2 test. Yates’ corrected χ2 test was used for ease of
+insertion of the laryngeal tube. P o 0.05 was considered to be
+statically signiﬁcant.
+
+Results
+There were no differences in the demographic data of the
+groups (Table I).
+Median (minimum-maximum) LTS II insertion time was similar
+for Group K (13.50 [8.0-45.0] seconds) and Group P (20.0 [8.0-90.0]
+seconds). Apnea duration was longer in Group P (385.0 [195.0840.0] seconds) compared with Group K (325.50 [60.0-840.0]
+seconds), but this was not statically signiﬁcant (Table I).
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+U. Ozgul et al. / Current Therapeutic Research 75 (2013) 39–43
+
+41
+
+Table I
+Demographic data, apnea time, and laryngeal tube-Suction II (LTS II) insertion time.
+
+Age (mean y [SD])
+Sex (women:men)
+Weight (mean kg [SD])
+Height (mean cm [SD])
+Apnea time (median sec [min-max])
+LTS II Insertion time (median sec [min-max])
+
+Propofol group (n ¼ 40)
+
+Ketofol group (n ¼ 40)
+
+P
+
+41.47 [12.86]
+18:22
+73.52 [12.61]
+168.15 [8.04]
+385 (195-840)
+20 (8-90)
+
+37.75 [9.60]
+23:17
+70.35 [12.42]
+165.17 [7.83]
+325.50 (60-840)
+13.50 (8-45)
+
+0.14
+
+Number of attempts needed to insert LTS II, successful insertions, and correct position of LTS II was similar among the groups.
+However, when considering the LTS II insertion conditions
+summed scores, Group K was favourable compared with Group P
+(P o 0.05) (Table II).
+The HR values were signiﬁcantly lower at all measurement
+intervals in both groups compared with the baseline values (P o
+0.05). There was no difference in HR between Group P and Group K
+(Figure 1).
+The MAP values were signiﬁcantly lower at all measurement
+intervals in Group P compared with the baseline values (P o 0.05).
+In Group K, the MAP values were signiﬁcantly lower at all
+measurement intervals compared with the baseline values except
+at t2 (P o 0.05).
+There was a signiﬁcant difference between Group P and Group
+K in terms of MAP values at t3 (P o 0.05) (Figure 2).
+Adverse effects such as excessive secretion, hallucination,
+bradycardia, or muscular rigidity was not observed in any patients.
+Nausea and vomiting were seen in 2 patients in Group P and
+3 patients in Group K. Within the ﬁrst 24 hours, sore throat was
+observed in 8 patients in Group P and 6 patients in Group K.
+
+Table II
+Insertion conditions of laryngeal tube-Suction II (LTS II).
+
+Attempts (n)
+1
+2
+3
+Mouth opening (n)
+Full
+Partial
+Nil
+Gagging or coughing (n)
+Nil
+Slight
+Gross
+Swallowing(n)
+Nil
+Slight
+Gross
+Movement (n)
+Ni
+Slight
+Gross
+Laryngospasm (n)
+Nil
+Partial
+Complete
+Ease of LTS II insertion (n)
+Easy
+Difﬁcult
+Impossible
+Insertion condition summed score
+(median [range])
+n
+
+Propofol group
+(n ¼ 40)
+
+Ketofol group
+(n ¼ 40)
+
+37
+3
+0
+
+38
+1
+1
+
+34
+6
+0
+
+38
+2
+0
+
+35
+5
+0
+
+39
+1
+0
+
+34
+6
+0
+
+38
+2
+0
+
+28
+11
+1
+
+36
+4
+0
+
+40
+0
+0
+
+36
+4
+0
+
+34
+6
+0
+7 (6-10)
+
+35
+4
+1
+6 (6-10)*
+
+P o 0.05 Group P compared with Group K.
+
+0.26
+0.09
+0.07
+0.11
+
+Hoarseness was observed in 1 patient in Group P and 2 patients in
+Group K.
+
+Discussion
+In our study LTS II insertion condition summed score was better in
+the Group K compared with the Group P, and the hemodynamic
+changes were similar between the groups except for MAP values at t3.
+LTS II is a supraglottic airway device used for spontaneous or
+controlled ventilation during general anesthesia.16 Success ratio,
+leakage pressure, number of times the position of the device was
+corrected, and ratio of insertion of the gastric tube were found to
+be similar in previous studies that compare LTS and LMA.17–19
+Propofol is an induction agent used frequently to insert LT. Burlacu
+et al20 reported that the insertion of LT and LMA requires similar
+doses of propofol.
+Sufﬁcient anesthetic deepness and mouth openness is needed
+for correct insertion of supraglottic airway devices and prevent
+such complications as coughing, hiccups, swallowing, head, and
+extremity movements and laryngospasm.20,21 When propofol is
+used alone it cannot provide LMA insertion conditions, or highdose propofol is needed to improve the insertion conditions. On
+the other hand, high doses of propofol cause cardiorespiratory
+depression.21,23 Addition of lidocaine, opioids, ketamine, or myorelaxants to propofol reduced the dose of propofol used and
+increased the success ratio of LMA insertion.22–24 Bein et al14
+administered 2 mg/kg propofol and 0.1 mg/kg remifentanil for LTS
+insertion in the their study and reported that the success ratio was
+100%. Likewise, in our study, success ratio of LTS II insertion was
+100% in Group P. Goh et al24 reported success rate was 86.7% when
+ketamine was added to propofol. We found our LTS II insertion
+success ratio to be 97.5% in Group K. We think use of both
+ketamine and remifentanil in Group K was effective in this result.
+Ketamine increases heart rate and arterial blood pressure by
+activation of the sympathetic nervous system. Clinical effects of
+propofol and ketamine seem to be complementary. When propofol
+and ketamine are administered in combination, doses of both
+agents decrease and unwanted effects are minimized.25 It was
+shown in studies of adult and pediatric patients that ketamine
+applied before propofol induction for LMA insertion preserved
+hemodynamic stability.24,26,27 Erdogan et al28 reported that ketofol
+provided Proseal LMA insertion conditions similar to those for
+propofol with a decreased ephedrine requirement in elderly
+patients. In our study, MAP maintained a higher level in Group K
+compared with Group P at all measurement times; however, this
+reached a statistically signiﬁcant level at 3 minutes after insertion
+of LTS II.
+Tosun et al29 reported that hemodynamic parameters were
+similar in both groups when 1 mg/kg ketamine or 1 mg/kg fentanil
+was added to propofol for sedation in children with burns. Likewise, in a study by Erden et al30 propofol-fentanil and propofolfentanil-ketamine combinations provided similar hemodynamic
+stability in children. However, in our study hemodynamic stability
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+42
+
+U. Ozgul et al. / Current Therapeutic Research 75 (2013) 39–43
+
+90,00
+
+Heart Rate (beats/min)
+
+85,00
+
+*
+*
+
+80,00
+
+*
+*
+†
+
+75,00
+70,00
+†
+
+†
+
+65,00
+
+†
+
+†
+
+*
+
+60,00
+Propofol
+Ketofol
+
+55,00
+50,00
+t0
+
+t1
+
+t2
+
+t3
+
+t4
+
+t5
+
+Time
+Figure 1. The changes in mean (SD) in heart rate with ketamine–propofol mixture (ketofol) and propofol use. t0 ¼ before induction; t1 ¼ immediately following induction;
+t2 ¼ immediately following laryngeal tube-Suction II (LTS II) placement; t3 ¼ 3 minutes after LTS II placement; t4 ¼ 5 minutes after LTS II placement; t5 ¼ 10 minutes after
+LTS II placement. *P o 0.01 compared with baseline values in Group P. †P o 0.001 compared with baseline values in Group K.
+
+was not maintained because we used a higher dose of propofol
+than was used in the previous study. Iwata et al31 could not
+achieve hemodynamic stability with 0.5 mg/kg or 1 mg/kg ketamine applied before 2 mg/kg propofol for anesthetic induction in
+the double-lumen tube application. Those authors pointed out that
+this might be due to use of fentanil and sevoﬂurane in both groups.
+Similarly, use of remifentanil before induction may have impaired
+the hemodynamic effects of ketofol in our study.
+Akın et al32 showed that addition of ketamine to propofol
+protected respiration better than use of propofol alone for the
+purpose of sedation of children. Its depressive effect on the central
+respiratory system is minimal and it preserves response to carbon
+dioxide.33 In our study, apnea time was shorter in Group K than
+Group P, although the difference was not statistically signiﬁcant.
+Concerns regarding ketamine are increased secretion, delay of
+recovery, and emergence of reactions.34 We did not see these
+adverse effects in our study. Those adverse effects might be
+reduced by the presence of propofol.
+110
+
+Conclusions
+In our study LTS II insertion condition summed score was better
+in Group K compared with Group P with minimal the hemodynamic changes. When these parameters are considered, ketofol
+might be used as an alternative to propofol for LTS II insertion in
+adults.
+
+Acknowledgments
+All authors contributed equally to the creation of this
+manuscript.
+
+100
+
+*,†
+*
+
+MAP (mm Hg)
+
+There are some limitations to our study. First, we were unable
+to measure anesthetic depth, so LTS II insertion conditions may
+have been adversely affected and changes may have been observed
+in hemodynamic parameters. Second, use of remifentanil in both
+groups before induction may have impaired the hemodynamic
+effects of the agents.
+
+Conﬂicts of Interest
+
+*
+
+90
+
+*
+
+The authors have indicated that they have no conﬂicts of
+interest regarding the content of this article.
+
+80
+*
+
+References
+
+70
+
+*
+
+*
+
+*
+
+60
+
+*
+Propofol
+Ketofol
+
+50
+t0
+
+t1
+
+t2
+
+t3
+
+t4
+
+t5
+
+Time
+Figure 2. The changes in mean (SD) in mean arterial pressure (MAP) with
+ketamine–propofol mixture (ketofol) and propofol use. t0 ¼ Before induction;
+t1 ¼ immediately following induction; t2 ¼ immediately following laryngeal tubeSuction II placement; t3 ¼ 3 minutes after laryngeal tube-Suction II placement;
+t4 ¼ 5 minutes after laryngeal tube-Suction II placement; t5 ¼ 10 minutes after
+laryngeal tube-Suction II placement. *P o 0.01 compared with baseline values;
+†
+P o 0.05 between groups.
+
+[1] Claeys MA, Gepts E, Camu F. Haemodynamic changes during anaesthesia
+induced and maintained with propofol. Br J Anaesth. 1988;60:3–9.
+[2] Hug Jr CC, McLeskey CH, Nahrwold ML, et al. Hemodynamic effects of
+propofol: data from over 25,000 patients. Anesth Analg. 1993;77(Suppl):
+S21–S29.
+[3] Scanlon P, Carey M, Power M, Kirby F. Patient response to laryngeal mask
+insertion after induction of anaesthesia with propofol or thiopentone. Can J
+Anaesth. 1993;40:816–818.
+[4] Arora S. Combining ketamine and propofol ("ketofol") for emergency department procedural sedation and analgesia: a review. West J Emerg Med.
+2008;9:20–23.
+[5] Guit JB, Koning HM, Coster ML, et al. Ketamine as analgesic for total
+intravenous anaesthesia with propofol. Anaesthesia. 1991;46:24–27.
+[6] Gray C, Swinhoe CF, Myint Y, Mason D. Target controlled infusion of ketamine
+as analgesia for TIVA with propofol. Can J Anaesth. 1999;46:957–961.
+[7] Morse Z, Sano K, Kanri T. Effects of a propofol—ketamine admixture in human
+volunteers. Pac Health Dialog. 2003;10:51–54.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+U. Ozgul et al. / Current Therapeutic Research 75 (2013) 39–43
+
+[8] Trissel LA, Gilbert DL, Martinez JF. Compatibility of propofol injectable
+emulsion with selected drugs during simulated Y-site administration. Am J
+Health Syst Pharm. 1997;54:1287–1292.
+[9] Andolfatto G, Willman E. A prospective case series of single-syringe ketaminepropofol (ketofol) for emergency department procedural sedation and analgesia in adults. Acad Emerg Med. 2011;18:237–245.
+[10] Weatherall A, Venclovas R. Experience with a propofol-ketamine mixture for
+sedation
+during pediatric
+orthopedic surgery. Paediatr Anaesth.
+2010;20:1009–1016.
+[11] Erdogan Kayhan G, Yucel A, Colak YZ, et al. Ketofol (mixture of ketamine and
+propofol) administration in electroconvulsive therapy. Anaesth Intensive Care.
+2012;40:305–310.
+[12] Rapeport DA, Martyr JW, Wang LP. The use of "ketofol" (ketamine-propofol
+admixture) infusion in conjunction with regional anaesthesia. Anaesth Intensive Care. 2009;37:121–123.
+[13] Mihai R, Knottenbelt G, Cook TM. Evaluation of the revised laryngeal tube
+suction: the laryngeal tube-Suction II in 100 patients. Br J Anaesth.
+2007;99:734–739.
+[14] Bein B, Carstensen S, Gleim M, et al. A comparison of the proseal laryngeal
+mask airway, the laryngeal tube S and the oesophageal-tracheal combitube
+during routine surgical procedures. Eur J Anaesthesiol. 2005;22:341–346.
+[15] Asai T, Shingu K, Cook T. Use of the laryngeal tube in 100 patients. Acta
+Anaesthesiol Scand. 2003;47:828–832.
+[16] Asai T, Shingu K. The laryngeal tube. Br J Anaesth. 2005;95:729–736.
+[17] Gaitini LA, Vaida SJ, Somri M, et al. A randomized controlled trial comparing
+the ProSeal Laryngeal Mask Airway with the Laryngeal Tube Suction in
+mechanically ventilated patients. Anesthesiology. 2004;101:316–320.
+[18] Esa K, Azarinah I, Muhammad M, et al. A comparison between Laryngeal Tube
+Suction II Airway and Proseal Laryngeal Mask Airway in laparascopic surgery.
+Med J Malaysia. 2011;66:182–186.
+[19] Roth H, Genzwuerker HV, Rothhaas A, et al. The ProSeal laryngeal mask airway
+and the laryngeal tube suction for ventilation in gynaecological patients
+undergoing laparoscopic surgery. Eur J Anaesthesiol. 2005;22:117–122.
+[20] Burlacu CL, Gaskin P, Fernandes A, et al. A comparison of the insertion
+characteristics of the laryngeal tube and the Laryngeal Mask Airway: a study
+of the ED50 propofol requirements. Anaesthesia. 2006;61:229–233.
+[21] Singh R, Arora M, Vajifdar H. Randomized double-blind comparison of
+ketamine-propofol and fentanyl-propofol for the insertion of laryngeal mask
+airway in children. J Anaesthesiol Clin Pharmacol. 2011;27:91–96.
+[22] Stoneham MD, Bree SE, Sneyd JR. Facilitation of laryngeal mask insertion.
+Effects of lignocaine given intravenously before induction with propofol.
+Anaesthesia. 1995;50:464–466.
+
+43
+
+[23] Cheam EW, Chui PT. Randomised double-blind comparison of fentanyl,
+mivacurium or placebo to facilitate laryngeal mask airway insertion. Anaesthesia. 2000;55:32332–32336.
+[24] Goh PK, Chiu CL, Wang CY, et tal. Randomized double-blind comparison of
+ketamine-propofol, fentanyl-propofol and propofol-saline on haemodynamics
+and laryngeal mask airway insertion conditions. Anaesth Intensive Care.
+2005;33:223–228.
+[25] Okuyama K, Inomata S, Okubo N, Watanabe I. Pretreatment with small-dose
+ketamine reduces predicted effect-site concentration of propofol required for
+loss of consciousness and laryngeal mask airway insertion in women. J Clin
+Anesth. 2011;23:113–118.
+[26] Gupta A, Kaur S, Attri JP, Saini N. Comparative evaluation of ketaminepropofol, fentanyl-propofol and butorphanol-propofol on haemodynamics
+and laryngeal mask airway insertion conditions. J Anaesthesiol Clin Pharmacol.
+2011;27:74–78.
+[27] Begec Z, Demirbilek S, Onal D, et al. Ketamine or alfentanil administration
+prior to propofol anaesthesia: the effects on ProSeal laryngeal mask airway
+insertion conditions and haemodynamic changes in children. Anaesthesia.
+2009;64:282–286.
+[28] Erdogan MA, Begec Z, Aydogan MS, et al. Comparison of effects of propofol and
+ketamine-propofol mixture (ketofol) on laryngeal mask airway insertion
+conditions and hemodynamics in elderly patients: a randomized, prospective,
+double-blind trial. J Anesth. 2013;27:12–17.
+[29] Tosun Z, Esmaoglu A, Coruh A. Propofol-ketamine vs propofol-fentanyl
+combinations for deep sedation and analgesia in pediatric patients undergoing burn dressing changes. Paediatr Anaesth. 2008;18:43–47.
+[30] Erden IA, Pamuk AG, Akinci SB, et al. Comparison of propofol-fentanyl with
+propofol-fentanyl-ketamine combination in pediatric patients undergoing
+interventional radiology procedures. Paediatr Anaesth. 2009;19:500–506.
+[31] Iwata M, Inoue S, Kawaguchi M, et al. Ketamine eliminates propofol pain but
+does not affect hemodynamics during induction with double-lumen tubes. J
+Anesth. 2010;24:31–37.
+[32] Akin A, Esmaoglu A, Tosun Z, et al. Comparison of propofol with propofolketamine combination in pediatric patients undergoing auditory brainstem
+response testing. Int J Pediatr Otorhinolaryngol. 2005;69:1541–1545.
+[33] Frizelle HP, Duranteau J, Samii K. A comparison of propofol with a propofolketamine combination for sedation during spinal anesthesia. Anesth Analg.
+1997;84:1318–1322.
+[34] Tomatir E, Atalay H, Gurses E, et al. Effects of low dose ketamine before
+induction on propofol anesthesia for pediatric magnetic resonance imaging.
+Paediatr Anaesth. 2004;14:845–850.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

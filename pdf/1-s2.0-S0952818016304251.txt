@@ -1,0 +1,676 @@
+Journal of Clinical Anesthesia (2016) 35, 107–113
+
+Original Contribution
+
+Operating room discharge after deep neuromuscular
+block reversed with sugammadex compared
+with shallow block reversed with neostigmine: a
+randomized controlled trial☆
+Laurie Putz MD a,⁎, Christophe Dransart MD a ,
+Jacques Jamart MD, MSc (Associate Professor)b , Maria-Laura Marotta MD c ,
+Geraldine Delnooz MD a , Philippe E. Dubois MD (Associate Professor)a
+a
+
+Anesthesiology Department, Université Catholique de Louvain, CHU UCL Namur, 1, Avenue Gaston Thérasse,
+B-5530 Yvoir, Belgium
+b
+Scientific Support Unit, Université Catholique de Louvain, CHU UCL Namur, 1, Avenue Gaston Thérasse, B-5530 Yvoir, Belgium
+c
+Gynecology Department, Université Catholique de Louvain, CHU UCL Namur, 1, Avenue Gaston Thérasse,
+B-5530 Yvoir, Belgium
+Received 15 April 2016; revised 7 June 2016; accepted 8 July 2016
+
+Keywords:
+Neuromuscular blockade;
+Recovery room;
+Rocuronium;
+Neostigmine;
+Sugammadex
+
+Abstract
+Objective: To determine if reversing a deep or moderate block with sugammadex, compared with a shallow
+block reversed with neostigmine, reduces the time to operating room discharge after surgery and the time
+spent in the postanesthesia care unit.
+Design: A randomized controlled trial.
+Setting: Monocentric study performed from February 2011 until May 2012.
+Patients: One hundred consenting women with American Society of Anesthesiologists grade I or II were
+randomized into 2 groups.
+Intervention: Laparoscopic hysterectomy was performed under desﬂurane general anesthesia. For the neostigmine (N) group, 0.45 mg · kg−1 rocuronium was followed by spontaneous recovery. A 5-mg rescue bolus was administered only if surgical evaluation was unacceptable. At the end of surgery, 50 μg · kg−1
+neostigmine with glycopyrrolate was administered. For the sugammadex (S) group, a higher intubating
+rocuronium dose (0.6 mg · kg−1) was followed by 5-mg boluses each time the train-of-four count exceeded
+2. Sugammadex (2-4 mg · kg−1) was administered to reverse the block. All patients were extubated after
+obtaining a train-of-four ratio of 0.9.
+Measurements: The duration between the end of surgery and operating room discharge and the time spent in
+the postanesthesia care unit.
+Main results: The time till operating room discharge was shorter and more predictable in group S
+(9.15 ± 4.28 minutes vs 13.87 ± 11.43 minutes in group N; P = .005). The maximal duration in group S
+
+☆
+
+Disclosure: The study was supported only by departmental funds.
+⁎ Corresponding author at: Department of Anesthesiology, CHU UCL Namur, Avenue Gaston Thérasse, 1, B-5530 Yvoir, Belgium. Tel.: +32 81 42 39 35;
+fax: +32 81 42 39 20.
+E-mail address: laurie.putz@uclouvain.be (L. Putz).
+
+http://dx.doi.org/10.1016/j.jclinane.2016.07.030
+0952-8180/© 2016 Elsevier Inc. All rights reserved.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+108
+
+L. Putz et al.
+was 22 minutes, compared with 72 minutes in group N. The time spent in the postanesthesia care unit was
+not signiﬁcantly different (group S: 47.75 ± 31.77 minutes and group N: 53.43 ± 40.57 minutes; P = .543).
+Conclusion: Maintaining a deep neuromuscular block during laparoscopic hysterectomy reversed at the end
+of the procedure with sugammadex enabled a faster and more predictable time till operating room discharge
+than did the classical combination of a shallower block reversed with neostigmine.
+© 2016 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Increasing recent evidence suggests that inducing a deep
+neuromuscular block (NMB) contributes to improving surgical laparoscopic conditions [1-3]. At the end of such procedures, sugammadex allows for fast and predictable reversal of
+deep degrees of NMB induced by rocuronium [4,5]. Where
+available, this new practice is challenging the classical management of intraoperative NMB and the limited reversal of moderate levels of blockade with neostigmine [6,7]. However, the
+cost-effectiveness of the combination of deep NMB and sugammadex in daily clinical practice has not been determined [8].
+To test the hypothesis that intraoperative deep NMB combined with sugammadex reversal reduces the time spent in
+the operating room (OR) and improves patient recovery in
+the postanesthesia care unit (PACU), we performed a randomized controlled study to compare this combination with shallow NMB reversed with neostigmine and glycopyrrolate in
+patients undergoing gynecologic laparoscopic surgery.
+The primary outcome measures were the duration of surgery, pharmacologic reversal, OR discharge, OR and PACU
+occupation times, and the length of hospital stay. The secondary outcome measure was a modiﬁed Aldrete recovery score
+that was collected in the PACU. In addition, we discuss the potentially related economic opportunities.
+
+2. Methods
+2.1. Patient selection
+After approval from the institutional ethical committee
+(CHU Dinant Godinne om 050, Chairperson Pr P. Evrard, registered in November 2010 at the Belgian Federal Agency for
+Medicines and Health products No. B03920109764) and the
+acquisition of written informed consent, 100 patients were enrolled in the study between February 2011 and May 2012. The
+results of the ﬁrst part of the study (ie, evaluations of the intraoperative surgical conditions between the groups) have previously been published [2]. This second part of the study reports
+completely different data focused on timing and quality of
+patients' recovery.
+The study population included American Society of Anesthesiologists I-II female patients, ranging in age from 18 to
+80 years, who were scheduled to undergo a laparoscopic
+
+hysterectomy. We excluded patients with renal or hepatic diseases and those with neurologic disorders or allergies to any of
+the medications used in the study protocol.
+
+2.2. Study groups and randomization
+The randomization of the 2 treatment groups was performed with the minimization procedure described by Taves
+[9] and generalized by Pocock and Simon [10]. We enrolled
+consecutively the patients and accounted for the following 4
+criteria while allocating them to the treatment groups: (1) age
+(18-40, 41-60, and 61-80 years), (2) body mass index (b20,
+20-24, 25-29, 30-34, and 35-39 kg/m2 ), (3) type of surgery
+(laparoscopic hysterectomy, laparoscopic subtotal hysterectomy, or laparoscopic subtotal hysterectomy and cervical sacroﬁxation), and (4) number of pregnancies (0-5). The
+randomization was performed with customized software.
+2.2.1. Neostigmine group
+A low intubating rocuronium dose (0.45 mg · kg−1) induced a short NMB (train-of-four [TOF] count 0 at the time
+of tracheal intubation) followed by spontaneous recovery unless the surgical condition was unacceptable, as evaluated by
+the senior experienced surgeon; in such cases, a rescue 5-mg
+rocuronium bolus dose was administered. If necessary when
+TOF ratio was b0.9, 50 μg · kg−1 neostigmine with glycopyrrolate was administered at the end of surgery to reverse any
+residual NMB [7]. This study group was designed to correspond to usual clinical practice in numerous hospitals, avoiding deep and most moderate levels of blockade at the end of
+the procedure to allow for as effective neostigmine reversal
+as possible [6].
+
+2.3. Sugammadex group
+A higher intubating rocuronium dose (0.6 mg · kg−1) induced deeper and longer NMB. In the case of extended procedures, a deep NMB (TOF count b1) was reinduced by
+repeated 5-mg bolus doses each time the TOF count reached
+or exceeded 2. Sugammadex at 2 to 4 mg · kg−1 was administered after the end of surgery to reverse the moderate or deep
+NMB accordingly [11].
+One senior surgeon in charge of the study and all the clinical care nurses were blinded to the group assignment throughout the study. The senior anesthesiologist in charge of the
+patient strictly observed the following protocol.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Patient discharge after deep NMB and sugammadex
+Table 1
+
+109
+
+Recovery scores.
+0 point
+
+1 point
+
+2 points
+
+Motor activity
+Breathing
+
+Not able to move
+Bradypnea b6/min
+
+Motor weakness
+Weak ventilation or dyspnea
+
+Pulse oximetry
+Systolic blood
+pressure
+Consciousness
+
+b90% with O2
+N50% (+ or −) of baseline
+
+Need O2 to maintain N90%
+20%-49% baseline
+
+Move arms and legs
+Deeply breathing and
+coughing
+N92% with air
+b20% baseline
+
+No response on call or physical
+stimulation
+Intense
+VAS N7
+
+Wake up with simple physical
+stimulation
+Mild
+VAS 3-6
+
+PONV
+Pain
+
+Awake on call and orienting
+None
+VAS b3
+
+PACU recovery score that included 7 items, each of which was rated on a scale from 0 to 2 points. A minimum of 12 points was mandatory before PACU
+discharge. PACU = postanesthesia care unit; PONV = postoperative nausea or vomiting’ VAS = visual analog score.
+
+2.4. Intraoperative care
+The patient's premedication involved the administration of
+0.5 mg of lorazepam 60 minutes before arrival in the operating
+theater. The anesthesia equipment consisted of a 3-lead electrocardiogram, a noninvasive blood pressure measurement device,
+and ﬁnger pulse oximetry. An intravenous line containing Ringer's lactate solution was inserted into a major left forearm vein.
+We used a quantitative neuromuscular transmission (NMT)
+monitor to guide rocuronium administration continuously in
+every patient, from NMB induction to tracheal extubation.
+Using electromyography, the adductor pollicis responses were
+recorded after ulnar nerve stimulation (NeuroMuscular Transmission module; GE Healthcare, Buckinghamshire, UK) according to good clinical research guidelines [12]. TOF
+stimulations were applied every 20 seconds. When the TOF
+count was 0, a posttetanic count was determined every 5
+minutes.
+Anesthesia was induced with intravenous sufentanil at
+0.15 μg · kg−1, ketamine at 0.5 mg · kg−1, and propofol at
+2 to 3 mg · kg−1 and immediately maintained with a minimum
+of 6% desﬂurane to a target minimal alveolar concentration of
+1 to 1.2 according to need (Zeus Inﬁnity–empowered anesthesia machine; Drägerwerk AG and Co, Lübeck, Germany).
+After the patient lost consciousness, the ventilation was manually controlled. The randomized dose of rocuronium was then
+administered, and tracheal intubation was performed once the
+evoked muscular responses ceased (TOF count 0). Controlled
+mechanical ventilation was initiated (semiclosed circuit, 40%45% oxygen in air) and adjusted to produce an end-tidal
+carbon dioxide concentration within the range of 30 to
+35 mm Hg. After the patient had been placed in the lithotomic
+position, we determined the hemodynamic baseline before the
+surgical procedure began. During the study period, the oropharyngeal and right-hand temperatures were maintained above
+36°C and 32°C, respectively. The intraperitoneal CO2 insufﬂation pressure was set and monitored at 13 mm Hg throughout the procedure. The patient was placed in the maximal
+Trendelenburg position at 45° for the duration of the surgery
+
+(Maquet, Ardon, France). Postoperative pain and nausea
+were prevented via the administration of 1 g of paracetamol,
+1 mg · kg−1 of tramadol, 50 mg of alizapride, and 0.625 mg
+of dehydrobenzperidol 30 minutes before the end of surgery.
+We added 10 mg of butylhyoscine to prevent spasms on the
+urinary catheter. At the end of the surgery, the abdominal cavity was completely exsufﬂated, and the abdominal ports were
+removed. No further rocuronium bolus was administered. The
+patient was placed ﬂat, the laparoscopic incisions were sutured, and the skin was dressed. The NMB reversal agent
+was administered depending on the group and the level of
+NMB recovery. The effects of pharmacologic reversal were
+monitored until a TOF ratio greater than 0.9 was obtained; then
+the administration of desﬂurane was interrupted, and the vapor
+was washed out rapidly (Zeus 1-minute wash-out during mechanical ventilation followed by fresh gas ﬂow N10 L/min
+O2 95% in air in spontaneous breathing mode) [13]. All patients were extubated after the recovery of spontaneous breathing, swallowing, and airway protection reﬂexes. The monitors
+were removed, and the patients were transferred to the PACU
+with oxygen.
+We recorded the duration of the surgery (T1), the duration
+of NMB reversal—from the injection of the reversal agent until a TOF ratio of 0.9 was achieved—(T2), the time between
+the end of surgery and OR discharge (T3), and the total time
+spent in the OR (T4).
+
+2.5. Postanesthesia care unit
+In the PACU, nurses who were blinded to the study group
+evaluated the patients' recoveries on arrival and every 15 minutes, using a modiﬁed Aldrete score that included 7 items,
+each of which counted for 2 points, as described in Table 1
+[14-16]. When needed (ie, when the visual analog score was
+N3), intravenous morphine (1 mg) was administered every 5 minutes to alleviate pain. Ondansetron (4 mg) was added in cases
+of mild postoperative nausea or vomiting. After a minimum of
+30 minutes, the patients were declared ready for discharge if
+their recovery score was N12 and every item was under control.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+110
+
+L. Putz et al.
+
+Table 2 Characteristics of patient groups according to each
+minimization criterion.
+Minimization criteria
+
+Neostigmine
+group
+
+Sugammadex
+group
+
+Age (y)
+Body mass index (kg/m2)
+Type of surgery
+LH
+LASH
+LASH + sacroﬁxation
+No. of pregnancies
+0/1/2/3/4/5 or more
+
+51.7 ± 10.9
+25.9 ± 4.9
+
+49.9 ± 9.8
+26.7 ± 5.3
+
+43
+2
+5
+
+43
+3
+4
+
+7/5/24/6/7/1
+
+2/10/19/11/6/2
+
+LH = laparoscopic hysterectomy; LASH = laparoscopic subtotal hysterectomy; LASH + sacroﬁxation = laparoscopic subtotal hysterectomy and
+cervix sacroﬁxation.
+
+For each patient, we recorded the initial recovery score, the
+best recovery score, the discharge readiness time, and the morphine consumption. The reasons for all nonoptimal scores
+(b14) were determined.
+
+2.6. Sample size and statistics
+The sample size established for the ﬁrst part of the study
+with an α error rate of 0.05 and a power of 0.90 was calculated
+to be 86 patients with the G*Power 3 software [2,17]. We randomized 100 patients into 2 groups. This patient number is
+higher than recently published trials that were speciﬁcally designed with similar aims [3,18].
+The data were compared between the 2 groups using the
+Wilcoxon rank sum test. P values b.05 were considered statistically signiﬁcant.
+The economic considerations were based on a multifactorial evaluation of the OR costs. In our university training institution (400 beds, most of the staff are composed of salaried
+employees), accounting for physician, trainee, nurse, and technical staff compensation, as well as building and medical
+equipment amortization, we concluded that the cost of one
+opened OR was approximately $20 per minute. This value is
+within the range of published data [19].
+According to the study location in Belgium, a 200-mg vial
+of sugammadex costs $85, whereas a 2.5-mg vial of neostigmine with 0.5 mg of glycopyrrolate costs $4. Accounting for
+OR and drug costs, a reduction of 4.25 minutes (85/20) in
+OR occupation time per sugammadex vial was taken as the
+signiﬁcant threshold for sugammadex cost-effectiveness that
+would warrant further discussion.
+
+3. Results
+Of the 100 initially enrolled patients, 2 were excluded after
+randomization due to intraoperative violations of the protocol
+(ie, an inappropriate magnesium administration at induction
+
+in one case and a failure apply the protocol in the other case)
+and were prospectively replaced by 2 other patients who were
+also randomized. The ﬁnal analysis included 100 patients (50
+in neostigmine group and 50 in sugammadex group). The details of the patients' characteristics, which were similar due to
+the randomization criteria, are provided in Table 2.
+The patients included in the neostigmine and sugammadex
+groups received a total rocuronium dose of 33.4 ± 6.9 mg and
+57.0 ± 15.4 mg, including 19 and 131 additional 5 mg boluses, respectively. The NMB reversal agents were administered
+according to the actual level of NMB recovery at the end of
+skin dressing, as detailed in Fig. 1.
+The results are presented in Table 3. Neither the potential
+beneﬁt of reducing the duration of surgery with deep NMB
+nor the overall time spent in the OR and PACU reached statistical signiﬁcance.
+In contrast, Wilcoxon rank sum tests revealed highly significant differences in the NMB reversal times (T2) and OR discharge times (T3; Fig. 2). The latter difference between groups
+was 4.72 minutes on average. Moreover, the range of values at
+T3 (the maximal duration in the neostigmine group was 72 minutes and that in the sugammadex group was 22 minutes) was
+clinically relevant because the interindividual variability in the
+reversal time with neostigmine resulted in unpredictably delayed discharges from the OR.
+In the PACU, the recovery scores, incidences of adverse effects, and morphine consumptions did not differ signiﬁcantly
+between the groups. The hospital discharge times were also
+not different.
+
+4. Discussion
+This study demonstrated that shorter and more predictable
+OR discharges occur after the administration of sugammadex
+to patients at moderate or deep levels of NMB than after the
+administration of neostigmine to patients at moderate or even
+much shallower levels of blockade. Similar to the results of
+Geldner et al. [4], we conﬁrmed a clinically signiﬁcant beneﬁt
+in the time spent by the patient in the OR after the end of surgery. The use of sugammadex allowed the anesthesiologist to
+reverse moderate or deep NMB that was maintained until the
+end of surgery while reducing the times required for safe extubation and OR discharge.
+Sugammadex has been found to induce much faster reversals even from the deepest levels of blockade compared with
+neostigmine in randomized controlled trials and in clinical
+practice [4,5,20]. However, sugammadex reversal is not always as rapid as expected in every patient. The maximal reversal time provided by the literature when reversing deep NMB
+with sugammadex is up to 20 minutes [20,21]. Moreover, inappropriate (ie, lower than recommended) sugammadex dosing can lead to uncertain effects [20,21]. Thus, sugammadex
+clearly cannot replace good clinical practice and the systematic
+use of NMT monitoring to manage each stage of NMB in every patient [6,22,23].
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Patient discharge after deep NMB and sugammadex
+
+Fig. 1 NMT monitoring. The actual level of neuromuscular blockade
+measured by electromyography at the time of intubation (TOF count 0 in
+all cases) and sugammadex or neostigmine administration (except if
+TOF ratio N 0.9). The patients from sugammadex group are represented as white dots, and those from neostigmine group are represented as
+black dots. See the Methods section for details. NMT = neuromuscular transmission; TOF = train-of-four; PTC = post tetanic count.
+
+To limit the cost in the sugammadex group, the block recovered a moderate level before being deepened by rocuronium boluses, except after the abdominal ports have been
+removed (few patients reached a TOF count of 3 or 4). On
+the other hand, to minimize the duration of reversal, our study
+design let the NMB recover shallow levels of blockade in most
+patients in the neostigmine group (TOF count 4 with fade;
+Table 3
+
+111
+Fig. 1). Despite this, the proper reversal of moderate to deep
+NMB with sugammadex (2-4 mg · kg−1) was not only faster
+than reversal with neostigmine (at moderate or much higher
+NMB levels) but also more predictable, as demonstrated by a
+much lower standard deviation (1.15 vs 15.43 minutes). This
+beneﬁt was reﬂected in more rapid OR discharges. The time
+spent in the OR between the end of surgery and discharge
+was shorter on average, as has been previously published [4],
+and also more predictable when sugammadex was used
+(Fig. 2). The interindividual variability was more important
+in the neostigmine group, which included several challenging
+outliers. Such delayed and unpredictable discharges are a
+threat to the efﬁcient organizations of the OR programs—this
+issue is discussed later.
+A deep NMB is deﬁned as a posttetanic count of 1 or more,
+but a TOF count of 0; on the other hand, a moderate NMB gets
+a TOF count of 1 to 3 [6,12]. Compared with moderate NMB,
+there is good evidence that the maintenance of deep NMB optimizes the surgical conditions during abdominal and gynecologic surgeries, especially during lower abdominal
+laparoscopies [1]. Speciﬁcally, in the ﬁrst part of our study, only the deep NMB was found to prevent sudden abdominal wall
+contractions that can induce unacceptable surgical conditions
+(occurring in 28% of cases in the shallow block group) and
+disrupt the course of the procedure [2]. Blobner et al [3] recently demonstrated that deep neuromuscular blockade improves
+surgical laparoscopic conditions during cholecystectomy but
+does not reduce surgical time. Our study conﬁrmed this ﬁnding and was unable to demonstrate a signiﬁcant reduction in
+the duration of surgery under optimal conditions with deep
+NMB. Neither of these studies was designed to evaluate the intraoperative patient safety.
+As sugammadex was introduced into clinical practice,
+some anesthesiologists noticed surprisingly fast arousals from
+
+Results.
+
+T1 surgery
+T2 reversal
+T3 OR discharge
+T4 OR time
+Initial recovery score
+Best recovery score
+Time PACU discharge
+Total time OR + PACU
+Hospital stay (d)
+
+Neostigmine group
+
+Sugammadex group
+
+P
+
+1:14:03 ± 0:22:39
+0:09:56 ± 0:15:26
+0:13:52 ± 0:11:26
+2:01:08 ± 0:28:08
+12.29 ± 1.25
+13.73 ± 0.45
+0:53:26 ± 0:40:34
+3:02:52 ± 0:41:36
+3.34 ± 0.74
+
+1:09:25 ± 0:22:19
+0:02:37 ± 0:01:09
+0:09:09 ± 0:04:17
+1:51:20 ± 0:24:58
+12.04 ± 1.47
+13.84 ± 0.37
+0:47:45 ± 0:31:46
+2:49:20 ± 0:38:30
+3.38 ± 1.41
+
+.278
+.001
+.005
+.103
+.410
+.201
+.543
+.064
+.457
+
+25
+3.69 ± 4.29
+4
+9
+5
+5
+
+.352
+.199
+.976
+.760
+.751
+.479
+
+In PACU, patients experimented troubles with (n)
+Pain (VAS N3)
+29
+Morphine (mg)
+4.52 ± 3.97
+PONV
+4
+SpO2 + O2
+10
+Consciousness
+4
+Blood pressure
+3
+
+The results are expressed as the mean ± SD. Time is expressed as h:mm:ss. See the methods section for details. OR = operating room; PACU = postanesthesia
+care unit; PONV = postoperative nausea or vomiting.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+112
+
+Fig. 2 OR discharge. The time between the end of surgery and OR
+discharge is expressed in minutes comparing the neostigmine group
+(shallow neuromuscular block reversed with neostigmine) and
+sugammadex group (deep to moderate neuromuscular block reversed
+with sugammadex). Boxes represent 25-75th percentiles, with the median as bold line. Dots are values more than 1.5 box lengths from 75th
+percentile (outliers), and whiskers are the smallest or largest observed
+values that are not outliers. OR = operating room.
+
+anesthesia. Among these anesthesiologists, Chazot and colleagues [24] described sudden electroencephalographic modiﬁcations and clinical signs of recovery that occurred 30
+seconds after the administration of a sugammadex bolus.
+These authors proposed a “spindle theory” to explain the acute
+recovery. Even earlier, Vasella and colleagues [25] explained
+similar results observed after the administration of neostigmine with the “afferentation theory,” which was based on the
+observation that the arousal effect appeared to correspond with
+a sudden increase in afferent signals from muscle stretch receptors. In contrast, when Illman and colleagues [26] conducted a study that was speciﬁcally designed to examine the
+possible effects of sugammadex on the level of anesthesia as deﬁned by BIS and spectral entropy levels, they found no effect.
+Based on evaluations of recovery using a modiﬁed Aldrete
+score upon arrival in the PACU, our study demonstrated no
+signiﬁcant beneﬁt of sugammadex reversal in terms of quality
+or speed of recovery after general anesthesia. The patients
+from both groups who were admitted to the PACU a few minutes after OR discharge presented similar recovery scores.
+We speculate that we would have observed a different result
+if the recovery assessments have been performed closer to
+
+L. Putz et al.
+tracheal extubation, but this would raise the question of the
+clinical relevance of such a potential transient effect.
+Similarly, our study revealed similar PACU stay durations in
+both groups. Previous studies have demonstrated that residual
+NMB on arrival to the PACU is associated with delayed discharge [27]. Our protocol imposed the criteria of the recovery
+of a TOF ratio N0.9 on both groups before awakening and
+extubating the patients, which ruled out the residual block
+and its potential inﬂuence on PACU initial recovery assessments
+and stay durations. In these conditions, reversal with sugammadex
+did not further favor better recovery scores compared with neostigmine. The lack of differences between groups in the PACU
+could be related to improved management of residual NMB in
+the OR for every patient, based on quantitative NMT monitoring.
+The postoperative factors that most frequently contributed
+to the time spent in the PACU were the need for supplemental
+pain management (visual analog score N3 in 54% of the patients), hypoxemia, hypotension, insufﬁcient consciousness
+recovery, and postoperative nausea or vomiting (see Table 3).
+However, there was no signiﬁcant difference between groups.
+This ﬁnding conﬁrms recent studies that have been conducted
+in the same context and compared recovery from deep
+NMB + sugammadex vs moderate NMB + neostigmine after
+laparoscopic surgery [4,18,28].
+The translation of the possible beneﬁts of NMB reversed by
+sugammadex in reducing the hospital stay is controversial.
+Some studies have demonstrated signiﬁcant decreases in postoperative pneumonia [29] and hospital discharge time (2.0 vs
+2.2 days) [30]. However, as with other studies [31,32], we
+found no difference between our 2 groups. Further studies
+should speciﬁcally determine whether the intraoperative advantage of deep NMB (ie, improvements in surgical conditions) and reversal with sugammadex (ie, reducing OR
+discharge time and residual NMB) improve patient outcomes.
+Compared with the neostigmine group, the use of sugammadex was associated with a more predictable OR discharge and
+trend toward shorter stays on average (ie, total OR + PACU
+time, P = .064; see Table 3 for details). Better predictability
+and shorter times allow for a better dynamism of the operating
+theater staff by improving turnover while respecting the OR
+schedule as closely as possible. However, the economic value
+of the time saved by improved OR efﬁciency remains unclear
+and depends on the ability of the staff to perform other productive activities and the ability of the OR manager to proactively
+ﬁne-tune the stafﬁng to match the surgical demand [8,33-35].
+As with the OR, the PACU is a bottleneck in patient ﬂow.
+Any delay of admission or discharge, particularly in the late afternoon or evening, might affect the costs of the PACU due to
+the salaries of the nurses and anesthesiologists (eg, extra hours
+have higher costs) and should be limited as much as possible
+[27]. Because it prevents residual NMB, the association between NMT monitoring and sugammadex could reduce the
+times spent in the OR and PACU and thus the associated costs.
+However, sugammadex would be cost-effective only if the reduction in recovery time occurs mainly in the operating theater
+(high-value staff time) rather than in the PACU (relatively
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Patient discharge after deep NMB and sugammadex
+lower-value staff time) [8]. For instance, in the conditions of
+our study, the total excess time spent in OR waiting for neostigmine reversal (220 minutes) could compensate for the cost
+of one sugammadex vial for every patient, which was sufﬁcient in most cases. The ﬁnancial consequences of deep
+NMB management based on sugammadex reversal depend
+on multiple factors that include the intraoperative advantages
+in terms of the surgical conditions, the value of the time
+spared, and who is charged for the drugs (ie, the health care
+system, the hospital, the department, or the patient). Further
+studies should precisely deﬁne the ﬁnancial effects of such
+strategies in the speciﬁc conditions of each health care system
+and hospital cost and for speciﬁc surgical procedures.
+In conclusion, the maintenance of a moderate to deep NMB
+during laparoscopic hysterectomy with reversal at the end of
+the procedure with sugammadex enabled faster and more predictable OR discharges than did the classical combination of
+shallower NMB reversed with neostigmine.
+
+References
+[1] Madsen MV, Staehr-Rye AK, Gätke MR, Claudius C. Neuromuscular
+blockade for optimizing surgical conditions during abdominal and gynaecological surgery: a systematic review. Acta Anaesthesiol Scand 2015;59:1-16.
+[2] Dubois PE, Putz L, Jamart J, Marotta ML, Gourdin M, Donnez O. Deep
+neuromuscular block improves surgical conditions during laparoscopic hysterectomy. A randomised controlled trial. Eur J Anaesthesiol 2014;31:430-6.
+[3] Blobner M, Frick CG, Stäuble RB, Feussner H, Schaller SF, Unterbuchner C, et al. Neuromuscular blockade improves surgical conditions. Surg
+Endosc 2015;29:627-36.
+[4] Geldner G, Niskanen M, Laurila P, Mizikov MV, Hübler M, Beck G,
+et al. A randomised controlled trial comparing sugammadex at different
+depths of neuromuscular blockade in patients undergoing laparoscopic
+surgery. Anaesthesia 2012;67:991-8.
+[5] Blobner M, Eriksson LJ, Scholz J, Motsch J, Della Rocca G, Prinstsen
+ME. Reversal of rocuronium-induced neuromuscular blockade with
+sugammadex compared with neostigmine during sevoﬂurane anaesthesia: results of a randomised, controlled trial. Eur J Anaesthesiol 2010;
+27:874-81.
+[6] Kopman AT, Naguib M. Laparoscopic surgery and muscle relaxants: is
+deep block helpful? Anesth Analg 2015;120:51-8.
+[7] Kirkegaard H, Heier T, Caldwell JE. Efﬁcacy of tactile-guided reversal
+from cisatracurium-induced neuromuscular block. Anesthesiology
+2002;96:45-50.
+[8] Paton F, Paulden M, ChambersD HM, Duffy S, Hunter JM, et al. Sugammadex compared with neostigmine/glycopyrrolate for routine reversal of
+neuromuscular block: a systematic review and economic evaluation. Br J
+Anaesth 2010;105:558-67.
+[9] Taves DR. Minimization: a new method of assigning patients to treatment and control groups. Clin Pharmacol Ther 1974;15:443-53.
+[10] Pocock SJ, Simon R. Sequential treatment assignment with balancing for
+prognostic factors in the controlled clinical trial. Biometrics 1975;31:103-15.
+[11] Mirakhur RK. Sugammadex in clinical practice. Anaesthesia 2009;64:
+45-54.
+[12] Fuchs-Buder T, Claudius C, Skovgaard LT, Eriksson LI, Mirakhur RK,
+Viby-Mogensen J. Good clinical research practice in pharmacodynamic
+studies of neuromuscular blocking agents II: the Stockholm revision.
+Acta Anaesthesiol Scand 2007;51:789-808.
+[13] Wachtel RE, Dexter F, Epstein RH, Ledolter J. Meta-analysis of desﬂurane and propofol average times and variability in times to extubation and
+following commands. Can J Anesth 2011;58:714-24.
+
+113
+[14] Aldrete JA, Kroulik D. A postanesthetic recovery score. Anesth Analg
+1970;49:924-8.
+[15] Aldrete JA. The post-anesthesia recovery score revisited. J Clin Anesth
+1995;7:89-91.
+[16] White PF, Song D. New criteria for fast-tracking after outpatient anesthesia: a comparison with the modiﬁed Aldrete's scoring system. Anesth
+Analg 1999;88:1069-72.
+[17] Faul F, Erdfelder E, Lang A-G, Buchner A. G*power 3: a ﬂexible statistical power analysis for the social, behavioral, and biomedical sciences.
+Behav Res Methods 2007;39:175-91.
+[18] Staehr-Rye AK, Rasmussen LS, Rosenberg J, Juul P, Lindekaer AL,
+Riber C, et al. Surgical space conditions during low-pressure laparoscopic cholecystectomy with deep versus moderate neuromuscular
+blockade: a randomized clinical study. Anesth Analg 2014;119:
+1084-92.
+[19] Macario A. What does one minute of operating room time cost? J Clin
+Anesth 2010;22:233-6.
+[20] Della Rocca G, Pompei L, Pagan de Paganis C, Tesoro S, Mendola C,
+Boninsegni P, et al. Reversal of rocuronium neuromuscular block with
+sugammadex or neostogmine: a large observational study. Acta Anaesthesiol Scand 2013;57:1138-45.
+[21] Van Gestel L, Cammu G. Is the effect of sugammadex always rapid in
+onset? Acta Anaesthesiol Belg 2013;64:41-7.
+[22] Hemmerling TM, Geldner G. Sugammadex: good drugs do not replace
+good clinical practice. Anesth Analg 2007;105:1506.
+[23] Kotake Y, Ochiai R, Suzuki T, Ogawa S, Takagi S, Ozaki M, et al. Reversal with sugammadex in the absence of monitoring did not preclude
+residual neuromuscular block. Anesth Analg 2013;117:345-51.
+[24] Chazot T, Dumont G, Le Guen M, Hausser Hauw G, Liu N, Fischler M.
+Sugammadex administration results in arousal from intravenous anaesthesia: a clinical and EEG observation. Br J Anaesth 2011;106:
+914-6.
+[25] Vasella F, Frascarolo P, Spahn D, Magnusson L. Antagonism of neuromuscular blockade but not muscle relaxation affects depth of anaesthesia.
+Br J Anaesth 2005;94:742-7.
+[26] Illman H, Antila H, Olkkola KT. Reversal of neuromuscular blockade by
+sugammadex does not affect EEG derived indices of depth of anaesthesia. J Clin Monit Comput 2010;24:371-6.
+[27] Butterly A, Bittner EA, George E, Sandberg WS, Eikermann M, Schmidt
+U. Postoperative residual curarization from intermediate-acting neuromuscular blocking agents delays recovery room discharge. Br J Anaesth
+2010;105:304-9.
+[28] Martini CH, Boon M, Bevers RF, Aarts LP, Dahan A. Evaluation of surgical conditions during laparoscopic surgery in patients with moderate vs
+deep neuromuscular block. Br J Anaesth 2014;112:498-505.
+[29] Ledowski T, Hillyard S, O'Dea B, Archer R, Vilas-Boas F, Kyle B. Introduction of sugammadex as standard reversal agent: impact on the incidence of residual neuromuscular blockade and postoperative patient
+outcome. Indian J Anaesth 2013;57:46-51.
+[30] Ledowski T, Hillyard S, Kozman A, Johnston F, Gillies E, Greenaway
+M, et al. Unrestricted access to sugammadex: impact on neuromuscular
+blocking agent choice, reversal practice and associated healthcare costs.
+Anaesthesia and Intensive Care 2012;40:340-3.
+[31] Watts RW, London JA, van Wijk RM, Lui YL. The inﬂuence of unrestricted use of sugammadex on clinical anaesthetic practice in a tertiary
+teaching hospital. Anaesth Intensive Care 2012;40:333-9.
+[32] Ledowski T, Falke L, Johnston F, Gillies E, Greenaway M, De Mel A,
+et al. Retrospective investigation of postoperative outcome after reversal
+of residual neuromuscular blockade: sugammadex, neostigmine or no reversal. Eur J Anaesthesiol 2014;31:423-9.
+[33] Dexter F, Macario A. When to release allocated operating room time to
+increase operating room efﬁciency. Anesth Analg 2004;98:758-62.
+[34] Caldwell JE, Miller RD. Clinical implications of sugammadex. Anaesthesia 2009;64(Suppl. 1):66-72.
+[35] Tiwari V, FurmanWR SWS. Predicting case volume from the accumulating elective operating room schedule facilitates stafﬁng improvements.
+Anesthesiology 2014;121:171-83.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

@@ -1,0 +1,699 @@
+Endourology and Stones
+Comparison of Percutaneous
+Nephrolithotomy and Retrograde
+Intrarenal Surgery for the Treatment
+of Lower Calyceal Calculi of 2-3 cm in
+Patients With Solitary Kidney
+Yu Zhang,1 Yue Wu,1 Jiuzhi Li, and Guofei Zhang
+OBJECTIVE
+METHODS
+
+RESULTS
+
+CONCLUSION
+
+To compare percutaneous nephrolithotomy (PCNL) and retrograde intrarenal surgery (RIRS) for
+the treatment of lower calyceal calculi with diameter of 2-3 cm in patients with solitary kidney.
+We retrospectively analyzed 76 cases of calculi in solitary kidney from 3 medical centers in China
+between April 2013 and October 2016. Among them, 42 cases underwent PCNL, and 34 cases
+underwent RIRS.
+The operation time of the PCNL group (82.0 ± 27.9 minutes) was shorter than the RIRS group
+(117.2 ± 23.1 min, P <.001). The intraoperative decrease in hemoglobin of the PCNL group was
+5.4 ± 2.3 g/L, which was significantly higher than the RIRS group (1.8 ± 0.5 g/L, P <.001). The
+postoperative hospital stay was 13.9 ± 1.6 days for PCNL, which was longer than the RIRS group
+(7.3 ± 1.2 days, P < .001). PCNL achieved 85.7% (36 of 42) on 1-session stone-free rate, whereas
+RIRS group was 58.8% (20 of 34, P = .008). The overall stone-free rates were 92.86% (39 of 42)
+and 85.29% (29 of 34) for PCNL and RIRS, respectively (P >.05). The postoperative complication rate was similar between the RIRS group and the PCNL group.
+For patients with solitary kidney, PCNL achieved a higher 1-session stone-free rate than RIRS in
+the treatment of lower calyceal calculi within 2-3 cm in diameter. However, RIRS, with less bleeding and shorter postoperative hospital stay, may be an alternative. UROLOGY 115: 65–70, 2018.
+© 2018 Elsevier Inc.
+
+S
+
+These authors contributed equally to this work.
+Financial Disclosure: The authors declare that they have no relevant financial interests.
+The Department of Urology of the Sixth Affiliated Hospital of Xinjiang Medical University and the Department of Urology of Baoan Central Hospital of Shenzhen contributed
+equally to this work.
+From the Department of Urology, the Sixth Affiliated Hospital of Xinjiang Medical
+University, Urumqi, Xinjiang, China; the Department of Urology, Baoan Central Hospital of Shenzhen, Shenzhen, Guangdong, China; and the Department of Urology, People’s Hospital of Xinjiang Uygur Autonomous Region, Urumqi, Xinjiang, China
+Address correspondence to: Yue Wu, M.D., Department of Urology, the Sixth Affiliated Hospital of Xinjiang Medical University, 39 Wuxing South, Road, Urumqi, Xinjiang 830002, China. E-mail: 534712074@qq.com
+Submitted: June 14, 2017, accepted (with revisions): November 21, 2017
+
+technology has been continuously improved in recent years,
+especially for PCNL3 and calculi crushing equipment. As
+a result, the fragmentation rate for different renal calculi
+can achieve more than 85%.3 Nevertheless, PCNL is associated with a variety of severe complications, especially massive hemorrhage, perforation, urine leakage,
+infectious fever, urinary sepsis, etc.4 In addition, PCNL is
+not suitable for patients with obesity or with coagulation
+dysfunction.
+Recently, the application of retrograde intrarenal surgery
+(RIRS) has been proved to be safe and effective for renal
+calculi ≤2 cm in diameter.5 With the accumulation of experience and improvement of flexible ureteroscopic equipment, some urologists applied RIRS for renal calculi >2 cm
+in diameter, as an alternative for PCNL.6 To date, there
+is no published report that RIRS could be used in renal
+calculi in lower calyceal calculi with a diameter of 2-3 cm
+in patients with a solitary kidney. A previous study showed
+that PCNL remained better for stones >10 mm in the lower
+pole compared with lithotripsy.7 Here, we retrospectively
+analyzed 76 patients with solitary renal calculi treated at
+3 hospitals in China between April 2013 and October 2016.
+
+© 2018 Elsevier Inc.
+All rights reserved.
+
+https://doi.org/10.1016/j.urology.2017.11.063
+0090-4295
+
+olitary renal calculi are a common urologic disorder, and frequently multiple, complex, or combined with other diseases. Specifically, renal stone
+occurring in lower calyceal is a difficulty in the department of urology. Improper treatment leads to severe complications, including loss of kidney and death.1 With the
+rapid development of endoscopic devices and the dramatic advancement in skills of minimally invasive treatment, there are now multiple options. Percutaneous
+nephrolithotomy (PCNL) has been the first recommended
+therapy for renal calculi with a diameter of ≥2 cm.2 PCNL
+1
+
+65
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+METHODS
+Patients
+This study was a retrospective analysis, and was approved
+by the ethics committees of local hospitals. Patients’ medical
+records were obtained from the electronic management
+systems from the 3 hospitals for patients treated between
+April 2013 and October 2016. Patients diagnosed with
+single lower calyceal calculi by computed tomography (CT)
+were included. The maximum diameter of calculi measured by CT was 2-3 cm. Male or female patients aged 1880 years meeting the inclusion criteria were considered for
+enrollment. The exclusion criteria are kidney cancer, ectopic
+kidney, sponge kidney, polycystic kidney, pregnancy kidney,
+transplant renal calculi, solitary upper calyx calculi, and
+uncontrolled purulent kidney. In addition, patients with
+surgical contraindications, or a previous extracorporeal shock
+wave lithotripsy (ESWL), or a history of urologic surgery
+along with PCNL, were excluded. Hence, 76 patients were
+divided into the PCNL group and the RIRS group according to the surgical therapy. There were 42 patients in the
+PCNL group and 34 in the RIRS group.
+Surgical Procedure
+Patients in the PCNL group underwent general anesthesia by tracheal intubation and were placed in the lithotomy position. A 6F ureteral catheter was inserted to
+the renal pelvis through ureteroscope in the ipsilateral ureter
+of the affected side. The puncture was guided by ultrasound and the position was confirmed by x-ray. A 6F ureteral catheter was placed within the cystoscope, and the
+bladder was drained with a 16F latex Foley catheter with
+double balloon (Weili Medical Equipment Co., Beijing,
+China). The balloons were filled with saline to fix them
+in position. Then, the prone position was used, and the
+renal area was slightly padded up. Saline was injected retrogradely through the 6F ureteral catheter to form the “artificial hydronephrosis.” The target renal calyces of the
+patients were punctured by an 18G puncture needle under
+the guidance of B-ultrasound, and the safety guide wire was
+placed to establish a working channel, then it was expanded to 16F or 18F, to place the disposable tearable
+guiding sheath. A nephroscope (wolf F12, Richard Wolf
+GmbH, Knittlingen, Germany) was placed through the
+guiding sheath to be connected to a holmium laser
+(VersaPulse PowerSuite 60W, LUMENIS, Haifa, Israel) to
+perform lithotripsy. After surgery, a 5F double-J tube and
+a 16F nephrostomy tube were retained. The double-J tube
+was removed 1 month after surgery, and the nephrostomy
+tube could be removed 3-5 days after surgery, if there was
+no active bleeding.
+Patients in the RIRS group were routinely prestented
+2 weeks before surgery using a 6F double-J tube. The patients first underwent examination with a ureteral semirigid endoscope. A 0.035 COOK super-smooth guide wire
+was retained, and the endoscope was retraced. Then, a 12
+of 14 ureteral dilatation was retrogradely placed along the
+guide wire, and an ureteroscope (Flex-x2 F7.5, Karl Storz,
+66
+
+Tuttlingen, Germany) was inserted to the renal pelvis
+through the sheath. A 200-µm fiber was inserted to perform
+lithotripsy, whose power was less than 20 W (0.6-1.0 J or
+10-20 Hz). Sodium chloride solution (0.9%) was perfused intraoperatively for manual rinse. The calculi were
+crushed into fragments with diameters of 1-2 mm. Residual fragments were removed using a Nition Tipless Stone
+Extractor (COOK Medical, Bloomington, IN). After carefully examining each renal calyx to avoid calculus residues, the ureteroscope and the ureteroscopic sheath were
+removed, and a 5F double-J tube was conventionally retained, which was removed after 1 month.
+Data Collection
+The degree of hydronephrosis was evaluated by ultrasound examination of the urinary system according to the
+separation degree of the renal pelvis and renal calyx. A separation of renal pelvis and renal calyx of 10-20 mm was mild,
+20-30 mm was moderate, and greater than 30 mm was
+severe. Patients with renal function insufficiency were evaluated according to the National Kidney Foundation Kidney
+Disease Outcome Quality Initiative classification system.8
+Patients with normal renal functions received ultrasound
+of the urinary system, kidney, ureter, and bladder imaging
+plus intravenous urogram, unenhanced CT, and renal
+dynamic imaging examination. Patients with insufficient
+renal functions received ultrasound of the urinary system,
+kidney, ureter, and bladder imaging, CT, and renal dynamic
+imaging examination.
+Follow-up
+All patients underwent blood routine and serum renal function examinations before and after the operation. Postoperative follow-up was performed at 1, 3, 6, 9, and 12 months
+after surgery. CT examination was performed 1 month after
+the operation to confirm the stone clearance status. The
+maximum diameter of the residual calculi ≤2 mm was considered to be residual calculi-free. During follow-up, the
+patients underwent a urine routine test, a urine culture,
+and a B-ultrasound examination of the urinary system every
+3 months after surgery. The complications were assessed
+according to the Clavien system classification for postoperative complications.9
+Outcomes Evaluation
+Stone-free rate at 1 session and the overall stone-free rate
+of the 2 groups were observed. The 1-session stone-free rate
+referred to the stone-free rate after the first session of surgery,
+when the calculi were removed thoroughly and the
+maximum diameter of residual calculi was ≤2 mm. The final
+stone-free rate referred to the final stone free rate at the
+last follow-up. The incidence rate of complications, hospital stay, decline of postoperative hemoglobin, and changes
+of serum creatinine before and after the operation were observed during the follow-up.
+Statistical Analysis
+The SPSS 23.0 Chinese version (IBM, Armonk, NY) statistical software was used. Continuous data were expressed
+UROLOGY 115, 2018
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+as means ± standard deviation if they met the normal distribution, or median (range) if not normally distributed.
+Student t test was used for group comparison. The categorical data were represented by n (%), and the chisquare test or Fisher exact test was used for comparison.
+A P <.05 was considered to be statistically significant.
+
+RESULTS
+This study included 76 cases of solitary kidney combined
+with lower calyceal calculi, including 45 men and 31
+women. The age ranged from 18 to 65 years, and the average
+age was 39.7 ± 1.5 years. There were 31 cases of anatomically solitary kidney, including 5 cases of congenital solitary kidney; 26 cases of solitary kidney due to contralateral
+nephrectomy; 45 cases of functionally solitary kidney, including 14 cases of contralateral renal atrophy; 31 cases of
+unilateral renal failure due to diseases; 47 cases of left solitary kidney; and 29 cases of right solitary kidney. Fifteen
+cases were combined with mild hydronephrosis, 8 cases were
+combined with moderate hydronephrosis, and 15 cases were
+combined with renal insufficiency. Serum creatinine was
+1.38 ± 0.25 mg/dL (the reference value was 0.45-1.10
+mg/dL).
+There was no significant difference in age (P = .204), size
+of the stone (P = .071), degree of hydronephrosis (P = .904),
+renal insufficiency (P = .899), body mass index (P = .407),
+and preoperative hemoglobin level (P = .665) (Table 1).
+The follow-up was similar (median, PCNL: 12.7 [3-19] vs
+RIRS: 12.4 [3-17] months).
+The mean operation time of the 2 groups were
+82.0 ± 27.9 minutes and 117.2 ± 23.1 minutes, respectively (P <.001). The 1-session stone-free rate of the PCNL
+
+group, using the single tract procedure, was 85.7% (36 of
+42), whereas in the RIRS group, the 1-session stone-free
+rate was 58.8% (20 of 34) (P = .008). There were 6 cases
+with residual calculi in the PCNL group, and there were
+3 cases with residual calculi after ESWL and lithotripsy by
+changing the position. The total stone clearance rate was
+92.9% at the last follow-up.
+Moreover, 3 cases developed ureteral obstruction after
+removal of the double-J tube at week 2 in RIRS group,
+which caused obstructive hydronephrosis, and the calculi
+were clearly discharged after emergency surgery. There were
+another 17 cases of residual calculi at 1 session in the RIRS
+group. Seven of them underwent ESWL and 10 underwent reureteroscopy surgery, but there were still 5 cases with
+residual calculi. The overall stone-free rate was 85.3%, and
+there was no statistical difference in the overall stonefree rate between the 2 groups (P = .285). The average hospital stay was 13.9 ± 1.6 days and 7.3 ± 1.2 days for PCNL
+and RIRS, respectively. The hospital stay in the RIRS group
+was shorter than that in the PCNL group (P <.001). Regarding the complications, 4 cases of hemorrhage occurred in the PCNL group, one of which was additionally
+treated with selective embolism of the renal artery (his creatinine level was 1.05 mg/dL at last follow-up, ie, 9 months
+after surgery). Two of them underwent blood transfusion
+and the other one stopped bleeding spontaneously. Postoperative fever and pleural damage happened in the other
+7 patients. In the RIRS group, 3 cases had postoperative
+fever. No patient suffered from sepsis or renal insufficiency. Three patients in the RIRS group showed steinstrasse
+and developed acute obstructive renal failure, and the obstruction was treated with emergency surgery. No steinstrasse
+occurred in the PCNL group. No infection or renal failure
+
+Table 1. Comparison of the baseline characteristics of included patients
+
+Average age (y)
+Gender
+Male
+Female
+BMI (kg/m2)
+Follow-up time (mo)
+Average size of stone (mm)
+Position of the lower calyx
+The former group
+The latter group
+Hemoglobin level (g/L)
+Serum creatinine (mg/dL)
+Renal insufficiency
+No
+CKD stage 1
+CKD stage 2
+Position of solitary kidney
+Left
+Right
+Degree of hydronephrosis
+No
+Mild
+Moderate
+
+PCNL (n = 42)
+
+RIRS (n = 34)
+
+P Value
+
+39.7 ± 1.6
+
+40.2 ± 1.8
+
+.204
+.951
+
+25
+17
+22.58
+12.7
+25.8
+
+(59.5%)
+(40.5%)
+± 3.62
+± 3.51
+± 3.6
+
+20 (58.8%)
+14 (41.2%)
+23.24 ± 3.18
+12.4 ± 3.18
+24.1 ± 4.5
+
+11
+31
+15.0
+1.34
+
+(26.2%)
+(73.8%)
+± 1.9
+± 0.06
+
+8 (23.5%)
+26 (76.5%)
+14.8 ± 2.1
+1.37 ± 0.04
+
+33 (78.6%)
+4 (9.5%)
+5 (11.9%)
+
+28 (82.4%)
+3 (8.8%)
+3 (8.8%)
+
+25 (59.5%)
+17 (40.5%)
+
+22 (64.7%)
+12 (35.3%)
+
+29 (69.0%)
+8 (19.1%)
+5 (11.9%)
+
+24 (70.6%)
+7 (20.6%)
+3 (8.8%)
+
+.407
+.571
+.071
+.790
+.665
+.058
+.899
+
+.644
+.906
+
+BMI, body mass index; CKD, chronic kidney disease.
+
+UROLOGY 115, 2018
+
+67
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Table 2. Comparison of the curative effect of the 2 groups of patients
+
+One-session stone-free rate (%)
+Overall stone-free rate (%)
+Operation time (min)
+Hemoglobin decline (g/L)
+Blood loss (mL)
+Creatinine (mg/dL)
+Renal function
+No
+CKD stage 1
+CKD stage 2
+Hospital stay (d)
+Clavien score
+1-2
+>2
+Fever (>38°C)*
+Bleeding
+Blood transfusion
+Selective embolism
+Pleural damage
+Steinstrasse
+
+PCNL Group (n = 42)
+
+RIRS Group (n = 34)
+
+P Value
+
+36 (85.7%)
+39 (92.9%)
+82.0 ± 27.9
+5.4 ± 2.3
+152.3 ± 14.8
+0.10 ± 0.03
+
+20 (58.8%)
+29 (85.3%)
+117.2 ± 23.1
+1.8 ± 0.5
+29.4 ± 5.3
+0.09 ± 0.04
+
+.008
+.285
+<.001
+<.001
+<.001
+.264
+.899
+
+33
+4
+5
+5
+
+(78.6%)
+(9.5%)
+(11.9%)
+(4, 7)
+
+28
+3
+3
+3
+
+6
+1
+2
+1
+2
+1
+1
+0
+
+(14.3%)
+(2.4%)
+(4.8%)
+(2.4%)
+(4.8%)
+(2.4%)
+(2.4%)
+
+3
+3
+3
+0
+0
+0
+0
+3
+
+(82.4%)
+(8.8%)
+(8.8%)
+(2, 4)
+
+<.001
+
+(8.8%)
+(8.8%)
+(8.8%)
+
+.464
+.211
+
+(8.8%)
+
+* Fever with white blood cell elevation, negative urine culture, and no systemic inflammatory response syndrome.
+
+Table 3. Analysis of the component of the calculi in the 2 groups
+Component
+Calcium oxalate monohydrate calculi
+Calcium oxalate dehydrate calculi
+Uric acid calculi
+Phosphate calculi
+Mixed calculi
+
+PCNL (n = 42)
+22
+6
+4
+3
+7
+
+(52.4%)
+(14.3%)
+(9.5%)
+(7.1%)
+(16.7%)
+
+occurred in these 3 patients. The changes of serum creatinine before and after the operation were 0.10 ± 0.03 mg/
+dL and 0.09 ± 0.04 mg/dL for PCNL and RIRIS, respectively
+(P = .264) (Table 2).
+The constitution of the calculi was analyzed after the
+operation for the 2 groups (Table 3). The results demonstrated that the component of calculi in the PCNL group
+and the RIRS group was mainly calcium oxalate calculi,
+accounting for 66.7% and 70.6%, respectively. There was
+no statistical significance in the constitution of the calculi
+between the 2 groups (P = .988) (Table 3).
+
+DISCUSSION
+PCNL was first reported by Fernström and Johansson10 in
+1976, and it is the recommended treatment for renal calculi
+≥2 cm. Because the success rate could reach 85%, this
+method has been widely applied, but PCNL has a high risk
+of complications including massive hemorrhage, perforation, urine leakage, pleural injury, pleural effusion, intestinal injury, infectious fever, and even urinary sepsis.11 Since
+the first application of PCNL, percutaneous nephroscope
+has been continuously improved. In 1998, Jackman et al12
+used the term PCNL for the first time and reported the use
+of an 11F channel to perform surgery for children, which
+was smaller than the traditionally used 24F-30F channel.
+Subsequently, a series of reports suggested the use of PCNL
+68
+
+RIRS (n = 34)
+20
+4
+3
+2
+5
+
+(58.8%)
+(11.8%)
+(8.8%)
+(5.9%)
+(14.7%)
+
+P Value
+.988
+
+in adult patients, which achieved high efficacy, and its safety
+was recognized.13 Nevertheless, the complications of PCNL
+still exist in PCNL. With the continuous development and
+progression of urologic endoscopic technology and related
+lithotripsy equipment, flexible ureteroscope has the advantages of minimally invasiveness, effectiveness, and safety.
+Flexible ureteroscope has curative effect in the treatment
+for renal calculi <2 cm, especially for the treatment of lower
+calyceal calculi <2 cm, which was recommended by the urologic disease guidelines.14
+The treatment of lower calyceal calculi in solitary kidney
+is difficult for the treatment of urologic calculi. For patients with renal stone in solitary kidney, serious obstruction, azotemia, disorders in water and electrolyte and acidbase balance, and even acute renal failure might occur. The
+currently used treatment methods include ESWL, PCNL,
+RIRS, and open surgery. ESWL treatment is relatively simple
+and safe, but the stone-free rate is low for calculi >2 cm,
+and postoperative steinstrasse could cause acute renal failure.
+PCNL remains better for stones >10 mm in the lower pole
+compared with lithotripsy.7 Thus, PCNL is a preferred choice
+for the treatment of solitary renal calculi. Importantly, the
+solitary kidney has been in the compensatory state for a
+long term, and has thick cortex, rich blood flow, and abnormal blood vessels, and easily bleeds after puncture and
+expansion. Complications, such as peripheral organ injury
+and intraoperative and postoperative massive bleeding are
+UROLOGY 115, 2018
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+possible, even if PCNL is selected. With the improvement of flexible ureteroscope, urologists began to investigate the efficacy of flexible ureteroscope in the treatment
+of renal calculi >2 cm. Akman et al15 performed matchedpair analysis for flexible ureteroscope and PCNL in the treatment of renal calculi of 2-4 cm, and the results showed that
+the stone-free rates of flexible ureteroscope and PCNL were
+73.5% and 91.2% (P <.05), respectively. After secondary
+surgery, the stone-free rate in the flexible ureteroscope group
+was 88.2%. The stone-free rate or serious surgical complications was not significantly different between PCNL and
+RIRS group. Aboumarzouk et al16 performed meta-analysis
+for renal calculi >2.0 cm that were treated by flexible
+ureteroscope between 1990 and 2011, and found that the
+stone-free rate for 2- to 3-cm calculi was 84.6%, which was
+sufficient to be an alternative of PCNL.
+To date, there is rare report of PCNL and RIRS in the
+treatment of solitary lower calyceal calculi. Therefore,
+we retrospectively analyzed the differences of PCNL and
+RIRS in the treatment of lower calyceal calculi in solitary kidney to evaluate the safety and effectiveness of
+PCNL and RIRS in the treatment of lower calyceal calculi
+in solitary kidney. In the present study, the stone-free
+rate at the first session in the PCNL group was higher
+than in the RIRS group, and the operation time was also
+shorter than that of the RIRS group. Nevertheless, there
+were 4 cases of obvious hemorrhage. For solitary renal
+calculi, surgical risk and the possibility of hemorrhage of
+PCNL was higher. Compared with PCNL, RIRS cause
+smaller tissue damage, but has lower 1-session stone-free
+rate. Some patients need a second operation to achieve a
+curative effect. Moreover, a spiral stone dislodger was
+used in the RIRS group to move the calculi from the
+lower calyx to the middle and upper; then holmium laser
+lithotripsy was performed, which had a higher efficiency,
+and the injury to the patients by the flexible ureteroscope
+was smaller. For solitary renal calculi, we recommended
+using holmium laser lithotripsy to crush calculi into small
+fragments instead of powdering. The calculi were removed
+using spiral stone dislodger to avoid forming a steinstrasse
+during stone clearance.
+It was reported that the risk of infectious fever and sepsis
+after RIRS was larger than that of infectious fever after
+PCNL.17 There were 3 cases of postoperative fever in the
+RIRS group, whereas there were 2 cases of postoperative
+fever in the PCNL group. For patients with preoperative
+infection, placing a double-J tube for drainage was suggested, followed by flexible ureteroscopy when the infection was controlled. Drainage should be established for
+pyuria and infectious calculi, and the operation should be
+timely terminated. A secondary operation could be performed when the infection was cured.
+Our study indicated that flexible ureteroscopy had good
+efficacy and safety for 2- to 3-cm lower calyceal calculi in
+solitary kidney. To achieve minimally invasiveness, reduced
+bleeding, and rapid recovery, RIRS is an alternative surgical way. Nevertheless, our study has several flaws. For
+example, our study was a retrospective analysis with a small
+UROLOGY 115, 2018
+
+sample size. Further studies are needed to confirm the comparison of the 2 methods.
+
+CONCLUSION
+PCNL group suggested a higher 1-session stone-free rate
+for 2- to 3-cm lower calyceal calculi than RIRS group in
+solitary kidney. To achieve minimally invasiveness, reduced
+bleeding, and shorter hospital stay, RIRS can be a promising alternative. The present study provides preliminary
+data that justify such a trial. A multicenter prospective trial
+is necessary.
+References
+1. Koga S, Arakaki Y, Matsuoka M, Ohyama C. Staghorn calculi—longterm results of management. Br J Urol. 1991;68:122-124.
+2. Turk C, Petrik A, Sarica K, et al. EAU guidelines on interventional
+treatment for urolithiasis. Eur Urol. 2016;69:475-482.
+3. Zeng G, Zhao Z, Wan S, et al. Minimally invasive percutaneous nephrolithotomy for simple and complex renal caliceal stones: a comparative analysis of more than 10,000 cases. J Endourol. 2013;27:12031208.
+4. de la Rosette J, Assimos D, Desai M, et al. The clinical research office
+of the endourological society percutaneous nephrolithotomy global
+study: indications, complications, and outcomes in 5803 patients. J
+Endourol. 2011;25:11-17.
+5. Assimos D, Krambeck A, Miller NL, et al. Surgical management of
+stones: American Urological Association/Endourological Society guideline, part I. J Urol. 2016;196:1153-1160.
+6. Giusti G, Proietti S, Villa L, et al. Current standard technique for
+modern flexible ureteroscopy: tips and tricks. Eur Urol. 2016;70:188194.
+7. Albala DM, Assimos DG, Clayman RV, et al. Lower pole I: a prospective randomized trial of extracorporeal shock wave lithotripsy
+and percutaneous nephrostolithotomy for lower pole nephrolithiasis—
+initial results. J Urol. 2001;166:2072-2080.
+8. Levey AS, Coresh J, Balk E, et al. National Kidney Foundation practice guidelines for chronic kidney disease: evaluation, classification, and stratification. Ann Intern Med. 2003;139:137-147.
+9. Dindo D, Demartines N, Clavien PA. Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg. 2004;240:205-213.
+10. Fernström I, Johansson B. Percutaneous pyelolithotomy. A new extraction technique. Scand J Urol Nephrol. 1976;10:257-259.
+11. Egilmez T. Predicting surgical outcome of percutaneous nephrolithotomy: validation of the guy’s stone score and nephrolithometric
+nomogram in terms of success and complications. JClin Anal Med.
+2014;6:281-286.
+12. Jackman SV, Hedican SP, Peters CA, Docimo SG. Percutaneous
+nephrolithotomy in infants and preschool age children: experience
+with a new technique. Urology. 1998;52:697-701.
+13. Lahme S, Bichler KH, Strohmaier WL, Gotz T. Minimally invasive PCNL in patients with renal pelvic and calyceal stones. Eur Urol.
+2001;40:619-624.
+14. Assimos D, Krambeck A, Miller NL, et al. Surgical management of
+stones: American Urological Association/Endourological Society guideline, part II. J Urol. 2016;196:1161-1169.
+15. Akman T, Binbay M, Ozgor F, et al. Comparison of percutaneous
+nephrolithotomy and retrograde flexible nephrolithotripsy for the management of 2-4 cm stones: a matched-pair analysis. Eur Urol Suppl.
+2011;10:1384-1389.
+16. Aboumarzouk OM, Monga M, Kata SG, Traxer O, Somani BK. Flexible ureteroscopy and laser lithotripsy for stones >2 cm: a systematic review and meta-analysis. J Endourol. 2012;26:1257-1263.
+17. Hofmann R. Ureteroscopy (URS) for ureteric calculi. Urologe A.
+2006;45:W637-W646, quiz W647.
+
+69
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+EDITORIAL COMMENT
+
+AUTHOR REPLY
+
+The authors should be commended for a well conducted study
+of an important issue to patients and endourologists alike. The
+delicate balance lies somewhere between rendering stone-free and
+asymptomatic and the exquisite preservation of renal function.
+As a result, attempts as the authors have made, to reduce the
+risk of bleeding and the potential for an injurious standard tract
+percutaneous procedure by dilating to only 16-18 French, achieve
+these goals in this study. The case times are expeditious for both
+approaches given the stone sizes above 2 cm and with a preponderance of calcium oxalate monohydrate calculi. This latter point
+is most important when considering the mode of irrigation employed as the risk of prolonged high pressure irrigation in the solitary kidney is likely underappreciated.
+The follow-up is robust and CT documentation of clearance
+rates lends credibly to the existent literature. Although the lengths
+of hospital stay are long, and not common place in the western
+hemisphere, the differences in the health care systems are well
+recognized.
+Overall, the endourologist must decide whether the risk of renal
+puncture exceeds, is equal to, or is less than that of prolonged
+ureteroscopic pressurization of the solitary renal unit, and whether
+stone-free status is of equal importance as symptom freedom and
+metabolic control to prevent growth of any residual fragments.
+
+The treatment of lower calyceal calculi in solitary kidneys is difficult for the treatment of urologic calculi. This study aimed to
+explore the safety of 2 different types of surgeries to treat solitary kidney stones. The focus was on increasing the stone-free
+rates and maximizing the protection of renal function.
+We wanted to reduce the risk of bleeding after puncture and
+expansion, using a catheter of only 16-18 French. We achieved
+this goal in the study.
+The postoperative follow-up was performed using computed tomography to evaluate the stone-free rates of calculi. Although
+a great deal of differences were observed between the East and
+the West health care systems during the hospital stay, we thank
+the editor for understanding these differences.
+This study indicated that flexible ureteroscopy had good efficacy and safety for lower calyceal calculi of 2-3 cm in a solitary
+kidney. As expressed by us, larger, prospective randomized studies
+are necessary to accurately compare the 2 procedures in solitary
+kidneys.
+All in all, we thank the editor for the comments. We insist
+that this study was performed in patients with solitary kidneys,
+and that studies in this population are rare. We agree that the
+study has limitations and that a multicenter prospective trial is
+necessary.
+
+Leslie A. Deane, M.B.B.S, M.S., F.R.C.S.C., F.A.C.S., Rush
+University Medical Center, Division of Urology, Department
+of Surgery, Chicago IL
+
+Yue Wu, Department of Urology, the Sixth Affiliated
+Hospital of Xinjiang Medical University, Urumqi, Xinjiang,
+China
+
+https://doi.org/10.1016/j.urology.2017.11.064
+
+https://doi.org/10.1016/j.urology.2017.11.065
+
+UROLOGY 115: 70, 2018. © 2018 Elsevier Inc.
+
+UROLOGY 115: 70, 2018. © 2018 Elsevier Inc.
+
+70
+
+UROLOGY 115, 2018
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

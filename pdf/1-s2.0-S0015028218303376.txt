@@ -1,0 +1,866 @@
+Endometritis: new time,
+new concepts
+Kotaro Kitaya, M.D.,a,b Takumi Takeuchi, M.D.,c Shimpei Mizuta, M.Sc.,a,c Hidehiko Matsubayashi, M.D.,a,c
+and Tomomoto Ishikawa, M.D.a,c
+a
+c
+
+Reproduction Clinic Osaka; and b Department of Anatomy and Cell Science, Kansai Medical University, Osaka; and
+Reproduction Clinic Tokyo, Tokyo, Japan
+
+Endometritis is subdivided into two categories. Acute endometritis is symptomatic and characterized by microabscess formation and
+neutrophil invasion in the endometrial superﬁcial epithelium, gland lumina, and uterine cavity. Chronic endometritis is rather silent
+and recognized as unusual plasmacyte inﬁltration in the endometrial stromal areas. Over the last decade, studies have disclosed the
+potential association between poor reproductive outcomes and endometritis, particularly chronic endometritis. The aim of this review
+is to address the current literature surrounding chronic endometritis and highlight recent advances in the research of this long-neglected
+gynecologic disease. (Fertil SterilÒ 2018;110:344–50. Ó2018 by American Society for Reproductive Medicine.)
+Key Words: Chronic endometritis, infertility, obstetric and neonatal complications, recurrent pregnancy loss, repeated implantation
+failure
+Discuss: You can discuss this article with its authors and other readers at https://www.fertstertdialog.com/users/16110-fertilityand-sterility/posts/32020-26049
+
+U
+
+nder physiological conditions,
+human cycling endometrium
+is inﬁltrated by a wide variety
+of immunocompetent cells, including
+macrophages, natural killer cells, and
+T lymphocyte subsets. The composition
+and density of endometrial immunocompetent cells vary periodically
+across the menstrual cycle. Such timed
+ﬂuctuation in local leukocyte subpopulations is thought to play a role in the
+tissue remodeling required to obtain
+endometrial receptivity (1).
+Endometritis is an infectious and
+inﬂammatory disorder of the endometrium. Endometritis is histopathologically subdivided into two categories
+(2). One is acute endometritis, which is
+characterized by microabscess formation and neutrophil invasion in the
+endometrial superﬁcial epithelium,
+gland lumina, and uterine cavity. The
+results of randomized controlled trials
+have demonstrated that acute endometritis is not associated with reduced
+
+pregnancy or elevated infertility (3).
+The other is chronic endometritis (CE),
+the histopathologic features of which
+are endometrial superﬁcial edematous
+change, high stromal cell density, dissociated maturation between epithelium
+and stroma, and inﬁltration of endometrial stromal plasmacytes (ESPCs) (2, 4).
+There are currently no universally
+accepted standardized deﬁnitions or
+established diagnostic guidelines for
+CE, although experts agree that the
+presence of multiple ESPCs is the most
+speciﬁc and sensitive ﬁnding in this
+pathology (5–7).
+In sharp contrast to acute endometritis being manifested with fever, pelvic pain, and vaginal discharge, the
+subtle and nondescript symptoms (pelvic discomfort, spotting, and leucorrhea) of CE are often unnoticed by
+patients and ignored by gynecologists
+(5). As a benign disease, interventional
+endometrial biopsy and arduous histopathologic examinations for CE are
+
+Received March 29, 2018; revised April 4, 2018; accepted April 9, 2018; published online June 28, 2018.
+K.K. has nothing to disclose. T.T. has nothing to disclose. S.M. has nothing to disclose. H.M. has
+nothing to disclose. T.I. has nothing to disclose.
+Reprint requests: Kotaro Kitaya, M.D., 4-20 Oofuka-cho, Kita-ku, Osaka 530-0011, Japan (E-mail:
+kitaya@koto.kpu-m.ac.jp).
+Fertility and Sterility® Vol. 110, No. 3, August 2018 0015-0282/$36.00
+Copyright ©2018 American Society for Reproductive Medicine, Published by Elsevier Inc.
+https://doi.org/10.1016/j.fertnstert.2018.04.012
+
+not favored in gynecologic practice.
+Accurate histopathologic diagnosis of
+CE has been demanding and timeconsuming until recently (5). Increasing
+attention, however, has been focused
+on the potential association between
+poor reproductive outcomes and CE.
+Here we aim to address the current
+literature surrounding CE and highlight
+recent advances in research of this
+long-neglected gynecologic disease.
+The following databases were searched
+for articles regarding CE until February
+2018: PubMed, Embase, ScienceDirect,
+Wiley-Blackwell, Lippincott Williams
+& Wilkins, Highwire, and Google
+Scholar. Each database was searched
+using the following terms: ‘‘endometritis’’, ‘‘deciduitis’’, ‘‘subclinical pelvic
+inﬂammatory diseases’’, and ‘‘upper female tract infection’’.
+
+MICROORGANISMS IN
+CHRONIC ENDOMETRITIS
+The major cause of CE is microbial
+infection in the uterine cavity. This is
+supported by the fact that some antibiotic therapies are effective to eliminate ESPCs in the affected patients
+(8–12). The microorganisms detected
+frequently in endometrium with CE
+are common bacteria (streptococcus
+
+344
+VOL. 110 NO. 3 / AUGUST 2018
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Fertility and Sterility®
+species, Escherichia coli, Enterococcus faecalis, and
+staphylococcus species), mycoplasma/ureaplasma species
+(Mycoplasma
+genitalium,
+Mycoplasma
+hominis,
+and Ureaplasma urealyticum), proteus species, Klebsiella
+pneumoniae, Pseudomonas aeruginosa, Gardnerella vaginalis,
+Corynebacterium, and yeasts (Saccharomyces cerevisiae and
+candida species) (13–15). In some developing countries,
+Mycobacterium tuberculosis is a microorganism causing
+chronic granulomatous endometritis, a subtype of CE
+characterized by poorly developed caseating granuloma and
+surrounding lymphocyte inﬁltrates including ESPCs (16).
+By contrast, accumulating studies found that the detection rate of Chlamydia trachomatis and Neisseria gonorrhoeae, the principal pathogens causing acute endometritis,
+are very low in patients with CE (2%–7% and 0%–8%, respectively) (13, 17, 18). Moreover, administration of azithromycin
+or ceﬁxime, the antibiotics targeting C. trachomatis and N.
+gonorrhoeae, failed to preserve future fertility in women
+with CE (19). C. trachomatis and N. gonorrhoeae are thereby
+unlikely to be the major pathogens in CE. Although their
+cause-effect relationship remains undetermined, such differences in the microbial proﬁles suggest that acute endometritis
+and CE are distinct pathologic entities (20).
+Altered proportion in anaerobic lactobacilli species, the predominant bacteria in the female reproductive tracts (21–24),
+may be another characteristic of CE, although the results are
+conﬂicting between the studies. While the report employing
+conventional tissue culture showed a lower detection rate of
+lactobacilli in the endometrium of infertile women with CE
+than in those without CE, the others using barcoded
+sequencing demonstrated an increase of local lactobacilli in
+CE (15, 25). Further studies are required to conﬁrm the
+change of lactobacilli species in the uterine cavity in CE.
+A few reports implicate human immunodeﬁciency virus
+(26, 27) and cytomegalovirus (28) in CE. The association
+between these viral infections and CE remains uncertain.
+Importantly, the microorganisms detected in the endometrial tissue are often inconsistent with those detected in the
+endocervical tissue or vaginal discharge (14), suggesting
+that the microbial examinations using lower genital tract
+samples cannot predict the pathogens of CE. In addition,
+endometrial tissue culture and conventional polymerase
+chain reaction were unable to identify microorganisms in
+more than half of infertile women with CE (15). These ﬁndings
+indicate the limitation of the traditional microbial examinations in the diagnosis of CE.
+
+INFLAMMATION IN CHRONIC ENDOMETRITIS
+B lymphocytes account for only less than 1% of entire leukocyte population in the nonpathological human endometrium.
+Endometrial B cells are mainly seen in the basal layer (the
+portion that persists across the menstrual cycle) as central
+cells in the unique lymphocyte aggregates surrounded by
+numerous CD8(þ) T cells and macrophages (29). The role of
+B cells and lymphocyte aggregates in the human endometrium remains open to debate. In contrast, in CE, a large number of B cells inﬁltrate both the endometrial functional layer
+(the portion shed with the onset of menstruation) and the
+
+basal layer. These overpopulated B cells amass in the endometrial stromal compartment, trespass on the glandular epithelial areas, and invade further into the gland lumina (30, 31).
+Additionally, the secretory phase endometrium with CE was
+reported to contain a lower percentage of CD16negative
+CD56positive/bright natural killer cells compared with those
+without CE, along with an increase in T cells, indicating the
+aberrant mucosal leukocyte composition in this pathologic
+condition (32).
+Several adhesion molecules and chemokines involved in
+B cell extravasation and migration (CD62E, CXCL1, and
+CXCL13) are aberrantly expressed in endometrial endothelial
+and epithelial cells with CE (31). The concentration of interleukin (IL)-6, a differentiation factor of mature B cells, is
+also markedly higher in the menstrual efﬂuents of women
+with CE compared with those without CE (33). In vitro studies
+demonstrated that these proinﬂammatory molecules are
+induced in endometrial cells by microbial antigens such as
+lipopolysaccharide (31). These ﬁndings suggest that microbial
+infection in the uterine cavity triggers the immune responses
+unusual to human cycling endometrium. Such immune responses provide an abnormal microenvironment for the
+recruitment of circulating B cells into the endometrial stromal
+compartment and gravitation of these lymphocytes to the
+glandular areas. Furthermore, a fraction of accrued endometrial B cells may differentiate in situ into ESPCs.
+Similar to other chronic inﬂammatory diseases, like rheumatoid arthritis and inﬂammatory bowel disease, the levels of
+IL-1b and tumor necrosis factor (TNF)-a are also elevated in
+the uterine cavity of CE (33). Exposure to TNF-a is known
+to raise estrogen biosynthesis in endometrial glandular cells
+(34), which may be associated with the occurrence of endometrial micropolyposis, a hysteroscopic ﬁnding that is often seen
+in CE (see below) (9, 35).
+The ESPCs in CE legions express a high level of multiple
+immunoglobulin (Ig) subclasses (IgM, IgA1, IgA2, IgG1, and
+IgG2) with a predominance of IgG2 (36). The excessive
+mucosal antibodies in CE potentially have a negative impact
+on the embryo implantation process. These local immune responses in CE rarely develop into systemic inﬂammation, as
+the values of the peripheral blood leukocyte counts, serum
+C-reactive protein, and fever index of the affected patients
+stay within the normal ranges (37, 38).
+One of the histomorphological characteristics of CE is
+delayed differentiation of endometrium in the midsecretory
+phase. Approximately one-third of the endometrial samples
+with CE obtained from infertile women exhibit such
+‘‘out-of-phase’’ morphology (37). The endometrium with CE
+obtained in the secretory phase often displays pseudostratiﬁcation and mitotic nuclei in both glandular and surface
+epithelial cells. The expression of the antiapoptotic genes
+(BCL2 and BAX), proliferation-associated nuclear marker
+(Ki-67), and ovarian steroid receptors (estrogen receptor-a,
+and -b, progesterone receptor-A, and -B) are also upregulated
+during the secretory phase in the endometrium with CE
+(39–42). By contrast, the expression of the genes potentially
+associated with embryo receptivity (IL11, CCL4, IGF1,
+and CASP8) and decidualization (PRL and IGFBP1) are
+downregulated in the endometrium with CE during this
+
+VOL. 110 NO. 3 / AUGUST 2018
+345
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+VIEWS AND REVIEWS
+period (39, 42). These ﬁndings support the idea that the
+endometrium with CE is unable to respond to ovarian
+steroids and modulate its component cells into a receptive
+phenotype, implicating the potential relationship between
+progesterone resistance and CE, as seen in endometriosis (43).
+
+DIAGNOSIS OF CHRONIC ENDOMETRITIS
+Symptomatology does not seem to help gynecologists diagnose CE, as a quarter of the affected patients lack symptoms
+(37). The above mentioned microbial examinations and blood
+tests are not instrumental. Thus, histopathologic detection of
+multiple ESPCs in endometrial biopsy is of primary importance in the diagnosis of CE in current clinical practice.
+Be that as it may, identiﬁcation of ESPCs by conventional
+tissue staining alone is not easy even for experienced pathologists. Plasmacytes typically have a large cell body, high
+nuclei/cytoplasm ratio, basophilic cytoplasm, and nuclei
+with heterochromatin rearrangement referred as the ‘‘spokewheel’’ or ‘‘clock-face’’ pattern (44). These morphological features of plasmacytes are not always evident in ESPCs under
+microscopic examination, as ESPCs often exhibit an appearance similar to stromal ﬁbroblasts and mononuclear leukocytes that reside in the human endometrium. Some
+histological ﬁndings common in the secretory phase endometrium such as superﬁcial edematous change and elevated stromal cell density may also interfere with the identiﬁcation of
+ESPCs (45). Identiﬁcation of glandular-stromal dyssynchrony
+and endometrial eosinophil inﬁltrates (cytoplasmic eosinophilic granules) on routine hematoxylin and eosin staining
+sections was proposed as a convenient screening tool to
+discover ESPCs but are not the absolute ﬁndings in CE (46).
+Histopathologic evaluation using immunohistochemistry
+for plasmacyte marker CD138 (also known as syndecan-1, a
+transmembrane-type heparan sulfate proteoglycan) is
+currently the most reliable and time-saving diagnostic
+method for CE (47). It was shown that CD138 immunostaining
+is greatly superior in the detection of ESPCs to conventional
+tissue staining using methyl green pyronin, hematoxylin,
+and eosin (odds ratio, 2.8; sensitivity, 100% vs. 75%; speciﬁcity, 100% vs. 65%) with less interobserver (96% vs. 68%)
+and intraobserver variability (93% vs. 47%) (48–50).
+Despite the usefulness of CD138 immunostaining in the
+diagnosis of CE, some caution should be exercised in its practical use and interpretation of results. Endometrial epithelial
+cells are known to constitutively express CD138 on the basolateral sides of their plasma membrane. Many of monoclonal
+antibodies targeting CD138 on plasmacytes are also reactive
+to the epitope of this antigen expressed on endometrial epithelial cells, despite that staining intensity is generally weaker
+than that in ESPCs (51). The conditions of the sections and
+immunoreactivity may occasionally cause misidentiﬁcation
+of endometrial epithelial cells for ESPCs, resulting in potential
+overdiagnosis of CE. Combined use of immunohistochemistry
+and conventional nucleic staining is a recommended option to
+avoid this kind of misinterpretation.
+There are currently no technical standards or conditions
+setting regarding CD138 immunostaining for endometrial
+specimens, suggesting that the diagnostic rates of CE are
+
+potentially affected by laboratory test setting and quality
+control including antibody selection and dilution, incubation
+time, thickness of endometrial sections, and number and area
+of sections examined (52). This problem is illustrated by a
+comparison of several published studies that scored inconsistent detection rates of ESPCs in cohorts of infertile women.
+For example, one study using a 1:1,000 dilution of clone
+B-B4, one of representative anti-CD138 monoclonal antibodies, showed that the prevalence of CE was 2.8% in asymptomatic infertile women undergoing their ﬁrst IVF-ET cycle
+(52). Meanwhile, other studies using a higher concentration
+of anti-CD138 antibodies (1:100 dilution of B-B4 or stock solution of another frequently used clone B-A38) identiﬁed CE
+in 12%–30% of infertile patients (8, 31, 53, 54). Accordingly,
+the standardized test setting and quality control for CD138
+immunostaining are indispensable to minimize the
+discrepancies in the diagnosis of CE.
+The timing and method of endometrial sampling are also
+a major issue for accurate assessment of CE. ESPCs may be
+missed in small biopsy specimens, as these lymphoid cells
+often gather focally within the endometrial stroma (4, 45).
+In some cases of CE, ESPCs are identiﬁable only in the
+endometrial basal layer. A study using full-thickness endometrium of patients undergoing hysterectomy for benign pelvic diseases demonstrated that overlooking of ESPCs can
+occur more frequently in the endometrial samples obtained
+from surface layers during the secretory phase compared
+with the proliferative phase (37). Indeed, several studies
+showed a higher prevalence of CE in the proliferative phase
+than in the secretory phase (46, 55–57). Examiners should
+be aware of the date in the menstrual cycle and the volume
+of the endometrial biopsy specimens for the exact diagnosis
+of CE.
+Finally, stringent criteria have not yet been established
+for the evaluation of the ESPC density in the endometrial biopsy specimen. Although the presence of multiple (two or
+more) ESPCs is a sine qua non for the conﬁrmation of CE,
+there are some biases and variances in deﬁnitions of CE
+among the studies. While one study diagnosed CE with
+more than ﬁve CD138(þ) ESPCs in at least one out of three
+sections levels in the endometrial biopsy specimens (47),
+others set the values for CE as one or more CD138(þ) ESPCs
+in one microscopic high-power ﬁeld (8). Another issue is
+that the endometrium of the healthy women may potentially
+contain some (even if only a few) ESPCs. It is crucial to redeﬁne the minimum volumes of the endometrial samples evaluated and the cutoff density of ESPCs that is required for
+histopathologic diagnosis of CE.
+Hysteroscopy has the potential to be a screening tool for
+CE. The representative hysteroscopic ﬁndings seen in CE are
+endometrial micropolyposis and strawberry aspects. Endometrial micropolyposis is recognized as multiple small-sized
+(typically 1–2 mm in diameter) protrusions arising from the
+endometrial surface. Endometrial micropolyposis was found
+in 11% of women undergoing hysteroscopy and associated
+with endometrial stromal edema and thickening (35). Endometrial micropolyposis is identiﬁable in 50%–67% of infertile
+women undergoing repeated implantation failure (RIF) and/or
+recurrent pregnancy loss (RPL) with immunohistochemically/
+
+346
+VOL. 110 NO. 3 / AUGUST 2018
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Fertility and Sterility®
+histopathologically conﬁrmed CE (9, 57, 58). The etiological
+relationship between endometrial micropolyposis and CE
+remains yet to be elucidated. Meanwhile, strawberry aspects
+are characterized by the presence of the hyperemic
+endometrial areas ﬂushed with a white central point (59).
+Strawberry aspects were found in 65% of women with
+immunohistochemically/histopathologically conﬁrmed CE
+(60). There is a good positive correlation (16%–54% in
+sensitivity and 60%–94% in speciﬁcity) between these
+unique hysteroscopy ﬁndings and CE, although the studies
+so far suggest that hysteroscopy cannot replace the
+histopathologic examinations using CD138 immunostaining
+in the diagnosis of CE (9, 19, 60–62).
+
+REPRODUCTIVE FAILURE AND CHRONIC
+ENDOMETRITIS
+The reported prevalence of CE in premenopausal women
+ranges from 8% to 72% (5, 61). This interstudy variance is,
+at least in part, due to the facts that CE was investigated in
+a relatively small cohort (less than 100) of patients and that
+the conventional tissue staining was used for detection of
+ESPCs. Recent published data using CD138 immunostaining
+estimated that the overall prevalence of CE in 1,551
+premenopausal women undergoing hysteroscopy and
+endometrial biopsy was 24.4% (57).
+Several risk factors have been proposed in regard to the
+onset of CE. Among them is continuous use of intrauterine
+contraceptive devices, which is characterized by prolonged
+ESPC accumulation even after their removal from the uterine
+cavity (37, 62). Multiparity, abortion, prolonged menstruation,
+atypical uterine bleeding, and fallopian tube obstruction
+are also suggested to be the independent risk factors for
+CE, whereas age, obesity, oral contraceptive use, and
+multigravidity are unlikely (37, 62–64). Bacterial vaginosis,
+endometriosis, endometrial hyperplasia, submucosal ﬁbroids,
+tuberculosis, and endometrial osseous metaplasia were also
+reported to be associated with CE (37, 65–70).
+A growing body of evidence suggests a link between CE
+and infertility. CE is diagnosed in 28% of infertile patients
+with unknown etiology, 14%–41% of patients with RIF, and
+8%–28% of patients with RPL (9–11, 37, 54, 57, 71). The
+infertile CE women with a history of RIF have a signiﬁcantly
+lower implantation rate in the IVF-ET cycle after endometrial
+biopsy than those with RIF but without CE (15% vs. 46%) (8).
+Likewise, the per-pregnancy live birth rate in women with a
+history of RPL and untreated CE is very poor (7%) (10).
+Furthermore, women of reproductive age who contracted CE
+were at 60% higher risk of future infertility compared with
+the non-CE cohort (19).
+Diffuse and extensive plasmacyte inﬁltration is occasionally found in the basal plate of the placenta of women undergoing obstetric complications, which is denoted as chronic
+deciduitis (72). Chronic deciduitis was reported to be linked
+to preterm labor (41%) (72, 73) and neonatal periventricular
+leukomalacia/cerebral palsy (20%) (74). Intriguingly, chronic
+deciduitis is seen more frequently in IVF-ET pregnancies resulting from donor eggs (2.8%–42%) compared with those
+from autologous eggs (1.6%–1.8%), suggesting that chronic
+
+deciduitis may represent chronic semiallograft rejection by
+the maternal immune system of the conceptus (75–77). The
+expression level of several proinﬂammatory genes (IGJ,
+IGLL1, CXCL13, CD27, CXCL9, CXCL10, ICOS, and KLRC1)
+is increased in the placenta with chronic deciduitis
+compared with in the placenta without inﬂammation
+(72, 78, 79). Overexpression of IgJ chain in chronic
+deciduitis seems to be attributable to placental inﬁltration
+of IgM and/or IgG-bearing PCs and immature B cells. An
+epidemiologic study supports the idea that chronic deciduitis
+originates in preconceptional CE rather than in ascending
+infection during the gestational period (74).
+
+TREATMENT FOR CHRONIC ENDOMETRITIS
+Accumulating evidence indicates the effectiveness of the oral
+antibiotic treatment to eliminate ESPCs in CE. A few studies
+reported that some progestogens (such as megestrol acetate)
+are another treatment option for CE, but the data are insufﬁcient to demonstrate its effectiveness and safety (48).
+Based upon its broad antibacterial spectrum covering
+from common bacteria to mycoplasma, doxycycline has
+been used as a treatment of CE (3). Johnston-MacAnanny
+et al. prescribed oral doxycycline (200 mg per day for
+14 days) in CE patients with a history of RIF, which resulted
+in the clearance of CD138(þ) ESPC in 70% (7/10) of the second endometrial biopsy specimens in these women. An additional treatment with a combination of ciproﬂoxacin and
+metronidazole (500 mg of each per day for 14 days) was effective to eliminate ESPCs in the remaining three patients resistant to doxycycline (8). Using the same antibiotic regimen, we
+prospectively investigated the effectiveness in a larger cohort
+of CE patients with a history of RIF (15). Oral doxycycline
+(200 mg per day for 14 days) alone eradicated CD138(þ)
+ESPC in 92.3% (108/117) of CE patients and lowered the
+detection rate of some pathogenic microorganisms including
+corynebacterium, enterococcus, E. coli, Streptococcus agalactiae, U. urealyticum, and Ureaplasma parvum in the endometrium of these women, while increasing the detection rate of
+lactobacillus species. Moreover, the overall cure rate of CE
+was 99.1% (116/117 patients) following second-line treatment with metronidazole (500 mg per day for 14 days)/ciproﬂoxacin (400 mg per day for 14 days) for patients resistant to
+doxycycline.
+According to the results of the endometrial microbial examinations, Cicinelli et al. classiﬁed the antibiotic regimens
+for the treatment of CE women with a history of RIF (11). Ciproﬂoxacin (1,000 mg per day for 10 days) was used for most
+patients who were positive for Gram-negative bacteria,
+whereas a combination of amoxicillin/clavulanate (2 g per
+day for 8 days) was given to those with Gram-positive bacteria. The patients with mycoplasm and/or ureaplasm species
+were treated with josamycin (2 g per day for 12 days) along
+with minocycline (200 mg per day for 12 days) as the
+second-line regimen. The patients with negative endometrial
+microbial examinations were administered a combination of
+ceftriaxone (250 mg, single dose, IM injection), doxycycline
+(200 mg per day for 14 days), and metronidazole (1,000 mg
+per day for 14 days). In this retrospective study, 28% (17/
+
+VOL. 110 NO. 3 / AUGUST 2018
+347
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+VIEWS AND REVIEWS
+61) of the patients overcame CE with a single course of antibiotic regimen, whereas 23% (14/61) and 25% (15/61)
+required the second course and the third course of antibiotic
+treatment, respectively. The remaining 25% (15/61) were
+resistant to three-time repetition of the same regimen.
+McQueen et al. (10) treated infertile CE women with a history of early RPL and/or fetal demise. The ﬁrst-line combination of oﬂoxacin (800 mg per day for 14 days) and
+metronidazole (1,000 mg per day for 14 days) was effective
+for 73% (19/26) of patients. All of the remaining nine patients
+resistant to this combination were cured with the second-line
+regimens using doxycycline alone, doxycycline and metronidazole, or metronidazole and ciproﬂoxacin.
+For infertile women with chronic granulomatous endometritis, antitubercular chemotherapy including isoniazid
+(300 mg per day), rifampicin (450–600 mg per day), ethambutol (800–1,200 mg per day), and pyrazinamide (1,200–
+1,500 mg per day) was shown to be effective (69).
+
+PREGNANCY OUTCOME AFTER ANTIBIOTIC
+TREATMENT FOR CHRONIC ENDOMETRITIS
+Some studies suggest that oral antibiotic treatment potentially improves the pregnancy outcome in infertile women
+with CE.
+In their retrospective analysis, Cicinelli et al. investigated
+pregnancy outcomes after antibiotic treatment in CE patients
+with a history of RIF (11). In the subsequent fresh day 3 ET cycle, the live birth rate (60.9%, 28/46 vs. 13.3%, 2/15) was
+higher in the cured CE group than in the persistent CE group.
+No difference was found in the live birth rate between the patients undergoing single course antibiotic treatment and those
+undergoing multiple course antibiotic treatment. Cicinelli
+et al. recently reported similar results in 95 infertile CE women
+with unexplained etiology (71). The cumulative live birth rate
+per patient after spontaneous conception in the course of a12month follow-up was higher in the cured CE group (65.8%,
+25/38) than in the persistent CE group (6.6%, 1/15) and
+non-CE group (4.8%, 2/42).
+In a before and after study, McQueen et al. showed that
+antibiotic treatment increased the per-pregnancy live birth
+rate in CE women with a history of RPL (7% [7/98] before
+vs. 56% [28/50] after treatment). The cumulative live birth
+rate in the RPL/cured CE group was 88% (21/24), whereas
+that in the RPL/non-CE group was 74% (180/244) (12).
+We prospectively followed up the pregnancy outcome in
+118 CE women with a history of RIF undergoing antibiotic
+treatment (15). All of the patients had the subsequent fresh
+or cryopreserved-thawed cleavage-stage embryo/blastocyst
+transfer cycle after the second endometrial biopsy to
+conﬁrm the clearance of ESPCs. The live birth rate per patient in the cured CE group after antibiotic treatment was
+32.8% (38/116) in the ﬁrst ET cycle and 38.8% (45/116) in
+three cumulative ET cycles, whereas one patient with persistent CE failed to conceive. The effect of the antibiotic treatment was notable in the cryopreserved-thawed blastocyst
+transfer cycles (15). The live birth rate in the cured CE group
+was higher than that in the RIF/non-CE group (22.1%, 50/
+226 in the ﬁrst ET cycle and 27.9%, 63/226 in the cumula-
+
+tive three ET cycles), suggesting that the effectiveness of the
+antibiotic treatment for CE is independent of endometrial
+scratching effect (80).
+In infertile women with tuberculosis-associated CE, antitubercular chemotherapy based on a positive endometrial
+biopsy–polymerase chain reaction test improved their reproductive outcomes (69). After 6-month administration of the
+antitubercular agents, the clinical pregnancy rate within
+12 months was about 90%.
+These ﬁndings support the idea that antibiotic treatment
+is a promising therapeutic option to improve the pregnancy
+outcome in infertile women with CE. Prospective randomized
+controlled trials are required to verify these results.
+
+CONCLUSION
+The impact of endometritis, particularly of CE, on human
+pregnancy has been extensively researched over the last
+decade, and the potential association is becoming more
+apparent. However, clinical evidence is still scarce about the
+causality between endometritis and reproductive failure
+including RIF, RPL, and obstetric complications. The introduction of molecular microbial technology (i.e., microbiome)
+into clinical practice is being actively carried out. Recent
+comprehensive microbial analysis based on next-generation
+sequencing of the 16S ribosomal subunit and/or focused
+real time polymerase chain reaction was shown to be a fast
+and inexpensive tool that can allow for the identiﬁcation of
+both culturable and nonculturable pathogenic microorganisms associated with CE (22, 81, 82). These new approaches
+have the potential to shed light on the relationship between
+endometritis and unknown infectious conditions in the
+uterine cavity.
+
+REFERENCES
+1.
+
+2.
+
+3.
+
+4.
+5.
+6.
+
+7.
+
+8.
+
+9.
+
+Kitaya K, Yamaguchi T, Yasuo T, Okubo T, Honjo H. Post-ovulatory rise of
+endometrial CD16(–) natural killer cells: in situ proliferation of residual cells
+or selective recruitment from circulating peripheral blood? J Reprod Immunol 2007;76:45–53.
+Kiviat NB, Wølner-Hanssen P, Eschenbach DA, Wasserheit JN, Paavonen JA,
+Bell TA, et al. Endometrial histopathology in patients with culture-proved
+upper genital tract infection and laparoscopically diagnosed acute salpingitis. Am J Surg Pathol 1990;14:167–75.
+Haggerty CL, Ness RB, Amortegui A, Hendrix SL, Hillier SL, Holley RL, et al.
+Endometritis does not predict reproductive morbidity after pelvic inﬂammatory disease. Am J Obstet Gynecol 2003;188:141–8.
+Greenwood SM, Moran JJ. Chronic endometritis: morphologic and clinical
+observations. Obstet Gynecol 1981;58:176–84.
+Michels TC. Chronic endometritis. Am Fam Physician 1995;52:217–22.
+Akopians AL, Pisarska MD, Wang ET. The role of inﬂammatory pathways in
+implantation failure: chronic endometritis and hydrosalpinges. Semin Reprod Med 2015;33:298–304.
+Kitaya K, Matsubayashi H, Yamaguchi K, Nishiyama R, Takaya Y, Ishikawa T,
+et al. Chronic endometritis: potential cause of infertility and obstetric and
+neonatal complications. Am J Reprod Immunol 2016;75:13–22.
+Johnston-MacAnanny EB, Hartnett J, Engmann LL, Nulsen JC, Sanders MM,
+Benadiva CA. Chronic endometritis is a frequent ﬁnding in women with
+recurrent implantation failure after in vitro fertilization. Fertil Steril 2010;
+93:437–41.
+Kitaya K, Tada Y, Taguchi S, Funabiki M, Hayashi T, Nakamura Y. Local
+mononuclear cell inﬁltrates in infertile patients with endometrial macropolyps versus micropolyps. Hum Reprod 2012;27:3474–80.
+
+348
+VOL. 110 NO. 3 / AUGUST 2018
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Fertility and Sterility®
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+28.
+
+29.
+
+30.
+
+McQueen DB, Bernardi LA, Stephenson MD. Chronic endometritis in
+women with recurrent early pregnancy loss and/or fetal demise. Fertil Steril
+2014;101:1026–30.
+Cicinelli E, Matteo M, Tinelli R, Lepera A, Alfonso R, Indraccolo U, et al. Prevalence of chronic endometritis in repeated unexplained implantation failure
+and the IVF success rate after antibiotic therapy. Hum Reprod 2015;30:
+323–30.
+McQueen DB, Perfetto CO, Hazard FK, Lathi RB. Pregnancy outcomes in
+women with chronic endometritis and recurrent pregnancy loss. Fertil Steril
+2015;104:927–31.
+Cicinelli E, De Ziegler D, Nicoletti R, Colaﬁglio G, Saliani N, Resta L, et al.
+Chronic endometritis: correlation among hysteroscopic, histologic, and
+bacteriologic ﬁndings in a prospective trial with 2190 consecutive ofﬁce hysteroscopies. Fertil Steril 2008;89:677–84.
+Cicinelli E, De Ziegler D, Nicoletti R, Tinelli R, Saliani N, Resta L, et al. Poor
+reliability of vaginal and endocervical cultures for evaluating microbiology
+of endometrial cavity in women with chronic endometritis. Gynecol Obstet
+Invest 2009;68:108–15.
+Kitaya K, Matsubayashi H, Takaya Y, Nishiyama R, Yamaguchi K, Takeuchi T,
+et al. Live birth rate following oral antibiotic treatment for chronic endometritis in infertile women with repeated implantation failure. Am J Reprod Immunol 2017;78:e12719.
+Kumar P, Shah NP, Singhal A, Chauhan DS, Katoch VM, Mittal S, et al. Association of tuberculous endometritis with infertility and other gynecological
+complaints of women in India. J Clin Microbiol 2008;46:4068–70.
+Haggerty CL, Hillier SL, Bass DC, Ness RB. PID Evaluation and Clinical Health
+study investigators: bacterial vaginosis and anaerobic bacteria are associated
+with endometritis. Clin Infect Dis 2004;39:990–5.
+Polisseni F, Bambirra EA, Camargos AF. Detection of chronic endometritis by
+diagnostic hysteroscopy in asymptomatic infertile patients. Gynecol Obstet
+Invest 2003;55:205–10.
+Wiesenfeld HC, Hillier SL, Meyn LA, Amortegui AJ, Sweet RL. Subclinical pelvic inﬂammatory disease and infertility. Obstet Gynecol 2012;120:37–43.
+Khan KN, Fujishita A, Kitajima M, Hiraki K, Nakashima M, Masuzaki H. Intrauterine microbial colonization and occurrence of endometritis in women
+with endometriosis. Hum Reprod 2014;29:2446–56.
+Mitchell CM, Haick A, Nkwopara E, Garcia R, Rendi M, Agnew K, et al. Colonization of the upper genital tract by vaginal bacterial species in nonpregnant women. Am J Obstet Gynecol 2015;212:611.e1–9.
+~er FM, Vilella F, Valbuena D, Martinez-Blanch JF, JimeMoreno I, Codon
+nez-Almaz
+an J, et al. Evidence that the endometrial microbiota has an
+effect on implantation success or failure. Am J Obstet Gynecol 2016;
+215:684–703.
+Miles SM, Hardy BL, Merrell DS. Investigation of the microbiota of the reproductive tract in women undergoing a total hysterectomy and bilateral salpingo-oopherectomy. Fertil Steril 2017;107:813–20.
+Chen C, Song X, Wei W, Zhong H, Dai J, Lan Z, et al. The microbiota continuum along the female reproductive tract and its relation to uterine-related
+diseases. Nat Commun 2017;17:875.
+Fang RL, Chen LX, Shu WS, Yao SZ, Wang SW, Chen YQ. Barcoded
+sequencing reveals diverse intrauterine microbiomes in patients suffering
+with endometrial polyps. Am J Transl Res 2016;8:1581–92.
+Johnstone FD, Williams AR, Bird GA, Bjornsson S. Immunohistochemical
+characterization of endometrial lymphoid cell populations in women infected with human immunodeﬁciency virus. Obstet Gynecol 1994;83:
+586–93.
+Pitsos M, Skurnick J, Heller D. Association of pathologic diagnoses with clinical ﬁndings in chronic endometritis. J Reprod Med 2009;54:373–7.
+Frank TS, Himebaugh KS, Wilson MD. Granulomatous endometritis associated with histologically occult cytomegalovirus in a healthy patient. Am J
+Surg Pathol 1992;16:716–20.
+Yeaman GR, Guyre PM, Fanger MW, Collins JE, White HD, Rathbun W, et al.
+Unique CD8þ T cell-rich lymphoid aggregates in human endometrium. J
+Leukoc Biol 1997;61:427–35.
+Tabibzadeh SS, Bettica A, Gerber MA. Variable expression of Ia antigens in
+human endometrium and in chronic endometritis. Am J Clin Pathol 1986;
+86:153–60.
+
+31.
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+47.
+48.
+
+49.
+
+50.
+
+51.
+52.
+
+Kitaya K, Yasuo T. Aberrant expression of selectin E, CXCL1, and CXCL13 in
+chronic endometritis. Mod Pathol 2010;23:1136–46.
+Matteo M, Cicinelli E, Greco P, Massenzio F, Baldini D, Falagario T, et al.
+Abnormal pattern of lymphocyte subpopulations in the endometrium of
+infertile women with chronic endometritis. Am J Reprod Immunol 2009;
+61:322–9.
+Tortorella C, Piazzolla G, Matteo M, Pinto V, Tinelli R, Sabba C, et al. Interleukin-6, interleukin-1b, and tumor necrosis factor a in menstrual efﬂuents
+as biomarkers of chronic endometritis. Fertil Steril 2014;101:242–7.
+Salama SA, Kamel MW, Diaz-Arrastia CR, Xu X, Veenstra TD, Salih S, et al.
+Effect of tumor necrosis factor-alpha on estrogen metabolism and endometrial cells: potential physiological and pathological relevance. J Clin Endocrinol Metab 2009;94:285–93.
+Cicinelli E, Resta L, Nicoletti R, Zappimbulso V, Tartagni M, Saliani N. Endometrial micropolyps at ﬂuid hysteroscopy suggest the existence of chronic
+endometritis. Hum Reprod 2005;20:1386–9.
+Kitaya K, Tada Y, Hayashi T, Taguchi S, Funabiki M, Nakamura Y. Comprehensive endometrial immunoglobulin subclass analysis in infertile women
+suffering from repeated implantation failure with or without chronic endometritis. Am J Reprod Immunol 2014;72:386–91.
+Kitaya K, Yasuo T. Immunohistochemistrical and clinicopathological characterization of chronic endometritis. Am J Reprod Immunol 2011;66:410–5.
+Kushnir VA, Solouki S, Sarig-Meth T, Vega MG, Albertini DF, Darmon SK,
+et al. Systemic inﬂammation and autoimmunity in women with chronic
+endometritis. Am J Reprod Immunol 2016;75:672–7.
+Di Pietro C, Cicinelli E, Guglielmino MR, Ragusa M, Farina M, Palumbo MA,
+et al. Altered transcriptional regulation of cytokines, growth factors and
+apoptotic proteins in the endometrium of infertile women with chronic
+endometritis. Am J Reprod Immunol 2013;69:509–17.
+Mishra K, Wadhwa N, Guleria K, Agarwal S. ER, PR and Ki-67 expression status in granulomatous and chronic non-speciﬁc endometritis. J Obstet Gynaecol Res 2008;34:371–8.
+€e W, Gerdes J, Stein H. Steroid receptors
+Pickartz H, Beckmann R, Fleige B, Du
+and proliferative activity in non-neoplastic and neoplastic endometria. Virchows Arch A Pathol Anat Histopathol 1990;417:163–71.
+Wu D, Kimura F, Zheng L, Ishida M, Niwa Y, Hirata K, et al. Chronic endometritis modiﬁes decidualization in human endometrial stromal cells. Reprod Biol Endocrinol 2017;15:16.
+Burney RO, Talbi S, Hamilton AE, Vo KC, Nyegaard M, Nezhat CR, et al.
+Gene expression analysis of endometrium reveals progesterone resistance
+and candidate susceptibility genes in women with endometriosis. Endocrinology 2007;148:3814–26.
+Crum CP, Egawa K, Fenoglio CM, Richart RM. Chronic endometritis: the role
+of immunohistochemistry in the detection of plasma cells. Am J Obstet Gynecol 1983;147:812–5.
+Kitaya K, Yasuo T, Tada Y, Hayashi T, Iwaki Y, Karita M, et al. Unusual inﬂammation in gynecologic pathology associated with defective endometrial
+receptivity. Histol Histopathol 2014;29:1113–27.
+Adegboyega PA, Pei Y, McLarty J. Relationship between eosinophils and
+chronic endometritis. Hum Pathol 2010;41:33–7.
+Bayer-Garner IB, Korourian S. Plasma cells in chronic endometritis are easily
+identiﬁed when stained with syndecan-1. Mod Pathol 2001;14:877–89.
+Bayer-Garner IB, Nickell JA, Korourian S. Routine syndecan-1 immunohistochemistry aids in the diagnosis of chronic endometritis. Arch Pathol Lab Med
+2004;128:1000–3.
+Vicetti Miguel RD, Chivukula M, Krishnamurti U, Amortegui AJ, Kant JA,
+Sweet RL, et al. Limitations of the criteria used to diagnose histologic endometritis in epidemiologic pelvic inﬂammatory disease research. Pathol Res
+Pract 2011;207:680–5.
+Kitaya K, Yasuo T. Inter-observer and intra-observer variability in immunohistochemical detection of endometrial stromal plasmacytes in chronic endometritis. Exp Ther Med 2013;5:485–8.
+Inki P. Expression of syndecan-1 in female reproductive tract tissues and
+cultured keratinocytes. Mol Hum Reprod 1997;3:299–305.
+Torlakovic EE, Nielsen S, Vyberg M, Taylor CR. Getting controls under control: the time is now for immunohistochemistry. J Clin Pathol 2015;68:
+879–82.
+
+VOL. 110 NO. 3 / AUGUST 2018
+349
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+VIEWS AND REVIEWS
+53.
+
+54.
+55.
+
+56.
+
+57.
+
+58.
+59.
+
+60.
+
+61.
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+Kasius JC, Fatemi HM, Bourgain C, Sie-Go DM, Eijkemans RJ, Fauser BC,
+et al. The impact of chronic endometritis on reproductive outcome. Fertil
+Steril 2011;96:1451–6.
+Kitaya K. Prevalence of chronic endometritis in recurrent miscarriages. Fertil
+Steril 2011;95:1156–8.
+€lner-Hanssen PK, Kiviat NB, Wasserheit JN,
+Eckert LO, Hawes SE, Wo
+Paavonen JA, et al. Endometritis: the clinical-pathologic syndrome. Am J Obstet Gynecol 2002;186:690–5.
+Punnonen R, Lehtinen M, Teisala K, Aine R, Rantala I, Heinonen PK, et al. The
+relation between serum sex steroid levels and plasma cell inﬁltrates in endometritis. Arch Gynecol Obstet 1989;244:185–91.
+Song D, Feng X, Zhang Q, Xia E, Xiao Y, Xie W, et al. Prevalence and confounders of chronic endometritis in premenopausal women with abnormal
+bleeding or reproductive failure. Reprod Biomed Online 2018;36:78–83.
+Cravello L, Porcu G, D'Ercole C, Roger V, Blanc B. Identiﬁcation and treatment of endometritis. Contracept Fertil Sex 1997;25:585–6.
+Bouet PE, El Hachem H, Monceau E, Gariepy G, Kadoch IJ, Sylvestre C.
+Chronic endometritis in women with recurrent pregnancy loss and recurrent
+implantation failure: prevalence and role of ofﬁce hysteroscopy and immunohistochemistry in diagnosis. Fertil Steril 2016;105:106–10.
+Yang R, Du X, Wang Y, Song X, Yang Y, Qiao J. The hysteroscopy and histological diagnosis and treatment value of chronic endometritis in recurrent
+implantation failure patients. Arch Gynecol Obstet 2014;289:1363–9.
+Paavonen J, Aine R, Teisala K, Heinonen PK, Punnonen R, Lehtinen M, et al.
+Chlamydial endometritis. J Clin Pathol 1985;38:726–32.
+Moyer DL, Mishell DR Jr, Bell J. Reactions of human endometrium to the intrauterine device. I. Correlation of the endometrial histology with the bacterial environment of the uterus following short-term insertion of the IUD. Am
+J Obstet Gynecol 1970;106:799–809.
+Smith M, Hagerty KA, Skipper B, Bocklage T. Chronic endometritis: a combined histopathologic and clinical review of cases from 2002 to 2007. Int J
+Gynecol Pathol 2010;29:44–50.
+Chen YQ, Fang RL, Luo YN, Luo CQ. Analysis of the diagnostic value of
+CD138 for chronic endometritis, the risk factors for the pathogenesis of
+chronic endometritis and the effect of chronic endometritis on pregnancy:
+a cohort study. BMC Womens Health 2016;16:60.
+Cicinelli E, Trojano G, Mastromauro M, Vimercati A, Marinaccio M,
+Mitola PC, et al. Higher prevalence of chronic endometritis in women with
+endometriosis: a possible etiopathogenetic link. Fertil Steril 2017;108:
+289–95.
+Takebayashi A, Kimura F, Kishi Y, Ishida M, Takahashi A, Yamanaka A, et al.
+The association between endometriosis and chronic endometritis. PLoS One
+2014;9:e88354.
+Korn AP, Bolan G, Padian N, Ohm-Smith M, Schachter J, Landers DV. Plasma
+cell endometritis in women with symptomatic bacterial vaginosis. Obstet Gynecol 1995;85:387–90.
+
+68.
+69.
+
+70.
+71.
+
+72.
+
+73.
+
+74.
+75.
+
+76.
+
+77.
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+Peipert JF, Montagno AB, Cooper AS, Sung CJ. Bacterial vaginosis as a risk factor for upper genital tract infection. Am J Obstet Gynecol 1997;177:1184–7.
+Jindal UN, Verma S, Bala Y. Favorable infertility outcomes following antitubercular treatment prescribed on the sole basis of a positive polymerase
+chain reaction test for endometrial tuberculosis. Hum Reprod 2012;27:
+1368–74.
+Degani S, Gonen R, de Vries K, Sharf M. Endometrial ossiﬁcation associated
+with repeated abortions. Acta Obstet Gynecol Scand 1983;62:281–2.
+Cicinelli E, Matteo M, Trojano G, Mitola PC, Tinelli R, Vitagliano A, et al.
+Chronic endometritis in patients with unexplained infertility: prevalence
+and effects of antibiotic treatment on spontaneous conception. Am J Reprod Immunol 2018;79:12782.
+Kim CJ, Romero R, Chaemsaithong P, Kim JS. Chronic inﬂammation of the
+placenta: deﬁnition, classiﬁcation, pathogenesis, and clinical signiﬁcance.
+Am J Obstet Gynecol 2015;213(4 Suppl):S53–69.
+Edmondson N, Bocking A, Machin G, Rizek R, Watson C, Keating S. The
+prevalence of chronic deciduitis in cases of preterm labor without clinical
+chorioamnionitis. Pediatr Dev Pathol 2009;12:16–21.
+Ghidini A, Salaﬁa CM. Histologic placental lesions in women with recurrent
+preterm delivery. Acta Obstet Gynecol Scand 2005;84:547–50.
+Maleki Z, Bailis AJ, Argani CH, Askin FB, Graham EM. Periventricular leukomalacia and placental histopathologic abnormalities. Obstet Gynecol 2009;
+114:1115–20.
+Perni SC, Predanic M, Cho JE, Baergen RN. Placental pathology and pregnancy outcomes in donor and non-donor oocyte in vitro fertilization pregnancies. J Perinat Med 2005;33:27–32.
+Gundogan F, Bianchi DW, Scherjon SA, Roberts DJ. Placental pathology in
+egg donor pregnancies. Fertil Steril 2010;93:397–404.
+Romero R, Whitten A, Korzeniewski SJ, Than NG, Chaemsaithong P,
+Miranda J, et al. Maternal ﬂoor infarction/massive perivillous ﬁbrin deposition: a manifestation of maternal antifetal rejection? Am J Reprod Immunol
+2013;70:285–98.
+Raman K, Wang H, Troncone MJ, Khan WI, Pare G, Terry J. Overlap chronic
+placental inﬂammation is associated with a unique gene expression pattern.
+PLoS One 2015;10:e0133738.
+Nastri CO, Lensen SF, Gibreel A, Raine-Fenning N, Ferriani RA,
+Bhattacharya S, et al. Endometrial injury in women undergoing assisted
+reproductive techniques. Cochrane Database Syst Rev 2015:CD009517.
+Franasiak JM, Werner MD, Juneau CR, Tao X, Landis J, Zhan Y, et al. Endometrial microbiome at the time of embryo transfer: next-generation
+sequencing of the 16S ribosomal subunit. J Assist Reprod Genet 2016;33:
+129–36.
+Moreno I, Cicinelli E, Garcia-Grau I, Gonzalez M, Bau D, Vilella F, et al. The
+diagnosis of chronic endometritis in infertile asymptomatic women: a
+comparative study of histology, microbial cultures, hysteroscopy, and molecular microbiology. Am J Obstet Gynecol 2018;218:602.e1–16.
+
+350
+VOL. 110 NO. 3 / AUGUST 2018
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+
