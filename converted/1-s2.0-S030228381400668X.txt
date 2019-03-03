@@ -1,0 +1,180 @@
+EUROPEAN UROLOGY 67 (2015) 138–141
+
+available at www.sciencedirect.com
+journal homepage: www.europeanurology.com
+
+Platinum Priority – Editorial and Reply from Authors
+Referring to the article published on pp. 125–137 of this issue
+
+Between a Rock and a Hard Place: The Uncertainties in Managing
+Renal Stones
+Thomas B.L. Lam a,b, Sam McClinton a,b,*
+a
+
+Department of Urology, Aberdeen Royal Infirmary, Aberdeen, UK; b Academic Urology Unit, University of Aberdeen, Aberdeen, UK
+
+The management of renal calculi has evolved over the last
+few decades due to technological advances. Treatment
+options include shock wave lithotripsy, percutaneous
+nephrolithotomy (PCNL), or retrograde intrarenal surgery
+(RIRS), with the choice of intervention guided by stone
+location, size, composition, and anatomic factors [1],
+along with the availability of technical expertise and
+equipment. However there is considerable uncertainty
+regarding how these interventions compare with each
+other, a fact underlined by current clinical practice
+guidelines [1]. The systematic review and meta-analysis
+by De et al. [2] in this month’s issue of European Urology
+represents a welcome attempt to clarify some of the
+uncertainties regarding PCNL and RIRS for the treatment
+of renal stones.
+The review synthesised evidence based on a structured
+literature assessment. Outcomes assessed included stonefree rate (SFR), need for auxiliary procedures and complication rate, and process outcomes. Meta-analysis was
+planned on all outcomes irrespective of study design, and
+subgroup analysis was performed on PCNL subtypes. The
+review ultimately included 10 studies, 6 of which were
+retrospective observational studies. In the main analysis,
+the authors found PCNL had a significantly higher SFR (odds
+ratio [OR]: 2.19; 95% confidence interval [CI], 1.53–3.13)
+and a higher complication rate (OR: 1.61; 95% CI, 1.11–2.35)
+than RIRS, but no data on the need for auxiliary procedures
+were presented. In the subgroup analysis, standard PCNL
+had higher SFR than RIRS (OR: 4.32; 95% CI, 1.99–9.37), but
+there was no difference in complication rate or the need for
+auxiliary procedures. Conversely, RIRS had better SFR than
+minimally invasive percutaneous procedures (OR: 1.70;
+
+95% CI, 1.07–2.70), but there was no difference in
+complication rate or the need for auxiliary procedures.
+We commend the authors for attempting to address the
+prevalent uncertainties regarding the management of renal
+stones in a methodical and thoughtful manner. Reviews
+regarding surgical practice are rarely undertaken systematically [3], and high-quality systematic reviews concerning
+kidney diseases are lacking [4]. The merits of a high-quality
+systematic review, supplemented by a robustly undertaken
+meta-analysis, are undeniable [5]. The observed greater
+complication rate associated with PCNL compared with
+RIRS on meta-analysis is particularly striking, considering
+the consistency of magnitude and direction of effects across
+studies and lack of statistical heterogeneity, in spite of the
+inherent clinical and methodological heterogeneity that
+must surely be present due to the diverse types of included
+studies. This finding supports efforts to refine and innovate
+PCNL to minimise morbidity while maintaining its stoneclearing efficacy.
+However, to interpret the findings of any evidence
+synthesis, especially in terms of its potential impact on
+clinical practice and clinical practice guidelines, a close
+scrutiny of its conduct and processes is mandatory. In this
+context, the work suffers from significant methodological
+limitations. The greatest concern relates to the authors’
+decision to combine unadjusted data from retrospective
+observational studies and randomised trials in performing
+their meta-analysis. This strategy is usually discouraged
+because it is difficult to control and account for biases,
+heterogeneity, and confounding, hence risking misleading
+or spurious findings [6]. The sum of multiple biases and
+uncertain estimates of individual studies are magnified
+
+DOI of original article: http://dx.doi.org/10.1016/j.eururo.2014.07.003.
+* Corresponding author. Department of Urology, Aberdeen Royal Inﬁrmary, Aberdeen AB25 2ZN, UK. Tel. +44 1224 550517; Fax: +44 1224 1224 550726.
+E-mail address: smcclinton@nhs.net (S. McClinton).
+0302-2838/# 2014 European Association of Urology. Published by Elsevier B.V. All rights reserved.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+EUROPEAN UROLOGY 67 (2015) 138–141
+
+when such data are combined while introducing new biases
+and errors in the analysis.
+Second, the conduct of the review is generally poorly
+described. In particular, the patient or problem, intervention of interest, comparison, and outcome (PICO) elements
+are not clearly or adequately specified. Did the review
+include patients with all stone sizes and all stone locations?
+Did it matter if patients were first-time or recurrent stone
+formers? What about the composition of stones? Which
+group was considered the experimental intervention, and
+which was the control? What were the prespecified
+comparisons? The outcomes were also poorly specified in
+terms of the primary outcome, how it was defined (eg, were
+residual fragments allowed in the definition of stone-free
+clearance), and when it was measured. The risk of bias (RoB)
+assessment results were merely summarised; no detailed
+description was provided, and it was unclear which
+confounding variables were considered in the RoB assessment for observational studies.
+All things considered, there was little evidence that the
+review adhered to the Preferred Reporting Items for
+Systematic Reviews and Meta-analysis framework [7].
+The observation that only 16 articles of 30 000 abstracts
+were eligible for full-text screening is highly unusual,
+especially considering that nonrandomised and observational study designs were included. There was a clear
+imbalance in the number of participants between the two
+groups, with almost twice as many patients who had PCNL
+(n = 727) compared with RIRS (n = 454), which is typical of
+any synthesis involving retrospective observational studies.
+There was moderate to high statistical heterogeneity for
+virtually all outcomes except for complication rate, which
+seriously limits the reliability of most of the review findings.
+Why was subgroup or sensitivity analysis not planned on
+important confounders such as stone size and location,
+patient age, and gender to explore and account for such
+heterogeneity that must surely have been anticipated?
+The authors used RoB assessment as a surrogate for
+quality of evidence. The quality of evidence for any research
+question is influenced by the interplay of many elements
+that extend far beyond the risk of bias of individual studies
+alone; these include inconsistency, imprecision and indirectness of effects, magnitude of effect, and the impact of
+opposing biases and confounders [8]. Consequently, the
+reported quality assessment is incomplete, which hinders
+any meaningful interpretation of the review findings.
+Lastly, the authors conclude that RIRS should be
+recommended as standard therapy for stones <2 cm. Given
+
+139
+
+the considerable limitations of the review conduct and the
+uncertainties associated with its findings, this recommendation is at best misleading, and it is out of sync with
+present clinical practice guidelines [1].
+In conclusion, although the review by De et al. [2] raises
+interesting points, the fundamental question of how PCNL
+truly compares with RIRS for the management of renal
+stones remains essentially unanswered. Ultimately, the
+paper does highlight the relative lack of reliable and good
+quality data in the evidence base concerning this clinically
+and economically important question. This emphasises the
+need for high-quality, robust, and well-designed prospective RCTs incorporating clinically meaningful outcomes
+that are important to patients, based on standardised
+definitions and measured using standardised outcome
+measures [9].
+Conﬂicts of interest: The authors have nothing to disclose.
+
+References
+[1] Türk C, Knoll T, Petrik A, et al. Guidelines on urolithiasis 2014.
+European Association of Urology Web site. http://www.uroweb.org/
+gls/pdf/22%20Urolithiasis_LR.pdf. Updated 2014.
+[2] De S, Autorino R, Kim FJ, et al. Percutaneous nephrolithotomy versus
+retrograde intrarenal surgery: a systematic review and meta-analysis.
+Eur Urol 2015;67:125–37.
+[3] Panesar SS, Thakrar R, Athanasiou T, Sheikh A. Comparison of reports
+of randomized controlled trials and systematic reviews in surgical
+journals: literature review. J R Soc Med 2006;99:470–4722.
+[4] Mrkobrada M, Thiessen-Philbrook H, Haynes RB, Iansavichus AV,
+Rehman F, Garg AX. Need for quality improvement in renal systematic reviews. Clin J Am Soc Nephrol 2008;3:1102–111414.
+[5] Oxford Centre for Evidence-Based Medicine 2011 levels of evidence.
+Oxford Centre for Evidence-Based Medicine Web site. http://
+www.cebm.net/wp-content/uploads/2014/06/CEBM-Levels-of-Evidence-2.1.pdf.
+[6] Egger M, Schneider M, Davey Smith G. Spurious precision? Metaanalysis of observational studies. BMJ 1998;316:140–1444.
+[7] Moher D, Liberati A, Tetzlaff J, Altman DG. PRISMA Group. Preferred
+reporting items for systematic reviews and meta-analyses: the
+PRISMA statement. J Clin Epidemiol 2009;62:1006–101212.
+[8] Guyatt GH, Oxman AD, Kunz R, Vist GE, Falck-Ytter Y, Schünemann
+HJ. GRADE Working Group. What is ‘‘quality of evidence’’ and why is
+it important to clinicians? BMJ 2008;336:995–9988.
+[9] Core Outcome Measures in Effectiveness Trials (COMET) initiative.
+COMET Initiative Web site. http://www.comet-initiative.org/.
+http://dx.doi.org/10.1016/j.eururo.2014.07.016
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

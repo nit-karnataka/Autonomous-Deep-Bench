@@ -1,0 +1,1116 @@
+Association between estrogen
+receptor 1 (ESR1) and leukemia
+inhibitory factor (LIF) polymorphisms
+can help in the prediction of
+recurrent implantation failure
+Laura Diniz Vagnini, B.Sc.,a Adriana Renzi, Ph.D.,a Bruna Petersen, B.Sc.,a
+~o Canas, B.Sc.,a Claudia Guilhermino Petersen, Ph.D.,a,b Ana Lucia Mauri, B.Sc.,a,b
+Maria do Carmo Tomita
+Mariana Coltri Mattila, B.Sc.,b Juliana Ricci, R.N.,b Felipe Dieamant, M.D.,a,b
+~o Batista Alcantara Oliveira, M.D., Ph.D.,a,b Ricardo Luiz Razera Barufﬁ, M.D.,a,b and
+Joa
+ Gonçalves Franco Jr., M.D., Ph.D.a,b
+Jose
+~o Preto,
+Paulista Center for Diagnosis, Research and Training; b Center for Human Reproduction Prof. Franco Jr, Ribeira
+Brazil
+
+a
+
+Objective: To investigate an association between polymorphisms related to the implantation process that together could help in the
+prediction of recurrent implantation failure (RIF).
+Design: Cohort study.
+Setting: Private fertility center and reproductive genetics laboratory.
+Patient(s): Forty-four women presenting RIF, who were included in study group (RIF group), and two control groups, one with 63 women
+who were attended at our service and became pregnant after the ﬁrst IVF/intracytoplasmic sperm injection attempt (control group I) and
+other with 65 fertile women who had at least two children without any treatment and no history of miscarriage (control group II).
+Intervention(s): None.
+Main Outcome Measure(s): Genotyping was performed in the intron region of TP63, VEGFA, MMP2, ESR1, and ESR2 genes and in
+the 30 untranslated region of the LIF gene on genomic DNA using real-time polymerase chain reaction.
+Result(s): The presence of ESR1/AA (rs12199722) and LIF/GT (rs929271) genotypes was more frequent in the RIF group, leading to a
+7.9-fold increase in the chance of women presenting with RIF when compared with women who became pregnant on their ﬁrst cycle of
+IVF/intracytoplasmic sperm injection and a 2.8-fold increase when compared with women who became pregnant without treatment.
+Conclusion(s): The association between ESR1 and LIF polymorphisms can help in the prediction of RIF. (Fertil SterilÒ 2019;111:
+527–34. Ó2018 by American Society for Reproductive Medicine.)
+El resumen está disponible en Español al ﬁnal del artículo.
+Key Words: ESR1, LIF, recurrent implantation failure (RIF), IVF/ICSI
+Discuss: You can discuss this article with its authors and other readers at https://www.fertstertdialog.com/users/16110-fertilityand-sterility/posts/40927-26775
+
+Received August 4, 2018; revised October 19, 2018; accepted November 12, 2018; published online
+January 2, 2019.
+L.D.V. has nothing to disclose. A.R. has nothing to disclose. B.P. has nothing to disclose. M.C.T.C. has
+nothing to disclose. C.G.P. has nothing to disclose. A.L.M. has nothing to disclose. M.C.M. has
+nothing to disclose. J.R. has nothing to disclose. F.D. has nothing to disclose. J.B.A.O. has nothing
+to disclose. R.L.R.B. has nothing to disclose. J.G.F. has nothing to disclose.
+This research was supported by the Merck Serono Grant for Fertility Innovation (2014). The funders
+had no role in study design, data collection and analysis, decision to publish, or preparation of
+the manuscript.
+Reprint requests: Laura Diniz Vagnini, B.Sc., Paulista Center for Diagnosis, Research and Training, Rua
+Capitao Adelmio Norberto da Silva, 590 – CEP: 14025670 Ribeirao Preto/SP, Brazil (E-mail:
+vagninilaura@cpdp.com.br).
+Fertility and Sterility® Vol. 111, No. 3, March 2019 0015-0282/$36.00
+Copyright ©2018 American Society for Reproductive Medicine, Published by Elsevier Inc.
+https://doi.org/10.1016/j.fertnstert.2018.11.016
+
+I
+
+mplantation is a multifactorial event
+in which the embryo attaches itself
+to the luminal surface of the endometrium, followed by migration and
+invasion into its deep layer, becoming
+closely connected to the maternal endometrial surface to form the placenta (1).
+This poorly understood system represents a critical step in the reproductive
+process (2), and it depends on the interplay between the blastocyst and the
+endometrium
+(3).
+A
+receptive
+
+VOL. 111 NO. 3 / MARCH 2019
+527
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+ORGINAL ARTICLE: GENETICS
+endometrium, a normal and functional embryo at the blastocyst developmental stage, and a synchronized dialogue between maternal and embryonic tissues are required for
+successful implantation (3). Implantation failure is considered
+to have occurred if there is a lack of ultrasonography evidence
+of an intrauterine gestational sac. It may occur very early (during attachment or migration states) or later, after successful
+migration of the embryo through the luminal surface of the
+endometrium, with the disruption of the process before the formation of an intrauterine gestational sac, owing to embryo or
+endometrial factors (4).
+Recurrent implantation failure (RIF) is a clinical condition
+in which implantation has repeatedly failed to reach a stage
+recognizable by ultrasonography (4, 5). Although RIF is the
+most common cause of unsuccessful pregnancy after
+assisted reproductive technology, there is no consensus on
+its deﬁnition, despite many publications on this topic (4–9).
+There are many causes of RIF, among which we can
+mention gamete/embryo factors (oocyte quality, sperm
+quality, parental chromosomal anomalies), maternal age,
+uterine factors (congenital uterine anomalies, acquired
+intracavity conditions), hydrosalpinx, immunologic factors,
+thrombophilic conditions, hormonal or metabolic disorders,
+and genetic abnormalities (4–7). In women with
+unexplained implantation failure, despite good hormonal
+response, good-quality embryos, satisfactory endometrial
+development, and no identiﬁable pathology, suboptimal
+endometrial receptivity is considered a key factor in inhibiting embryo implantation (2). The implantation process requires the interaction of at least four types of cells: stromal,
+epithelial, endothelial, and immune cells (10).
+Because genetic factors seem to be highly associated with
+RIF (11), a growing number of candidate genes have been
+investigated concerning their potential roles in that etiology.
+Single nucleotide polymorphisms (SNPs) have being used as
+markers owing to their large number in virtually all populations, improving the ability to diagnose RIF, thereby
+increasing a couple's chance of conception. In preliminary
+analysis, we selected some reproduction-related genes to
+identify SNPs that could be important to the implantation
+process. Using next-generation sequencing we identiﬁed six
+polymorphisms that were somehow related to RIF and were
+used in this study: tumor protein p63 (TP63) rs12486772,
+vascular endothelial growth factor A (VEGFA) rs3025010,
+matrix metallopeptidase 2 (MMP2) rs2287076, estrogen receptor 1 (ESR1) rs12199722, estrogen receptor 2 (ESR2)
+rs1952585, and leukemia inhibitory factor (LIF) rs929271.
+It is known that the TP63 gene is a regulator of the quality
+and maturation of oocytes (12). In addition, Feng et al. (13)
+suggested that TP63 may have distinct functions in reproduction other than maintaining female germ cell integrity,
+because they identiﬁed an association of one SNP with both
+young and older patients. The VEGFA gene is important for
+almost every aspect of blood vessel formation and function,
+mediating angiogenesis and vasculogenesis (14). It has been
+shown that polymorphisms in the VEGFA gene correlate
+with variation in VEGFA protein production (15), which could
+result in decreased angiogenesis and blastocyst invasion,
+leading to implantation failure. The MMP2 gene belongs to
+
+a family of zinc-dependent proteinases (MMPs) that can be
+found widely distributed in human tissues. They are able to
+degrade nearly all extracellular matrix proteins and are
+necessary for cell migration, the healing process, development, scar formation, and other tissue changes (16). They
+also play important roles in reproductive physiology, remodeling extracellular matrix during ovarian follicular growth
+and ovulation (17). ESR1 and ESR2 genes are responsible
+for codifying two estrogen receptors (ERa and ERb, respectively), which mediate estrogen (E) effects that are well known
+on follicle growth, maturation, oocyte release (18), and endometrial preparation for implantation (19). The LIF protein is
+an important mediator of embryo implantation (20), and the
+inﬂuence of polymorphisms in the LIF gene has been
+analyzed by several groups, helping in the understanding of
+the implantation process. High concentration of LIF in follicular ﬂuid has been correlated with good embryo quality, suggesting its role in ovulation and early embryonic development
+(21). It was also associated with embryo implantation and
+endometrial receptivity, being part of a highly coordinated
+orchestra of the reproductive process (22). Levels of LIF protein are increased at the time of expected implantation in
+fertile women (23). On the other hand, lower LIF levels have
+been associated with women presenting with unexplained
+infertility (24, 25).
+Genetic factors combined or alone can affect the implantation process; therefore, our objective was to identify the best
+association between six polymorphisms (TP63 rs12486772,
+VEGFA rs3025010, MMP2 rs2287076, ESR1 rs12199722,
+ESR2 rs1952585, and LIF rs929271) that could help in the
+prediction of RIF.
+
+MATERIALS AND METHODS
+Ethical Approval
+The study was authorized by the local ethics committee (the
+Ethics Committee in Research of the Reference Center for
+Women Health; project reference: 045/11) and was carried
+out according to the principles expressed in the Declaration
+of Helsinki. Written informed consent was obtained from all
+recruited subjects.
+
+Study Population
+A cohort study was conducted with blood samples from 44
+infertile women (aged 35.3  2.6 years [mean  SD]) presenting RIF and two different control groups: group I, 63
+women (aged 33.3  4.1 years); and group II, 65 women
+(aged 52.2  10.7 years). The study population consisted
+of patients who were subjected to IVF/intracytoplasmic
+sperm injection (ICSI) protocols recruited at our Human
+Reproduction Center between January 2014 and December
+2016 (RIF group). Recurrent implantation failure was
+deﬁned as failure to achieve pregnancy after three or
+more IVF/ICSI attempts and ﬁve or more cleavage-stage
+good morphological quality embryos transferred (4, 5).
+All women were %39 year old (at the time of the ETs)
+and had normal couple karyotype. The exclusion criteria
+were deﬁned as the presence of uterine defects by
+
+528
+VOL. 111 NO. 3 / MARCH 2019
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Fertility and Sterility®
+ultrasound, hysterosalpingography, and hysteroscopy,
+evidence of hydrosalpinx by ultrasonography, infections,
+endocrine
+problems,
+coagulation
+defects
+or
+thrombophilia, and autoimmune defects (including
+antiphospholipid anti-bodies).
+The enrolment criteria for the control group I included patients who were subject to IVF/ICSI protocols at the same center and became pregnant on the ﬁrst attempt and had at least
+one live birth. Control group II included fertile women (postmenopausal volunteers) with no history of miscarriage or
+infertility treatment who had at least two live births. The inclusion criteria of postmenopausal volunteers had the purpose
+to avoid possible miscarriages or future infertility problems
+after recruitment for the study. These inclusion criteria were
+based on published research (26, 27). None of the patients
+in the study group or control group I underwent PGS/PGTA
+(preimplantation genetic screening/preimplantation genetic
+testing for aneuploidy) in their treatments.
+All women recruited for this study were Brazilian, from
+all over the country. Despite the high rate of interracial marriage in the Brazilian population, most patients and healthy
+study participants described their skin color as ‘‘white.’’
+
+DNA Samples and Genotyping
+Genomic DNA for the entire studied population was extracted
+from peripheral blood samples using the QIAamp DNA blood
+mini kit (Qiagen), following the manufacturer's instructions.
+Nucleotide changes were evaluated in duplicate by realtime polymerase chain reaction (PCR) using individual TaqMan SNP genotyping assays (Thermo Fisher) for each SNP
+(TP63 rs12486772, VEGFA rs3025010, MMP2 rs2287076,
+ESR1 rs12199722, ESR2 rs1952585, and LIF rs929271) and
+TaqPath ProAmp Master Mix, following the manufacturer's
+instructions, on a StepOne Real-time PCR System. The PCR
+conditions were as follows: 60 C for 30 seconds (pre-read);
+95 C for 5 minutes (initial denature, enzyme activation), 40
+cycles of 95 C for 15 seconds (denature), and 60 C for 1 minute (anneal/extend). Genotyping results were validated and
+conﬁrmed by the automatic sequencer XL 3500 Genetic
+Analyzer (Applied Biosystems) using 20 samples of each genotype from each polymorphism (normal homozygous, heterozygous, and mutated homozygous) selected randomly.
+For the minor allele frequency of each polymorphism, all genotypes were sequenced.
+
+Statistical Analysis
+All data were analyzed using StatsDirect statistical software
+version 2.7.9 software. The following parameters were evaluated for each group analyzed: the woman's age, body mass index, time of infertility, cause of infertility, semen parameters,
+endometrial thickness, total dose of recombinant FSH, number of oocytes retrieved, number of oocytes retrieved in metaphase II, and fertilization rate. The differences in the
+frequencies of the SNPs genotypes, alleles, or both, in the
+RIF group and control groups were also evaluated.
+To compare the means of continuous variables, the
+nonparametric Mann-Whitney test was used if the contin-
+
+uous variables were not normally distributed, and Student's
+t test and one-way analysis of variance were used if the
+continuous variables were normally distributed. The results
+are expressed as the arithmetic mean  SD. For categorical
+variables, Fisher's exact test was used, and the results are expressed as percentages. In addition, logistic regression
+analysis was used to determine a signiﬁcant association
+between all polymorphisms as a tool in the prediction of
+RIF. All statistical tests were considered signiﬁcant at a level
+of P< .05.
+
+RESULTS
+Table 1 represents the main characteristics of study participants. The genotype and allele frequencies of each SNP
+(TP63 rs12486772, VEGFA rs3025010, MMP2 rs2287076,
+ESR2 rs1952585, ESR1 rs12199722, and LIF rs929271) are
+presented in Table 2. The TP63 polymorphism showed no signiﬁcant difference between the studied groups. Although
+there was no difference between the VEGFA genotypes
+(rs3025010), the T allele was more frequent in control group
+II. MMP2/TC genotype frequency was signiﬁcantly higher
+in the RIF group compared with control group II. The ESR2/
+AG genotype was more frequent in control group II. The
+ESR1/AA genotype was signiﬁcantly higher in the RIF group
+when compared with both control groups. On the other hand,
+the ESR1/AG genotype was signiﬁcantly higher in both control groups. In the RIF group, the frequency of the LIF/GT genotype was signiﬁcantly higher when compared with control
+group I; however, the LIF/GG genotype was signiﬁcantly
+higher in control group I. When these six polymorphisms
+were used in combination with each other, we found that
+the association of the LIF/GT and ESR1/AA genotypes had
+a 7.9-fold increase in the chance of women being included
+in the RIF group when compared with women in control
+group I and a 2.8-fold increase when compared with women
+in control group II (Table 3). The other SNPs combinations did
+not show a signiﬁcant association.
+
+DISCUSSION
+Because RIF is a clinical condition caused by diverse genetic
+and environmental factors, SNPs in some of these genes
+may affect individual susceptibility to RIF at different levels
+(28). This study demonstrated that, of the six polymorphisms
+investigated here, three showed a signiﬁcant association with
+women presenting RIF when analyzed one by one.
+It has already been shown that TP63 is associated with
+different reproductive functions (12, 13). Additionally, an
+association of one SNP (rs12486772) of this gene and
+women presenting RIF was shown in our preliminary
+analysis using next-generation sequencing, being the reason
+for using this SNP in this work. Here we did not ﬁnd any
+association between the TP63 polymorphism (A>G,
+rs12486772) and the three groups studied, perhaps owing to
+the limited number of women involved in this study.
+In relation to the VEGFA gene, we have previously reported an association of the VEGFA -1154 G/A (rs1570360)
+polymorphism and RIF (29), but in the present study the
+SNP VEGFA (T>C, rs3025010) was not correlated to the
+group of women presenting RIF, even though an association
+
+VOL. 111 NO. 3 / MARCH 2019
+529
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+ORGINAL ARTICLE: GENETICS
+
+TABLE 1
+Main characteristics of patients presenting RIF and control groups (I and II).
+RIF group
+(n [ 44)
+
+Control group I
+(n [ 63)
+
+Age (y)
+
+35.3  2.6
+
+33.3  4.1
+
+52.2  10.7
+
+Total of ET
+Total of implantation failure
+BMI (kg/m2)
+
+11.6  5.8
+4.8  1.8
+23.0  4.9a,b
+
+2.0  0.4
+0
+24.0  4.0a,c
+
+NA
+NA
+28.1  4.6b,c
+
+4.6  2.9
+
+4.1  3.0
+
+NA
+
+16 (36.4)
+13 (29.5)
+5 (11.4)
+5 (11.4)
+2 (4.5)
+2 (4.5)
+1 (2.3)
+
+17 (27.0)
+26 (41.2)
+8 (12.7)
+8 (12.7)
+1 (1.6)
+2 (3.2)
+1 (1.6)
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+–
+–
+–
+.81
+–
+–
+–
+
+74.4  55.3
+58.6  20.4
+0.7  1.0
+13.0  6.6
+57.7  13.4
+18.4  5.5
+10.7  3.0
+2,181  719
+9.1  5.4
+7.0  4.1
+73.4  19.4
+
+62.8  57.9
+56.8  15.6
+0.5  0.7
+13.7  8.3
+57.7  13.6
+20.6  6.3
+11.5  3.2
+2,032  651
+10.2  5.7
+7.7  4.3
+74.4  20
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+.25
+.11
+.51
+.86
+.96
+.13
+.62
+.25
+.44
+.89
+.91
+
+Characteristic
+
+Time of infertility (y)
+Cause of infertility
+Idiopathic
+Male
+Endometriosis
+Tuboperitoneal
+Tuboperitoneal þ endometriosis
+Male þ endometriosis
+Male þ tuboperitoneal
+Semen parameters
+Total sperm count (106/mL)d
+Motility (%)d
+Normal spermatozoa (%)e
+DNA fragmentation (%)f
+Underprotamination (%)g
+Apoptosis (%)h
+Endometrial thickness (mm)
+Total dose r-FSH (IU)
+Retrieved oocytes (n)
+Oocytes in metaphase II (n)
+Fertilization rate (%)
+
+a,b
+
+a,c
+
+Control group II
+(n [ 65)
+b,c
+
+P value
+.004a
+< .0001b,c
+< .0001
+–
+.46a
+.22b
+.26c
+.25
+
+Note: Values are mean  standard deviation or number (percentage). AFC ¼ antral follicle count; BMI ¼ body mass index; AMH ¼ antim€
+ullerian hormone; NA ¼ not applicable.
+a
+Comparison between RIF group and Control group I.
+b
+Comparison between RIF group and Control group II.
+c
+Comparison between Control group I and Control group II.
+d
+According to the World Health Organization (39).
+e
+According to motile sperm organelle morphology examination (40).
+f
+The percentages of DNA fragmentation by TUNEL assay.
+g
+Abnormal chromatin packaging by chromomycin A3.
+h
+Apoptosis by Annexin-V.
+Vagnini. Association between ESR1/LIF and RIF. Fertil Steril 2018.
+
+between the T allele and women who had a child without any
+fertility treatment was identiﬁed.
+MMP2 has been demonstrated to act in the implantation
+window (period of maximal endometrial receptivity, 6–9 days
+after ovulation), and women presenting idiopathic infertility
+have higher expression and activity of it (30). In our study,
+we showed that women with the MMP2/TC genotype (T>C,
+rs2287076) had a higher chance of presenting RIF when
+compared with women who had children without any fertility
+treatment.
+Additionally, we found that patients with the ESR1/AA
+genotype (A>G, rs12199722) tend to present RIF, and women
+with the ESR1/AG genotype are more likely to have children
+after the ﬁrst IVF/ICSI cycle or with no treatment. The ESR2/
+AG genotype (rs1952585) was prevalent in women who had a
+child without treatment. The uterus is a primary target of
+estrogen for various functions during the reproductive cycle
+and pregnancy; estrogen activates a wide array of tissueand organ-speciﬁc physiologic responses by binding to its receptor, and modulating uterine events, preparing the endometrium for embryo attachment and implantation (31).
+Single nucleotide polymorphisms in these genes could modify
+
+estrogen action, modifying the way the endocrine system acts
+in the implantation process. Gene-array analysis revealed
+more than 300 affected genes in patients with IVF failure,
+8% of them being estrogen-dependent (32). We did not ﬁnd
+any other study associating these polymorphisms and infertility, although its association has been already analyzed
+with some others disorders, such as restrictive anorexia nervosa (33) and colorectal cancer (34).
+In our previous study we found an association between
+the LIF (rs929271) polymorphism and implantation efﬁciency
+and pregnancy outcomes (35). In this study we strengthen
+the information that women with the GG genotype have
+more chance of becoming pregnant after the ﬁrst attempt of
+IVF/ICSI, and women with the GT genotype tend to present
+RIF.
+Five of the six polymorphisms studied here were located
+in intronic regions (TP63 rs12486772, VEGFA rs3025010,
+MMP2 rs2287076, ESR1 rs12199722, and ESR2 rs1952
+585). Evidence of different studies suggests that some intronic regions contain transcription factor binding sites
+that may be important for the regulation of expression
+and/or alternative splicing of the genes (36). This
+
+530
+VOL. 111 NO. 3 / MARCH 2019
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Fertility and Sterility®
+
+TABLE 2
+Genotype and allele frequencies.
+SNP
+TP63 (rs12486772)
+Genotype
+AA
+AG
+GG
+Allele
+A
+G
+VEGFA (rs3025010)
+Genotype
+TT
+CT
+CC
+Allele
+T
+C
+MMP2 (rs2287076)
+Genotype
+TT
+TC
+CC
+Allele
+T
+C
+ESR2 (rs1952585)
+Genotype
+AA
+AG
+GG
+Allele
+A
+G
+ESR1 (rs12199722)
+Genotype
+AA
+AG
+GG
+Allele
+A
+G
+LIF (rs929271)
+Genotype
+TT
+GT
+GG
+Allele
+T
+G
+
+RIF group
+(n [ 44)
+
+Control group I
+(n [ 63)
+
+30 (68.2)
+11 (25.0)
+03 (6.8)
+
+40 (63.5)
+22 (34.9)
+01 (1.6)
+
+71 (80.7)
+17 (19.3)
+
+P value
+
+.26
+>.99
+
+102 (81)
+24 (19)
+
+RIF group
+(n [ 44)
+
+Control group II
+(n [ 65)
+
+30 (68.2)
+11 (25.0)
+03 (6.8)
+
+35 (53.8)
+26 (40.0)
+04 (6.2)
+
+71 (80.7)
+17 (19.3)
+
+96 (73.8)
+34 (26.2)
+
+22 (34.9)
+34 (54.0)
+07 (11.1)
+
+14 (31.8)
+19 (43.2)
+11 (25.0)
+
+35 (53.9)
+22 (33.8)
+08 (12.3)
+
+47 (53.4)
+41 (46.6)
+
+78 (61.9)
+48 (38.1)
+
+47 (53.4)
+41 (46.6)
+
+92 (70.8)
+38 (29.2)
+
+18 (40.9)
+24 (54.6)
+02 (4.5)
+
+19 (30.2)
+37 (58.7)
+07 (11.1)
+
+18 (40.9)
+24 (54.6)
+02 (4.5)
+
+39 (60.0)
+17 (26.2)
+09 (13.8)
+
+60 (68.2)
+28 (31.8)
+
+75 (59.5)
+51 (40.5)
+
+60 (68.2)
+28 (31.8)
+
+95 (73.1)
+35 (26.9)
+
+34 (77.3)
+08 (18.2)
+02 (4.5)
+
+46 (73.0)
+16 (25.4)
+01 (1.6)
+
+34 (77.3)
+08 (18.2)
+02 (4.5)
+
+40 (61.5)
+25 (38.5)
+00 (0.0)
+
+76 (86.4)
+12 (13.6)
+
+108 (85.7)
+18 (14.3)
+
+76 (86.4)
+12 (13.6)
+
+105 (80.8)
+25 (19.2)
+
+28 (63.6)
+13 (29.6)
+03 (6.8)
+
+25 (39.7)
+35 (55.5)
+03 (4.8)
+
+28 (63.6)
+13 (29.6)
+03 (6.8)
+
+22 (33.8)
+33 (50.8)
+10 (15.4)
+
+69 (78.4)
+19 (21.6)
+
+85 (67.5)
+41 (32.5)
+
+69 (78.4)
+19 (21.6)
+
+77 (59.2)
+53 (40.8)
+
+10 (22.7)
+32 (72.7)
+02 (4.6)
+
+24 (38.1)
+26 (41.3)
+13 (20.6)
+
+10 (22.7)
+32 (72.7)
+02 (4.6)
+
+29 (44.6)
+33 (50.8)
+03 (4.6)
+
+52 (59.1)
+36 (40.9)
+
+74 (58.7)
+52 (41.3)
+
+52 (59.1)
+36 (40.9)
+
+91 (70.0)
+39 (30.0)
+
+.06
+
+.27
+
+.01
+
+.36
+
+.01
+
+.25
+
+.53
+
+.51
+
+>.99
+
+.02
+
+.37
+
+.02
+
+.01
+
+.11
+
+.005
+
+.003
+
+>.99
+
+.29
+.31
+
+.17
+14 (31.8)
+19 (43.2)
+11 (25.0)
+
+P value
+
+.05
+
+.13
+
+Note: Values are number (percentage).
+Vagnini. Association between ESR1/LIF and RIF. Fertil Steril 2018.
+
+untranslated regions affects cis-acting elements that control
+messenger RNA stability, translation efﬁciency (including
+micro-RNA biding sites), and messenger RNA localization
+(37). The last polymorphism (LIF rs929271) was located in
+the 30 untranslated region, which may affect the gene
+expression, transcription factor biding, sequencing of RNA
+that is noncoding, and gene splicing (38). Although we do
+not know exactly the way each polymorphism acts, we
+could see that they affect in some way the function of the
+gene. Gene expression studies may help elucidate how
+each of these polymorphisms may inﬂuence the action of
+the genes.
+
+Even though the VEGFA (rs3025010), MMP2 (rs2287076),
+and ESR2 (rs1952585) polymorphisms showed signiﬁcant difference when analyzed separately, the association between
+them and other polymorphisms studied here did not present
+a signiﬁcant difference, and further studies with related genes
+are necessary for a better understanding of this genetic
+pathway that may inﬂuence endometrial receptivity. However, the association between the LIF (rs929271) and ESR1
+(rs12199722) polymorphisms seemed to be signiﬁcantly
+related to RIF, with a 7.9-fold increase in the chance of women
+present RIF when compared with women with background of
+successful IVF/ICSI treatment and 2.8-fold increase when
+
+VOL. 111 NO. 3 / MARCH 2019
+531
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+ORGINAL ARTICLE: GENETICS
+
+TABLE 3
+Association between ESR1 (12199722) and LIF (929271) polymorphisms in the risk of RIF.
+Variable
+
+RIF group
+(n [ 44)
+
+Control group I
+(n [ 63)
+
+ESR1/AA þ LIF/GT
+Other genotypes
+combinations
+
+20 (45.5)
+24 (54.5)
+
+06 (9.5)
+57 (90.5)
+
+RIF group (n ¼ 44)
+20 (45.5)
+24 (54.5)
+
+Control group II (n ¼ 65)
+15 (23.0)
+50 (77.0)
+
+ESR1/AA þ LIF/GT
+Other genotypes
+combinations
+
+P Value
+
+OR
+
+95% CI
+
+< .0001
+
+7.9
+
+2.6–26.6
+
+.02
+
+2.8
+
+1.1–6.9
+
+Note: Values are number (percentage). CI ¼ conﬁdence interval; OR ¼ odds ratio.
+Vagnini. Association between ESR1/LIF and RIF. Fertil Steril 2018.
+
+compared with women with spontaneous fertility. This association, after further studies to conﬁrm the results, could be used
+as an extra tool by physicians to indicate alternative treatments, such as oocyte or embryo donation. To the best of
+our knowledge, this is the ﬁrst study that shows that this association can inﬂuence the implantation process.
+In conclusion, in this work we demonstrated that there is
+an association between the ESR1 (rs12199722) and LIF
+(rs929271) polymorphisms and women presenting RIF.
+Although isolated SNPs were more signiﬁcant among women
+with a background of RIF compared with women with spontaneous fertility, the ESR1/LIF association was stronger between women with a background of RIF compared with
+women with a background of successful IVF/ICSI treatment.
+Because the basic idea is to increase the chance of attaining
+a correct diagnosis of RIF, further validation of this association is required (i.e., increasing the number of cases between
+other fertility centers; expanding to different ethnic groups)
+to provide more information regarding the potential use of
+it. Additionally, the understanding of the way that each polymorphism acts in the implantation process would be enlightened with studies of gene expression.
+
+10.
+11.
+12.
+
+13.
+
+14.
+15.
+
+16.
+
+17.
+
+18.
+19.
+20.
+
+REFERENCES
+1.
+2.
+3.
+4.
+
+5.
+
+6.
+7.
+8.
+9.
+
+Aplin JD. The cell biological basis of human implantation. Baillieres Best Pract
+Res Clin Obstet Gynaecol 2000;14:757–64.
+Fatemi HM, Popovic-Todorovic B. Implantation in assisted reproduction: a
+look at endometrial receptivity. Reprod Biomed Online 2013;27:530–8.
+n C, Martín JC, Pellicer A. Paracrine regulators of implantation. BailSimo
+lieres Best Pract Res Clin Obstet Gynaecol 2000;14:815–26.
+Coughlan C, Ledger W, Wang Q, Liu F, Demirol A, Gurgan T, et al. Recurrent
+implantation failure: deﬁnition and management. Reprod Biomed Online
+2014;28:14–38.
+Polanski LT, Baumgarten MN, Quenby S, Brosens J, Campbell BK, RaineFenning NJ. What exactly do we mean by ‘‘recurrent implantation failure’’?
+A systematic review and opinion. Reprod Biomed Online 2014;28:409–23.
+Vlachadis N, Vrachnis N, Economou E, Siristatidis C. Zooming in on the deﬁnition of ‘‘recurrent implantation failure. Reprod Biomed Online 2014;29:144–5.
+Timeva T, Shterev A, Kyurkchiev S. Recurrent implantation failure: the role of
+the endometrium. J Reprod Infertil 2014;15:173–83.
+Rinehart J. Recurrent implantation failure: deﬁnition. J Assist Reprod Genet
+2007;24:284–7.
+El-Toukhy T, Taranissi M. Towards better quality research in recurrent implantation failure: standardizing its deﬁnition is the ﬁrst step. Reprod Biomed Online 2006;12:383–5.
+
+21.
+
+22.
+
+23.
+24.
+
+25.
+
+26.
+
+27.
+
+Strowitzki T, Germeyer A, Popovici R, Von Wolff M. The human endometrium
+as a fertility-determining factor. Hum Reprod Update 2006;12:617–30.
+Christiansen OB, Nielsen HS, Kolte AM. Future directions of failed implantation
+and recurrent miscarriage research. Reprod Biomed Online 2006;13:71–83.
+Suh EK, Yang A, Kettenbach A, Bamberger C, Michaelis AH, Zhu Z, et al.
+p63 protects the female germ line during meiotic arrest. Nature 2006;444:
+624–8.
+Feng Z, Zhang C, Kang HJ, Sun Y, Wang H, Naqvi A, et al. Regulation of
+female reproduction by p53 and its family members. FASEB J 2011;25:
+2245–55.
+Bautch VL. VEGF-directed blood vessel patterning: from cells to organism.
+Cold Spring Harb Perspect Med 2012;2:1–12.
+Brogan IJ, Khan N, Isaac K, Hutchinson JA, Pravica V, Hutchinson IV.
+Novel polymorphisms in the promoter and 5’ UTR regions of the human
+vascular endothelial growth factor gene. Hum Immunol 1999;60:
+1245–9.
+Fatar M, Stroick M, Steffens M, Senn E, Reuter B, Bukow S, et al. Singlenucleotide polymorphisms of MMP-2 gene in stroke subtypes. Cerebrovasc
+Dis 2008;26:113–9.
+Robinson LLL, Sznajder NA, Riley SC, Anderson RA. Matrix metalloproteinases and tissue inhibitors of metalloproteinases in human fetal testis and
+ovary. Mol Hum Reprod 2001;7:641–8.
+Goldenberg RL, Vaitukaitis JL, Ross GT. Estrogen and follicle stimulating hormone interactions on follicle growth in rats. Endocrinology 1972;90:1492–8.
+Speroff L, Fritz MA. Clinical gynecologic endocrinology and infertility. Philadelphia: Lippincott Williams & Wilkins; 2005.
+Hu W, Feng Z, Teresky AK, Levine AJ. p53 regulates maternal reproduction
+through LIF. Nature 2007;450:2–6.
+Arici A, Oral E, Bahtiyar O, Engin O, Seli E, Jones EE. Leukaemia inhibitory
+factor expression in human follicular ﬂuid and ovarian cells. Hum Reprod
+1997;12:1233–9.
+Altm€ae S, Reimand J, Hovatta O, Zhang P, Kere J, Laisk T, et al. Research
+resource: interactome of human embryo implantation: identiﬁcation of
+gene expression pathways, regulation, and integrated regulatory networks.
+Mol Endocrinol 2012;26:203–17.
+Aghajanova L. Update on the role of leukemia inhibitory factor in assisted
+reproduction. Curr Opin Obstet Gynecol 2010;22:213–9.
+Laird SM, Tuckerman EM, Dalton CF, Dunphy BC, Li TC, Zhang X. The production of leukaemia inhibitory factor by human endometrium: presence
+in uterine ﬂushings and production by cells in culture. Hum Reprod 1997;
+12:569–74.
+Mikolajczyk M, Wirstlein P, Skrzypczak J. The impact of leukemia inhibitory
+factor in uterine ﬂushing on the reproductive potential of infertile women—
+a prospective study. Am J Reprod Immunol 2007;58:65–74.
+Al Sallout RJ, Sharif FA. Polymorphisms in NOS3, ACE and PAI-1 genes and
+risk of spontaneous recurrent miscarriage in the Gaza Strip. Med Princ Pract
+2010;19:99–104.
+Pietrowski D, Bettendorf H, Riener E, Keck C, Heﬂer LA, Huber JC, et al.
+Recurrent pregnancy failure is associated with a polymorphism in the p53
+tumour suppressor gene. Hum Reprod 2005;20:848–51.
+
+532
+VOL. 111 NO. 3 / MARCH 2019
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Fertility and Sterility®
+28.
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+Penzias AS. Recurrent IVF failure: other factors. Fertil Steril 2012;97:
+1033–8.
+Vagnini LD, Nascimento AM, Canas MDCT, Renzi A, Oliveira-Pelegrin GR,
+Petersen CG, et al. The relationship between vascular endothelial growth
+factor 1154G/A polymorphism and recurrent implantation failure. Med Princ
+Pract 2015;24:533–7.
+Skrzypczak J, Wirstlein P, Mikoajczyk M, Ludwikowski G. TGF superfamily
+and MMP2, MMP9, TIMP1 genes expression in the endometrium of
+women with impaired reproduction. Folia Histochem Cytobiol 2007;45:
+143–8.
+Matsuzaki S, Fukaya T, Suzuki T, Murakami T, Sasano H, Yajima A.
+Oestrogen receptor alpha and beta mRNA expression in human endometrium throughout the menstrual cycle. Mol Hum Reprod 1999;5:
+559–64.
+Koler M, Achache H, Tsafrir A, Smith Y, Revel A, Reich R. Disrupted gene
+pattern in patients with repeated in vitro fertilization (IVF) failure. Hum Reprod 2009;24:2541–8.
+Versini A, Ramoz N, Le Strat Y, Scherag S, Ehrlich S, Boni C, et al.
+Estrogen receptor 1 gene (ESR1) is associated with restrictive
+anorexia nervosa. Neuropsychopharmacology 2010;35:1818–25.
+
+34.
+
+35.
+
+36.
+
+37.
+38.
+39.
+
+40.
+
+Lin J, Zee RYL, Liu KY, Zhang SM, Lee IM, Manson JE, et al. Genetic variation
+in sex-steroid receptors and synthesizing enzymes and colorectal cancer risk
+in women. Cancer Causes Control 2010;21:897–908.
+Oliveira JBA, Vagnini LD, Petersen CG, Renzi A, Oliveira-Pelegrin GR,
+Mauri AL, et al. Association between leukaemia inhibitory factor gene polymorphism and pregnancy outcomes after assisted reproduction techniques.
+Reprod Biomed Online 2016;32:66–78.
+Tischer E, Mitchell R, Hartman T, Silva M, Gospodarowiczs D, Fiddes JC, et al.
+The human gene for vascular endothelial growth factor. J Biol Chem 1991;
+266:11947–54.
+Wang G, Cooper TA. Splicing in disease: disruption of the splicing code
+and the decoding machinery. Nat Rev Genet 2007;8:749–61.
+n-Riquelme ME. Regulatory SNPs in complex diseases: their
+Prokunina L, Alarco
+identiﬁcation and functional validation. Expert Rev Mol Med 2004;6:1–15.
+World Health Organization. WHO laboratory manual for the examination and processing of human semen. 5th ed. Geneva: WHO Press;
+2010.
+Bartoov B, Berkovitz A, Eltes F, Kogosowski A, Menezo Y, Barak Y. Real-time
+ﬁne morphology of motile human sperm cells is associated with IVF-ICSI
+outcome. J Androl 2002;23:1–8.
+
+VOL. 111 NO. 3 / MARCH 2019
+533
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+ORGINAL ARTICLE: GENETICS
+La asociacion entre los polimorﬁsmos del receptor 1 de estr
+ogenos (ESR1) y el factor inhibidor de la leucemia (LIF) puede ayudar en la
+prediccion del fallo recurrente de implantacion
+Objetivo: Investigar la asociaci
+on entre polimorﬁsmos relacionados con el proceso de implantaci
+on que, conjuntamente, puedan ayudar en la predicci
+on del Fallo Recurrente de Implantaci
+on (RIF).
+~o: Estudio de cohortes.
+Disen
+Sitio: Centro privado de fertilidad y Laboratorio de genetica reproductiva.
+Paciente(s): Cuarenta y cuatro mujeres con RIF que fueron incluidas en el grupo de estudio (grupo RIF) y dos grupos control, uno con
+63 mujeres que fueron atendidas en nuestro servicio y quedaron gestantes en el primer ciclo de FIV/inyecci
+on intracitoplasmatica de
+espermatozoides (grupo control I), y otro grupo con 65 mujeres fertiles que habían tenido al menos dos hijos sin tratamientos de reproducci
+on y sin historia de abortos (Grupo control II).
+Intervencion(es): Ninguna.
+Medida del resultado(s) principal(es): Se realiz
+o genotipado en la regi
+on intr
+onica de los genes TP63, VEGFA, MMP2, ESR1 y ESR2 y
+en la regi
+on 3o no traducida del gen LIF en DNA genomico utilizando reacci
+on en cadena de la polimerasa en tiempo-real.
+Resultado(s): La presencia de los genotipos ESR1/AA (rs12199722) y LIF/GT (rs929271) fue mas frecuente en el grupo con RIF, llevando a un incremento de 7,9 veces en la probabilidad de presentar aborto cuando se compararon con las mujeres que consiguieron
+el embarazo en su primer ciclo de FIV/ICSI y a una probabilidad 2.8 veces mayor cuando se compararon con mujeres que quedaron
+gestantes sin tratamiento.
+Conclusion(es): La asociaci
+on entre los polimorﬁsmos ESR1 y LIF puede ayudar en la predicci
+on de RIF.
+
+534
+VOL. 111 NO. 3 / MARCH 2019
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

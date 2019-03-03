@@ -1,0 +1,1472 @@
+Feature Review
+
+Glucocorticoids and
+Reproduction: Trafﬁc Control
+on the Road to Reproduction
+Shannon Whirledge1,* and John A. Cidlowski2,*
+Glucocorticoids are steroid hormones that regulate diverse cellular functions
+and are essential to facilitate normal physiology. However, stress-induced
+levels of glucocorticoids result in several pathologies including profound reproductive dysfunction. Compelling new evidence indicates that glucocorticoids
+are crucial to the establishment and maintenance of reproductive function. The
+fertility-promoting or -inhibiting activity of glucocorticoids depends on timing,
+dose, and glucocorticoid responsiveness within a given tissue, which is mediated by the glucocorticoid receptor (GR). The GR gene and protein are subject
+to cellular processing, contributing to signaling diversity and providing a mechanism by which both physiological and stress-induced levels of glucocorticoids
+function in a cell-speciﬁc manner. Understanding how glucocorticoids regulate
+fertility and infertility may lead to novel approaches to the regulation of reproductive function.
+Introduction
+Glucocorticoids are essential for stress adaptation through the regulation of metabolic activity,
+behavior, and reproduction, in which trade-offs are made between immediate survival and
+future offspring. Stress-induced levels of glucocorticoids mediate this process through direct
+and indirect actions on the hypothalamic–pituitary–gonadal (HPG) axis. Interestingly, the
+presenting complaint of the ﬁrst Cushing’s syndrome (see Glossary) patient in 1912 was
+secondary amenorrhea. However, the molecular mechanisms by which high levels of glucocorticoids suppress fertility are complex and remain to be fully discovered. Moreover, basal
+glucocorticoid levels are critically important for the establishment and maintenance of fertility,
+as evidenced in patients with Addison’s disease who present with premature ovarian failure
+and oligospermia [1,2]. Our current understanding of glucocorticoid signaling in the context of
+reproductive physiology is limited. Notably, a balance between low and high levels of glucocorticoids differentiates between fertility and infertility and elucidating the molecular mechanisms governing this shift is a potential new direction for future research.
+Circulating levels of glucocorticoids are a function of the activation status of the HPA axis (Box
+1). The biological effects of glucocorticoids are determined by serum concentrations in concert
+with relative expression of the 11b-hydroxysteroid dehydrogenase (11b-HSD) isoenzymes and the GR (gene: NR3C1), a ligand-dependent transcription factor (Box 2). The
+transcriptional activity of the GR demonstrates profound diversity, stimulating or suppressing
+the expression of 10–20% of all genes in the human genome (Box 3) [3]. Identifying which genes
+are targets of GR regulation in reproductive tissues will provide a basis for understanding the
+mechanisms by which glucocorticoids regulate reproduction and a framework for the complex
+regulatory networks. Establishing which signaling networks are associated with stress-induced
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+Trends
+Glucocorticoids exhibit both central
+and peripheral regulation of the reproductive axis.
+Within the reproductive organs, basal
+glucocorticoids contribute to reproductive function while stress-induced
+levels induce suppression of reproductive function.
+Transgenic animal models have aided
+in the discovery of the tissue-speciﬁc
+functions of glucocorticoids. However,
+studies in reproductive tissues are
+needed.
+Immune cells play an active role in male
+and female fertility, and administration
+of glucocorticoids or stress may disrupt the immune system resulting in
+reproductive dysfunction.
+
+1
+Department of Obstetrics,
+Gynecology, and Reproductive
+Sciences, Yale University School of
+Medicine, New Haven, CT 06520,
+USA
+2
+Laboratory of Signal Transduction,
+National Institute of Environmental
+Health Sciences, National Institutes of
+Health, Department of Health and
+Human Services, 111 TW Alexander
+Drive, Research Triangle Park, NC
+27709, USA
+
+*Correspondence:
+shannon.whirledge@yale.edu (S.
+Whirledge) and
+cidlows1@niehs.nih.gov (J.A.
+Cidlowski).
+
+http://dx.doi.org/10.1016/j.tem.2017.02.005
+Published by Elsevier Ltd.
+
+399
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Box 1. Glucocorticoid Production and Bioavailability
+Glucocorticoids are steroid hormones synthesized and released by the adrenal cortex under the regulation of the HPA
+axis. The production of glucocorticoids by the HPA axis is pulsatile, displaying both circadian and ultradian rhythms.
+Corticotrophin-releasing hormone (CRH) and arginine vasopressin are secreted from the parvicellular neurons of the
+hypothalamus into the pituitary portal circulation, which stimulates adrenocorticotropic hormone (ACTH) release from
+the anterior pituitary gland. ACTH acts on the adrenal gland to induce steroidogenesis and the production of
+glucocorticoids. Endocrine feedback loops exist where glucocorticoids inhibit CRH expression and secretion and
+ACTH output [119–121]. The rhythmic secretion of glucocorticoids is critical to the maintenance of physiological
+homeostasis, but acute exposures to stress transiently induce HPA activity and glucocorticoid release.
+Approximately 95% of secreted glucocorticoids circulate bound to cortisol-binding globulin (CBG) or albumin and,
+therefore, expression of these binding proteins determines the level of biologically free glucocorticoids [122,123]. The
+circulating half-life of glucocorticoids is variable (66–120 min) but glucocorticoids bound to CBG have a longer half-life
+than unbound glucocorticoids [124,125]. Unbound glucocorticoids are highly lipophilic and able to cross the plasma
+membrane through simple diffusion. In cells that express the multidrug-resistance p-glycoprotein, entry of glucocorticoids into the intracellular compartment can be restricted by active transport out of the cell [126]. Within the cell
+interconversion of glucocorticoids to the active (cortisol and corticosterone) or inactive (cortisone and 11-dehydrocorticosterone) forms by 11b-HSD I and II controls ligand availability to the GR [127]. Collectively, the biological activity
+of glucocorticoids is a balance between synthesis and secretion, diffusion and transport, and metabolism and
+clearance.
+
+infertility will ultimately provide new avenues for therapy. Here we review recent ﬁndings on
+glucocorticoid action in the reproductive system, summarizing historical data and highlighting
+new insights where research is ongoing.
+
+Glucocorticoid Actions in the Hypothalamus and Pituitary: Recent
+Developments
+The hypothalamus and pituitary preside over reproductive physiology by acting as a central
+terminal for the input and output of endocrine signals [4]. Gonadotropin-releasing hormone
+(GnRH) is synthesized and secreted by the hypothalamus and then crosses through the
+hypophyseal portal system into the anterior pituitary. In the pituitary GnRH induces the
+synthesis and release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) from
+the gonadotropes, which trigger testosterone release from the testis and estradiol and progesterone release from the ovaries. A feedback loop exists by which testosterone inhibits the
+secretion of GnRH and therefore FSH and LH production. In females, ovarian estradiol also
+exerts negative feedback on the hypothalamus and pituitary. However, during the late follicular
+phase of the menstrual cycle rising levels of estradiol from the follicle trigger a switch from
+negative to positive feedback on the hypothalamus resulting in increased GnRH secretion.
+During the luteal phase of the menstrual cycle, rising levels of progesterone negatively feed
+back to suppress activity in the hypothalamus and pituitary. At the late luteal phase, the levels of
+estradiol and progesterone decline, allowing gonadotrophins to again rise and triggering the
+beginning of a new cycle.
+Increased glucocorticoid exposure, either by stress or by exogenous treatment, leads to
+profound reproductive dysfunction through well-described effects in the hypothalamus and
+pituitary [5–7]. Glucocorticoids modulate the HPG axis by directly inhibiting the release of GnRH
+from the hypothalamus and the synthesis and release of gonadotropins from the pituitary.
+However, the signaling pathways by which this occurs remain under investigation and are
+further complicated by the recent discovery of new neuropeptides such as kisspeptin (KISS1)
+and gonadotropin-inhibitory hormone (GnIH). These neuropeptides have opposing effects on
+GnRH release from the hypothalamus and are responsive to high levels of glucocorticoids.
+KISS1 exerts stimulatory effects on GnRH secretion through its cognate receptor KISS-1R [also
+known as G protein-coupled receptor 54 (GPR54)], which is coexpressed in GnRH neurons.
+KISS1 neurons in the anteroventral periventricular nucleus and periventricular nucleus continuum of the preoptic area of the hypothalamus express GR, suggesting that glucocorticoids can
+
+400
+
+Glossary
+11b-Hydroxysteroid
+dehydrogenase (11b-HSD)
+isoenzymes: enzymes that catalyze
+the interconversion of active
+glucocorticoids (11-oxoreductase
+activity) and their inactive metabolites
+(11b-dehydrogenase activity). The
+type I isoenzyme demonstrates both
+11b-dehydrogenase and 11oxoreductase activities while the type
+II isoenzyme has only 11bdehydrogenase activity.
+Addison’s disease: severe or total
+deﬁciency of the hormones made in
+the adrenal cortex; also known as
+primary adrenal insufﬁciency or
+hypocortisolism.
+Adrenalectomy: surgical removal of
+the adrenal glands (bi- or unilateral).
+Bishop score: a prelabor cervix
+score used to predict the response
+to labor induction or chance of
+spontaneous labor. A low Bishop
+score is associated with a greater
+probability that induction of labor will
+fail.
+Blood–testis barrier (BTB): a
+physical barrier within the
+seminiferous tubules formed by tight
+junctions, adherens junctions, and
+desmosome junctions between
+adjacent Sertoli cells; forms an
+immunological barrier that
+segregates the basal and adluminal
+compartments.
+Chromatin immunoprecipitation
+sequencing (ChIP-seq): a method
+to identify genome-wide DNA-binding
+sites for proteins. Proteins
+crosslinked to chromatin are isolated
+by antibody immunoprecipitation.
+Enriched DNA-binding sites are
+sequenced and mapped to a
+reference genome. Sequencing
+identiﬁes the location and quantity of
+sites bound by a protein.
+Cre–lox technology: system for the
+creation of tissue-speciﬁc or
+inducible knockout mouse models by
+catalyzing the recombination of two
+loxP recognition (ﬂoxed) sites
+introduced into the gene of interest
+with tissue-speciﬁc/inducible
+expression of the Cre enzyme.
+Cushing’s syndrome: a disorder
+resulting from prolonged exposure to
+elevated levels of the endogenous
+glucocorticoid cortisol; often results
+from exogenous glucocorticoid use,
+but can also be caused by pituitary
+adenomas and adrenal tumors.
+Developmental origins of health
+and disease (DOHaD) hypothesis:
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Box 2. The GR: Structure and Regulation
+The molecular response to glucocorticoids is mediated by intracellular GR. The GR is a member of the nuclear receptor
+superfamily of ligand-dependent transcription factors [128]. All members of this superfamily share a similar domain
+structure: an N-terminal transactivation (AF1) domain, a central DNA-binding domain (DBD), and a C-terminal ligandbinding domain (LBD). In addition to comprising the ligand-binding pocket, the LBD also contains sequences important
+for receptor dimerization and nuclear localization and a second transactivation domain (AF2) that mediates liganddependent interactions with coregulators. The DBD and the LBD are separated by a small, ﬂexible hinge region, which
+plays a role in ligand binding-mediated conformational changes.
+The human GR is the product of one gene (NR3C1) comprising nine exons. Exon 1 forms the 50 untranslated region of
+the human GR and exon 2 encodes the NTD, which is poorly conserved and therefore the most variable domain among
+nuclear receptors. The DBD, the most conserved region in the nuclear receptor family, comprises exons 3 and 4 and
+exons 5–9 encode the hinge region and LBD. Alternative splicing of the NR3C1 gene primarily from the C-terminal end
+produces the human GRa, GRb, GRg, GR-A, and GR-P transcriptional isoforms [129–132]. Research has mainly
+focused on glucocorticoid signaling through GRa and GRb, which are identical proteins through amino acid 727 that
+diverge in C-terminal exon 9. GRb lacks sequences that encode helices 11 and 12 of the LBD and is therefore unable to
+bind glucocorticoids [133]. GRb was thought to function primarily as a dominant-negative regulator of GRa, but
+genome-wide transcriptional analysis of overexpressed human GRb indicates that it maintains inherent transcriptional
+activity [130,134,135]. The sequence of GRg differs from that of GRa by the inclusion of an arginine residue between
+exons 3 and 4 of the DBD from the use of an alternative intronic splice donor site [132]. This single amino acid insertion
+demonstrates the functional importance of this region, as the transcriptional activity of GRg is signiﬁcantly reduced
+[136,137]. Interestingly, differences in the DBD of GRg alter the DNA-binding sequence speciﬁcity and result in a unique
+transcriptome [138,139]. The GR-A and GR-P isoforms contain incomplete LBDs and relatively little is known about their
+functions in vivo [131,140]. Each GR transcriptional splice variant is capable of generating additional isoforms through
+alternative translation initiation mechanisms [141]. In exon 2 eight highly conserved AUG start codons generate the GRA, -B, -C1, -C2, -C3, -D1, -D2, and -D3 isoforms. These translational isoforms have distinct tissue distribution and
+subcellular localization, regulate unique genes, and differentially regulate the cellular response to glucocorticoids [142–
+144].
+
+act directly on these neurons [8]. In mice corticosterone treatment diminished hypothalamic
+expression of KISS1 during the estradiol-induced LH surge and decreased the activation of
+KISS1 neurons [9]. Impairment of KISS1 neurons represents a newly discovered mechanism by
+which glucocorticoids are able to suppress the HPG axis. GnIH [mammalian ortholog: RFamide-related peptide-3 (RFRP3)] neurons inhibit the activity of GnRH neurons and KISS1
+neurons [10]. Acute (audiovisual imposition of a predator, hypoglycemia, or lipopolysaccharide
+challenge) and chronic (synthetically induced plasma cortisol levels) stress in sheep increase
+the function of GnIH neurons and increased contacts with GnRH neurons [11]. Immobilization
+stress-induced upregulation of GnIH led to inhibition of LH release from the pituitary [12].
+Adrenalectomy blocked the induction of GnIH, suggesting that glucocorticoids released in
+response to stress mediated this effect. NR3C1 is coexpressed in GnIH neurons and corticosterone treatment in quail and a rat hypothalamic neuronal cell line increased GnIH expression
+through glucocorticoid response elements (GREs) in the GnIH promoter [13]. Regulation of
+GnRH expression and release by KISS1 and GnIH represents two novel mechanisms by which
+glucocorticoids indirectly modulate the reproductive functions of the hypothalamus and
+pituitary.
+
+Glucocorticoids Regulate the Function of Organs in the Reproductive Tract
+Ovary
+In addition to the effects on ovarian cyclicity mediated through the hypothalamus and pituitary,
+glucocorticoids impact ovarian physiology through regulating the functions of granulosa cells,
+oocytes, cumulus cells, and luteal cells [9]. Glucocorticoids differentially induce and repress
+steroidogenesis in the ovary. In rat preovulatory granulosa cells, dexamethasone increased
+production of progesterone by increasing the expression of caspase-3 and the steroidogenic
+proteins steroidogenic acute regulatory protein (StAR) and cytochrome P450 cholesterol side
+chain-cleavage enzyme [14]. Glucocorticoids (cortisol and dexamethasone) have also been
+shown to decrease LH-induced StAR protein levels and progesterone production in rat and
+
+a theory, previously known as the
+fetal origins hypothesis, based on
+David Barker’s analysis of
+epidemiological studies in the early
+1900s that states that environmental
+factors encountered by a
+developmentally plastic organism
+early in life inﬂuence health and
+disease outcomes throughout
+adulthood.
+Glucocorticoid response element
+(GRE): a short palindromic sequence
+of DNA comprising two 6-bp
+sequences separated by a threenucleotide spacer that the GR
+recognizes and binds to directly
+regulate transcription [50
+RGRACAnnnTGTYCY30 ; R = purine
+(A or G), Y = pyrimidine (C or T),
+n = any nucleotide].
+Inﬂammasome: a multiprotein
+intracellular complex that activates
+caspase enzymes leading to the
+processing and secretion of
+proinﬂammatory cytokines in
+response to pathogenic
+microorganisms and sterile stressors.
+Negative glucocorticoid response
+element (nGRE): related DNA
+sequences bound by the GR distinct
+from the transrepression activities of
+glucocorticoids. The nGRE motif
+tolerates single-base-pair mutations
+and contains a 0–2-bp spacer
+between inverted repeated motifs.
+Post-translational modiﬁcation:
+chemical modiﬁcations to a protein,
+including phosphorylation,
+glycosylation, ubiquitination,
+nitrosylation, methylation, acetylation,
+lipidation, and proteolysis, that
+increase the functional diversity of
+the proteome. Post-translational
+modiﬁcations can occur at many
+stages in the life of a protein and can
+also be reversible.
+Single-nucleotide polymorphism
+(SNP): a DNA sequence variation at
+a single nucleotide that is
+appreciable within a population. The
+variation may be a substitution,
+deletion, or insertion. SNPs are
+found within genes, in noncoding
+regions of DNA, and in intergenic
+regions. When occurring within a
+gene, the SNP may lead to an amino
+acid substitution. SNPs can be
+associated with traits or diseases or
+have no known function.
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+401
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Box 3. GR Signaling
+Once in the cytoplasm, glucocorticoids bind the GR resulting in a conformational change, unmasking of nuclear
+localization signals, and subsequent nuclear translocation of the glucocorticoid–GR complex. Classically, glucocorticoids were thought to act exclusively through the genomic actions of the activated GR. Recent evidence indicates that
+glucocorticoids can also act through signaling cascades secondary to the conformational change of the glucocorticoid–
+GR complex or through extranuclear GRs, although the identity of the membrane-associated GR remains unknown
+[145–147]. In the nucleus the ligand-bound GR mediates the genomic actions of the GR by regulating gene transcription
+in direct and indirect mechanisms. Direct transcriptional regulation requires binding of GR homodimer complexes to
+well-deﬁned GREs. However, motif analysis of GR ChIP-seq data sets evaluating GR-bound regions indicates that
+<42% of binding peaks contain a high-stringency motif match [148]. This suggests that GRE binding is not a
+requirement for DNA association. Alternatively, the glucocorticoid–GR complex can directly bind distinct negative
+GREs (nGREs) to inhibit gene transcription [149]. GR association with DNA can also occur through mechanisms of
+indirect gene regulation by the GR that involve interactions with other DNA-bound transcription factors (protein–protein
+tethering) or through cooperative binding with other transcription factors at neighboring sites (composite regulation).
+The DNA- or complex-bound GR recruits cofactors that facilitate conversion of the signal into transcriptional activity via
+RNA polymerases or by regulating paused elongation complexes [150].
+The GR is constitutively expressed in almost all cells, but the actions of glucocorticoids demonstrate tissue- and cell
+type-speciﬁc diversity. The glucocorticoid response is determined by many factors including the availability of glucocorticoids and the sensitivity to glucocorticoids in a target tissue. The relative level of the GR and the relative expression
+of the isoforms can determine the response to glucocorticoids in a given tissue or cell [151]. The GR is subject to various
+post-translational modiﬁcations, which can mediate subcellular trafﬁcking, promoter speciﬁcity, cofactor interaction,
+receptor stability, and turnover [152]. At speciﬁc gene loci, the response to glucocorticoids is regulated by the
+recruitment of cofactors, which can act in various mechanisms including remodeling of chromatin, facilitating the
+assembly of transcriptional machinery, or modifying histones or other components of the transcription factor complex
+[153–156]. These coregulators of GR function maintain tissue-speciﬁc expression [157,158]. The unique transcriptional
+proﬁles of the GR also rely on distal enhancers that loop to the promoter of target genes and open regions of chromatin
+that are highly cell-type speciﬁc [159,160]. Individual glucocorticoid sensitivity has been associated with SNPs in NR3C1
+that alter protein stability, ligand binding afﬁnity, transactivating capacity, and interactions with coactivators or
+corepressors [161]. Polymorphisms in the genes that encode the 11b-HSD isoenzymes have been identiﬁed and
+may also contribute to glucocorticoid sensitivity [162–164].
+
+human granulosa cells [15,16]. These differences may reﬂect differences in dose or stage of
+follicular development. Cortisol treatment or elevated glucocorticoid levels due to restraint
+stress in mice impairs oocyte development potential when evaluated ex vivo [17]. Isolated mural
+granulosa cells displayed increased apoptosis in response to elevated cortisol, which was
+associated with higher levels of Fas ligand, and cumulus cells were sensitized to undergo
+apoptosis following serum-starved culture conditions. Glucocorticoid exposure is also associated with decreased mRNA expression of NR3C1 and the ovarian growth factors insulin-like
+growth factor-1 (IGF-1) and brain-derived neurotrophic factor (BDNF) in mural granulosa cells.
+Interestingly, culture of in vitro-fertilized bovine oocytes increased blastocyst development
+rates, indicating that the response of oocytes to glucocorticoids may be context dependent
+[18]. Moreover, what is known regarding the function of endogenous glucocorticoids in ovarian
+physiology stems largely from exposure studies and may not represent direct functions that
+occur at physiological levels in the ovary.
+Uterus, Placenta, and Labor
+Glucocorticoid regulation of uterine biology has historically been described in terms of the
+antagonistic effects of glucocorticoids on estrogen action and has only recently been explored
+as an independent regulator of uterine function. Dexamethasone blocks estrogen-induced
+uterine growth and proliferation in mice, reducing the number of implantation sites when
+administered before estradiol-induced implantation [19,20]. Gene ontology analysis of dexamethasone- and estradiol-regulated genes in the mouse uterus indicates that the cell cycle and
+embryonic development are among the top regulated networks [21]. Dexamethasone administration in mice also uniquely regulates the expression of genes whose functions are related to
+cellular development, growth and proliferation, and signaling. In the neonatal mouse uterus,
+dexamethasone inhibits epithelial cell proliferation through both GR-dependent and
+
+402
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+-independent mechanisms [22]. Decidualized human endometrial cells also display a unique
+GR-dependent transcriptome enriched for Krüppel-associated box domain-containing zincﬁnger proteins, a family of transcriptional repressors [23]. Interestingly, GR signaling is responsible for repressing global expression of trimethylated H3K9 levels during stromal cell differentiation, suggesting that the GR can both directly regulate gene expression and globally alter
+transcription through regulation of histone modiﬁcations in human uterine cells.
+The placenta is developmentally plastic and therefore responsive to multiple stimuli including
+altered glucocorticoid levels. Dexamethasone administered during early placentation inhibits
+the proliferation, migration, and invasion of trophoblasts, induces placental oxidative damage,
+and manifests as reduced placental and fetal size [24]. Maternal administration of glucocorticoids reduces placental weight and is associated with reduced expression of proliferative
+markers and increased expression of apoptotic factors [25,26]. In animal models of maternal
+prenatal stress, increased glucocorticoid levels are correlated with intrauterine growth restriction. Fetal growth restriction mediated through excess endogenous corticosterone or synthetic
+dexamethasone exposure results in altered placental transporter function and glucose transport and reduced expression of proangiogenic factors [27,28]. Glucocorticoid exposure at the
+maternal–fetal interface is in part regulated through expression of the 11b-HSD isoenzymes in
+discrete maternal and fetal compartments [29]. Dysregulated expression of the 11b-HSD
+isoenzymes by glucocorticoid excess further potentiates the adverse effects of high levels
+of glucocorticoid on placental function. Interestingly, expression of the NR3C1 translational
+isoforms varies between term and preterm human placenta and with prenatal glucocorticoid
+exposure, suggesting a mechanism by which changes to the GR protein proﬁle may also
+mediate the response to increased glucocorticoids [30].
+Studies conducted on animals and pregnant woman have indicated the importance of glucocorticoid signaling for the initiation of labor [31,32]. In sheep glucocorticoids drive the shift to an
+estrogen-primed contractile myometrium through induction of the placental enzyme cytochrome P450 17a-hydoxylase (P450c17) [adrenal dehydroepiandrosterone sulfate (DHEAS) in
+humans] [31]. Once the myometrium has achieved an estrogen-primed state, prostaglandins
+critically stimulate myometrial contractions, induce cervical ripening, and trigger fetal membrane rupture. Glucocorticoids contribute to the synthesis of prostaglandins by stimulating the
+production of cyclooxygenase-2 (COX-2) in human amnion cells and ovine placental trophoblast cells [33,34]. During parturition cortisol also contributes to the rupture of fetal membranes
+by inducing prostaglandins and inducing apoptosis in the amnion epithelial cells [35]. Intravenous dexamethasone improved the Bishop score of the cervix and reduced the time between
+labor induction and active labor in women. However, synthetic glucocorticoids administered
+preterm for fetal lung maturation do not induce labor, which may denote differential responses
+dependent on the extent of myometrial priming.
+Fetal Development in Utero
+It is well appreciated that the in utero environment directly contributes to physiological disorders
+that manifest postpartum [the developmental origins of health and disease (DOHaD)
+hypothesis]. Fetal exposure to high levels of glucocorticoids is believed to be a major
+contributor to early-life programming of adult-onset disease. Data supporting the role of stress
+and elevated glucocorticoids in fetal programming have been documented in many species
+and thoroughly reviewed [36–41]. Interestingly, programming of the HPA axis in response to
+prenatal stressors demonstrates sex-speciﬁc differences [42]. A systematic review of human
+studies concluded that the placenta of female offspring altered permeability to maternal
+glucocorticoids through regulation of the 11b-HSD enzymes in response to maternal stress
+[42]. Maternal exposure to dexamethasone in rats results in sexually dimorphic behavior in
+offspring associated with structural changes to neuronal populations [43,44]. In mice the
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+403
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+cardiovascular and renal renin–angiotensin–aldosterone systems also respond to elevated
+prenatal corticosterone in a sexually dimorphic manner, potentially through alteration of adrenal
+function [45–47]. Epigenetic factors may also play a key role in the glucocorticoid-driven effects
+of fetal programming, including altered methylation status of the GR following neonatal
+dexamethasone exposure [48]. It is important to recognize the timing of exposure when
+considering the correlation between animal models and human fetuses. Development in
+the prenatal and early postnatal rodent is more similar to the ﬁrst two trimesters of human
+pregnancy and therefore may not accurately model the response in humans during the third
+trimester. Synthetic analogs of glucocorticoids are routinely administered during the third
+trimester to women at risk of early- or late-preterm delivery; therefore, elucidating the longterm effects of late-term glucocorticoid exposure is more accurately evaluated in a human
+population than a rodent model.
+Testis
+Both physiological and stress-induced levels of glucocorticoids also mediate testicular function. Adrenalectomy in male rats demonstrated that homeostatic levels of adrenal hormones,
+including glucocorticoids, are required to maintain steroidogenesis, spermatogenesis, and
+sperm maturation [49]. Testosterone production increased following adrenalectomy in rats and
+this was prevented by glucocorticoid replacement [50]. Decreased spermatid number following
+adrenalectomy was rescued by concurrent dexamethasone treatment, indicating that adrenally
+produced hormones are responsible for maintaining sperm production. Interestingly, glucocorticoid replacement exacerbated the morphological defects evident in the seminiferous
+tubules of adrenalectomized males, which may reﬂect differences between the endogenous
+and synthetic hormones. Alternatively, other endocrine hormones produced by the adrenal
+gland, such as mineralocorticoids and epinephrine, could be responsible for the maintenance
+of testicular morphology, or morphology within the seminiferous epithelium could be sensitive
+to glucocorticoid dose. High levels of circulating glucocorticoids related to stress, Cushing’s
+disease, or exogenous hormone treatment suppress male fertility through repressing the
+expression of steroidogenic enzymes, inducing testicular oxidative stress, reducing the testicular response to gonadotropins, and prompting apoptosis of Leydig and germ cells [5].
+Elevated glucocorticoids may also control Leydig cell number through the induction of cell
+cycle arrest, as was demonstrated following dexamethasone treatment in R2C rat Leydig tumor
+cells in vitro [51]. Understanding the physiological range of adrenal steroids that supports male
+fertility is critical in patients who undergo adrenalectomy or have Addison’s disease or Cushing’s syndrome.
+
+Mouse Models to Uncover GR Actions
+Whole-body GR-null mice exhibit perinatal lethality due to defects in lung maturation and
+subsequent respiratory failure, which precludes the study of reproductive function in these mice
+[52]. Investigators have made use of tissue transplants from embryonic GR-null mice into
+syngeneic hosts, but this method is limited by the types of tissues that can be transplanted and
+the end points that can be measured. The advent of Cre–lox technology allowed researchers
+to investigate the cell-autonomous versus indirect effects of GR in tissues that critically support
+reproductive function. However, models to investigate the direct actions of glucocorticoids are
+limited. Currently in the reproductive system, the tissue- or cell type-speciﬁc functions of the GR
+have been evaluated in the uterus, Sertoli cells, mammary epithelial cells, and prostate epithelial
+cells [53–56].
+Conditional ablation of uterine NR3C1 demonstrated the direct actions of glucocorticoids in
+early pregnancy, indicating that glucocorticoid signaling is critical for the establishment of
+uterine receptivity and the subsequent endometrial remodeling that occurs during decidualization. [53]. The immune response is likely to play a key role in establishing endometrial
+
+404
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+receptivity [57] and genes related to the inﬂammatory response and immune cell trafﬁcking
+were substantially dysregulated in the absence of uterine GR [53]. Thus, the GR can locally
+coordinate the immune response in early pregnancy, thereby contributing to endometrial
+receptivity. Moreover, the expression of genes known to contribute to proper implantation
+was altered when NR3C1 was conditionally ablated from the uterus, suggesting that uterine
+glucocorticoid signaling may be necessary for the molecular framework that decides uterine
+receptivity. Glucocorticoid signaling in the uterus may also be required for the cell-fate decision
+of stromal cells during decidualization, although the direct gene targets of the GR that regulate
+cell proliferation or apoptosis in the uterus remain to be determined. Deletion of NR3C1 in
+Sertoli cells through the use of anti-Müllerian hormone (AMH) Cre produced a profound
+phenotype where the GR was determined to be required for Sertoli cell maintenance [54].
+Although male Sertoli cell-speciﬁc NR3C1-knockout mice are fertile, numbers of Sertoli cells
+and stage-speciﬁc spermatocytes/spermatids were signiﬁcantly reduced. The Sertoli cell
+NR3C1-knockout model also revealed that glucocorticoid signaling in Sertoli cells mediates
+testicular steroidogenesis and critically maintains endocrine feedback pathways. The uterine
+and Sertoli cell transgenic mouse models have proved that glucocorticoids play a homeostatic
+role in the regulation of fertility and also provide a direct link between the stress response and
+fertility.
+Before the creation of a tissue-speciﬁc model of glucocorticoid action in mammary epithelial
+cells, researchers utilized mice harboring a deletion in the NR3C1 gene (GRdim), which was
+reported to prevent GR transcriptional regulation through direct DNA binding, and tissuetransplantation techniques from GR-deﬁcient mice [58,59]. In the viable GRdim mice, mammary
+gland development was impaired due to reduced ductal epithelial cell proliferation in virgin
+mice, although mammary gland differentiation and milk production during pregnancy were
+normal [59]. The GRdim mutant maintains transcriptional regulation through protein–protein
+interactions and direct transactivation by the GRdim mutant has been described for some
+genes, indicating that the mechanisms of GR action in the mammary gland remain poorly
+understood in this model [60]. Embryonic mammary buds from mice with a disrupted second
+exon of NR3C1 were transplanted into the cleared mammary fat pad of 3-week-old recipient
+mice to circumvent perinatal lethality and study the role of the GR in mammary gland
+development [52,58]. These transplants displayed abnormal ductal morphogenesis in virgin
+mice but no defects in development during pregnancy, lactation, or involution. However, the
+exon 2 hypomorph yields a ligand-responsive truncated GR fragment, which suggests that
+studies with this model were unable to fully appreciate the functions of the GR [61]. Transgenic
+mice with mammary epithelial cell-speciﬁc deletion of NR3C1 late in pregnancy exhibited
+defects in lobuloalveolar development due to reduced cell proliferation, although expression of
+milk proteins and milk secretion were not affected [55]. Interestingly, none of the in vivo models
+of disrupted glucocorticoid signaling in the mammary gland demonstrated defects in milk
+protein production compared with previous experiments that determined that glucocorticoids
+are essential for the transcription of milk protein genes and support milk secretion [62]. The
+differences in the observed phenotypes may reﬂect the limits of current transgenic models and
+may be resolved with targeted deletion of NR3C1 in other mammary cell types.
+The prostate expresses the GR and the direct actions of glucocorticoid signaling in prostate
+physiology are not well understood. A prostate epithelial cell-speciﬁc NR3C1 knockout was
+created using Probasin Cre to determine the cell-speciﬁc role of glucocorticoids in the prostate
+[56]. Deletion of prostate epithelial cell NR3C1 demonstrated that glucocorticoid signaling in
+epithelial cells is not required for prostate development or for the prostate’s morphological
+response to the presence or absence of androgens. This model showed that glucocorticoidmediated prostate epithelial cell hyperplasia results from paracrine actions of the GR originating
+in the stroma and not direct signaling within the epithelial cells. These studies suggest that the
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+405
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+actions of glucocorticoids vary by prostate cell type, which is likely to be important in
+interpreting results from human prostate cell lines in vitro and understanding the role of the
+GR in prostate cancer.
+Changes in the bioavailability of glucocorticoids have been modeled through the creation of
+whole-body and tissue-speciﬁc 11b-HSD I- and II-knockout mice and rats [63–67]. These
+models have provided insights into the consequences of intrauterine glucocorticoid excess
+during pregnancy. In the mouse 11b-HSD II is expressed in the stromal cells of the endometrium and the labyrinthine zone of the placenta, the primary site of maternal–fetal exchange
+where maternal blood ﬂows over embryo-derived trophoblasts [68]. Therefore, impaired
+expression of 11b-HSD II exposes both the placenta and the fetus to locally high levels of
+glucocorticoids. 11b-HSD II-null mice weigh less at birth, which was correlated with reduced
+fetal capillary development accompanied by lower placental expression of the angiogenic
+factors vascular endothelial growth factor A (Vegfa) and peroxisome proliferator-activated
+receptor gamma (Pparg), decreased expression of glucose transporter 3 (Slc2a3; GLUT3),
+reduced placental transport of glucose to the offspring, and a smaller placenta [69]. The free
+transfer of maternal glucocorticoids through the placenta in the absence of 11b-HSD II
+indicates that glucocorticoid overexposure is detrimental to placentation and placental function. The role of physiological levels of cortisol has not been determined.
+It is important to note that tissue-speciﬁc deletion of NR3C1 has been accomplished through
+the use of several unique ﬂoxed constructs that excise different exons of NR3C1. For instance,
+exon 3-ﬂoxed mice were used to create the Sertoli cell, mammary epithelial cell, and prostate
+epithelial cell knockout mice, and the uterine knockout model utilized mice ﬂoxed for exon 3 and
+4 [70,71]. Exon 2-ﬂoxed mice have been generated by two groups, although this model has not
+been utilized to develop tissue-speciﬁc knockouts of the GR in the reproductive system [72,73].
+Zebraﬁsh have also been utilized to study the actions of the GR. Reported models include the
+use of morpholinos and a transgenic model harboring a point mutation in the DNA-binding
+region [74,75]. In both zebraﬁsh models, disruption of GR signaling alters embryo development
+and adult physiology, although an assessment of fertility was not reported. Zebraﬁsh offer a
+promising alternative model for the study of glucocorticoid signaling in the reproductive tract
+[76]. New gene editing techniques will expand our understanding of glucocorticoid signaling
+through the ability to insert, delete, or replace DNA at precise regions of the genome and will
+enable researchers to use other experimental animal models (Box 4).
+
+Box 4. Insights from Non-classical Models
+In most vertebrates studied, the exon length and amino acid sequence of the NR3C1 gene is well conserved and the
+HPA response to a physiological stressor is intact [165]. Therefore, studies describing the impact of stress on
+reproductive ﬁtness may provide insight into the evolutionarily conserved mechanisms linking fertility to glucocorticoid
+signaling. Fertility in both male and female cheetahs is sensitive to the physiological stress that accompanies captivity.
+Living arrangements on-exhibit compared with off-exhibit increased glucocorticoid concentrations, reduced total
+mobile sperm number in males, and decreased ovarian cyclicity in females [166,167]. Heat stress leads to infertility
+in dairy cows by inhibiting follicular development. Speciﬁcally, heat stress dramatically alters gene expression, reduces
+estrogen synthesis, and induces apoptosis in the follicle-supporting granulosa cells [168]. In male zebra ﬁnches, fastingincreased levels of glucocorticoids were associated with decreased testicular parameters, including lower testosterone
+and expression of steroidogenic enzymes, in the absence of hypothalamic input, indicating that glucocorticoids
+integrate the cues from stress directly in the testis in this species [169]. As seen in rodent models, a single exposure
+to dexamethasone decreased serum testosterone and expression of genes involved in cholesterol synthesis and
+steroidogenesis in the stallion testis [170]. Dexamethasone exposure in breeder roosters decreased testosterone,
+sperm motility, and sperm viability [171]. Further evidence for a conserved mechanism of glucocorticoid regulation of
+steroidogenesis was demonstrated in the three-spot wrasse, Halichoeres trimaculatus [172]. In this species prolonged
+exposure to cortisol induced female-to-male sex change and repression of plasma estradiol. Deciphering the mechanisms by which stress impacts fertility in other species is not only important in understanding the origin of infertility in
+humans but also essential to alleviate the ﬁnancial consequences of infertility in agricultural species.
+
+406
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Reproductive Immunology: Immunomodulatory Actions of Glucocorticoids
+Endometrial receptivity and successful pregnancy require immune adaptations that precede
+embryo implantation and allow the semiallogenic fetus to be tolerated (Figure 1A). During the
+menstrual cycle and increasingly in early pregnancy, immune cells are recruited to and activated
+in the endometrial compartment in a tightly regulated manner [77–79]. Conditional ablation of
+NR3C1 in the mouse uterus demonstrated that glucocorticoid signaling in the endometrium is
+essential for appropriate immune cell recruitment [53]. Studies utilizing exogenous glucocorticoid administration have also demonstrated effects on immune cell numbers and function in the
+uterus [57]. Importantly, various immune cells are present in the uterus that work to create the
+dynamic immune response essential for implantation and tolerance. Disturbances of this
+immune balance are likely to contribute to the pathogenesis of miscarriage, preeclampsia,
+or preterm labor. Direct actions on immune cells and indirect actions through signaling networks in the endometrium represent two mechanisms by which glucocorticoids can regulate
+the uterine immune system. Uterine natural killer (uNK) cells, stemming from resident and
+recruited populations, are the predominant immune cell population in the uterus at implantation, representing approximately 70% of all leucocytes [80,81]. During early pregnancy uNK
+cells regulate trophoblast invasion and the vascular changes that support placental development. uNK cells express the GR, and uNK cell-mediated cytotoxicity is sensitive to cortisol
+treatment [82,83]. Prednisolone treatment in women with recurrent miscarriage is associated
+with reduced numbers of uNK cells, although a link between the glucocorticoid-mediated
+reduction in uNK cell numbers and pregnancy success was not demonstrated [84]. Moreover,
+uNK cells differ in function from circulating NK cells and the speciﬁc effects of glucocorticoids
+on each of these populations have not been investigated.
+Inﬁltrating monocytes that develop into macrophages and uterus-resident myeloid cells constitute the second largest population of immune cells in the uterus during early pregnancy [85].
+Blastocyst
+
+(A)
+
+(B)
+
+Elongated sperma
+
+rus
+Macrophage
+De
+Dendri
+Treg
+
+cell
+
+Uterine natural
+killer cell
+Blood vessel
+
+T cell
+
+Round sperm
+Sertoli
+cell
+
+d
+Sertoli
+celli
+
+Secondary spermatocyte
+Blood-tes
+barrier
+
+d
+
+Primary spermatocyte
+
+impl
+
+Spermatogonia
+
+T cell
+
+Peritubular cell
+Leydig cell
+
+Macrophage
+Mast cell
+M1→M2
+
+Dendri
+
+cell
+Treg
+
+Blood vessel
+
+Figure 1. Schematic Illustration of the Mammalian Uterus in Early Pregnancy (A) and the Seminiferous Tubule and Interstitium of the Testis (B). (A) Immune cells are
+recruited and activated within the endometrium in response to pregnancy. Following implantation immune cells contribute to the endometrial and vascular remodeling
+that is required to support pregnancy. (B) Under normal physiological conditions, immune cells are present in the interstitial compartment of the testis. Changes in the
+cell junctions of the blood–testis barrier resulting from inﬂammation alter the exposure of immunoprivileged cells to cytokines and chemokines, resulting in activation of
+apoptotic pathways.
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+407
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Macrophages exist as two distinct subpopulations: an M1 ‘proinﬂammatory’ phenotype and an
+M2 phenotype linked to tissue remodeling, immunosuppression, and angiogenesis [86].
+Endometrial macrophages are skewed toward the M1 phenotype during the peri-implantation
+period and polarized toward the M2 phenotype post-implantation [87,88]. Human endometrial
+macrophages express the GR during the secretory phase, corresponding to the period of
+uterine receptivity and implantation, the menstrual phase, and at term, although the function of
+glucocorticoid signaling in macrophages is not well understood [89,90]. Macrophage-speciﬁc
+NR3C1-knockout mice have been generated using LysM Cre recombinase, although no
+associated infertility has been reported [91].
+Dendritic cells control the innate adaptive immune response, but mouse studies suggest that
+they also contribute to uterine receptivity. Selective ablation of CD11c+ dendritic cells in the
+murine uterus caused implantation failure, impaired stromal cell decidualization, and altered
+angiogenesis, indicating that dendritic cells are important for the initiation of pregnancy [92].
+Dendritic cells are antigen-presenting cells and play a key role in determining tolerance to or
+rejection of the blastocyst. Regulatory T cells are critical for the maintenance of tolerance at the
+maternal–fetal interface and are generated from CD4+ T cells through antigen presentation in
+the thymus or uterus. Depletion of regulatory T cells in mice leads to pregnancy loss and fetal
+resorption [93]. The relative abundance of another derivative of the CD4+ T cell, Th17 cells, has
+been associated with miscarriage, although the importance of this immune cell type in normal
+pregnancy has not been investigated [94]. Moreover, the physiological effects of glucocorticoids on dendritic cells, regulatory T cells, and Th17 cells in the endometrium have not been
+studied. Dendritic cell-speciﬁc NR3C1-knockout mice have been utilized in models of sepsis
+and arthritis but have not been evaluated for functions relating to fertility [95,96]. T cell-speciﬁc
+ablation of NR3C1 has been reported, although Cre recombinase activity occurs early in T cell
+development and prevents discrimination of the contribution of glucocorticoid signaling among
+T cell subtypes [91].
+Much like the uterus during pregnancy, immune cells present in the testis mediate the process
+of spermatogenesis through a delicate balance of inﬂammation and immunotolerance
+(Figure 1B) [97]. The testis is an immunoprivileged site by virtue of the blood–testis barrier
+(BTB), systemic immune tolerance, and local immunosuppression, which protects the immunogenic germ cells against provoking an immune response [98]. However, effective local innate
+immunity is required to prevent bacterial or viral infections in the testis. Cells of both the innate
+and the adaptive immune response reside within the interstitial space of the testis and are able
+to interact with the steroidogenic Leydig cells and the seminiferous tubules where spermatogenesis occurs. Under physiological conditions, subsets of dendritic cells and regulatory T cells
+mediate tolerance to germ cells. Under inﬂammatory conditions, however, proinﬂammatory
+cytokines produced by macrophages, dendritic cells, and effector T cells disrupt the BTB and
+induce apoptosis of germ cells. To date there are no studies in humans or mouse models
+assessing the impact of glucocorticoids on immune cells in the testis. Endocrine regulation of
+the testicular immune system by androgens suggests that glucocorticoids may also have
+indirect effects on immune cell functions.
+In the peripheral immune system, glucocorticoids display various direct actions on immune cell
+development and function, which may inﬂuence the relative pool of immune cells able to be
+recruited to the reproductive tract [99]. Glucocorticoids prevent the generation of immature
+dendritic cells from monocytes and inhibit the differentiation of immature dendritic cells into
+mature dendritic cells in vitro [100,101]. High serum glucocorticoid levels induced by psychoactive drug administration were shown to be associated with rapid accumulation of mature NK
+cells in the peripheral circulation in vivo [102]. Glucocorticoids also induce robust apoptosis of T
+and B cells, mature dendritic cells, basophils, and eosinophils [103]. Glucocorticoids also
+
+408
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Key Figure
+
+Impact of Glucocorticoids on Reproductive Physiology.
+nt
+ﬃcie
+Insu
+g
+alin
+sign
+ss
+Exce
+g
+alin
+sign
+
+Inhibits
+GnRH release
+Synthesis/release of gonadotropins
+KISS1 expression
+va n
+Ovarian growth factor expression
+Testosterone produc n
+E2-induced uterine growth
+Immune cell recruitment/func n in uterus
+Placental and fetal growth
+
+Inhibits
+Mammary epithelial cell prolif
+on
+Sperm produc n
+Sertolicell number
+Immune cell recruitment in uterus
+Implanta n
+Stromal celldecidualiza n
+Fetal growth
+
++/Oocyte development
+Ovarian steroidogenesis
+Promotes
+Func n of GnI Hneurons
+Mural granulosa/cumulus cell apoptosis
+Leydig/germ cell apoptosis
+Fetal membrane rupture
+Fetal development
+
+Promotes
+Testosterone produc
+
+n
+
+Timing of exposure
+1st Trimester
+
+2nd Trimester
+
+Exposure leads to
+placental/fetal growth
+restri on
+
+3rd Trimester
+
+Exposure leads
+to fetal
+development
+
+Exposure may
+prevent or promote
+vity
+endometrial
+
+(See figure legend on the bottom of the next page.)
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+409
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+regulate the immune system by impacting the function of immune cells. For example, glucocorticoids inhibit the transcription of proinﬂammatory cytokines and chemokines in macrophages and drive macrophages toward the M2 phenotype [57]. Dexamethasone can also
+induce components of the inﬂammasome to sensitize the innate immune response in macrophages [104]. The nature of the response to glucocorticoids in the immune system is dependent on physiological or stress-induced levels of hormone and the duration of the stimulus,
+suggesting that the immune response governing reproduction is regulated in part through
+physiological glucocorticoid signaling and is sensitive to hormone ﬂuctuations.
+
+Concluding Remarks
+Stress-induced activation of the HPA axis or administration of exogenous glucocorticoids
+produces adverse effects on male and female fertility and negatively impacts in utero development. In models of adrenal insufﬁciency, the absence of glucocorticoids is also associated with
+reduced fertility and disturbances of fetal growth. However, basal physiological concentrations
+of glucocorticoids are supportive of all stages of reproduction, indicating that the dose is
+critically important in the outcome. The timing of glucocorticoid exposure may also dictate
+whether glucocorticoid signaling promotes or inhibits fertility. The tipping point between
+supportive and adverse effects is unclear (Figure 2, Key Figure). For example, exogenous
+glucocorticoids are utilized clinically during in vitro fertilization (IVF) and in patients with recurrent
+miscarriage with the rationale that the immunomodulatory actions of glucocorticoids improve
+the intrauterine environment [105,106]. Following conception, women may receive glucocorticoids during pregnancy as treatment for asthma, autoimmune diseases, or adrenal insufﬁciency or for the management of preterm labor [107–109]. Glucocorticoid use during preterm
+labor critically improves neonatal outcomes through enhanced fetal development. However,
+exposure to exogenous or stress-induced levels of glucocorticoids during the window of
+receptivity or during fetal development may attenuate the maternal immune system required
+to establish pregnancy and alter fetal development in utero. Evidence from animal studies
+demonstrates that prenatal exposure to synthetic or stress-induced levels of glucocorticoids
+leads to reduced fetal growth and dysfunction of the cardiovascular, metabolic, endocrine,
+nervous, and reproductive systems in adults [26]. The effects of overexposure are dependent
+on the dose and type of glucocorticoid and determined by the gestational age at exposure. In
+humans prenatal glucocorticoid exposure is associated with higher blood pressure and insulin
+levels and mild behavioral defects, although it is difﬁcult to separate the effects of glucocorticoid
+exposure from the impact of premature birth [110]. Given the clear beneﬁts to fetal survival,
+prenatal glucocorticoids are part of the standard management for women who present with
+preterm labor. However, the additional beneﬁt of repeated treatment or the long-term consequences of exposure during early pregnancy remain uncertain and call for further investigation (see Outstanding Questions).
+
+Outstanding Questions
+The ovarian hormones and their receptors regulate reproductive functions
+before and during pregnancy. Many
+in vitro studies have demonstrated
+dynamic molecular interplay in GR
+and ER binding, and glucocorticoids
+and estrogen regulate many common
+genes. What role does the GR play in
+mediating estrogen responses, if any?
+Glucocorticoid sensitivity in the reproductive system may also be mediated
+by the relative expression of the 11bHSD isoenzymes and the mineralocorticoid receptor (MR). Do glucocorticoids signal through the MR in the
+normal physiology of reproduction or
+the pathologies of adverse events?
+Could 11b-HSD be a therapeutic target in women?
+What are the signaling pathways regulated by glucocorticoids during parturition in humans and could our
+knowledge of these improve pregnancy outcomes?
+Antenatal corticosteroid administration
+for fetal maturation is critical for survival
+in preterm delivery. Recent updates
+have shown that antenatal corticosteroids may be beneﬁcial in late-preterm
+birth (34 to <37 weeks) and should
+now be considered in treatment. What
+is the magnitude of the beneﬁts or risk
+of long-term effects in this population?
+How is glucocorticoid signaling in
+reproduction impacted by environmental exposures? Are there tissuespeciﬁc effects or long-term consequences? The stress response to environmental compounds may represent
+a new adaptive mechanism to incorporate exposures into reproductive
+ﬁtness.
+
+Other deﬁcits in our current understanding of glucocorticoid functions in the reproductive
+system stem from a lack of knowledge regarding the sites of direct GR action and the
+crosstalk of glucocorticoids with other nuclear receptors. Glucocorticoids and estrogens
+have exhibited antagonistic actions in the uterus [19,20]. The presence of estradiol with
+dexamethasone alters GR recruitment to target genes in immortalized uterine cells and is
+
+Figure 2. The impact of glucocorticoids on reproductive physiology is dependent on dose and timing. Both excess and insufﬁcient levels of glucocorticoids result in
+reproductive dysfunction, although these occur through differing pathophysiologies. The timing of exposure also dictates the relative beneﬁt or harm of glucocorticoid
+exposure. The example is provided in which early exposure to high levels of glucocorticoids may inhibit endometrial receptivity, although physiological levels of
+glucocorticoids may be required for this process. Excess glucocorticoid exposure during early placentation is associated with reduced placental weight and fetal size.
+However, glucocorticoid signaling in the third trimester is required for fetal development. Timing of exposure also plays a role in fetal programming of postnatal
+development, with more profound inﬂuence occurring as a result of elevated glucocorticoids during the ﬁrst and second trimesters.
+
+410
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+dependent on estrogen receptor alpha (ERa) [111]. It is unclear whether this molecular
+antagonism is a result of direct interference with GR–DNA interactions and the biological
+signiﬁcance of GR–ER crosstalk is not well understood. Glucocorticoids bind with low afﬁnity
+to PR and, similarly, progesterone weakly binds GR [112,113]. The abortifacient drug RU486
+acts as both an antiprogestin and an antiglucocorticoid, which prevents discrimination
+between the GR- and PR-mediated effects in the uterus [114]. Cells in culture have provided
+a genetically tractable model to dissect the relative contributions of GR and PR and suggest
+crosstalk between progesterone and the GR in cells of the reproductive tract [115–118]. New
+techniques utilizing cell-speciﬁc knockdown or targeted genome editing in vivo will help clarify
+the speciﬁc roles of glucocorticoids in normal reproductive physiology and stress-induced
+infertility. By identifying GR target genes in tissues of the reproductive tract and framing these
+data in reference to published ChIP-seq databases, we will begin to provide a picture of the
+regulatory networks that orchestrate fertility. Additionally, future studies should assess the
+contribution of the NR3C1 isoforms, post-translational modiﬁcations, and SNPs in the
+heterogeneity of stress responses among individuals. In the placenta GR isoform expression
+varied between women who delivered with no complications at term and those who delivered
+preterm [30]. Context-speciﬁc expression provides insight on the molecular mechanisms by
+which stress impacts individuals uniquely. This knowledge is increasingly important for the
+identiﬁcation of new avenues of treatment for infertility and potential new mechanisms to
+enhance fertility in agricultural species.
+Acknowledgments
+The authors thank Dr Robert Oakley and Dr Francesco DeMayo for their critical reading of the manuscript. This work was
+supported in part by the Intramural Research Program of the National Institutes of Health (NIH)/NIEHS and by from the NIH
+(S.W.Grant R00ES022983) and an Albert McKern Scholar Award (S.W.).
+
+References
+1.
+
+Erichsen, M.M. et al. (2010) Sexuality and fertility in women with
+Addison’s disease. J. Clin. Endocrinol. Metab. 95, 4354–4360
+
+2.
+
+Kowal, B.F. et al. (2006) Addison’s disease presenting as male
+infertility. Fertil. Steril. 85, 1059 e1051–e1054
+
+3.
+
+Oakley, R.H. and Cidlowski, J.A. (2011) Cellular processing of
+the glucocorticoid receptor gene and protein: new mechanisms
+for generating tissue-speciﬁc actions of glucocorticoids. J. Biol.
+Chem. 286, 3177–3184
+
+4.
+
+Dagklis, T. et al. (2015) Common features and differences of the
+hypothalamic–pituitary–gonadal axis in male and female. Gynecol. Endocrinol. 31, 14–17
+
+5.
+
+Whirledge, S. and Cidlowski, J.A. (2013) A role for glucocorticoids in stress-impaired reproduction: beyond the hypothalamus and pituitary. Endocrinology 154, 4450–4468
+
+6.
+
+Breen, K.M. and Mellon, P.L. (2014) Inﬂuence of stress-induced
+intermediates on gonadotropin gene expression in gonadotrope
+cells. Mol. Cell. Endocrinol. 385, 71–77
+
+7.
+
+Geraghty, A.C. and Kaufer, D. (2015) Glucocorticoid regulation
+of reproduction. Adv. Exp. Med. Biol. 872, 253–278
+
+8.
+
+Takumi, K. et al. (2012) Immunohistochemical analysis of the
+colocalization of corticotropin-releasing hormone receptor and
+glucocorticoid receptor in kisspeptin neurons in the hypothalamus of female rats. Neurosci. Lett. 531, 40–45
+
+9.
+
+Luo, E. et al. (2016) Corticosterone blocks ovarian cyclicity and
+the LH surge via decreased kisspeptin neuron activation in
+female mice. Endocrinology 157, 1187–1199
+
+10. Ubuka, T. et al. (2009) Identiﬁcation of human GnIH homologs,
+RFRP-1 and RFRP-3, and the cognate receptor, GPR147 in the
+human hypothalamic pituitary axis. PLoS One 4, e8400
+11. Clarke, I.J. et al. (2016) Stress increases gonadotropin inhibitory
+hormone cell activity and input to GnRH cells in ewes. Endocrinology 157, 4339–4350
+12. Kirby, E.D. et al. (2009) Stress increases putative gonadotropin
+inhibitory hormone and decreases luteinizing hormone in male
+rats. Proc. Natl. Acad. Sci. U. S. A. 106, 11324–11329
+
+13. Son, Y.L. et al. (2014) Molecular basis for the activation of
+gonadotropin-inhibitory hormone gene transcription by corticosterone. Endocrinology 155, 1817–1826
+14. Yuan, X.H. et al. (2014) Dexamethasone altered steroidogenesis
+and changed redox status of granulosa cells. Endocrine 47,
+639–647
+15. Huang, T.J. and Shirley Li, P. (2001) Dexamethasone inhibits
+luteinizing hormone-induced synthesis of steroidogenic acute
+regulatory protein in cultured rat preovulatory follicles. Biol.
+Reprod. 64, 163–170
+16. Michael, A.E. et al. (1993) Direct inhibition of ovarian steroidogenesis by cortisol and the modulatory role of 11 b-hydroxysteroid dehydrogenase. Clin. Endocrinol. 38, 641–644
+17. Yuan, H.J. et al. (2016) Glucocorticoids impair oocyte developmental potential by triggering apoptosis of ovarian cells via
+activating the Fas system. Sci. Rep. 6, 24036
+18. da Costa, N.N. et al. (2016) Effect of cortisol on bovine oocyte
+maturation and embryo development in vitro. Theriogenology
+85, 323–329
+19. Rhen, T. et al. (2003) Dexamethasone blocks the rapid biological
+effects of 17b-estradiol in the rat uterus without antagonizing its
+global genomic actions. FASEB J. 17, 1849–1870
+20. Johnson, D.C. and Dey, S.K. (1980) Role of histamine in implantation: dexamethasone inhibits estradiol-induced implantation in
+the rat. Biol. Reprod. 22, 1136–1141
+21. Whirledge, S. et al. (2013) Global gene expression analysis in
+human uterine epithelial cells deﬁnes new targets of glucocorticoid and estradiol antagonism. Biol. Reprod. 89, 66
+22. Nanjappa, M.K. et al. (2015) Maximal dexamethasone inhibition
+of luminal epithelial proliferation involves progesterone receptor
+(PR)- and non-PR-mediated mechanisms in neonatal mouse
+uterus. Biol. Reprod. 92, 122
+23. Kuroda, K. et al. (2013) Induction of 11b-HSD 1 and activation of
+distinct mineralocorticoid receptor- and glucocorticoid
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+411
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+receptor-dependent gene networks in decidualizing human
+endometrial stromal cells. Mol. Endocrinol. 27, 192–202
+
+angiotensin–aldosterone system in 6-month offspring. Physiol.
+Rep. 4, e12754
+
+24. Zhang, D. et al. (2016) Glucocorticoid exposure in early placentation induces preeclampsia in rats via interfering trophoblast
+development. Gen. Comp. Endocrinol. 225, 61–70
+
+46. O’sullivan, L. et al. (2015) Excess prenatal corticosterone exposure results in albuminuria, sex-speciﬁc hypotension, and
+altered heart rate responses to restraint stress in aged adult
+mice. Am. J. Physiol. Renal Physiol. 308, F1065–F1073
+
+25. Braun, T. et al. (2015) Early dexamethasone treatment induces
+placental apoptosis in sheep. Reprod. Sci. 22, 47–59
+26. Fowden, A.L. and Forhead, A.J. (2015) Glucocorticoids as
+regulatory signals during intrauterine development. Exp. Physiol.
+100, 1477–1487
+27. Vaughan, O.R. et al. (2015) Corticosterone alters materno-fetal
+glucose partitioning and insulin signalling in pregnant mice. J.
+Physiol. 593, 1307–1321
+28. Ozmen, A. et al. (2015) Glucocorticoid exposure altered angiogenic factor expression via Akt/mTOR pathway in rat placenta.
+Ann. Anat. 198, 34–40
+29. Yang, Q. et al. (2016) Compartmentalized localization of 11bHSD 1 and 2 at the feto-maternal interface in the ﬁrst trimester of
+human pregnancy. Placenta 46, 63–71
+30. Saif, Z. et al. (2015) Expression of eight glucocorticoid receptor
+isoforms in the human preterm placenta vary with fetal sex and
+birthweight. Placenta 36, 723–730
+31. Li, X.Q. et al. (2014) Roles of glucocorticoids in human parturition: a controversial fact? Placenta 35, 291–296
+32. Laloha, F. et al. (2015) Effect of intravenous dexamethasone on
+preparing the cervix and labor induction. Acta Med. Iran. 53,
+568–572
+33. Wang, W. et al. (2015) Phosphorylation of STAT3 mediates the
+induction of cyclooxygenase-2 by cortisol in the human amnion
+at parturition. Sci. Signal. 8, ra106
+34. Challis, J.R.G. et al. (2000) Endocrine and paracrine regulation
+of birth at term and preterm. Endocr. Rev. 21, 514–550
+35. Wang, W. et al. (2016) Induction of amnion epithelial apoptosis
+by cortisol via tPA/plasmin system. Endocrinology 157, 4487–
+4498
+36. Gopalakrishnan, G.S. (2004) Programming of adult cardiovascular function after early maternal undernutrition in sheep. Am. J.
+Physiol. Regul. Integr. Comp. Physiol. 287, R12–R20
+
+47. Cuffe, J.S. et al. (2017) Prenatal corticosterone exposure programs sex-speciﬁc adrenal adaptations in mouse offspring. J.
+Endocrinol. 232, 37–48
+48. Sun, Y. et al. (2016) Prenatal dexamethasone exposure
+increases the susceptibility to autoimmunity in offspring rats
+by epigenetic programing of glucocorticoid receptor. Biomed.
+Res. Int. 2016, 9409452
+49. Silva, E.J. et al. (2014) Impact of adrenalectomy and dexamethasone treatment on testicular morphology and sperm parameters in rats: insights into the adrenal control of male
+reproduction. Andrology 2, 835–846
+50. Gao, H.B. et al. (1996) Suppression of endogenous corticosterone levels in vivo increases the steroidogenic capacity of puriﬁed rat Leydig cells in vitro. Endocrinology 137, 1714–1718
+51. Panza, S. et al. (2016) Glucocorticoid receptor as a potential
+target to decrease aromatase expression and inhibit Leydig
+tumor growth. Am. J. Pathol. 186, 1328–1339
+52. Cole, T.J. et al. (1995) Targeted disruption of the glucocorticoid
+receptor gene blocks adrenergic chromafﬁn cell development
+and severely retards lung maturation. Genes Dev. 9, 1608–1621
+53. Whirledge, S.D. et al. (2015) Uterine glucocorticoid receptors
+are critical for fertility in mice through control of embryo implantation and decidualization. Proc. Natl. Acad. Sci. U. S. A. 112,
+15166–15171
+54. Hazra, R. et al. (2014) In vivo actions of the Sertoli cell glucocorticoid receptor. Endocrinology 155, 1120–1130
+55. Wintermantel, T.M. et al. (2005) The epithelial glucocorticoid
+receptor is required for the normal timing of cell proliferation
+during mammary lobuloalveolar development but is dispensable
+for milk production. Mol. Endocrinol. 19, 340–349
+56. Zhao, B. et al. (2014) Glucocorticoid receptor in prostate epithelia is not required for corticosteroid-induced epithelial hyperproliferation in the mouse prostate. Prostate 74, 1068–1078
+
+37. De Blasio, M.J. et al. (2007) Maternal exposure to dexamethasone or cortisol in early pregnancy differentially alters insulin
+secretion and glucose homeostasis in adult male sheep offspring. Am. J Physiol. Endocrinol. Metab. 293, E75–E82
+
+57. Robertson, S.A. et al. (2016) Corticosteroid therapy in assisted
+reproduction – immune suppression is a faulty premise. Hum.
+Reprod. 31, 2164–2173
+
+38. Slotkin, T.A. et al. (1996) Programming of brainstem serotonin
+transporter development by prenatal glucocorticoids. Brain Res.
+Dev. Brain Res. 93, 155–161
+
+58. Kingsley-Kallesen, M. (2002) The mineralocorticoid receptor
+may compensate for the loss of the glucocorticoid receptor
+at speciﬁc stages of mammary gland development. Mol. Endocrinol. 16, 2008–2018
+
+39. Pechnick, R.N. et al. (2006) Developmental exposure to corticosterone: behavioral changes and differential effects on leukemia inhibitory factor (LIF) and corticotropin-releasing hormone
+(CRH) gene expression in the mouse. Psychopharmacology
+185, 76–83
+40. Fowden, A.L. et al. (2016) Glucocorticoid programming of intrauterine development. Domest. Anim. Endocrinol. 56 (Suppl),
+S121–S132
+41. Holmes, M.C. et al. (2015) Fetal programming of adult behaviour
+by stress and glucocorticoids. Psychoneuroendocrinology 61, 9
+42. Carpenter, T. et al. (2017) Sex differences in early-life programming of the hypothalamic–pituitary–adrenal axis in humans suggest increased vulnerability in females: a systematic review. J.
+Dev. Orig. Health Dis. Published online January 20, 2017. http://
+dx.doi.org/10.1017/S204017441600074X
+43. Gillies, G.E. et al. (2016) Enduring, sexually dimorphic impact of
+in utero exposure to elevated levels of glucocorticoids on midbrain dopaminergic populations. Brain Sci. Published online
+30,
+2016.
+http://dx.doi.org/10.3390/
+December
+brainsci7010005
+
+59. Reichardt, H.M. et al. (2001) Mammary gland development and
+lactation are controlled by different glucocorticoid receptor
+activities. Eur. J. Endocrinol. 145, 519–527
+60. Jewell, C.M. et al. (2012) Complex human glucocorticoid receptor dim mutations deﬁne glucocorticoid induced apoptotic resistance in bone cells. Mol. Endocrinol. 26, 244–256
+61. Mittelstadt, P.R. and Ashwell, J.D. (2003) Disruption of glucocorticoid receptor exon 2 yields a ligand-responsive C-terminal
+fragment that regulates gene expression. Mol. Endocrinol. 17,
+1534–1542
+62. Casey, T.M. and Plaut, K. (2007) The role of glucocorticoids in
+secretory activation and milk secretion, a historical perspective.
+J. Mammary Gland Biol. Neoplasia 12, 293–304
+63. Kotelevtsev, Y. et al. (1997) 11b-Hydroxysteroid dehydrogenase type 1 knockout mice show attenuated glucocorticoidinducible responses and resist hyperglycemia on obesity or
+stress. Proc. Natl. Acad. Sci. U. S. A. 94, 14924–14929
+64. Kotelevtsev, Y. et al. (1999) Hypertension in mice lacking 11bhydroxysteroid dehydrogenase type 2. J. Clin. Invest. 103, 683–
+689
+
+44. Hiroi, R. et al. (2016) Sex-dependent programming effects of
+prenatal glucocorticoid treatment on the developing serotonin
+system and stress-related behaviors in adulthood. Neuroscience 320, 43–56
+
+65. Lavery, G.G. et al. (2012) Lack of signiﬁcant metabolic abnormalities in mice with liver-speciﬁc disruption of 11b-hydroxysteroid dehydrogenase type 1. Endocrinology 153, 3236–3248
+
+45. Cuffe, J.S. et al. (2016) Maternal corticosterone exposure in the
+mouse programs sex-speciﬁc renal adaptations in the renin–
+
+66. Wyrwoll, C. et al. (2015) Fetal brain 11b-hydroxysteroid dehydrogenase type 2 selectively determines programming of adult
+
+412
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+depressive-like behaviors and cognitive function, but not anxiety
+behaviors in male mice. Psychoneuroendocrinology 59, 59–70
+67. Mullins, L.J. et al. (2015) Mineralocorticoid excess or glucocorticoid insufﬁciency: renal and metabolic phenotypes in a rat
+Hsd11b2 knockout model. Hypertension 66, e20
+68. Thompson, A. et al. (2002) Spatial and temporal patterns of
+expression of 11b-hydroxysteroid dehydrogenase types 1 and 2
+messenger RNA and glucocorticoid receptor protein in the
+murine placenta and uterus during late pregnancy. Biol. Reprod.
+67, 1708–1718
+69. Wyrwoll, C.S. et al. (2009) Altered placental function of 11bhydroxysteroid dehydrogenase 2 knockout mice. Endocrinology
+150, 1287–1293
+70. Tronche, F. et al. (1999) Disruption of the glucocorticoid receptor gene in the nervous system results in reduced anxiety. Nat.
+Genet. 23, 99–103
+71. Oakley, R.H. et al. (2013) Essential role of stress hormone
+signaling in cardiomyocytes for the prevention of heart disease.
+Proc. Natl. Acad. Sci. U. S. A. 110, 17035–17040
+72. Jeanneteau, F.D. et al. (2012) BDNF and glucocorticoids
+regulate corticotrophin-releasing hormone (CRH) homeostasis
+in the hypothalamus. Proc. Natl. Acad. Sci. U. S. A. 109, 1305–
+1310
+73. Brewer, J.A. et al. (2003) T-cell glucocorticoid receptor is
+required to suppress COX-2-mediated lethal immune activation.
+Nat. Med. 9, 1318–1322
+74. Pikulkaew, S. et al. (2011) The knockdown of maternal glucocorticoid receptor mRNA alters embryo development in zebraﬁsh. Dev. Dyn. 240, 874–889
+75. Grifﬁths, B.B. et al. (2012) A zebraﬁsh model of glucocorticoid
+resistance shows serotonergic modulation of the stress
+response. Front. Behav. Neurosci. 6, 68
+76. Hoo, J.Y. et al. (2016) Zebraﬁsh: a versatile animal model for
+fertility research. Biomed Res. Int. 2016, 9732780
+77. Zhang, J. et al. (2016) To serve and to protect: the role of
+decidual innate immune cells on human pregnancy. Cell Tissue
+Res. 363, 249–265
+
+90. Horton, J.S. et al. (2011) Relaxin modulates proinﬂammatory
+cytokine secretion from human decidual macrophages. Biol.
+Reprod. 85, 788–797
+91. Tuckermann, J.P. et al. (2007) Macrophages and neutrophils are
+the targets for immune suppression by glucocorticoids in contact allergy. J. Clin. Invest. 117, 1381–1390
+92. Plaks, V. et al. (2008) Uterine DCs are crucial for decidua
+formation during embryo implantation in mice. J. Clin. Invest.
+118, 3954–3965
+93. Aluvihare, V.R. et al. (2004) Regulatory T cells mediate maternal
+tolerance to the fetus. Nat. Immunol. 5, 266–271
+94. Wang, W.J. et al. (2010) Increased prevalence of T helper 17
+(Th17) cells in peripheral blood and decidua in unexplained
+recurrent spontaneous abortion patients. J. Reprod. Immunol.
+84, 164–170
+95. Li, C.C. et al. (2015) Suppression of dendritic cell-derived IL-12
+by endogenous glucocorticoids is protective in LPS-induced
+sepsis. PLoS Biol. 13, e1002269
+96. Baschant, U. et al. (2011) Glucocorticoid therapy of antigeninduced arthritis depends on the dimerized glucocorticoid
+receptor in T cells. Proc. Natl. Acad. Sci. U. S. A. 108,
+19317–19322
+97. Perez, C.V. et al. (2013) Dual role of immune cells in the testis:
+protective or pathogenic for germ cells? Spermatogenesis 3,
+e23870
+98. Zhao, S. et al. (2014) Testicular defense systems: immune
+privilege and innate immunity. Cell. Mol. Immunol. 11, 428–437
+99. Busillo, J.M. and Cidlowski, J.A. (2013) The ﬁve Rs of glucocorticoid action during inﬂammation: ready, reinforce, repress,
+resolve, and restore. Trends Endocrinol. Metab. 24, 109–119
+100. Woltman, A.M. et al. (2000) The effect of calcineurin inhibitors
+and corticosteroids on the differentiation of human dendritic
+cells. Eur. J. Immunol. 30, 1807–1812
+101. Matasic, R. et al. (1999) Dexamethasone inhibits dendritic cell
+maturation by redirecting differentiation of a subset of cells. J.
+Leukoc. Biol. 66, 909–914
+
+78. Figueiredo, A.S. and Schumacher, A. (2016) The T helper type
+17/regulatory T cell paradigm in pregnancy. Immunology 148,
+13–21
+
+102. Bigler, M.B. et al. (2015) Stress-induced in vivo recruitment of
+human cytotoxic natural killer cells favors subsets with distinct
+receptor proﬁles and associates with increased epinephrine
+levels. PLoS One 10, e0145635
+
+79. Vinketova, K. et al. (2016) Human decidual stromal cells as a
+component of the implantation niche and a modulator of maternal immunity. J. Pregnancy 2016, 8689436
+
+103. Cruz-Topete, D. and Cidlowski, J.A. (2015) One hormone, two
+actions: anti- and pro-inﬂammatory effects of glucocorticoids.
+Neuroimmunomodulation 22, 20–32
+
+80. Mori, M. et al. (2016) The decidua – the maternal bed embracing
+the embryo – maintains the pregnancy. Semin. Immunopathol.
+38, 635–649
+
+104. Busillo, J.M. et al. (2011) Glucocorticoids sensitize the innate
+immune system through regulation of the NLRP3 inﬂammasome. J. Biol. Chem. 286, 38703–38713
+
+81. Bartmann, C. et al. (2014) Quantiﬁcation of the predominant
+immune cell populations in decidua throughout human pregnancy. Am. J. Reprod. Immunol. 71, 109–119
+
+105. Polak de Fried, E. et al. (1993) Improvement of clinical pregnancy rate and implantation rate of in-vitro fertilization–embryo
+transfer patients by using methylprednisone. Hum. Reprod. 8,
+393–395
+
+82. Henderson, T.A. et al. (2003) Steroid receptor expression in
+uterine natural killer cells. J. Clin. Endocrinol. Metab. 88, 440–
+449
+83. Chen, Y. et al. (2012) Mifepristone increases the cytotoxicity of
+uterine natural killer cells by acting as a glucocorticoid antagonist via ERK activation. PLoS One 7, e36413
+84. Quenby, S. et al. (2005) Prednisolone reduces preconceptual
+endometrial natural killer cells in women with recurrent miscarriage. Fertil. Steril. 84, 980–984
+85. Trundley, A. et al. (2006) Methods for isolation of cells from the
+human fetal–maternal interface. Methods Mol. Med. 122, 109–
+122
+
+106. Quenby, S. et al. (2003) Successful pregnancy outcome following 19 consecutive miscarriages: case report. Hum. Reprod. 18,
+2562–2564
+107. Breton, M.C. et al. (2010) Risk of perinatal mortality associated
+with inhaled corticosteroid use for the treatment of asthma
+during pregnancy. J. Allergy Clin. Immunol. 126, 772–777
+108. Ponticelli, C. and Moroni, G. (2015) Immunosuppression in
+pregnant women with systemic lupus erythematosus. Expert
+Rev. Clin. Immunol. 11, 549–552
+109. Msan, A.K. et al. (2015) Use of antenatal corticosteroids in the
+management of preterm delivery. Am. J. Perinatol. 32, 417–426
+
+86. Porta, C. et al. (2015) Molecular and epigenetic basis of macrophage polarized activation. Semin. Immunol. 27, 237–248
+
+110. Harris, A. and Seckl, J. (2011) Glucocorticoids, prenatal stress
+and the programming of disease. Horm. Behav. 59, 279–289
+
+87. Gustafsson, C. et al. (2008) Gene expression proﬁling of human
+decidual macrophages: evidence for immunosuppressive phenotype. PLoS One 3, e2078
+
+111. Whirledge, S. and Cidlowski, J.A. (2013) Estradiol antagonism of
+glucocorticoid-induced GILZ expression in human uterine epithelial cells and murine uterus. Endocrinology 154, 499–510
+
+88. Heikkinen, J. et al. (2003) Phenotypic characterization of human
+decidual macrophages. Clin. Exp. Immunol. 131, 498–505
+
+112. Haslam, S.Z. et al. (1981) An empirical basis for the competition
+by dexamethasone to progesterone receptors as estimated with
+the synthetic progestin R5020. J. Recept. Res. 2, 435–451
+
+89. Thiruchelvam, U. et al. (2016) Cortisol regulates the paracrine
+action of macrophages by inducing vasoactive gene expression
+in endometrial cells. J. Leukoc. Biol. 99, 1165–1171
+
+113. Attardi, B.J. et al. (2007) Comparison of progesterone and
+glucocorticoid receptor binding and stimulation of gene expression by progesterone, 17-a hydroxyprogesterone caproate, and
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+413
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+related progestins. Am. J. Obstet. Gynecol. 197, 599 e591–
+e597
+114. Schreiber, J.R. et al. (1983) Binding of the anti-progestin RU486 to rat ovary steroid receptors. Contraception 28, 77–85
+115. Lei, K. et al. (2012) Progesterone acts via the nuclear glucocorticoid receptor to suppress IL-1b-induced COX-2 expression in
+human term myometrial cells. PLoS One 7, e50167
+116. Leo, J.C. et al. (2004) Glucocorticoid and mineralocorticoid
+cross-talk with progesterone receptor to induce focal adhesion
+and growth inhibition in breast cancer cells. Endocrinology 145,
+1314–1321
+117. Louw-du Toit, R. (2014) Medroxyprogesterone acetate differentially regulates interleukin (IL)-12 and IL-10 in a human ectocervical epithelial cell line in a glucocorticoid receptor (GR)dependent manner. J. Biol. Chem. 289, 31136–31149
+118. Lei, K. et al. (2015) Progesterone and the repression of myometrial inﬂammation: the roles of MKP-1 and the AP-1 system.
+Mol. Endocrinol. 29, 1454–1467
+119. Sawchenko, P.E. (1987) Evidence for a local site of action for
+glucocorticoids in inhibiting CRF and vasopressin expression in
+the paraventricular nucleus. Brain Res. 403, 213–223
+120. Plotsky, P.M. et al. (1986) Inhibition of immunoreactive corticotropin-releasing factor secretion into the hypophysial–portal circulation by delayed glucocorticoid feedback. Endocrinology
+119, 1126–1130
+121. Aguilera, G. (1994) Regulation of pituitary ACTH secretion during
+chronic stress. Front. Neuroendocrinol. 15, 321–350
+122. Daughaday, W.H. (1956) Binding of corticosteroids by plasma
+proteins. II. Paper electrophoresis and equilibrium paper electrophoresis. J. Clin. Invest. 35, 1434–1438
+123. Baker, M.E. (2002) Albumin, steroid hormones and the origin of
+vertebrates. J. Endocrinol. 175, 121–127
+124. Weitzman, E.D. et al. (1971) Twenty-four hour pattern of the
+episodic secretion of cortisol in normal subjects. J. Clin. Endocrinol. Metab. 33, 14–22
+125. Wood, P.J. et al. (1997) Evidence for the low dose dexamethasone suppression test to screen for Cushing’s syndrome –
+recommendations for a protocol for biochemistry laboratories.
+Ann. Clin. Biochem. 34, 222–229
+126. Pariante, C.M. (2008) The role of multi-drug resistance p-glycoprotein in glucocorticoid function: studies in animals and relevance in humans. Eur. J. Pharmacol. 583, 263–271
+127. Woods, C. and Tomlinson, J.W. (2015) The dehydrogenase
+hypothesis. Adv. Exp. Med. Biol. 872, 353–380
+128. Wira, C. and Munck, A. (1970) Speciﬁc glucocorticoid receptors
+in thymus cells. Localization in the nucleus and extraction of the
+cortisol–receptor complex. J. Biol. Chem. 245, 3436–3438
+129. Bamberger, C.M. et al. (1995) Glucocorticoid receptor beta, a
+potential endogenous inhibitor of glucocorticoid action in
+humans. J. Clin. Invest. 95, 2435–2441
+130. Oakley, R.H. et al. (1996) The human glucocorticoid receptor
+beta isoform Expression, biochemical properties, and putative
+function. J. Biol. Chem. 271, 9550–9559
+131. Moalli, P.A. et al. (1993) Alternatively spliced glucocorticoid
+receptor messenger RNAs in glucocorticoid-resistant human
+multiple myeloma cells. Cancer Res. 53, 3877–3879
+132. Rivers, C. et al. (1999) Insertion of an amino acid in the DNAbinding domain of the glucocorticoid receptor as a result of
+alternative splicing. J. Clin. Endocrinol. Metab. 84, 4283–4286
+133. Hollenberg, S.M. (1985) Primary structure and expression of a
+functional human glucocorticoid receptor cDNA. Nature 318,
+635–641
+134. Kino, T. et al. (2009) Glucocorticoid receptor (GR) beta has
+intrinsic, GRa-independent transcriptional activity. Biochem.
+Biophys. Res. Commun. 381, 671–675
+135. He, B. et al. (2015) Human glucocorticoid receptor beta regulates gluconeogenesis and inﬂammation in mouse liver. Mol.
+Cell. Biol. 36, 714–730
+136. Ray, D.W. et al. (1996) Glucocorticoid receptor structure and
+function in glucocorticoid-resistant small cell lung carcinoma
+cells. Cancer Res. 56, 3276–3280
+
+414
+
+137. Meijsing, S.H. et al. (2009) DNA binding site sequence directs
+glucocorticoid receptor structure and activity. Science 324,
+407–410
+138. Thomas-Chollier, M. (2013) A naturally occurring insertion of a
+single amino acid rewires transcriptional regulation by glucocorticoid receptor isoforms. Proc. Natl. Acad. Sci. U. S. A. 110,
+17826–17831
+139. Morgan, D.J. et al. (2016) Glucocorticoid receptor isoforms
+direct distinct mitochondrial programs to regulate ATP production. Sci. Rep. 6, 26419
+140. Gaitan, D. et al. (1995) Glucocorticoid receptor structure and
+function in an adrenocorticotropin-secreting small cell lung cancer. Mol. Endocrinol. 9, 1193–1201
+141. Lu, N.Z. and Cidlowski, J.A. (2005) Translational regulatory
+mechanisms generate N-terminal glucocorticoid receptor isoforms with unique transcriptional target genes. Mol. Cell 18,
+331–342
+142. Lu, N.Z. et al. (2007) Selective regulation of bone cell apoptosis
+by translational isoforms of the glucocorticoid receptor. Mol.
+Cell. Biol. 27, 7143–7160
+143. Nehme, A. et al. (2009) Glucocorticoids with different chemical
+structures but similar glucocorticoid receptor potency regulate
+subsets of common and unique genes in human trabecular
+meshwork cells. BMC Med. Genomics 2, 58
+144. Gross, K.L. et al. (2011) Glucocorticoid receptor alpha isoformselective regulation of antiapoptotic genes in osteosarcoma
+cells: a new mechanism for glucocorticoid resistance. Mol.
+Endocrinol. 25, 1087–1099
+145. Song, I.H. and Buttgereit, F. (2006) Non-genomic glucocorticoid
+effects to provide the basis for new drug developments. Mol.
+Cell. Endocrinol. 246, 142–146
+146. Nahar, J. et al. (2015) Rapid nongenomic glucocorticoid actions
+in male mouse hypothalamic neuroendocrine cells are dependent on the nuclear glucocorticoid receptor. Endocrinology 156,
+2831–2842
+147. Nahar, J. et al. (2016) Further evidence for a membrane receptor
+that binds glucocorticoids in the rodent hypothalamus. Steroids
+114, 33–40
+148. Starick, S.R. et al. (2015) ChIP-exo signal associated with DNAbinding motifs provides insight into the genomic binding of the
+glucocorticoid receptor and cooperating transcription factors.
+Genome Res. 25, 825–835
+149. Surjit, M. et al. (2011) Widespread negative response elements
+mediate direct repression by agonist-liganded glucocorticoid
+receptor. Cell 145, 224–241
+150. Gupte, R. et al. (2013) Glucocorticoid receptor represses proinﬂammatory genes at distinct steps of the transcription cycle.
+Proc. Natl. Acad. Sci. U. S. A. 110, 14616–14621
+151. Lu, N.Z. and Cidlowski, J.A. (2006) Glucocorticoid receptor
+isoforms generate transcription speciﬁcity. Trends Cell Biol.
+16, 301–307
+152. Ramamoorthy, S. and Cidlowski, J.A. (2016) Corticosteroids:
+mechanisms of action in health and disease. Rheum. Dis. Clin.
+North Am. 42, 15–31
+153. Barnes, P.J. (2009) Histone deacetylase-2 and airway disease.
+Ther. Adv. Respir. Dis. 3, 235–243
+154. Trotter, K.W. et al. (2015) Glucocorticoid receptor transcriptional
+activation via the BRG1-dependent recruitment of TOP2b and
+Ku70/86. Mol. Cell. Biol. 35, 2799–2817
+155. Grontved, L. et al. (2013) C/EBP maintains chromatin accessibility in liver and facilitates glucocorticoid receptor recruitment to
+steroid response elements. EMBO J. 32, 1568–1583
+156. Jones, C.L. et al. (2014) Loss of TBL1XR1 disrupts glucocorticoid receptor recruitment to chromatin and results in glucocorticoid resistance in a B-lymphoblastic leukemia model. J. Biol.
+Chem. 289, 20502–20515
+157. Goi, C. et al. (2013) Cell-type and transcription factor speciﬁc
+enrichment of transcriptional cofactor motifs in ENCODE ChIPseq data. BMC Genomics 14 (Suppl. 5), S2
+158. Smith, C.L. and O’Malley, B.W. (2004) Coregulator function: a
+key to understanding tissue speciﬁcity of selective receptor
+modulators. Endocr. Rev. 25, 45–71
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+159. John, S. et al. (2011) Chromatin accessibility pre-determines
+glucocorticoid receptor binding patterns. Nat. Genet. 43, 264–
+268
+
+166. Wells, A. et al. (2004) The stress response to environmental
+change in captive cheetahs (Acinonyx jubatus). J. Zoo Wildl.
+Med. 35, 8–14
+
+160. John, S. et al. (2008) Interaction of the glucocorticoid receptor
+with the chromatin landscape. Mol. Cell 29, 611–624
+
+167. Koester, D.C. et al. (2015) Motile sperm output by male cheetahs (Acinonyx jubatus) managed ex situ is inﬂuenced by public
+exposure and number of care-givers. PLoS One 10, e0135847
+
+161. Koper, J.W. et al. (2014) Glucocorticoid receptor polymorphisms and haplotypes and their expression in health and disease. Steroids 92, 62–73
+162. Konstantakou, P. et al. (2017) Dysregulation of 11b-hydroxysteroid dehydrogenases: implications during pregnancy and
+beyond. J. Matern. Fetal Neonatal Med. 30, 284–293
+163. Lutz, S.Z. et al. (2016) Genetic variation in the 11b-hydroxysteroid-dehydrogenase 1 gene determines NAFLD and visceral
+obesity. J. Clin. Endocrinol. Metab. 101, 4743–4751
+
+168. Li, L. et al. (2016) The effect of heat stress on gene expression,
+synthesis of steroids, and apoptosis in bovine granulosa cells.
+Cell Stress Chaperones 21, 467–475
+169. Lynn, S.E. et al. (2015) Food, stress, and circulating testosterone: cue integration by the testes, not the brain, in male zebra
+ﬁnches (Taeniopygia guttata). Gen. Comp. Endocrinol. 215, 1–9
+170. Ing, N.H. et al. (2014) Dexamethasone acutely down-regulates
+genes involved in steroidogenesis in stallion testes. J. Steroid
+Biochem. Mol. Biol. 143, 451–459
+
+164. Ragnarsson, O. et al. (2014) Common genetic variants in the
+glucocorticoid receptor and the 11b-hydroxysteroid dehydrogenase type 1 genes inﬂuence long-term cognitive impairments
+in patients with Cushing’s syndrome in remission. J. Clin. Endocrinol. Metab. 99, E1803–E1807
+
+171. Min, Y. et al. (2016) Vitamin C and vitamin E supplementation
+alleviates oxidative stress induced by dexamethasone and
+improves fertility of breeder roosters. Anim. Reprod. Sci. 171,
+1–6
+
+165. Stolte, E.H. et al. (2006) Evolution of glucocorticoid receptors
+with different glucocorticoid sensitivity. J. Endocrinol. 190,
+17–28
+
+172. Nozu, R. and Nakamura, M. (2015) Cortisol administration
+induces sex change from ovary to testis in the protogynous
+wrasse, Halichoeres trimaculatus. Sex. Dev. 9, 118–124
+
+Trends in Endocrinology & Metabolism, Month Year, Vol. , No. yy
+
+415
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

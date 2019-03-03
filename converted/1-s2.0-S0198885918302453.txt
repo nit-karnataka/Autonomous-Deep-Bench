@@ -1,0 +1,1129 @@
+Human Immunology 79 (2018) 693–701
+
+Contents lists available at ScienceDirect
+
+Human Immunology
+journal homepage: www.elsevier.com/locate/humimm
+
+Review
+
+Implications of uterine NK cells and regulatory T cells in the endometrium of
+infertile women
+Louise Kofoda, Anette Lindhardb, Thomas Vauvert F. Hviida,
+
+T
+
+⁎
+
+a
+
+Centre for Immune Regulation and Reproductive Immunology (CIRRI), The ReproHealth Research Consortium ZUH, Department of Clinical Biochemistry, Zealand
+University Hospital, and Department of Clinical Medicine, University of Copenhagen, Denmark
+b
+The Fertility Clinic, The ReproHealth Research Consortium ZUH, Department of Gynaecology and Obstetrics, Zealand University Hospital, and Department of Clinical
+Medicine, University of Copenhagen, Denmark
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Endometrium
+Infertility
+NK cells
+Tregs
+HLA-G
+
+A range of studies have shown that the complex process of implantation and an establishment of a pregnancy
+also involves immune factors. Disturbances in these underlying immune mechanisms might lead to implantation
+and pregnancy failure and may be involved in the pathogenesis of unexplained infertility. Several studies have
+reported that imbalances in uterine NK (uNK) cell abundance are associated with infertility; however, controversies exist. An increased amount of CD56+ uNK cells along with a decrease in CD16+ uNK cells have been
+associated with normal fertility in some studies. Very few studies of FoxP3+ regulatory T cells (Tregs) in the preimplantation endometrium have been performed. Results are sparse and controversial, studies reporting both
+increased and decreased numbers of Tregs, respectively, in women suﬀering from infertility. In conclusion,
+studies imply that uNK cells, Tregs and HLA-G carry pivotal roles regarding the establishment of a healthy
+pregnancy, and that abnormal immune mechanisms involving these parameters may be associated with infertility. However, more research in early phases of the reproductive cycle, such as investigating the conditions
+in the endometrium before implantation, is needed to further clarify the underlying mechanisms.
+
+1. Introduction
+The capability for humans to reproduce is limited, not only by age.
+Some couples face diﬃculties on their way of obtaining a pregnancy
+that others do not. Infertility is deﬁned as the inability of a couple to
+obtain a pregnancy leading to a birth of a live newborn, after one year
+of unprotected intercourse with regular frequency. Of couples in the
+reproductive age, 10–15% suﬀer from infertility [1,2]. Causes can be
+parental genetic abnormalities, maternal endocrine or metabolic disorders, genital tract infections, abnormal fallopian tubes, ovulation
+defect or reduced semen count. However, in 8–28% of the cases the
+cause remains unknown, which hampers the choice of the right assisted
+reproductive technology (ART) [3]. For patients as well as clinicians,
+
+the fact that not being able to identify the underlying reason is frustrating in several aspects: dealing with a condition without knowing the
+cause, and not at least, an unknown prognosis of ART.
+In an immunological context, mammalian pregnancy is a unique
+phenomenon in which the mother carries a semi-allogenic embryo. To
+accept the paternal alloantigens during pregnancy, the maternal immune cells must acquire a transient state of tolerance, and unique immune mechanisms are required for obtaining a successful pregnancy.
+Therefore, altered immunological responses and modulation, and, in
+line with this, compromised endometrial receptivity, have been thought
+to play a role in reproductive problems such as infertility [4–6]. Research performed so far suggests an imbalance in endometrial leukocyte
+population numbers and activity among women suﬀering from
+
+Abbreviations: ADCC, antibody-dependent cell-mediated cytotoxicity; ART, assisted reproductive technology; dNK cells, decidual natural killer cells; CTLA-4,
+cytotoxic T-lymphocyte antigen-4; EVT, extra-villous trophoblast; G-CSF, granulocyte colony-stimulating factor; GM-CSF, granulocyte-macrophage-colony-stimulating factor; HLA, human leukocyte antigen; HO-1, haem oxygenase isoform 1; IL, interleukin; ILT, immunoglobulin-like transcript; INF-γ, interferon gamma; IPEX,
+immune dysregulation, polyendocrinopathy, enteropathy, X-linked; IUGR, intrauterine growth retardation; IVF, in vitro fertilization; KIR, killer cell immunoglobulinlike receptor; LH, luteinizing hormone; LIF, leukaemia inhibitory factor; M-CSF, macrophage-colony-stimulating factor; NCR, natural cytotoxicity receptors; NK cells,
+natural killer cells; RM, recurrent miscarriage; sHLA-G, soluble human leukocyte antigen-G; TGF-β, transforming growth factor beta; TNF-α, tumor necrosis factor
+alpha; Tregs, regulatory T cells; uNK cells, uterine natural killer cells; VEGF, vascular endothelial growth factor
+⁎
+Corresponding author at: Department of Clinical Biochemistry, The ReproHealth Research Consortium ZUH, Centre for Immune Regulation and Reproductive
+Immunology (CIRRI), Zealand University Hospital and Department of Clinical Medicine, University of Copenhagen, 10 Sygehusvej, DK-4000 Roskilde, Denmark.
+E-mail address: tvh@regionsjaelland.dk (T.V.F. Hviid).
+https://doi.org/10.1016/j.humimm.2018.07.003
+Received 14 March 2018; Received in revised form 2 July 2018; Accepted 6 July 2018
+Available online 07 July 2018
+0198-8859/ © 2018 American Society for Histocompatibility and Immunogenetics. Published by Elsevier Inc. All rights reserved.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Human Immunology 79 (2018) 693–701
+
+L. Kofod et al.
+
+the leukocytes are suggested to be directly involved in maternal recognition of the placenta through leukocyte expression of receptors for
+human leukocyte antigen (HLA)-G and HLA-C antigens, that are present
+on fetal trophoblast cells [5,10].
+Among the proposed mechanisms involved in feto-maternal tolerance are depletion of alloreactive leukocytes and lymphocytes, changes
+in cell abundances, high levels of leukaemia inhibitory factor, transforming growth factor-β (TGF-β), indoleamine 2,3-dioxygenase, haem
+oxygenase isoform 1 (HO-1), up-regulation of HLA-G on trophoblast
+cells, increased apoptosis of activated maternal lymphocytes and reduced complement activity [2,6,11–16].
+
+infertility [7]. Much research has been performed to understand the
+mechanisms at the feto-maternal interface during implantation and
+during the ﬁrst trimester. In contrast, the current knowledge of the
+conditions and immune mechanisms in the endometrium before implantation is not only sparse, but also controversial.
+The aim of this review is to evaluate studies reported so far regarding the immune cell subpopulations of natural killer (NK) cells and
+of regulatory T cells (Tregs), and their possible interplay, in relation to
+infertility. Our main focus is conditions and mechanisms in the periimplantation endometrium. Based on existing research already published, hypotheses are: 1) women suﬀering from infertility have lower
+amounts of endometrial NK cells, characterized by CD56 and CD16,
+compared with fertile controls; 2) the number of endometrial Tregs,
+characterized by FoxP3, is reduced in women with infertility compared
+with fertile controls.
+
+3.1. Th1/Th2 balance
+In order to identify the complex network behind the feto-protective
+mechanisms, several studies have also focused on cytokine secretion
+and the Th1/Th2 balance in maintenance of pregnancy. Helper T cells
+are classiﬁed as Th1 or Th2 according to their cytokine secretion proﬁle. Th1 cells produce especially IL-2, INF-γ, and TNF-α. In contrast,
+Th2 cells produce IL-4, IL-5, and IL-10. Successful pregnancy appears to
+be characterized by a Th2-dominated response [17,18]. With the onset
+of pregnancy, the local endometrial immune system seems to switch to
+an immunity dominated by a Th2 environment. This switch is believed
+to reduce uNK cell cytotoxicity, but also uNK cells have been reported
+to facilitate the Th2 immune environment [19]. This might explain one
+of the mechanisms behind certain reproductive pathologies such as
+unexplained infertility. Therefore, reasonably, it can be speculated that
+imbalances in numbers and activity of maternal leukocytes disturb the
+Th1/Th2 balance by an abnormal cytokine secretion, and promoting a
+Th1 response instead. A proinﬂammatory Th1 cytokine response has
+been associated with lysis of trophoblast cells, and a Th1 shift has been
+observed in women with unexplained infertility compared to fertile
+women [17,20,21]. Contrary, an association between excessive Th2
+immunity and infertility has been reported [22,23]. However, the
+concept of Th1/Th2 balance is probably too simplistic, because the two
+subpopulations have been shown to secrete some common cytokines,
+and other distinct subpopulations of T helper cells have been deﬁned
+[2]. Therefore, to explain how tolerance by the maternal immune
+system is regulated, the Th1/Th2 balance equilibrium is not suﬃcient
+as one single explanation and functions as part of a more complex interaction and cooperating immunological network.
+
+2. Methods
+This review provides an overview of current knowledge on the expression of immune cells as above mentioned. The relevant literature
+was obtained using the Pubmed database. Both regular advanced free
+text search and the MeSH search function were used. MeSH terms as
+‘pregnancy’, ‘leukocytes/immunology’, infertility/pathology, ‘pregnancy complications’, ‘endometrium/pathology’, ‘biopsy’, ‘natural
+killer cells’, ‘antigens CD56/analysis’, ‘antigens CD16/analysis’, ‘regulatory T cells’, and ‘FoxP3’ were used in diﬀerent combinations.
+Regarding the search for original studies, main focus was on quantitative measurements of immune cells present in the endometrium. The
+search was limited to studies investigating the association between
+expression of CD56, CD16, and FoxP3 in endometrial tissue around the
+time of implantation and in cases of infertility. According to the method
+of measuring, CD56 expression may both be referred to as CD56+ or
+CD56-, as well as CD56bright or CD56dim. As a general rule, CD56bright
+may be considered as CD56+ [8]. Many of the identiﬁed studies measured other markers than the above-mentioned but these results were
+not included. The methods of measuring the expression of especially
+CD16 and CD56 included immunohistochemistry and ﬂow cytometry.
+Regarding terminology, studies using both ‘endometrial NK cells’ and
+‘uterine NK cells’ were included. The identiﬁed relevant publications
+were all written in English. Additionally, reference lists of the identiﬁed
+studies were examined for possible relevant studies not included in the
+initial search.
+The majority of research published so far has measurements of
+CD16 and CD56 of interest. Only a few original articles focusing on
+FoxP3 in pre-implantation endometrium were identiﬁed, and the
+methods used were diverse. One study using immunohistochemistry
+focused on infertility caused by endometriosis, an exception compared
+to the other studies.
+
+4. Common mechanisms for infertility and recurrent miscarriages
+in reproductive immunopathology
+Human endometrial stroma contains endometrial leukocytes as
+earlier described, and these cells have been associated with reproductive immunopathology such as infertility and recurrent miscarriages (RM) [9]. The majority of current research has had recurrent
+miscarriage as the focus of interest. However, some studies investigated
+women with a history of infertility, where some have not necessarily
+experienced recurrent miscarriage. It has been suggested, that the implantation-related immune abnormality observed for RM patients also
+exists in infertile patients, and that at least some of these reproductive
+pathologies may be due to a common underlying mechanism as those in
+recurrent miscarriages [24–26].
+
+3. The pregnant woman’s immune response to the semi-allogenic
+fetus
+To avoid an aggressive response from the maternal immune system
+towards the fetus, the maternal immune cells in close contact with fetal
+tissue may possess functions diﬀerent from that of peripheral immune
+cells. A criterion for successful implantation and placentation is trophoblast invasion of the uterine lining. This invasion process has to be
+well regulated to avoid pregnancy complications and undesirable
+pregnancy outcomes. Research supports that maternal leukocytes and
+lymphocytes including T cells, B cells, NK cells, monocytes, and macrophages along with cytokine signalling and growth factor levels play
+important roles in this process [5,9].
+Around the time of implantation, the endometrium is populated by
+an abundance of maternal leukocytes. The maternal leukocytes may
+participate in a mechanism for maintenance of pregnancy by protecting
+the fetus from maternal immunologic rejection. Furthermore, some of
+
+5. CD56+CD16− uterine NK cells – phenotype and function
+Natural killer cells are generally known as a minor cell fraction in
+circulating blood and peripheral organs functioning in innate immune
+responses. The majority of human NK cells are characterized as
+CD56dim and are eﬀective killers and mediators of cytotoxicity [4].
+However, NK cells play important roles in the female reproductive
+system too. They inﬁltrate at diﬀerent anatomic sites such as the uterine
+mucosa and the decidual tissue, beyond and during pregnancy. During
+694
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Human Immunology 79 (2018) 693–701
+
+L. Kofod et al.
+
+pregnancy, especially in the ﬁrst trimester, decidual NK cells (dNK
+cells) constitute the cellular majority, > 70%, among leukocytes in the
+placenta [27]. The uNK cell population has shown to persist throughout
+normal pregnancies until term, which emphasizes the importance not
+only initially, but also for maintaining pregnancy [28].
+Uterine NK cells are adjacent to trophoblast cells, and thereby
+considered as one of the important players behind maternal acceptance
+of the fetus. Decidual NK cells have generally reduced cytotoxicity,
+promote vascular formation of spiral arteries and allow trophoblast
+invasion through various cytokine secretion, including macrophage
+colony-stimulating factor (M-CSF) and granulocyte macrophage-colony
+stimulating factor (GM-CSF) [29]. Additionally, the secretion of
+growth-promoting factors from NK cells has shown to be essential for
+fetal growth [30].
+
+receptors (NCRs) known to be expressed in peripheral blood NK cells
+[27,42]. Some of the KIRs are receptors for HLA-G, and especially HLAC; both are surface antigens on trophoblast cells as outlined above. A
+decline in the frequency of KIRs speciﬁc for HLA-C expressed by uNK
+cells has been observed among women suﬀering from recurrent miscarriage [43]. The same picture might emerge for infertile women.
+However, it illustrates the potential importance of uNK cells in regulation of trophoblast invasion.
+The presence of uNK cells seem to coincide with the diﬀerent phases
+of the ovarian hormone cycle [44]. One study demonstrated CD56+
+uNK cell proliferation from day 22 (secretory phase) of a standardized
+28-day cycle, with a pre-menstrual maximum, and shedding with the
+onset of menstruation [31,45]. Whether this mid-secretory rise of uNK
+cells origins from a recruitment of peripheral NK cells or represents in
+utero proliferation has not been clariﬁed [42]. Some evidence has
+shown a lack of expression of chemokine receptors such as CXCR3 and
+CXCR4 indicating that uNK cells do not migrate to the endometrium
+from other tissues or from the blood, but rather originate from local
+hematopoietic progenitor cells [33,46]. Other studies have suggested
+progesterone and estradiol levels to mediate the ﬂuctuations in uNK cell
+numbers during the cycle [47,48].
+If pregnancy occurs, the number of uNK cells increases further,
+especially in the decidua during the ﬁrst trimester. Thereafter, the
+number gradually declines. The abundance at the time of implantation
+and in early pregnancy suggests that the subset may be important for a
+successful establishment of pregnancy. The role of uNK cells during
+pregnancy is still unknown. However, they may carry a pivotal role in
+angiogenesis as in early pregnancy maintaining the expanding placenta.
+The role of uNK cells in the ﬁeld of infertility is not yet fully understood, but a dysregulation in the pre-implantation endometrium has
+been associated with infertility (Table 1).
+
+5.1. CD56+CD16- uterine NK cells
+Natural killer cells are to be found in the non-pregnant endometrial
+tissue as uNK cells. Here, they constitute over 30% of the total leukocyte population, in contrast to the fraction in peripheral blood, which is
+only 5–15%; and during pregnancy decidual NK cells comprise 70–80%
+of the decidual lymphocytes [27,31]. The majority of NK cells in peripheral blood are CD56+CD16+. Increased density of the surface antigen CD56 and decreased CD16 expression make CD56+CD16−
+uterine and decidual NK cells phenotypically distinct from that of
+peripheral NK cells [32,33]. It is interesting that the uNK cells downregulate CD16 expression; CD16 has shown to trigger NK cell antibodydependent cell-mediated cytotoxicity (ADCC). A study on peripheral
+blood NK cells has demonstrated higher cytolytic activity towards NK
+cell targets among CD16+ NK cells than CD16- NK cells [34]. An increased amount of CD16+ uNK cells in infertile women is also associated with deﬁciency of vascular endothelial growth factor (VEGF),
+normally necessary for vascular formation in the placenta [35]. Consequently, the “normal” lack of CD16 surface expression on uNK cells
+may be considered as a pro-fertile mediator, and make uNK cells more
+regulatory than cytotoxic. If the phenotype and function of uterine and
+endometrial NK cells is to be evaluated, it should primarily be made
+using sample material from the uterus and not by a peripheral blood
+sample.
+
+5.3. Uterine NK cell counts in relation to infertility
+The studies listed in Table 1 show controversial results. In a recent
+study, we observed a decrease in the number of CD56+ uNK cells in
+infertile women compared to normal fertile women [49], equal to the
+observations reported by Klentzeris et al. Conversely, two studies did
+not ﬁnd any diﬀerences in CD56 [24,25]. As we did not co-stain in our
+study, the evaluation of CD56 and CD16 expression together was limited. Using ﬂow cytometry, Fukui et al. found a decreased amount of
+CD56brightCD16− uNK cells in infertile women, who had a spontaneous
+miscarriage in the following IVF cycle, in some accordance with our
+result. Additionally, Giuliani et al. observed a higher percentage of
+CD16+ uNK cells in the infertility group compared to fertile women.
+This support the tendency, we have reported [49].
+Given the fact that the uNK cell number rapidly increases in midsecretory phase from day 22 of a standardised 28-day cycle, the biopsy
+collection day may be a confounding variable [45]. The confounding
+eﬀect may be more apparent in studies with biopsies taken during an
+interval instead of at one well-deﬁned day in the cycle.
+Furthermore, it has been suggested that the signiﬁcantly lower
+number of CD56+ uNK cells among controls, who have previously
+given birth, could be an eﬀect of this previous birth, as pregnancy and
+birth involves extensive changes in size and vascularization of the
+uterus. In addition, some investigators describe an altered composition
+of endometrial leukocyte subsets in women with reproductive problems, representing a relative diﬀerence instead of absolute. It looks
+like these women tend to express a higher density of CD16 and lesser
+CD56, the CD56dimCD16+ phenotype, compared to controls [26].
+Regarding the prognostic value of measuring uNK cells, interpreting
+the results of Fukui et al., it looks like high density of CD56dimCD16+ is
+unfavourable, when it comes to maintenance of pregnancy (abortion
+versus delivered group) among infertile women (Fukui et al., 1999).
+Further support for this is the ﬁnding in our own study observing a high
+percentage of CD56+ uNK cells being correlated with a high chance of
+
+5.2. Functions
+The functions of uNK cells are thought to be dependent on unique
+cell activation, distinguishing them from other NK cells [36]. Several
+studies have identiﬁed interleukin 15 (IL-15) as an important inducer of
+uNK cell proliferation and function [37]. By speciﬁc unfavourable cytokine stimulation, these CD56+CD16- cells have also been found to
+enhance the release of INF-γ promoting a Th1 response, which might
+result in an attack on trophoblast cells and maybe pregnancy loss [38].
+Therefore, the speciﬁc inducer of activation and the activation process
+per se might be crucial for the subsequent eﬀector functions.
+The subset of uNK cells is capable of secreting a wide array of
+chemokines and cytokines such as leukaemia inhibitory factor (LIF) and
+angiogenic growth factor not normally produced by peripheral NK cells.
+As mentioned earlier, this might be important for decidualization and
+formation of spiral arteries, which is important in early pregnancy establishment [30]. It has been shown that women with unexplained
+infertility has a reduced expression of LIF [39].
+Additionally, uNK cells may be important in controlling the trophoblast invasion [40]. The cytotoxicity of uNK cells is already downregulated before implantation, and therefore uNK cells may be considered a beneﬁcial version of NK cells in relation to fertility and
+pregnancy [41].
+Uterine NK cells have a unique receptor repertoire, expressing
+killer-cell immunoglobulin-like receptors (KIRs) and immunoglobulinlike transcript-2 (ILT2), and lack NKp30, one of the natural cytotoxicity
+695
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Human Immunology 79 (2018) 693–701
+
+achieving pregnancy [49]. Two other studies have failed to predict
+pregnancy outcome based on CD56 and CD16 expression, a conclusion
+supported by a meta-analysis by Tang et al. [42].
+Due to Table 1, both the absolute count and the percentage of uNK
+cell markers seem to be important for normal fertility and obtaining
+pregnancy. In normal endometrium, both the absolute count and the
+percentage of CD56+ uNK cells have shown to rise dramatically from
+day 22 in cycle [45]. Whether the absolute count or the percentage is
+most important in maintaining – and thereby in diagnostic screening of
+– normal fertility, is yet unknown.
+Most of the studies in Table 1 indicate that the status of uNK cells
+may inﬂuence the ability to reproduce. However, to determine whether
+the abnormality of leukocyte subpopulations is the cause or the result of
+abnormal pregnancies can be very diﬃcult. Especially because an imbalance in leukocyte expression also might be due to a post-miscarriage
+inﬂammatory response, challenging studies that investigate women
+with infertility.
+In mice, restraint stress has shown to decrease the density of uNK
+cells up to almost 50% and alter the composition of T lymphocytes [50].
+In humans, peripheral NK cell numbers and activity has shown to
+ﬂuctuate under inﬂuence of several factors, such as progesterone and
+estradiol levels, exercise, time of day, and sympathetic response to
+stressors [47,51]. These are all potential confounders, important to be
+aware of.
+The studies use diﬀerent methods of analysis; some employing ﬂow
+cytometry, others immunohistochemistry. Analyses based on ﬂow cytometry may not be an accurate estimation of the factual in vivo counts
+because of the procedure of tissue digestion in the preparation process.
+On the other hand, assessing staining results of immunohistochemistry
+might be biased by intra- and interobserver variability. The diﬀerent
+methods of analysis and the variation in study populations inﬂuence the
+comparability. Also, a lack of consensus concerning counting of immune cells in endometrial biopsies exists, and relevant reference ranges
+for the respective immune cell counts need to be established. A recent
+study has established such a protocol for immunohistochemical analysis, especially highlighting the importance of equal timing of the
+endometrial biopsy and suggesting how to select the most appropriate
+ﬁelds for counting [31,45]. The protocol recommends to count only
+cells with an identiﬁed nuclei, to exclude perivascular and periglandular aggregates and to count ﬁve ﬁelds with ×40 objective. For
+future research, this approach may be very useful.
+Characteristic for the studies discussed above is their relatively
+small sample size. By increasing the study population, the probability of
+detecting a possible diﬀerence might increase as well. Despite the lack
+of consensus in current clinical evidence, there is a biological plausibility for a role for uNK cells in infertility. Uterine NK cells are most
+numerous in the implantation window and in early pregnancy, and not
+at least, they are adjacent to and interact with extravillous trophoblast
+cells making them an important player in feto-maternal tolerance.
+
+The group who implanted also included the abortion group and this may explain the unexpected result.
+
+6. FoxP3+ regulatory T cells
+The T cell population in the endometrium consists of diﬀerent
+subsets, including regulatory CD4+CD25+ T cells (Tregs) [52]. The
+Treg subset develops in the thymus and peripheral tissue, and functions
+by e.g. secreting immunosuppressive cytokines to prevent the immune
+system from reacting against auto-antigens. Besides avoiding destructive autoimmunity, Tregs are also involved in graft tolerance [53].
+6.1. Generation of FoxP3+ regulatory T cells
+In order to diﬀerentiate from naive CD4+ T cell precursors, TGF-β is
+the key cytokine driving this process. In the presence of TGF-β, T cells
+diﬀerentiate into a regulatory T cell phenotype expressing FoxP3 [52].
+In continuation, IL-2 and IL-15 have also been shown to stimulate
+FoxP3 expression in Tregs [54]. FoxP3 was ﬁrst identiﬁed in relation to
+
+a
+
+LH surge + 7 days
+Kofod et al.
+[49]
+
+41 infertile women
+20 control women
+
+Immunohistochemistry
+
+CD56, CD16
+
+Association between uNK
+and infertility and
+subsequent IVF outcome
+
+The percentage of CD16+ cells was signiﬁcantly higher in
+infertile women compared to fertile controls. No signiﬁcant
+diﬀerences were found in the expression of CD56
+Infertile women had signiﬁcantly decreased numbers of
+CD56+ cells compared to fertile controls
+Increased number and percentage of CD56+ uNK cells served
+as predictors for achieving pregnancy. Trend towards
+decreased numbers of CD16+ cells in women who became
+pregnant compared to those, who did not
+Association between uNK
+and infertility
+CD56, CD16
+LH surge + 7–10 days
+Giuliani et al.
+[24]
+
+Immunohistochemistry
+
+CD56, CD16
+Day 22–26 assessed by hormone
+levels
+Flow cytrometry
+Matteo et al.
+[25]
+
+10 infertile women
+25 control women from the study
+by Flynn et al. [100]
+30 infertile
+10 control women
+
+CD56, CD16
+
+Association between uNK
+and infertility
+
+Infertile women had signiﬁcantly decreased numbers of
+CD56+ cells compared to fertile controls
+The abortion group had signiﬁcantly decreased percentage of
+the CD56brightCD16- NK cell subset and an increased
+percentage of the CD56dimCD16+ NK cell subset compared to
+those who delivered
+The percentage of CD56dimCD16+ was signiﬁcantly higher in
+the group who implanted successfully, compared to those
+women who failed to implanta
+No diﬀerences were found between infertile women
+compared to fertile controls
+Association between uNK
+and infertility
+Association between uNK
+and infertility, and
+subsequent IVF outcome
+LH surge + 4, +7, +10 and +13
+days
+5–10 days after the initial rise of
+basal body temperature and
+conﬁrmed by histologic examination
+Immunohistochemistry and
+morphometric
+Flow cytrometry
+24 infertile
+24 control women
+76 infertile women of whom 25
+obtained a pregnancy (18 women
+delivered and 7 aborted)
+Klentzeris et al.
+[99]
+Fukui et al. [26]
+
+CD56
+
+Sample day (in menstrual cycle)
+Method of analysis
+N
+Study
+
+Table 1
+Studies investigating expression of uNK cells in endometrial tissue related to infertility.
+
+Variables
+
+Purpose of study
+
+Results
+
+L. Kofod et al.
+
+696
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Human Immunology 79 (2018) 693–701
+
+L. Kofod et al.
+
+6.4. Tregs in reproductive immunopathology
+
+the X-linked disease, the IPEX syndrome (Immune dysregulation,
+Polyendocrinopathy, Enteropathy, X-linked), where FoxP3 is mutated.
+IPEX is a severe systemic autoimmune disease [52]. This helped investigators to deﬁne FoxP3 as a ‘fate-determining’ transcription factor,
+and a speciﬁc marker for Tregs, a unique phenotype of T cells with
+immunosuppressive properties [52]. Therefore, measuring the expression of FoxP3 may evaluate the diﬀerentiation capability, but can also
+be used as a surrogate measure of the relative abundance of Tregs in
+diﬀerent tissues [55].
+
+Several studies have reported an association between Tregs and
+reproductive pathologies in diﬀerent biological contexts including
+peripheral and local Tregs. In this review, local Tregs are deﬁned as
+located in the endometrium and decidua.
+6.4.1. Peripheral Tregs
+An increase in Tregs in peripheral blood is observed prior to embryo
+implantation and in decidual tissue of normal early pregnancy [52].
+Arruvito et al. have examined FoxP3+ Tregs in peripheral blood in
+women experiencing recurrent miscarriages, and observed a reduced
+number of CD4+CD25+FoxP3+ Tregs compared with fertile controls
+[65].
+
+6.2. Proliferation and diﬀerentiation of Tregs in relation to pregnancy
+Tregs are essential for successful pregnancy, protecting the semiallogenic fetus from immune rejection [56]. Interestingly, tumor grafts
+expressing paternal antigens have shown to be rejected after normal
+delivery, suggesting that the immunosuppressive mechanism led by
+Tregs is transient, limited to the period of pregnancy [57]. To elicit
+activation and diﬀerentiation of Tregs before pregnancy and at the time
+of conception, seminal ﬂuid from the male partner may be important
+[58]. Seminal ﬂuid contains many of the same paternal antigens later
+expressed by the fetus. Therefore, a possible role for seminal ﬂuid in
+driving Treg activation and proliferation is interesting, because it may
+stimulate initial priming of Tregs and promote tolerance to paternal
+alloantigens prior to embryo implantation [59]. Seminal ﬂuid may be
+considered a key regulator of the uterine Treg abundance. In addition,
+HLA-G expressed by trophoblast cells is also a possible regulator of Treg
+proliferation [52]. One study reported that soluble HLA-G (HLA-G5),
+secreted
+by
+human
+mesenchymal
+stem
+cells,
+induced
+CD4+CD25+FoxP3+ regulatory T cells [60]. The observations suggest
+a local as well as a peripheral inducer of Treg proliferation and differentiation in relation to pregnancy.
+
+6.4.2. Local Tregs counts
+In line with the observations mentioned above, a decreased proportion of Tregs has been demonstrated in decidual tissue of women
+with spontaneous abortion compared with cases of elective abortions
+[66,67]. Other investigators comparing women with recurrent miscarriage with fertile controls conﬁrmed the signiﬁcantly decreased expression of CD4+CD25+ Tregs in the decidua [68].
+Also, the function of these cells showed to be deﬁcient in women
+with recurrent miscarriages. Data showed a correlation between
+FoxP3+ Treg counts and the menstrual cycle, showing a Treg expansion
+in late follicular phase [65].
+6.5. Experiments in mice
+Previous experiments in mice have shown an expansion of Tregs
+around the time of implantation, and a depletion of Tregs terminates
+pregnancy [69]. Another study demonstrated that transferring exogenous Tregs in the peri-implantation period in depleted mice resulted
+in protection from fetal loss [11]. Transferring Tregs after 4–5 days of
+pregnancy was unsuccessful, suggesting that Tregs play an important
+role in the time just around implantation. Studies by Shima et al. support the immunosuppressive role of Tregs in the pregnancy peri-implantation phase, and also in early pregnancy, with data from mouse
+experiments [70]. Depletion of Tregs in late pregnancy did not terminate pregnancy, nor induce abnormal pregnancy outcome, such as intrauterine growth retardation (IUGR), hypertension or proteinuria;
+thereby supporting the role of Tregs around implantation and in early
+pregnancy.
+
+6.3. Functions of Tregs
+Compared to peripheral Tregs, the Tregs localized in the decidua
+have shown to display a more frequent expression of FoxP3 in normal
+pregnancy enhancing a suppressive phenotype [61]. The subset is less
+frequent compared to decidual NK cells in ﬁrst trimester tissue, but not
+less important [62]. An increase is seen throughout the pregnancy and a
+decrease in the late puerperium [6,12].
+One of the main functions of Tregs is to regulate allo-reactive Th1
+cell subsets mentioned earlier [6,13]. Secondly, Tregs have been shown
+to increase placental HO-1, leading to up-regulation of IL-10, TGF-β and
+cytotoxic T-lymphocyt antigen-4 (CTLA-4), which all in diﬀerent ways
+suppress immune responses facilitating a protective microenvironment
+in the uterus [6,63,64]. Tregs may directly block maternal eﬀector T
+cells, either by expression of CTLA-4 or by direct cell-to-cell contact,
+preventing a harmful immunologic reaction towards paternal antigens.
+
+6.6. Endometrial FoxP3 expression in relation to infertility
+To date, very few human studies of FoxP3 expression in peri-implantation endometrium have been reported using diﬀerent methods
+
+Table 2
+Studies investigating expression of regulatory T cells (Tregs) in endometrial tissue related to infertility.
+Study
+
+N
+
+Method of analysis
+
+Sample day (in menstrual
+cycle)
+
+Variables
+
+Purpose of study
+
+Results
+
+Jasper
+et al.
+[55]
+
+10 infertile women
+12 control women
+
+RT-PCR
+
+FoxP3
+
+Association between
+Tregs and infertility
+
+Chen et al.
+[71]
+
+7 infertile women
+with mild
+endometriosis (EM)
+20 infertile women
+with advanced EM
+20 control women
+41 infertile women
+20 control women
+
+Immunohistochemistry and
+RT-PCR
+
+5–9 days after ovulation,
+timed according to the last
+menstrual period along with
+histological dating
+Day 19–23 of menstrual
+cycle, based on last
+menstrual period along with
+histological dating
+
+FoxP3
+
+Association between
+Tregs and infertility
+caused by
+endometriosis
+
+FoxP3
+
+Association between
+Tregs and infertility
+
+Infertile women have signiﬁcantly
+reduced endometrial expression of
+FoxP3 mRNA compared to fertile
+controls
+Immunohistochemistry:
+No signiﬁcant diﬀerence
+RT-PCR:
+Signiﬁcantly higher FoxP3 mRNA
+expression in infertile patients
+compared to the control group
+No signiﬁcant diﬀerences
+
+Kofod
+et al.
+[49]
+
+Immunohistochemistry
+
+LH surge + 7 days
+
+697
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Human Immunology 79 (2018) 693–701
+
+L. Kofod et al.
+
+of NK cells has been observed (Fig. 1) [83].
+Whether the primary role of dNK cells in vivo is cytotoxicity and/or
+cytokine-secretion has been diﬃcult to evaluate. However, a study by
+Chen et al. showed considerable NK cell cytotoxicity towards HLA-G
+knockdown cells compared to the non-knockdowned cells, demonstrating the importance of HLA-G interactions with the receptors ILT2,
+ILT4 and KIR2DL4 [84]. In addition, van der Meer et al. reported that
+HLA-G stimulation induced dNK cell proliferation [78]. This illustrates
+another essential pro-fertile function of the dNK cell/HLA-G interaction.
+The uterine mucosa also contains Tregs, and the local abundance
+has been suggested to be inﬂuenced by dNK cells. Upon dNK cell activation, IFN-γ and galectin-1 is secreted [5]. This secretion induces
+monocyte-derived indoleamine-pyrrole 2,3-dioxygenase (IDO) expression and tolerogenic dendritic cell up-regulation, which promote generation of Tregs, thereby enhancing fetal survival [85]. Experimental
+studies in mice have reported that uNK cell-deﬁcient mice secrete lower
+amounts of IFN-γ, resulting in increased incidence of fetal loss because
+of intrauterine fetal growth restriction, aberrant placental vascularity
+and hypocellular decidua. This exempliﬁes an essential role of uNK cells
+in normal pregnancy and thereby a possible quantitative importance of
+IFN-γ [86]. Furthermore, the absence or reduced expression of decidual
+galectin-1 has been associated with spontaneous fetal loss in mice,
+probably due to low numbers of Tregs [87].
+A newly published study observed an interaction of EVT with CD4+
+T cells. A co-culture of EVT and CD4+ T cells resulted in increased
+numbers of FoxP3+ Tregs, and increased the relative expression level of
+FoxP3 in these cells [88]. Although the mechanisms responsible remain
+unknown, it might be plausible that HLA-G expressed on EVT could be
+involved (Fig. 1). However, we were not able to demonstrate the involvement of HLA-G in changes in Tregs using RNA-interference to
+downregulate HLA-G on the choriocarcinoma cell line JEG-3 derived
+from trophoblast [89].
+Soluble HLA-G (sHLA-G) has been shown to interfere with especially
+the killing function of dNK cell at the feto-maternal interface and may,
+therefore, be a critical modulator of immunological tolerance during
+pregnancy [90,91]. Studies have reported that circulating sHLA-G, either transported from the serum or locally synthesized, is capable of
+eliminating both maternal T lymphocytes and dNK cells programmed to
+kill HLA-G+ fetal cells by inducing the killer cells to undergo apoptosis
+[92–94]. However, the basis for the interaction is not yet clariﬁed.
+
+assessing the FoxP3 expression (Table 2). In general, few patients were
+included in these few studies.
+Jasper et al. used RT-PCR to quantify possible diﬀerences in FoxP3
+mRNA expression, and found signiﬁcantly reduced FoxP3 mRNA in
+endometrial tissue of infertile women compared with fertile controls
+[55]. These results are in conﬂict with the ﬁndings in the study by Chen
+et al. [71]. Chen et al. observed a marginally higher number of FoxP3+
+cells in the endometrium of infertile women assessed by immunohistochemistry, not statistically signiﬁcant though [71]. They
+supplemented with RT-PCR analyses, revealing a signiﬁcantly higher
+FoxP3 mRNA expression in infertile patients than in the control group.
+However, the studies were based on infertility with a known cause:
+endometriosis. It can be considered that other mechanisms are important in relation to endometriosis compared to unexplained infertility, leading to the contrary results. Investigating the presence of
+FoxP3+ cells by immunohistochemistry, we have recently failed to
+detect any signiﬁcant diﬀerences between infertile and normal fertile
+women in the numbers per area [49]. Generally, studies agree that
+numerically fewer Tregs may result in reduced immunosuppressive
+capability, in the end possibly causing infertility or miscarriage.
+The exact way of immunosuppression carried out by Tregs is not yet
+fully deﬁned. A systematic review by Guerin et al. conﬁrms Tregs as
+important, and not at least potent immunosuppressors in pregnancy,
+and that a Treg numerical and functional deﬁciency is associated with
+reproductive problems [52]. Future research may help to acquire
+knowledge of the antigens, cytokines and hormones regulating these
+cells. This knowledge may be the groundwork for developing therapeutic options for treating reproductive pathologies. However, it
+seems reasonable to boost the number or activity of Tregs targeting
+conceptual antigens, which, in theory, will improve maternal immune
+tolerance in women suﬀering from infertility or recurrent miscarriages.
+With regard to the current knowledge of Tregs enrichment at the fetomaternal interface, it still appears plausible that the suppressive actions
+of Tregs are also exerted prior to embryo implantation.
+To further deﬁne the role of human FoxP3+ Tregs, it will be relevant to examine the expression in peri-implantation endometrial
+tissue among women with infertility and compare them to fertile controls.
+7. Interactions of dNK cells, Tregs and trophoblast – and a role for
+HLA-G
+
+8. Immunomodulatory treatment for infertile women
+
+Understanding the complex mechanisms by which immune cell
+subsets interact at the feto-maternal interface during implantation is
+very important. The inability of extravillous trophoblast (EVT) to invade the uterine lining may be considered as one of the primary defects
+in women with reproductive dysfunctions including infertility. One
+mechanism is regulated by interaction between dNK cells and EVT
+(Fig. 1). Supported by several studies, one of the key players regarding
+this interaction appears to be HLA-G expressed on EVT [72–74]. The
+speciﬁc interaction between KIR2DL4 and HLA-G has been a focus of
+interest; the KIR2DL4 receptor is markedly present in the decidua [75].
+Generally, KIRs are highly polymorphic, but a limited repertoire along
+with a lack of inhibitory KIRs speciﬁc for fetal HLA-C, and KIR2DL4
+speciﬁc for HLA-G antigens, have been reported in dNK cells from
+women experiencing recurrent miscarriages [72,76]. Together, this
+might lower the threshold for uNK cell activation and cytotoxicity,
+probably contributing to the pathogenesis of infertility. In line with
+this, HLA-G has been shown to trigger secretion of pro-angiogenic
+factors as VEGF from dNK cells in vitro via KIR2DL4 (Fig. 1) [77,78].
+Human leucocyte antigen-G has been shown with high aﬃnity to bind
+to the receptors ILT2 and ILT4 [79]. In vitro studies have shown that the
+eﬀect of binding is prevention of lysis carried out by dNK cells accompanied by impairment of IFN-γ release [80,81]. The ILT4 receptor is
+expressed on monocytes, macrophages and dendritic cells [82]. As a
+result of the interaction between HLA-G and ILT4, decreased activation
+
+To facilitate the implantation process in women suﬀering from infertility, several studies have investigated the eﬃcacy of immunosuppressant drugs such as glucocorticoids, intravenous immunoglobulin and TNF-α blockers without any promising result [95].
+The results are conﬂicting.
+A systematic review and meta-analysis by Li et al. found a signiﬁcantly higher implantation rate, clinical pregnancy rate and live
+birth rate compared to placebo in women with unexplained infertility
+or repeated IVF/ICSI failure receiving intravenous immunoglobulin
+[96].
+Other biologic therapy options have recently been described as a
+new alternative way to manage reproductive pathological conditions.
+Granulocyte colony-stimulating factor (G-CSF) has shown to inﬂuence
+Tregs generation and selection via dendritic cell maturation.
+Unfortunately, administration of G-CSF has failed to improve implantations rates, clinical pregnancy rates, ongoing pregnancy rates and
+miscarriage rates in infertile women in randomized controlled clinical
+trials [97,98].
+In general, the majority of studies within this ﬁeld investigate RM
+and recurrent implantation failure (RIF). To our knowledge, tacrolimus,
+cyclosporine and intralipid treatment has only been investigated in
+women with RM.
+698
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Human Immunology 79 (2018) 693–701
+
+L. Kofod et al.
+
+Fig. 1. Key interactions at the feto-maternal interface between dNK cells, T cells, dendritic cells and HLA-G involved in maternal immune tolerance towards the semiallogenic fetus. The extravillous trophoblast (EVT) is one of the trophoblast subpopulations known to express HLA-G. *ILT4 is expressed on dendritic cells, monocytes
+and macrophages. See text for details.
+
+of leukocytes, atypical cytokine secretion, and changes in receptor expression and function, perceiving reproductive pathologies as multifactorial.
+
+In conclusion, the value of immunotherapy as a treatment for infertility is still not clear. Although some evidence exists, we still need
+strong evidence to support or refute the role of immuno-modulatory
+treatment in cases of infertility.
+
+Acknowledgement
+9. Conclusion
+
+This work was supported by the Region Zealand’s Health Sciences
+Research Foundation, Denmark.
+
+For decades, several studies have tried to correlate reproductive
+pathologies including infertility with an immunological origin. Immune
+cell density as well as receptor expression and functioning in endometrial tissue have been general focuses of interest.
+Several studies report imbalances in the uNK cell proﬁle among
+women with a history of infertility, while other studies are inconclusive. Therefore, some degree of controversy still exists. If a strong
+association can be evidenced regarding immune cell imbalances in
+endometrial tissue of infertile women, there might be an option for
+developing treatments based upon immunotherapy.
+Future research may strive to use a standardised protocol for the
+assessment of immune cells in endometrial tissue of larger cohorts
+compared to current studies. Internationally accepted reference ranges
+need to be established promoting inter-study comparability and for the
+purpose of deﬁning what is a normal and an abnormal count of uNK
+cells.
+Regulatory T cells are reported to increase due to pregnancy, and
+might function to suppress immune responses to paternal alloantigens.
+This immunosuppressing mechanism is thought only to be active during
+pregnancy, especially around the time of implantation and in early
+pregnancy [70]. Among women suﬀering from infertility a reduced
+number of Tregs has been demonstrated, while studies on FoxP3 are
+contrary.
+Women with reproductive problems are a heterogenic group, which
+is an important fact to take into account for studies within the ﬁeld of
+reproductive immunology. Furthermore, when focusing on reproductive immunology, one single pathological mechanism may not
+necessarily be a suﬃcient explanation, and only in a subgroup is immunological dysfunction probably involved. Perhaps further investigations should search for an impaired interaction between several
+immunological mechanisms involving both changes in the distribution
+
+References
+[1] J.B. Stanford, What is the true prevalence of infertility? Fertil. Steril. 99 (2013)
+1201.
+[2] M. Dahl, T.V. Hviid, Human leucocyte antigen class Ib molecules in pregnancy
+success and early pregnancy loss, Hum. Reprod. Update 18 (2012) 92.
+[3] T.A. Gelbaya, N. Potdar, Y.B. Jeve, L.G. Nardo, Deﬁnition and epidemiology of
+unexplained infertility, Obstet. Gynecol. Surv. 69 (2014) 109.
+[4] J. Kwak-Kim, A. Gilman-Sachs, Clinical implication of natural killer cells and reproduction, Am. J. Reprod. Immunol. 59 (2008) 388.
+[5] P.C. Arck, K. Hecher, Fetomaternal immune cross-talk and its consequences for
+maternal and oﬀspring's health, Nat. Med. 19 (2013) 548.
+[6] J. Alijotas-Reig, E. Llurba, J.M. Gris, Potentiating maternal immune tolerance in
+pregnancy: a new challenging role for regulatory T cells, Placenta 35 (2014) 241.
+[7] S.K. Lee, C.J. Kim, D.J. Kim, J.H. Kang, Immune cells in the female reproductive
+tract, Immune Netw. 15 (2015) 16.
+[8] E. Tuckerman, S.M. Laird, A. Prakash, T.C. Li, Prognostic value of the measurement
+of uterine natural killer cells in the endometrium of women with recurrent miscarriage, Hum. Reprod. 22 (2007) 2208.
+[9] S. Quenby, M. Bates, T. Doig, J. Brewster, D.I. Lewis-Jones, P.M. Johnson, et al.,
+Pre-implantation endometrial leukocytes in women with recurrent miscarriage,
+Hum. Reprod. 14 (1999) 2386.
+[10] A. King, T.D. Burrows, S.E. Hiby, J.M. Bowen, S. Joseph, S. Verma, et al., Surface
+expression of HLA-C antigen by human extravillous trophoblast, Placenta 21 (2000)
+376.
+[11] A.C. Zenclussen, K. Gerlof, M.L. Zenclussen, A. Sollwedel, A.Z. Bertoja, T. Ritter,
+et al., Abnormal T-cell reactivity against paternal antigens in spontaneous abortion:
+adoptive transfer of pregnancy-induced CD4+CD25+ T regulatory cells prevents
+fetal rejection in a murine abortion model, Am. J. Pathol. 166 (2005) 811.
+[12] D.A. Somerset, Y. Zheng, M.D. Kilby, D.M. Sansom, M.T. Drayson, Normal human
+pregnancy is associated with an elevation in the immune suppressive CD25+
+CD4+ regulatory T-cell subset, Immunology 112 (2004) 38.
+[13] R. Raghupathy, Th1-type immunity is incompatible with successful pregnancy,
+Immunol. Today 18 (1997) 478.
+[14] A.C. Zenclussen, R. Joachim, E. Hagen, C. Peiser, B.F. Klapp, P.C. Arck, Heme
+oxygenase is downregulated in stress-triggered and interleukin-12-mediated murine
+abortion, Scand. J. Immunol. 55 (2002) 560.
+
+699
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Human Immunology 79 (2018) 693–701
+
+L. Kofod et al.
+
+[42] A.W. Tang, Z. Alﬁrevic, S. Quenby, Natural killer cells and pregnancy outcomes in
+women with recurrent miscarriage and infertility: a systematic review, Hum.
+Reprod. 26 (2011) 1971.
+[43] S. Wang, Y.P. Li, B. Ding, Y.R. Zhao, Z.J. Chen, C.Y. Xu, et al., Recurrent miscarriage
+is associated with a decline of decidual natural killer cells expressing killer cell
+immunoglobulin-like receptors speciﬁc for human leukocyte antigen C, J. Obstet.
+Gynaecol. Res. 40 (2014) 1288.
+[44] B.A. Croy, M.J. van den Heuvel, A.M. Borzychowski, C. Tayade, Uterine natural
+killer cells: a specialized diﬀerentiation regulated by ovarian hormones, Immunol.
+Rev. 214 (2006) 161.
+[45] P. Russell, G. Sacks, K. Tremellen, A. Gee, The distribution of immune cells and
+macrophages in the endometrium of women with recurrent reproductive failure. III:
+Further observations and reference ranges, Pathology 45 (2013) 393.
+[46] L. Lynch, L. Golden-Mason, M. Eogan, C. O'Herlihy, C. O'Farrelly, Cells with haematopoietic stem cell phenotype in adult human endometrium: relevance to infertility? Hum. Reprod. 22 (2007) 919.
+[47] C.L. Sentman, S.K. Meadows, C.R. Wira, M. Eriksson, Recruitment of uterine NK
+cells: induction of CXC chemokine ligands 10 and 11 in human endometrium by
+estradiol and progesterone, J. Immunol. 173 (2004) 6760.
+[48] W. Guo, P. Li, G. Zhao, H. Fan, Y. Hu, Y. Hou, Glucocorticoid receptor mediates the
+eﬀect of progesterone on uterine natural killer cells, Am. J. Reprod. Immunol. 67
+(2012) 463.
+[49] L. Kofod, A. Lindhard, M. Bzorek, J.O. Eriksen, L.G. Larsen, Hviid TVF: endometrial
+immune markers are potential predictors of normal fertility and pregnancy after in
+vitro fertilization, Am. J. Reprod. Immunol. 78 (2017), https://doi.org/10.1111/
+aji.12684.
+[50] G. Liu, Y. Dong, Z. Wang, J. Cao, Y. Chen, Restraint stress alters immune parameters
+and induces oxidative stress in the mouse uterus during embryo implantation, Stress
+17 (2014) 494.
+[51] K. Shakhar, E. Rosenne, R. Loewenthal, G. Shakhar, H. Carp, S. Ben-Eliyahu, High
+NK cell activity in recurrent miscarriage: what are we really measuring? Hum.
+Reprod. 21 (2006) 2421.
+[52] L.R. Guerin, J.R. Prins, S.A. Robertson, Regulatory T-cells and immune tolerance in
+pregnancy: a new target for infertility treatment? Hum. Reprod. Update 15 (2009)
+517.
+[53] S. Sakaguchi, Immunologic tolerance maintained by regulatory T cells: implications
+for autoimmunity, tumor immunity and transplantation tolerance, Vox Sang 83
+(Suppl. 1) (2002) 151.
+[54] L. Arruvito, A.I. Sotelo, A. Billordo, L. Fainboim, A physiological role for inducible
+FOXP3(+) Treg cells. Lessons from women with reproductive failure, Clin.
+Immunol. 136 (2010) 432.
+[55] M.J. Jasper, K.P. Tremellen, S.A. Robertson, Primary unexplained infertility is associated with reduced expression of the T-regulatory cell transcription factor Foxp3
+in endometrial tissue, Mol. Hum. Reprod. 12 (2006) 301.
+[56] S. Saito, Y. Sasaki, M. Sakai, CD4(+)CD25high regulatory T cells in human pregnancy, J. Reprod. Immunol. 65 (2005) 111.
+[57] A. Tafuri, J. Alferink, P. Moller, G.J. Hammerling, B. Arnold, T cell awareness of
+paternal alloantigens during pregnancy, Science 270 (1995) 630.
+[58] L.R. Guerin, L.M. Moldenhauer, J.R. Prins, J.J. Bromﬁeld, J.D. Hayball,
+S.A. Robertson, Seminal ﬂuid regulates accumulation of FOXP3+ regulatory T cells
+in the preimplantation mouse uterus through expanding the FOXP3+ cell pool and
+CCL19-mediated recruitment, Biol. Reprod. 85 (2011) 397.
+[59] S.A. Robertson, L.R. Guerin, J.J. Bromﬁeld, K.M. Branson, A.C. Ahlstrom, A.S. Care,
+Seminal ﬂuid drives expansion of the CD4+CD25+ T regulatory cell pool and
+induces tolerance to paternal alloantigens in mice, Biol. Reprod. 80 (2009) 1036.
+[60] Z. Selmani, A. Naji, I. Zidi, B. Favier, E. Gaiﬀe, L. Obert, et al., Human leukocyte
+antigen-G5 secretion by human mesenchymal stem cells is required to suppress T
+lymphocyte and natural killer function and to induce CD4+CD25highFOXP3+
+regulatory T cells, Stem Cells 26 (2008) 212.
+[61] J. Mjosberg, G. Berg, M.C. Jenmalm, J. Ernerudh, FOXP3+ regulatory T cells and T
+helper 1, T helper 2, and T helper 17 cells in human early pregnancy decidua, Biol.
+Reprod. 82 (2010) 698.
+[62] A. Trundley, A. Moﬀett, Human uterine leukocytes and pregnancy, Tissue Antigens
+63 (2004) 1.
+[63] A.C. Zenclussen, K. Gerlof, M.L. Zenclussen, S. Ritschel, A. Zambon Bertoja, S. Fest,
+et al., Regulatory T cells induce a privileged tolerant microenvironment at the fetalmaternal interface, Eur. J. Immunol. 36 (2006) 82.
+[64] B.M. Choi, H.O. Pae, Y.R. Jeong, Y.M. Kim, H.T. Chung, Critical role of heme
+oxygenase-1 in Foxp3-mediated immune suppression, Biochem. Biophys. Res.
+Commun. 327 (2005) 1066.
+[65] L. Arruvito, M. Sanz, A.H. Banham, L. Fainboim, Expansion of CD4+CD25+and
+FOXP3+ regulatory T cells during the follicular phase of the menstrual cycle: implications for human reproduction, J. Immunol. 178 (2007) 2572.
+[66] Y. Sasaki, M. Sakai, S. Miyazaki, S. Higuma, A. Shiozaki, S. Saito, Decidual and
+peripheral blood CD4+CD25+ regulatory T cells in early pregnancy subjects and
+spontaneous abortion cases, Mol. Hum. Reprod. 10 (2004) 347.
+[67] C. Thuere, M.L. Zenclussen, A. Schumacher, S. Langwisch, U. Schulte-Wrede,
+A. Teles, et al., Kinetics of regulatory T cells during murine pregnancy, Am. J.
+Reprod. Immunol. 58 (2007) 514.
+[68] H. Yang, L. Qiu, G. Chen, Z. Ye, C. Lu, Q. Lin, Proportional change of CD4+CD25+
+regulatory T cells in decidua and peripheral blood in unexplained recurrent spontaneous abortion patients, Fertil. Steril. 89 (2008) 656.
+[69] V.R. Aluvihare, M. Kallikourdis, A.G. Betz, Regulatory T cells mediate maternal
+tolerance to the fetus, Nat. Immunol. 5 (2004) 266.
+[70] T. Shima, Y. Sasaki, M. Itoh, A. Nakashima, N. Ishii, K. Sugamura, et al., Regulatory
+T cells are necessary for implantation and maintenance of early pregnancy but not
+
+[15] N. Miwa, S. Hayakawa, S. Miyazaki, S. Myojo, Y. Sasaki, M. Sakai, et al., IDO expression on decidual and peripheral blood dendritic cells and monocytes/macrophages after treatment with CTLA-4 or interferon-gamma increase in normal
+pregnancy but decrease in spontaneous abortion, Mol. Hum. Reprod. 11 (2005)
+865.
+[16] C.L. Stewart, P. Kaspar, L.J. Brunet, H. Bhatt, I. Gadi, F. Kontgen, et al., Blastocyst
+implantation depends on maternal expression of leukaemia inhibitory factor,
+Nature 359 (1992) 76.
+[17] J.A. Hill, K. Polgar, D.J. Anderson, T-helper 1-type immunity to trophoblast in
+women with recurrent spontaneous abortion, JAMA 273 (1995) 1933.
+[18] T.G. Wegmann, H. Lin, L. Guilbert, T.R. Mosmann, Bidirectional cytokine interactions in the maternal-fetal relationship: is successful pregnancy a TH2 phenomenon? Immunol. Today 14 (1993) 353.
+[19] N. Ledee, M. Petitbarat, L. Chevrier, D. Vitoux, K. Vezmar, M. Rahmati, et al., The
+uterine immune proﬁle may help women with repeated unexplained embryo implantation failure after in vitro fertilization, Am. J. Reprod. Immunol. 75 (2016)
+388.
+[20] M.P. Piccinni, L. Beloni, C. Livi, E. Maggi, G. Scarselli, S. Romagnani, Defective
+production of both leukemia inhibitory factor and type 2 T-helper cytokines by
+decidual T cells in unexplained recurrent abortions, Nat. Med. 4 (1998) 1020.
+[21] J.R. Wilczynski, P. Radwan, H. Tchorzewski, M. Banasik, Immunotherapy of patients with recurrent spontaneous miscarriage and idiopathic infertility: does the
+immunization-dependent Th2 cytokine overbalance really matter? Arch. Immunol.
+Ther. Exp. (Warsz) 60 (2012) 151.
+[22] M.D. Bates, S. Quenby, K. Takakuwa, P.M. Johnson, G.S. Vince, Aberrant cytokine
+production by peripheral blood mononuclear cells in recurrent pregnancy loss?
+Hum. Reprod. 17 (2002) 2439.
+[23] G. Chaouat, N. Ledee-Bataille, S. Zourbas, S. Ostojic, S. Dubanchet, J. Martal, et al.,
+Cytokines, implantation and early abortion: re-examining the Th1/Th2 paradigm
+leads to question the single pathway, single therapy concept, Am. J. Reprod.
+Immunol. 50 (2003) 177.
+[24] E. Giuliani, K.L. Parkin, B.A. Lessey, S.L. Young, A.T. Fazleabas, Characterization of
+uterine NK cells in women with infertility or recurrent pregnancy loss and associated endometriosis, Am. J. Reprod. Immunol. 72 (2014) 262.
+[25] M.G. Matteo, P. Greco, P. Rosenberg, A. Mestice, D. Baldini, T. Falagario, et al.,
+Normal percentage of CD56bright natural killer cells in young patients with a
+history of repeated unexplained implantation failure after in vitro fertilization cycles, Fertil. Steril. 88 (2007) 990.
+[26] A. Fukui, S. Fujii, E. Yamaguchi, H. Kimura, S. Sato, Y. Saito, Natural killer cell
+subpopulations and cytotoxicity for infertile patients undergoing in vitro fertilization, Am. J. Reprod. Immunol. 41 (1999) 413.
+[27] I. Manaster, S. Mizrahi, D. Goldman-Wohl, H.Y. Sela, N. Stern-Ginossar, D. Lankry,
+et al., Endometrial NK cells are special immature cells that await pregnancy, J.
+Immunol. 181 (2008) 1869.
+[28] P.J. Williams, R.F. Searle, S.C. Robson, B.A. Innes, J.N. Bulmer, Decidual leucocyte
+populations in early to late gestation normal human pregnancy, J. Reprod.
+Immunol. 82 (2009) 24.
+[29] J. Hanna, D. Goldman-Wohl, Y. Hamani, I. Avraham, C. Greenﬁeld, S. NatansonYaron, et al., Decidual NK cells regulate key developmental processes at the human
+fetal-maternal interface, Nat. Med. 12 (2006) 1065.
+[30] B. Fu, Y. Zhou, X. Ni, X. Tong, X. Xu, Z. Dong, et al., Natural killer cells promote
+fetal development through the secretion of growth-promoting factors, Immunity 47
+(2017) 1100.
+[31] P. Russell, L. Anderson, D. Lieberman, K. Tremellen, H. Yilmaz, B. Cheerala, et al.,
+The distribution of immune cells and macrophages in the endometrium of women
+with recurrent reproductive failure I: Techniques, J. Reprod. Immunol. 91
+(2011) 90.
+[32] A. Moﬀett-King, Natural killer cells and pregnancy, Nat. Rev. Immunol. 2 (2002)
+656.
+[33] A. King, N. Balendran, P. Wooding, N.P. Carter, Y.W. Loke, CD3− leukocytes
+present in the human uterus during early placentation: phenotypic and morphologic
+characterization of the CD56++ population, Dev. Immunol. 1 (1991) 169.
+[34] A. Nagler, L.L. Lanier, S. Cwirla, J.H. Phillips, Comparative studies of human FcRIIIpositive and negative natural killer cells, J. Immunol. 143 (1989) 3183.
+[35] G. Junovich, A. Azpiroz, E. Incera, C. Ferrer, A. Pasqualini, G. Gutierrez,
+Endometrial CD16(+) and CD16(−) NK cell count in fertility and unexplained
+infertility, Am. J. Reprod. Immunol. 70 (2013) 182.
+[36] W.E. Carson, J.G. Giri, M.J. Lindemann, M.L. Linett, M. Ahdieh, R. Paxton, et al.,
+Interleukin (IL) 15 is a novel cytokine that activates human natural killer cells via
+components of the IL-2 receptor, J. Exp. Med. 180 (1994) 1395.
+[37] N. Mariee, T.C. Li, S.M. Laird, Expression of leukaemia inhibitory factor and interleukin 15 in endometrium of women with recurrent implantation failure after
+IVF; correlation with the number of endometrial natural killer cells, Hum. Reprod.
+27 (2012) 1946.
+[38] K. Marzusch, F. Buchholz, P. Ruck, R. Handgretinger, A. Geiselhart, L. Engelmann,
+et al., Interleukin-12- and interleukin-2-stimulated release of interferon-gamma by
+uterine CD56++ large granular lymphocytes is ampliﬁed by decidual macrophages, Hum. Reprod. 12 (1997) 921.
+[39] M. Wu, Y. Yin, M. Zhao, L. Hu, Q. Chen, The low expression of leukemia inhibitory
+factor in endometrium: possible relevant to unexplained infertility with multiple
+implantation failures, Cytokine 62 (2013) 334.
+[40] A. Moﬀett, N. Shreeve, First do no harm: uterine natural killer (NK) cells in assisted
+reproduction, Hum. Reprod. 30 (2015) 1519.
+[41] S.C. Lobo, S.T. Huang, A. Germeyer, C. Dosiou, K.C. Vo, S. Tulac, et al., The immune
+environment in human endometrium during the window of implantation, Am. J.
+Reprod. Immunol. 52 (2004) 244.
+
+700
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Human Immunology 79 (2018) 693–701
+
+L. Kofod et al.
+
+between decidual NK and CD14+ myelomonocytic cells results in induction of
+Tregs and immunosuppression, Proc. Natl. Acad. Sci. U.S.A. 107 (2010) 11918.
+[86] M.J. Guimond, B. Wang, B.A. Croy, Engraftment of bone marrow from severe
+combined immunodeﬁcient (SCID) mice reverses the reproductive deﬁcits in natural killer cell-deﬁcient tg epsilon 26 mice, J. Exp. Med. 187 (1998) 217.
+[87] S.M. Blois, J.M. Ilarregui, M. Tometten, M. Garcia, A.S. Orsal, R. Cordo-Russo, et al.,
+A pivotal role for galectin-1 in fetomaternal tolerance, Nat. Med. 13 (2007) 1450.
+[88] T. Tilburgs, A.C. Crespo, A. van der Zwan, B. Rybalov, T. Raj, B. Stranger, et al.,
+Human HLA-G+ extravillous trophoblasts: Immune-activating cells that interact
+with decidual leukocytes, Proc. Natl. Acad. Sci. U.S.A. 112 (2015) 7219.
+[89] W.N. Melsted, S.H. Matzen, M.H. Andersen, T.V.F. Hviid, The choriocarcinoma cell
+line JEG-3 upregulates regulatory T cell phenotypes and modulates pro-inﬂammatory cytokines through HLA-G, Cell. Immunol. 324 (2018) 14–23.
+[90] R. Buelow, W.J. Burlingham, C. Clayberger, Immunomodulation by soluble HLA
+class I, Transplantation 59 (1995) 649.
+[91] B.J. Webb, M.R. Bochan, A. Montel, L.M. Padilla, Z. Brahmi, The lack of NK cytotoxicity associated with fresh HUCB may be due to the presence of soluble HLA in
+the serum, Cell. Immunol. 159 (1994) 246.
+[92] N. Zavazava, M. Kronke, Soluble HLA class I molecules induce apoptosis in alloreactive cytotoxic T lymphocytes, Nat. Med. 2 (1996) 1005.
+[93] M. Han, Y. Jiang, K. Lao, X. Xu, S. Zhan, Y. Wang, et al., sHLA-G involved in the
+apoptosis of decidual natural killer cells following toxoplasma gondii infection,
+Inﬂammation 37 (2014) 1718.
+[94] S. Fournel, M. Aguerre-Girr, X. Huc, F. Lenfant, A. Alam, A. Toubert, et al., Cutting
+edge: soluble HLA-G1 triggers CD95/CD95 ligand-mediated apoptosis in activated
+CD8+ cells by interacting with CD8, J. Immunol. 164 (2000) 6100.
+[95] M.M. Hviid, N. Macklon, Immune modulation treatments-where is the evidence?
+Fertil. Steril. 107 (2017) 1284.
+[96] J. Li, Y. Chen, C. Liu, Y. Hu, L. Li, Intravenous immunoglobulin treatment for repeated IVF/ICSI failure and unexplained infertility: a systematic review and a metaanalysis, Am. J. Reprod. Immunol. 70 (2013) 434.
+[97] M. Eftekhar, R. Hosseinisadat, R. Baradaran, E. Naghshineh, Eﬀect of granulocyte
+colony stimulating factor (G-CSF) on IVF outcomes in infertile women: An RCT, Int.
+J. Reprod. Biomed. (Yazd) 14 (2016) 341.
+[98] D.H. Barad, Y. Yu, V.A. Kushnir, A. Shohat-Tal, E. Lazzaroni, H.J. Lee, et al., A
+randomized clinical trial of endometrial perfusion with granulocyte colony-stimulating factor in in vitro fertilization cycles: impact on endometrial thickness and
+clinical pregnancy rates, Fertil. Steril. 101 (2014) 710.
+[99] L.D. Klentzeris, J.N. Bulmer, M.A. Warren, L. Morrison, T.C. Li, I.D. Cooke,
+Lymphoid tissue in the endometrium of women with unexplained infertility: morphometric and immunohistochemical aspects, Hum. Reprod. 9 (1994) 646.
+[100] L. Flynn, B. Byrne, J. Carton, P. Kelehan, C. O'Herlihy, C. O'Farrelly, Menstrual
+cycle dependent ﬂuctuations in NK and T-lymphocyte subsets from non-pregnant
+human endometrium, Am. J. Reprod. Immunol. 43 (2000) 209.
+
+late pregnancy in allogeneic mice, J. Reprod. Immunol. 85 (2010) 121.
+[71] S. Chen, J. Zhang, C. Huang, W. Lu, Y. Liang, X. Wan, Expression of the T regulatory
+cell transcription factor FoxP3 in peri-implantation phase endometrium in infertile
+women with endometriosis, Reprod. Biol. Endocrinol. 10 (2012) 34.
+[72] W.H. Yan, A. Lin, B.G. Chen, M.Y. Zhou, M.Z. Dai, X.J. Chen, et al., Possible roles of
+KIR2DL4 expression on uNK cells in human pregnancy, Am. J. Reprod. Immunol. 57
+(2007) 233.
+[73] J.N. Bulmer, G.E. Lash, The role of uterine NK cells in normal reproduction and
+reproductive disorders, Adv. Exp. Med. Biol. 868 (2015) 95.
+[74] T.V. Hviid, HLA-G in human reproduction: aspects of genetics, function and pregnancy complications, Hum. Reprod. Update 12 (2006) 209.
+[75] S. Djurisic, L. Skibsted, T.V. Hviid, A phenotypic analysis of regulatory T cells and
+uterine NK cells from ﬁrst trimester pregnancies and associations with HLA-G, Am.
+J. Reprod. Immunol. 74 (2015) 427.
+[76] M. Varla-Leftherioti, M. Spyropoulou-Vlachou, T. Keramitsoglou,
+M. Papadimitropoulos, C. Tsekoura, O. Graphou, et al., Lack of the appropriate
+natural killer cell inhibitory receptors in women with spontaneous abortion, Hum.
+Immunol. 66 (2005) 65.
+[77] C. Li, B.L. Houser, M.L. Nicotra, J.L. Strominger, HLA-G homodimer-induced cytokine secretion through HLA-G receptors on human decidual macrophages and
+natural killer cells, Proc. Natl. Acad. Sci. U.S.A. 106 (2009) 5767.
+[78] A. van der Meer, H.G. Lukassen, M.J. van Lierop, F. Wijnands, S. Mosselman,
+D.D. Braat, et al., Membrane-bound HLA-G activates proliferation and interferongamma production by uterine natural killer cells, Mol. Hum. Reprod. 10 (2004)
+189.
+[79] M. Shiroishi, K. Tsumoto, K. Amano, Y. Shirakihara, M. Colonna, V.M. Braud, et al.,
+Human inhibitory receptors Ig-like transcript 2 (ILT2) and ILT4 compete with CD8
+for MHC class I binding and bind preferentially to HLA-G, Proc. Natl. Acad. Sci.
+U.S.A. 100 (2003) 8856.
+[80] F. Navarro, M. Llano, T. Bellon, M. Colonna, D.E. Geraghty, M. Lopez-Botet, The
+ILT2(LIR1) and CD94/NKG2A NK cell receptors respectively recognize HLA-G1 and
+HLA-E molecules co-expressed on target cells, Eur. J. Immunol. 29 (1999) 277.
+[81] B. Favier, J. Lemaoult, E. Lesport, E.D. Carosella, ILT2/HLA-G interaction impairs
+NK-cell functions through the inhibition of the late but not the early events of the
+NK-cell activating synapse, FASEB J. 24 (2010) 689.
+[82] V. Hofmeister, E.H. Weiss, HLA-G modulates immune responses by diverse receptor
+interactions, Semin. Cancer Biol. 13 (2003) 317.
+[83] F. Gros, F. Cabillic, O. Toutirais, A.L. Maux, Y. Sebti, L. Amiot, Soluble HLA-G
+molecules impair natural killer/dendritic cell crosstalk via inhibition of dendritic
+cells, Eur. J. Immunol. 38 (2008) 742.
+[84] L.J. Chen, Z.Q. Han, H. Zhou, L. Zou, P. Zou, Inhibition of HLA-G expression via
+RNAi abolishes resistance of extravillous trophoblast cell line TEV-1 to NK lysis,
+Placenta 31 (2010) 519.
+[85] P. Vacca, C. Cantoni, M. Vitale, C. Prato, F. Canegallo, D. Fenoglio, et al., Crosstalk
+
+701
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

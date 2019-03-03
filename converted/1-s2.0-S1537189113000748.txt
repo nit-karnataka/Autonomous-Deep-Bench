@@ -1,0 +1,776 @@
+Vascular Pharmacology 59 (2013) 36–43
+
+Contents lists available at ScienceDirect
+
+Vascular Pharmacology
+journal homepage: www.elsevier.com/locate/vph
+
+Selective suppression of endothelial cytokine production by
+progesterone receptor
+Lauren M. Goddard a, Amy N. Ton a, Tõnis Org a, Hanna K.A. Mikkola a,b, M. Luisa Iruela-Arispe a,b,⁎
+a
+b
+
+Department of Molecular, Cell and Developmental Biology, University of California, Los Angeles, Los Angeles, CA 90095, USA
+Molecular Biology Institute, University of California, Los Angeles, Los Angeles, CA 90095, USA
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 19 April 2013
+Accepted 1 June 2013
+Keywords:
+Steroid hormone
+Immune cell
+Reproduction
+Inﬂammation
+
+a b s t r a c t
+Steroid hormones are well-recognized suppressors of the inﬂammatory response, however, their cell- and
+tissue-speciﬁc effects in the regulation of inﬂammation are far less understood, particularly for the sexrelated steroids. To determine the contribution of progesterone in the endothelium, we have characterized
+and validated an in vitro culture system in which human umbilical vein endothelial cells constitutively
+express human progesterone receptor (PR). Using next generation RNA-sequencing, we identiﬁed a selective
+group of cytokines that are suppressed by progesterone both under physiological conditions and during pathological activation by lipopolysaccharide. In particular, IL-6, IL-8, CXCL2/3, and CXCL1 were found to be direct
+targets of PR, as determined by ChIP-sequencing. Regulation of these cytokines by progesterone was also
+conﬁrmed by bead-based multiplex cytokine assays and quantitative PCR. These ﬁndings provide a novel
+role for PR in the direct regulation of cytokine levels secreted by the endothelium. They also suggest that
+progesterone-PR signaling in the endothelium directly impacts leukocyte trafﬁcking in PR-expressing tissues.
+© 2013 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/3.0/).
+
+1. Introduction
+Inﬂammation contributes to the susceptibility and progression of
+many diseases that exhibit gender based differences in prevalence.
+These include, but are not limited to, autoimmune disease, cardiovascular disease and sexually transmitted infections (Kaushic et al., 2011;
+McCombe et al., 2009; Meyer et al., 2006). The prevailing hypothesis
+is that endocrine–immune interactions drive this sexual dimorphism
+by affecting the sensitivity to various inﬂammatory stimuli. Evidence
+for this emanates from studies demonstrating the requirement for the
+immune system in hormonally controlled processes including implantation, cycling, and pregnancy (Challis et al., 2009; Gilliver, 2010;
+Jones, 2004; King and Critchley, 2010; Red-Horse and Drake, 2004;
+van Mourik et al., 2009). For example, symptoms of rheumatoid arthritis and multiple sclerosis are reduced during pregnancy, suggesting that
+hormones not only modulate local inﬂammatory reactions, but also can
+affect systemic immune responses as well (Adams Waldorf and Nelson,
+2008; Hughes, 2012; Martocchia et al., 2011). While much is known of
+
+Abbreviations: PR, progesterone receptor; LPS, lipopolysaccharide; HUVEC, human
+umbilical vein endothelial cell; PRKO, progesterone receptor knockout; hPR, human
+progesterone receptor; DAPI, 4′,6-diamidino-2-phenylindole.
+⁎ Corresponding author at: Terasaki Life Sciences Building, 610 Charles E. Young Drive
+East, Los Angeles, CA 90095-7239, USA. Tel.: +1 310 794 5763; fax: +1 310 794 5766.
+E-mail address: arispe@mcdb.ucla.edu (M.L. Iruela-Arispe).
+
+the cellular and molecular control of the immune system by estrogen,
+glucocorticoids, and androgen signaling, the action of progesterone
+and its downstream targets are far less understood.
+Progesterone has been generally assumed to play an antiinﬂammatory role in immune regulation. In fact, the physiological
+reduction of progesterone prior to menstruation and preceding labor
+results in a marked inﬂux of inﬂammatory cells (macrophages, neutrophils, and T cells) into the decidua resembling a local inﬂammatory response (Hamilton et al., 2012, 2013; Jones, 2004; Shynlova et al., 2008).
+Moreover, mice with complete deletion of PR (PRKO) were found to
+have increased immune cell inﬁltration into the uterus and impaired
+thymic function (Tibbetts et al., 1999a, 1999b). At the cellular level, PR
+expression has been demonstrated in a variety of immune cell types
+indicative of a direct regulation by progesterone (Butts et al., 2008;
+Gilliver, 2010; Hughes, 2012). However, these ﬁndings do not explain
+progesterone control of other leukocyte populations that do not express
+PR in vivo, such as natural killer cells and granulocytes. Therefore, it is
+likely that paracrine factors such as cytokines and chemokines act as
+effectors of steroid hormones, thus enabling systemic immune modulation in the absence of leukocyte steroid receptors. In fact, there is ample
+evidence in the literature for regulation of immune function by progesterone through its effect on smooth muscle, stromal, and perivascular
+cells (Gotkin et al., 2006; Hardy et al., 2006; Luk et al., 2010; Shields et
+al., 2005; Shynlova et al., 2008). Due to its multiple cellular targets, a
+comprehensive dissection of cell speciﬁc signaling, as well as direct
+downstream targets of PR, is necessary to understand the multiple
+immune-modulatory functions of progesterone.
+
+http://dx.doi.org/10.1016/j.vph.2013.06.001
+1537-1891/© 2013 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+L.M. Goddard et al. / Vascular Pharmacology 59 (2013) 36–43
+
+The endothelium is an active participant in immune cell trafﬁcking
+and is an important barrier in the regulation of leukocyte extravasation into tissues (Ley et al., 2007; Pober and Sessa, 2007). Upon activation by an inﬂammatory stimulus, endothelial cells acquire new
+capabilities including cytokines/chemokine secretion and the expression of endothelial–leukocyte adhesion molecules (Pober and Sessa,
+2007). Several reports have demonstrated expression of PR within
+different human vascular beds (Ingegno et al., 1988; Iruela-Arispe
+et al., 1999; Krikun et al., 2005; Maybin and Duncan, 2004; PerrotApplanat et al., 1995; Rodríguez-Manzaneque et al., 2000), including
+endothelial cells of human atherosclerotic vessels (Vázquez et al.,
+1999). Functionally, progesterone has been found to mediate endothelial cell proliferation, transcriptional repression of endothelial–
+leukocyte adhesion molecules, as well as MMP secretion (Otsuki et
+al., 2001; Rodríguez-Manzaneque et al., 2000; Vázquez et al., 1999)
+implicating a direct function of progesterone in the endothelium.
+Therefore, we hypothesized that progesterone signaling may modulate the immune system by transcriptionally altering endothelial cell
+activation and expression of immunomodulatory factors.
+Here we provide evidence that PR signaling in the endothelium
+directly regulates cytokine expression both under physiological
+conditions, as well as following an acute inﬂammatory stimulus. PR
+is able to selectively and directly target a cohort of endothelial cytokines resulting in transcriptional repression and reduction in protein
+levels by the endothelium. These ﬁndings expand our understanding
+of the cell speciﬁc function of progesterone in the endothelium and its
+potential role in immune regulation through direct mediation of
+cytokine production.
+2. Materials and methods
+2.1. Virus production and transduction
+Human PR cDNA was PCR ampliﬁed and cloned into a lentiviral
+vector using the following primers with attached restriction site
+sequences: 5′-PR-Xbal (GCTATCTAGAATGACTGAGCTGAAGGCA) and 3′PR-STOP-EcoRI (GCTAGAATTCCTACTTTTTATGAAAGAGAAG). Lentivirusbased vectors encoding PR cDNA were generated by transient
+cotransfection of 293 T cells with a three-plasmid combination, as
+described previously, with slight modiﬁcations (Naldini et al., 1996).
+The construct pMD.G was used for the production of the VSV-G viral
+envelope in combination with the packaging constructs pMDLg/pRRE
+and pRSV-REV, whereas the pRRL constructions correspond to the
+different transfer vectors. Brieﬂy, 100 mm dishes of nonconﬂuent
+293 T cells were co-transfected with 6.5 μg of pMDLg/pRRE, 3.5 μg of
+pMDG (encoding the VSV-G envelope), 2.5 μg of pRSV-REV and 10 μg
+of pRRL-hPR, by the CaPi-DNA coprecipitation method (Chen and
+Okayama, 1987; Sakoda et al., 1992). The plasmid vectors were provided by Dr Luigi Naldini (University of Torino, Italy). Next day, the medium was adjusted to make a ﬁnal concentration of 10 mM sodium
+butyrate and the cells were incubated for 8 h to obtain high-titer virus
+production as previously described (Sakoda et al., 1999). Conditioned
+medium was harvested 16 h later and passed through 0.45 mm ﬁlters.
+Viral titer was determined by assessing viral p24 antigen concentration
+by ELISA (the Alliance® HIV-I p24 ELISA Kit, Perkin Elmer) and hereafter
+expressed as μg of p24 equivalent units per milliliter.
+2.2. Cell culture
+Human umbilical vein endothelial cells were cultured in MCDB131 media (VEC Technologies, Rensselaer, NY) supplemented with
+charcoal stripped fetal bovine serum (Omega Scientiﬁc, Tarzana,
+CA). For bead-based multiplex cytokine arrays, HUVECs were grown
+to conﬂuence in 48 well plates and treated with LPS (1 μM; 0111:
+B4; Sigma, St. Louis, MO) and/or progesterone (100 nM; Sigma, St.
+Louis, MO) for 4, 8, and 24 h. Media without serum were collected,
+
+37
+
+and run in triplicate on a 42-plex array analyzed by Eve Technologies.
+For immunocytochemistry, HUVECs were seeded onto Lab-Tek II
+8-well chamber slides (Thermo Scientiﬁc, Rochester, NY) and ﬁxed
+with 4% paraformaldehyde. Cells were probed with an antibody
+against PR (1:400; clone SP2, Lab Vision, Kalamazoo, MI) followed
+by an Alexa Fluor secondary (1:300, Invitrogen, Grand Island, NY).
+Nuclei were stained using 4′,6-diamidino-2-phenylindole (DAPI,
+1:1000; Invitrogen, Grand Island, NY). Images were acquired using a
+Zeiss LSM 520 multiphoton microscope (Zeiss, Germany).
+2.3. Immunoblotting
+Total HUVEC lysates were resolved by SDS-PAGE, and nitrocellulose membranes (Optitran BA-S 83; Dassel, Germany) were incubated
+overnight with an anti-PR antibody (1:2000; clone SP2, Lab Vision,
+Kalamazoo, MI) and anti-GAPDH antibody (1:1000, Millipore, Billerica,
+MA). Blots were incubated with HRP-conjugated secondary (1:5000;
+Bio-Rad Laboratories, Hercules, CA) and developed using Supersignal
+West Pico Chemiluminescent Substrate (Thermo Scientiﬁc, Kalamazoo,
+MI). A Bio-Rad ChemiDoc XRS+ and accompanying Image Lab software
+was used for detection (Bio-Rad Laboratories, Hercules, CA).
+2.4. RNA isolation, qPCR, and library preparation
+Total RNA was extracted using RNeasy Kit (Qiagen, Valencia, CA).
+RNA was reverse transcribed using SuperScript First-strand Synthesis
+System (Invitrogen, Grand Island, NY). qPCR was performed using
+SYBR Green reagent (Qiagen, Valencia, CA) and PCR products were
+run on an Opticon2 PCR machine (MJ Research; BioRad, Hercules,
+CA). Libraries for RNA-sequencing were generated using an Illumina
+Multiplex System (Illumina, San Diego, CA) and sequenced using
+HIseq-2000 (Illumina, San Diego, CA). RNA-seq datasets have been
+deposited in the NCBI Gene Expression Omnibus with the accession
+number GSE46502.
+2.5. RNA-seq analysis
+Multiplex runs were debarcoded by in house Unix shell script.
+Reads were aligned to the human genome (hg19) using TopHat
+v2.0.4 (Trapnell et al., 2009) and processed with Cufﬂinks v2.0.1
+(Trapnell et al., 2010). Assemblies for all samples were merged
+using CuffMerge and pairwise differential expression was assessed
+using Cuffdiff. Genes with a p-value smaller than 0.01 where considered signiﬁcant. Heatmaps with relative expression were generated
+by visualizing the log2 values of each gene rpkm divided with the average rpkm of all samples using Java treeview (de Hoon et al., 2004).
+2.6. ChIP-sequencing and analysis
+HUVECs were infected with hPR lentivirus, grown to conﬂuence,
+and treated with progesterone for 1 h. For each condition (noninfected-negative control, PR + P, PR only, and IgG control)
+10 × 106 cultured HUVECs were used per IP. Cells were crosslinked
+with 1% formaldehyde, resuspended in 400 μL of lysis buffer (1%
+SDS, 20 mM EDTA and 50 mM Tris–HCl (pH 8.0)) containing protease inhibitors (Roche, Indianapolis, IN), and sonicated to achieve
+200 bp fragments. Samples were immunoprecipitated with 3 μg of
+anti-PR or IgG antibody. Protein A Dynabeads (Invitrogen, Grand
+Island, NY) were used to isolate antibody–PR complexes and eluted
+using 50 mM Tris–HCl, pH 8.0. Crosslinks were reversed by incubation at 65 °C and DNA was puriﬁed using Qiagen MinElute Columns.
+Libraries were generated using Ovation Ultralow IL Multiplex System
+1–8 (Nugen, San Carlos, CA) and sequenced using HIseq-2000
+(Illumina, San Diego, CA). ChIP-seq data sets have been deposited in
+the NCBI Gene Expression Omnibus with the accession number
+GSE43786.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+38
+
+L.M. Goddard et al. / Vascular Pharmacology 59 (2013) 36–43
+
+Multiplex runs were debarcoded using Fastx toolkit (http://
+hannonlab.cshl.edu/fastx_toolkit) and reads were mapped to the
+human genome (hg19) using bowtie v0.12.7 (Langmead et al., 2009).
+12–22 million uniquely mapped reads were obtained for each sample.
+Peak identiﬁcation was performed with MACS v1.3.7.1 (Zhang et al.,
+2008). Peaks were called by comparing peaks in PR and PR + P conditions to that of the input, negative control (non-infected cells) or IgG
+control. Only peaks that appeared in all three comparisons were
+determined to be noteworthy. Genes potentially regulated by PR were
+determined by mapping peaks to nearby genes within 200 kb of the
+transcriptional start site using the Genomic Regions Enrichment of
+Annotations Tool (McLean et al., 2010). Intersection of PR binding
+associated genes with differentially expressed genes was performed
+using Unix shell scripts.
+2.7. Statistical analysis
+All data were analyzed using a Student unpaired two-tailed t-test.
+p-Values less than 0.05 were considered to be statistically signiﬁcant.
+3. Results
+3.1. Generation and validation of a lentivirus for expression of human PR
+A detailed, comprehensive histological examination of PR expression in the mouse conﬁrmed the presence of PR in the endothelium
+(Fig. 1A). Interestingly, PR positive endothelial cells were restricted
+to veins, but absent from arteries. Although expressed by different
+vascular beds in humans, endothelial PR expression in the mouse
+was restricted to the vasculature of the uterus, suggestive of its
+unique importance in this organ.
+In order to gain a better molecular understanding of progesterone
+function in the endothelium, we overexpressed human PR in human
+umbilical vein endothelial cells (HUVECs) using lentiviral infection.
+Full-length human PR cDNA (hPR) was cloned downstream of a
+CMV promoter and preceding sequences for eGFP and puromycin
+resistance (Fig. 1B). A lentivirus expressing eGFP under the control
+of a CMV promoter was used as a control. HUVECs overexpressing
+the GFP or hPR construct looked morphologically normal when compared to uninfected HUVECs (Fig. 1C). PR protein colocalized with
+GFP positive cells, conﬁrming GFP as an indicator of PR expressing
+cells (Fig. 1D). Western blot analysis demonstrated the expression
+of both PR isoforms, PR-A and PR-B, in HUVECs expressing hPR, but
+not in cells expressing GFP alone (Fig. 1E). PR protein levels were
+most optimally expressed at viral concentrations between 0.16 and
+0.13 μg/mL, while higher concentrations led to cell death and reduction
+in PR protein expression.
+HUVECs expressing hPR were treated with progesterone to evaluate the ability of the transduced receptor to respond to progesterone
+(Fig. 2A). Consistent with previous reports, PR was mainly localized to
+the nucleus in both the presence and absence of progesterone, but
+was almost exclusively localized to the nucleus following progesterone treatment (Fig. 2A). To determine the optimal infection efﬁciency
+of the hPR lentivirus, cells were infected with progressively lower
+viral concentrations. Titration of virus demonstrated that concentrations less than 0.16 μg/mL led to a reduction of PR expressing cells
+upon quantiﬁcation (Fig. 2B). Therefore, all subsequent experiments
+were performed at an hPR lentiviral concentration of 0.16 μg/mL.
+3.2. PR negatively regulates endothelial cytokine production
+Using next generation RNA sequencing, we explored whether PR
+signaling may transcriptionally alter the expression of cytokines by
+the endothelium. First, we assessed which cytokines might be speciﬁcally altered when lipopolysaccharide (LPS) was applied to endothelial cultures for 4 and 8 h. A total of 70 cytokines were included in
+
+Fig. 1. Generation of a lentivirus for human PR expression. (A) Histological sections
+demonstrate PR expression in the endothelium of veins (V) but not arteries (A) in murine
+uterine vasculature. PRKO tissue was used as a negative control. Arrows indicate PR positive endothelial cells. L = lymphatics Scale = 25 μm. (B) Scheme depicting human PR
+(hPR) and GFP control lentiviral constructs. PR cDNA was cloned directly following a
+CMV promoter. eGFP and puromycin resistance were used to determine infection efﬁciency and confer selection, respectively. (C) Human umbilical vein endothelial cells infected
+with a GFP-control or hPR lentivirus. GFP (green) and phase images were superimposed to
+determine infection efﬁciency. Scale bar = 50 μm. (D) Conﬁrmation that GFP expression
+(green) correlates with PR expression (red). DAPI (blue) marks cell nuclei. Scale bar =
+20 μm. (E) Western blot analysis of total protein levels from GFP control or hPR infected
+HUVECs at various viral concentrations. GAPDH was used as a loading control. In all
+panels, results are representative of 3–5 independent experiments.
+
+the initial analysis. Of these 70, only 27 showed transcript expression by the endothelium (Fig. 3A), and only 15 of these were significantly (p b 0.01) altered in the presence of LPS at both 4 and 8 h of
+treatment (Fig. 3B). To determine if progesterone altered the expression of these 15 genes, we examined fold change expression between HUVECs in the presence of LPS alone and those treated
+concurrently with LPS and progesterone (Fig. 3B). Although majority of these cytokines were downregulated by progesterone, only
+ﬁve: including CCL2, IL-6, IL-8, CXCL1 and CXCL2, were considered
+to be statistically signiﬁcant (p b 0.01). To assess whether progesterone alone, in the absence of LPS, was able to reduce the expression of these same ﬁve genes, we compared fold change expression
+between hPR infected cells in the presence or absence of
+progesterone for 4 h (Fig. 3C). Even in the absence of LPS, progesterone still negatively regulated the expression of IL-8, IL-6, CXCL1, and
+CXCL1/2, suggesting that progesterone may modulate cytokine production in the absence of an acute inﬂammatory stimulus.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+L.M. Goddard et al. / Vascular Pharmacology 59 (2013) 36–43
+
+39
+
+Fig. 2. Validation of hPR responsiveness to progesterone. (A) HUVECs overexpressing hPR were treated with or without progesterone (100 nM) for 1 h. PR (red) localization was
+exclusively conﬁned to the nucleus in the presence of progesterone. DAPI (blue) marks cell nuclei. Scale bar = 50 μm. (B) Infection efﬁciency of the hPR lentivirus at several
+different viral concentrations. Efﬁciency was determined by dividing PR positive cells (red), by total number of nuclei (DAPI, blue) in 10 independent ﬁelds from three biological
+replicates.
+
+3.3. PR binding peaks reveal direct transcriptional regulation of cytokine
+production
+To further explore whether PR could directly regulate cytokine expression, we obtained a global read-out of PR binding sites in the
+HUVEC genome using ChIP-sequencing. Activation of the receptor
+by progesterone resulted in 9906 PR binding sites. To identify whether the 5 cytokines signiﬁcantly regulated by progesterone might
+be direct targets of PR, it was necessary to combine the ChIP-seq
+and RNA-seq datasets. RNA-seq analysis of HUVECs yielded 431
+downregulated genes with a p-value less than 0.01. These genes
+were then intersected with the list of 3886 genes predicted as
+regulated by the PR binding sites obtained from ChIP-seq evaluation.
+The analysis revealed 214 genes that were likely directly repressed by
+
+PR. Of this list, 4 out of the 5 cytokines found to be downregulated by
+progesterone were also predicted to be direct targets of PR (Fig. 3C).
+
+3.4. PR negatively regulates cytokine production by the endothelium
+To conﬁrm whether treatment of the endothelium with progesterone leads to a reduction in cytokine secretion, we performed a
+42-multiplex bead-based cytokine array. This approach was set up
+to determine whether reduced RNA transcript levels correlated with
+cytokine protein production. Of the 42 cytokines analyzed, only 24
+were at sufﬁciently high levels to be detected by the array (Table 1).
+Analysis of these 24 cytokines uncovered selective regulation of 8
+by progesterone, including fractalkine, GRO, IL-6, IL-8, IP-10, MCP-1,
+PDGF-AA, and PDGFAB/BB. Cytokine regulation was PR-dependent
+as per evaluation of HUVECs transduced with a GFP control construct.
+These ﬁndings were very similar to the RNA- and ChIP-seq analyses,
+as IL-6, IL-8, CCL2/MCP-1, and CXCL1/GRO were all found to be targets
+of PR (Fig. 3C).
+Table 1
+Effect of progesterone on cytokine/chemokine secretion by endothelial cells.a
+
+Fig. 3. PR regulation of cytokine and chemokine expression. (A) Heat map depicting
+differential expression of cytokine and chemokines strongly regulated by LPS stimulation of HUVECs for 4 and 8 h compared to nontreated cells. (B) Heat map comparing
+differential gene expression between LPS treatment in the presence or absence of progesterone. Genes included those found to be signiﬁcantly (p b 0.01) upregulated by
+LPS treatment as determined from the heat map in panel A. (C) Heat map comparing
+differential gene expression between HUVECs treated with or without progesterone.
+Genes analyzed were those that were signiﬁcantly (p b 0.01) downregulated by
+progesterone in the heat map from panel B. + symbolizes genes that were found to
+be directly bound by PR by ChIP-seq analysis.
+
+Cytokine
+
++LPS/P
+
+Cytokine
+
++LPS/P
+
+EGF
+Eotaxin
+FGF-2
+Flt-3
+Fractalkine
+G-CSF
+GM-CSF
+GRO(Pan)
+INF-alpha2
+IL-1beta
+IL-1ra
+IL-2
+IL-3
+IL-4
+IL-5
+IL-6
+IL-7
+IL-8
+IL-9
+IL-10
+IL-12(p40)
+
+–
+–
+–
+ND
+↓
+–
+–
+↓
+–
+ND
+–
+ND
+ND
+ND
+ND
+↓
+ND
+↓
+ND
+ND
+–
+
+IL-12(p70)
+IL-13
+IL-15
+IL-17
+IP-10
+MCP-1
+MCP-3
+MDC
+MIP-1alpha
+MIP-1beta
+PDGF-AA
+PDGFAB/BB
+RANTES
+CD40L
+siL-2Ralpha
+TGFalpha
+TNFbeta
+VEGFA
+IFN-gamma
+IL-1alpha
+TNFalpha(78)
+TNFalpha(80)
+
+–
+–
+–
+ND
+↓
+↓
+–
+–
+ND
+ND
+↓
+↓
+–
+ND
+ND
+ND
+ND
+–
+ND
+–
+ND
+ND
+
+a
+Samples were run using Multiplexing LASER Bead Technology based on uniquely
+colored bead sets able to recognize up to 100 analytes per well. Human 42-plex 96
+well plates were used to simultaneously detect 42 different cytokine/chemokines per
+sample. Cell culture supernatant from LPS and LPS/P treated HUVECs were run in
+duplicate and average concentrations were calculated by comparing the ﬂuorescent
+intensity of each analyte to a cytokine/chemokine speciﬁc standard curve (0.64 pg/mL–
+10,000 pg/mL). Analyte sensitivities were 0.1 pg/mL–30 pg/mL with most being in the
+0.1 pg/mL–1 pg/mL range. ND = non-detectable; – = no change; ↓ = decreased analyte concentration.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+40
+
+L.M. Goddard et al. / Vascular Pharmacology 59 (2013) 36–43
+
+3.5. Conﬁrmation of cytokine transcript levels following
+progesterone treatment
+In order to conﬁrm the ﬁndings from the global transcriptome
+analysis and the multiplex cytokine array, we more closely examined
+protein and transcript levels following concurrent exposure of
+HUVECs to progesterone and LPS (Figs. 4–6). As predicted, the protein
+levels for IL-6 were signiﬁcantly reduced in the presence of progesterone (Fig. 4A). This correlated with a signiﬁcant decrease in transcript
+levels as early as 1 h after progesterone treatment (Fig. 4B).
+IL-8/CXCL8 showed a similar expression pattern to that of IL-6, but
+regulation by progesterone was not as pronounced (Fig. 5A, D).
+CXCL10/IP-10 RNA levels were negatively regulated by progesterone
+at early time points, yet protein levels were not signiﬁcantly reduced
+until 24 h after treatment (Fig. 5B, E). Interestingly, transcript levels
+of CXCL1/GRO were signiﬁcantly downregulated by progesterone at
+very early time points of 1 and 2 h (Fig. 5F). This correlated with a reduction in protein at 4 and 8 h, yet this phenomenon did not extend
+to 24 h (Fig. 5C).
+Progesterone signiﬁcantly reduced RNA levels of the CCL family
+member, MCP-1/CCL2, yet decreased protein levels did not reach significance (Fig. 6A, C). Alternatively, the CX3C family member, CX3CL1/
+fractalkine, although not found to be signiﬁcantly reduced by RNA-seq
+analysis, did show signiﬁcant reduction in both RNA and protein expression at all times of progesterone treatment (Fig. 6B, D).
+4. Discussion
+Hormones are believed to play an important role in the sexual
+dimorphism underlying diseases with immune etiologies (Gilliver,
+2010; Hughes, 2012; Martocchia et al., 2011). Clearly interdependence
+exists between different hormonal signaling pathways in immune regulation, yet this complexity makes it difﬁcult to assess the contributions
+of individual steroid hormones, particularly in vivo. Although several
+studies have demonstrated the anti-inﬂammatory properties of progesterone within the context of its reproductive functions (Challis et al.,
+2009; Gilliver, 2010; Jones, 2004; King and Critchley, 2010; Red-Horse
+and Drake, 2004; van Mourik et al., 2009), little is understood as to its
+direct cellular and molecular targets with respect to immune regulation.
+As the vascular endothelium is known to mediate leukocyte homing
+and selective extravasation, we hypothesized that progesterone
+signaling might transcriptionally modulate the activation state of the
+endothelium in response to an acute inﬂammatory stimulus. Using unbiased global expression analysis we demonstrated that progesterone
+signaling, via PR, directly suppresses a select group of cytokine and
+chemokines expressed by the endothelium. This reduction was seen
+both under physiological and pathological activation by LPS, indicating
+
+that endothelial cells are also susceptible to anti-inﬂammatory regulation by progesterone.
+Our results indicate that under homeostatic conditions, endothelial
+expression of PR is selective to veins and conspicuously absent from arteries. This exquisite speciﬁcity is consistent with the fact that immune
+trafﬁcking occurs predominantly in venules and lymphatics (Pober and
+Sessa, 2007). Thus, restricted expression allows spatial regulation of PR
+function in response to a systemically distributed ligand. Although PR is
+not constitutively expressed in the endothelium, its focal and sporadic
+expression may be indicative of a tightly regulated and precisely localized function. Although not much is known of the role of PR in the
+endothelium, a select group of in vitro studies have shown that PR can
+inhibit the expression of the endothelial–leukocyte adhesion molecule,
+VCAM-1, and the cytokines IL-8 and MCP-1 (Okada et al., 1998; Otsuki
+et al., 2001; Simoncini, 2004), yet no study has assessed global expression of endothelial genes upon progesterone stimulation.
+To examine the contribution of PR in the vascular endothelium at
+the molecular level, we employed a cell culture based system using
+HUVECs. Using global transcriptome analysis we examined cytokine
+production from the endothelium in the presence of LPS. Of 70 cytokines examined, 29 of these displayed altered expression in the presence of LPS, yet only 15 were considered statistically signiﬁcant. From
+these, 5 were signiﬁcantly downregulated by progesterone (IL-8, IL-6,
+CCL2, CXCL1 and CXCL2/3) while 4 (IL-6, IL-8, CXCL1, and CXCL2)
+were directly bound by PR. These ﬁndings are intriguing as not only
+does the endothelium itself preferentially produce a unique subset
+of cytokines in response to LPS, but only a small proportion of these
+are presumably controlled by PR. Therefore, progesterone may modulate speciﬁc leukocyte subsets in response to an acute inﬂammatory
+event. Indeed, the majority of the direct cytokine/chemokine targets
+of progesterone noted in this study were found to be neutrophil/
+monocyte attractants (Hamilton et al., 2012; Romano et al., 1997).
+Biologically, the local tissue response to withdrawal of progesterone shows many features characteristic of an inﬂammatory response
+(Gilliver, 2010; King and Critchley, 2010; Oertelt-Prigione, 2012).
+Following progesterone decline in the circulation that precedes menstruation, there is a signiﬁcant inﬂux of neutrophils, eosinophils, and
+macrophages into the uterus, which are likely critical for focal inﬂammatory mediated endometrial repair (Henriet et al., 2012). Analysis
+of whole decidual tissue has implicated MCP-1, IL-8, IL-6, MDC,
+fractalkine, eotaxin, and MCP-3 following the decline in progesterone
+levels that initiate menstruation (Angstwurm et al., 1997; Critchley et
+al., 1999; Hamilton et al., 2013; Hannan et al., 2004; Jones, 2004;
+Jones et al., 1997; Zhang et al., 2000). Moreover, IL-8 and MCP-1
+levels as well as monocyte numbers are increased in human decidua
+from women taking the PR inhibitor, mifepristone (Critchley et al.,
+1996). Furthermore, the expression of these two cytokines (both in
+
+Fig. 4. IL-6 repression by progesterone stimulation. (A) Protein expression (pg/μL) of IL-6 determined by cytokine array. HUVECs were treated with LPS (solid bars) or in combination with progesterone (hatched bars) for the indicated times. Graphs depict an average of three biological replicates. *p b 0.01, **p b 0.001. (B) qPCR conﬁrmation of IL-6
+expression. HUVECs were treated with LPS (solid bars) or in combination with progesterone (hatched bars) for the indicated times. Ct values were normalized to GAPDH and
+made relative to PR infected HUVECs in the absence of both LPS and progesterone (red hatched bar). GFP infected cells (ﬁrst three bars) were used as a control and did not respond
+to progesterone. Graphs depict an average of three biological replicates run in triplicate. *p b 0.01, **p b 0.001, ***p b 0.0001, and ****p b 0.00001.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+L.M. Goddard et al. / Vascular Pharmacology 59 (2013) 36–43
+
+41
+
+Fig. 5. Progesterone regulation of CXC chemokine family members. (A-C) Protein expression (pg/μL) of CXCL8/IL-8 (A) CXCL10/IP-10 (B) and CXCL2/GRO (C) as determined by cytokine array. HUVECs were treated with LPS (solid bars) or in combination with progesterone (hatched bars) for the indicated times. Graphs depict an average of three biological
+replicates. *p b 0.01, **p b 0.001, ***p b 0.0001. (D-F) qPCR conﬁrmation of CXCL8/IL-8 (D) CXCL10/IP-10 (E) and CXCL2/GRO (F). HUVECs were treated with LPS (solid bars) or in
+combination with progesterone (hatched bars) for the indicated times. Ct values were normalized to GAPDH and made relative to PR infected HUVECs in the absence of both LPS
+and progesterone (red dotted bar). GFP infected cells (ﬁrst three bars) were used as a control and did not respond to progesterone. Graphs depict an average of three biological
+replicates run in triplicate. ***p b 0.0001, ****p b 0.00001.
+
+vitro and in vivo) was inhibited by progesterone (Jones et al., 1997;
+Kelly et al., 1994; Loudon et al., 2003; Luk et al., 2010).
+Similar to menstruation, proinﬂammatory cytokines also play a
+central role in the mechanisms of term and inﬂammation/infectioninduced preterm parturition (Hamilton et al., 2013; MacIntyre et al.,
+2012; Norman et al., 2007). Cytokines associated with this process
+also include MCP-1, IL-8 and IL-6, in addition to RANTES, and
+MIP-B1 (Hamilton et al., 2012, 2013; Robertson et al., 2010). As progesterone is capable of inhibiting the expression of MCP-1, IL-8, and
+IL-6 in the endothelium, it is possible that the vasculature plays a
+critical role in maintaining an immunosuppressive environment in
+the uterus prior to these immune-mediated events. Naturally, other
+cell types, including stromal and epithelial cells also play key roles
+in immune regulation (Hamilton et al., 2013).
+Interestingly, we determined that GRO/CXCL1/2/3 is a direct target
+of progesterone in the endothelium, yet a role for GRO has not been
+revealed with regard to reproductive immune inﬁltration. Recently,
+progesterone has been found to inhibit expression of GRO in ovarian
+and endometrial cancer cells as well as dendritic cells (Kavandi et al.,
+2012; Zhao et al., 2013). As GRO is a potent chemoattractant for neutrophils, more so than IL-8, suppression of GRO by progesterone may play
+an even stronger role in the inhibition of neutrophil trafﬁcking.
+To conﬁrm that progesterone mediated changes in RNA expression correlated with differential protein production, we performed
+an unbiased bead-based multiplex cytokine array. While all of the
+
+cytokines determined to be transcriptionally modulated following
+RNA-seq analysis were regulated at the protein level, two additional
+cytokines, fractalkine/CX3CL1 and CXCL10/IP-10, were also found to
+be downregulated following analysis of the multiplex array. Subsequent qPCR analysis conﬁrmed this reduction at the RNA level.
+Based on our analysis of the RNA-seq data, CXCL10 did not meet
+the criteria as being signiﬁcantly regulated by LPS, and thus was excluded from further evaluation. In addition, although LPS signiﬁcantly
+modulated CX3CL1 expression, it was not signiﬁcantly altered by progesterone. It is likely that these two cytokines are targets of progesterone, but due to the stringent statistical analysis used for our
+RNA-seq datasets these cytokines were not found to be signiﬁcant.
+5. Conclusion
+The results of this study provide detailed insight into the endothelial cell speciﬁc role of progesterone signaling in the regulation of
+cytokine production. PR directly suppresses the expression of a small
+subset of cytokines both under physiological conditions and following
+stimulation by LPS. These results conﬁrm PR as an anti-inﬂammatory
+agent in the endothelium, with potential for the negative regulation of
+immune cell trafﬁcking into tissues. Understanding the factors and
+cell populations that control immune cells will further clarify gender
+differences in disease as well as dysregulated immune-mediated reproductive processes such as preterm labor.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+42
+
+L.M. Goddard et al. / Vascular Pharmacology 59 (2013) 36–43
+
+Fig. 6. Progesterone regulation of the CC and CX3C family members. (A,B) Protein expression (pg/μL) of CCL2 (A) and CX3CL1/fractalkine (B) as determined by cytokine array.
+HUVECs were treated with LPS (solid bars) or in combination with progesterone (hatched bars) for the indicated times. Graphs depict an average of three biological replicates.
+(C,D) qPCR conﬁrmation of CCL2 (C) and CX3CL1 (D). HUVECs were treated with LPS (solid bars) or in combination with progesterone (hatched bars) for the indicated times. Ct
+values were normalized to GAPDH and made relative to PR infected HUVECs in the absence of both LPS and progesterone (red dotted bar). GFP infected cells (ﬁrst three bars)
+were used as a control and did not respond to progesterone. Graphs depict an average of three biological replicates run in triplicate. *p b 0.01, **p b 0.001, ***p b 0.0001,
+****p b 0.00001.
+
+Conﬂict of interest disclosure
+The authors have no conﬂicting ﬁnancial interest.
+Acknowledgments
+The authors wish to thank the UCLA Vector Core for generation of
+the hPR lentiviral construct. This study was supported by funds from
+the National Institutes of Health, NHLBI, RO1HL74455-01 to MLIA, the
+Ruth L. Kirschstein National Research Service Award (T32HL69766 to
+LMG), by fellowships from the American Heart Association (AHA11PRE7300043 to LMG), by the Leukemia & Lymphoma Society Scholar
+Award (to TO), by the European Union through the European Social
+Fund (Mobilitas Grant No. MJD284 to TO) and funding from the Iris
+Cantor-UCLA Women's Health Center Executive Advisory Board. The
+UCLA Vector Core is supported by JCCC/P30 CA016042 and CURE/P30
+DK041301.
+References
+Adams Waldorf, K.M., Nelson, J.L., 2008. Autoimmune disease during pregnancy and
+the microchimerism legacy of pregnancy. Immunol. Invest. 37, 631–644.
+Angstwurm, M.W., Gärtner, R., Ziegler-Heitbrock, H.W., 1997. Cyclic plasma IL-6 levels
+during normal menstrual cycle. Cytokine 9, 370–374.
+Butts, C., Bowers, E., Horn, J., Shukair, S., Belyavskaya, E., Tonelli, L., Sternberg, E., 2008.
+Inhibitory effects of progesterone differ in dendritic cells from female and male rodents. Gend. Med. 5, 434–447.
+Challis, J.R., Lockwood, C.J., Myatt, L., Norman, J.E., Strauss, J.F., Petraglia, F., 2009. Inﬂammation and pregnancy. Reprod. Sci. 16, 206–215.
+Chen, C., Okayama, H., 1987. High-efﬁciency transformation of mammalian cells by
+plasmid DNA. Mol. Cell. Biol. 7, 2745–2752.
+Critchley, H.O., Kelly, R.W., Lea, R.G., Drudy, T.A., Jones, R.L., Baird, D.T., 1996. Sex steroid
+regulation of leukocyte trafﬁc in human decidua. Hum. Reprod. 11, 2257–2262.
+Critchley, H.O., Jones, R.L., Lea, R.G., Drudy, T.A., Kelly, R.W., Williams, A.R., Baird, D.T.,
+1999. Role of inﬂammatory mediators in human endometrium during progesterone withdrawal and early pregnancy. J. Clin. Endocrinol. Metab. 84, 240–248.
+de Hoon, M.J.L., Imoto, S., Nolan, J., Miyano, S., 2004. Open source clustering software.
+Bioinformatics 20, 1453–1454.
+Gilliver, S.C., 2010. Sex steroids as inﬂammatory regulators. J. Steroid Biochem. Mol.
+Biol. 120, 105–115.
+Gotkin, J.L., Celver, J., McNutt, P., Shields, A.D., Howard, B.C., Paonessa, D.J., Napolitano,
+P.G., 2006. Progesterone reduces lipopolysaccharide induced interleukin-6 secretion
+
+in fetoplacental chorionic arteries, fractionated cord blood, and maternal mononuclear cells. Am. J. Obstet. Gynecol. 195, 1015–1019.
+Hamilton, S., Oomomian, Y., Stephen, G., Shynlova, O., Tower, C.L., Garrod, A., Lye, S.J., Jones,
+R.L., 2012. Macrophages inﬁltrate the human and rat decidua during term and preterm labor: evidence that decidual inﬂammation precedes labor. Biol. Reprod. 86, 39.
+Hamilton, S.A., Tower, C.L., Jones, R.L., 2013. Identiﬁcation of chemokines associated
+with the recruitment of decidual leukocytes in human labour: potential novel targets for preterm labour. PLoS One 8, e56946.
+Hannan, N.J., Jones, R.L., Critchley, H.O.D., Kovacs, G.J., Rogers, P.A.W., Affandi, B.,
+Salamonsen, L.A., 2004. Coexpression of fractalkine and its receptor in normal
+human endometrium and in endometrium from users of progestin-only contraception supports a role for fractalkine in leukocyte recruitment and endometrial
+remodeling. J. Clin. Endocrinol. Metab. 89, 6119–6129.
+Hardy, D.B., Janowski, B.A., Corey, D.R., Mendelson, C.R., 2006. Progesterone receptor
+plays a major antiinﬂammatory role in human myometrial cells by antagonism of
+nuclear factor-kappaB activation of cyclooxygenase 2 expression. Mol. Endocrinol.
+20, 2724–2733.
+Henriet, P., Gaide Chevronnay, H.P., Marbaix, E., 2012. The endocrine and paracrine
+control of menstruation. Mol. Cell. Endocrinol. 358, 197–207.
+Hughes, G.C., 2012. Progesterone and autoimmune disease. Autoimmun. Rev. 11,
+A502–A514.
+Ingegno, M.D., Money, S.R., Thelmo, W., Greene, G.L., Davidian, M., Jaffe, B.M., Pertschuk,
+L.P., 1988. Progesterone receptors in the human heart and great vessels. Lab. Invest.
+59, 353–356.
+Iruela-Arispe, M.L., Rodriguez-Manzaneque, J.C., Abu-Jawdeh, G., 1999. Endometrial
+endothelial cells express estrogen and progesterone receptors and exhibit a tissue
+speciﬁc response to angiogenic growth factors. UMIC 6, 127–140.
+Jones, R.L., 2004. Identiﬁcation of chemokines important for leukocyte recruitment to
+the human endometrium at the times of embryo implantation and menstruation.
+J. Clin. Endocrinol. Metab. 89, 6155–6167.
+Jones, R.L., Kelly, R.W., Critchley, H.O., 1997. Chemokine and cyclooxygenase-2 expression in human endometrium coincides with leukocyte accumulation. Hum. Reprod.
+12, 1300–1306.
+Kaushic, C., Roth, K.L., Anipindi, V., Xiu, F., 2011. Increased prevalence of sexually transmitted viral infections in women: the role of female sex hormones in regulating
+susceptibility and immune responses. J. Reprod. Immunol. 88, 204–209.
+Kavandi, L., Collier, M.A., Nguyen, H., Syed, V., 2012. Progesterone and calcitriol attenuate inﬂammatory cytokines CXCL1 and CXCL2 in ovarian and endometrial cancer
+cells. J. Cell. Biochem. 113, 3143–3152.
+Kelly, R.W., Illingworth, P., Baldie, G., Leask, R., Brouwer, S., Calder, A.A., 1994. Progesterone control of interleukin-8 production in endometrium and chorio-decidual
+cells underlines the role of the neutrophil in menstruation and parturition. Hum.
+Reprod. 9, 253–258.
+King, A.E., Critchley, H.O.D., 2010. Oestrogen and progesterone regulation of inﬂammatory processes in the human endometrium. J. Steroid Biochem. Mol. Biol. 120,
+116–126.
+Krikun, G., Schatz, F., Taylor, R., Critchley, H.O.D., Rogers, P.A.W., Huang, J., Lockwood,
+C.J., 2005. Endometrial endothelial cell steroid receptor expression and steroid
+effects on gene expression. J. Clin. Endocrinol. Metab. 90, 1812–1818.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+L.M. Goddard et al. / Vascular Pharmacology 59 (2013) 36–43
+Langmead, B., Trapnell, C., Pop, M., Salzberg, S.L., 2009. Ultrafast and memory-efﬁcient
+alignment of short DNA sequences to the human genome. Genome Biol. 10, R25.
+Ley, K., Laudanna, C., Cybulsky, M.I., Nourshargh, S., 2007. Getting to the site of
+inﬂammation: the leukocyte adhesion cascade updated. Nat. Rev. Immunol. 7, 678–689.
+Loudon, J.A.Z., Elliott, C.L., Hills, F., Bennett, P.R., 2003. Progesterone represses
+interleukin-8 and cyclo-oxygenase-2 in human lower segment ﬁbroblast cells
+and amnion epithelial cells. Biol. Reprod. 69, 331–337.
+Luk, J., Seval, Y., Ulukus, M., Ulukus, E.C., Arici, A., Kayisli, U.A., 2010. Regulation of
+monocyte chemotactic protein-1 expression in human endometrial endothelial
+cells by sex steroids: a potential mechanism for leukocyte recruitment in endometriosis. Reprod. Sci. 17, 278–287.
+MacIntyre, D.A., Sykes, L., Teoh, T.G., Bennett, P.R., 2012. Prevention of preterm labour
+via the modulation of inﬂammatory pathways. J. Matern. Fetal Neonatal Med. 25
+(Suppl. 1), 17–20.
+Martocchia, A., Stefanelli, M., Cola, S., Falaschi, P., 2011. Sex steroids in autoimmune
+diseases. Curr. Top. Med. Chem. 11, 1668–1683.
+Maybin, J.A., Duncan, W.C., 2004. The human corpus luteum: which cells have progesterone receptors? Reproduction 128, 423–431.
+McCombe, P.A., Greer, J.M., Mackay, I.R., 2009. Sexual dimorphism in autoimmune
+disease. Curr. Mol. Med. 9, 1058–1079.
+McLean, C.Y., Bristor, D., Hiller, M., Clarke, S.L., Schaar, B.T., Lowe, C.B., Wenger, A.M.,
+Bejerano, G., 2010. GREAT improves functional interpretation of cis-regulatory
+regions. Nat. Biotechnol. 28, 495–501.
+Meyer, M.R., Haas, E., Barton, M., 2006. Gender differences of cardiovascular disease:
+new perspectives for estrogen receptor signaling. Hypertension 47, 1019–1026.
+Naldini, L., Blömer, U., Gage, F.H., Trono, D., Verma, I.M., 1996. Efﬁcient transfer, integration, and sustained long-term expression of the transgene in adult rat brains
+injected with a lentiviral vector. Proc. Natl. Acad. Sci. U. S. A. 93, 11382–11388.
+Norman, J.E., Bollapragada, S., Yuan, M., Nelson, S.M., 2007. Inﬂammatory pathways in
+the mechanism of parturition. BMC Pregnancy Childbirth 7 (Suppl. 1), S7.
+Oertelt-Prigione, S., 2012. Immunology and the menstrual cycle. Autoimmun. Rev. 11,
+A486–A492.
+Okada, M., Matsumori, A., Ono, K., Furukawa, Y., Shioi, T., Iwasaki, A., Matsushima, K.,
+Sasayama, S., 1998. Cyclic stretch upregulates production of interleukin-8
+and monocyte chemotactic and activating factor/monocyte chemoattractant
+protein-1 in human endothelial cells. Arterioscler. Thromb. Vasc. Biol. 18,
+894–901.
+Otsuki, M., Saito, H., Xu, X., Sumitani, S., Kouhara, H., Kishimoto, T., Kasayama, S., 2001.
+Progesterone, but not medroxyprogesterone, inhibits vascular cell adhesion
+molecule-1 expression in human vascular endothelial cells. Arterioscler. Thromb.
+Vasc. Biol. 21, 243–248.
+Perrot-Applanat, M., Cohen-Solal, K., Milgrom, E., Finet, M., 1995. Progesterone receptor expression in human saphenous veins. Circulation 92, 2975–2983.
+Pober, J.S., Sessa, W.C., 2007. Evolving functions of endothelial cells in inﬂammation.
+Nat. Rev. Immunol. 7, 803–815.
+Red-Horse, K., Drake, P.M., 2004. Human pregnancy: the role of chemokine networks at
+the fetalmaternal interface. Expert. Rev. Mol. Med. 6, 1–14.
+Robertson, S.A., Christiaens, I., Dorian, C.L., Zaragoza, D.B., Care, A.S., Banks, A.M., Olson,
+D.M., 2010. Interleukin-6 is an essential determinant of on-time parturition in the
+mouse. Endocrinology 151, 3996–4006.
+
+43
+
+Rodríguez-Manzaneque, J.C., Graubert, M., Iruela-Arispe, M.L., 2000. Endothelial cell
+dysfunction following prolonged activation of progesterone receptor. Hum.
+Reprod. 15 (Suppl. 3), 39–47.
+Romano, M., Sironi, M., Toniatti, C., Polentarutti, N., Fruscella, P., Ghezzi, P., Faggioni, R.,
+Luini, W., van Hinsbergh, V., Sozzani, S., Bussolino, F., Poli, V., Ciliberto, G., Mantovani,
+A., 1997. Role of IL-6 and its soluble receptor in induction of chemokines and
+leukocyte recruitment. Immunity 6, 315–325.
+Sakoda, T., Kaibuchi, K., Kishi, K., Kishida, S., Doi, K., Hoshino, M., Hattori, S., Takai, Y.,
+1992. smg/rap1/Krev-1 p21s inhibit the signal pathway to the c-fos promoter/
+enhancer from c-Ki-ras p21 but not from c-raf-1 kinase in NIH3T3 cells. Oncogene
+7, 1705–1711.
+Sakoda, T., Kasahara, N., Hamamori, Y., Kedes, L., 1999. A high-titer lentiviral production
+system mediates efﬁcient transduction of differentiated cells including beating
+cardiac myocytes. J. Mol. Cell. Cardiol. 31, 2037–2047.
+Shields, A.D., Wright, J., Paonessa, D.J., Gotkin, J., Howard, B.C., Hoeldtke, N.J.,
+Napolitano, P.G., 2005. Progesterone modulation of inﬂammatory cytokine production in a fetoplacental artery explant model. Am. J. Obstet. Gynecol. 193, 1144–1148.
+Shynlova, O., Tsui, P., Dorogin, A., Lye, S.J., 2008. Monocyte chemoattractant protein-1
+(CCL-2) integrates mechanical and endocrine signals that mediate term and
+preterm labor. J. Immunol. 181, 1470–1479.
+Simoncini, T., 2004. Differential signal transduction of progesterone and medroxyprogesterone acetate in human endothelial cells. Endocrinology 145, 5745–5756.
+Tibbetts, T.A., Conneely, O.M., O'Malley, B.W., 1999a. Progesterone via its receptor
+antagonizes the pro-inﬂammatory activity of estrogen in the mouse uterus. Biol.
+Reprod. 60, 1158–1165.
+Tibbetts, T.A., DeMayo, F., Rich, S., Conneely, O.M., O'Malley, B.W., 1999b. Progesterone
+receptors in the thymus are required for thymic involution during pregnancy and
+for normal fertility. Proc. Natl. Acad. Sci. U. S. A. 96, 12021–12026.
+Trapnell, C., Pachter, L., Salzberg, S.L., 2009. TopHat: discovering splice junctions with
+RNA-Seq. Bioinformatics 25, 1105–1111.
+Trapnell, C., Williams, B.A., Pertea, G., Mortazavi, A., Kwan, G., van Baren, M.J., Salzberg,
+S.L., Wold, B.J., Pachter, L., 2010. Transcript assembly and quantiﬁcation by RNA-Seq
+reveals unannotated transcripts and isoform switching during cell differentiation.
+Nat. Biotechnol. 28, 511–515.
+van Mourik, M.S.M., Macklon, N.S., Heijnen, C.J., 2009. Embryonic implantation: cytokines,
+adhesion molecules, and immune cells in establishing an implantation environment.
+J. Leukoc. Biol. 85, 4–19.
+Vázquez, F., Rodríguez-Manzaneque, J.C., Lydon, J.P., Edwards, D.P., O'Malley, B.W.,
+Iruela-Arispe, M.L., 1999. Progesterone regulates proliferation of endothelial cells.
+J. Biol. Chem. 274, 2185–2192.
+Zhang, J., Lathbury, L.J., Salamonsen, L.A., 2000. Expression of the chemokine eotaxin
+and its receptor, CCR3, in human endometrium. Biol. Reprod. 62, 404–411.
+Zhang, Y., Liu, T., Meyer, C.A., Eeckhoute, J., Johnson, D.S., Bernstein, B.E., Nusbaum, C.,
+Myers, R.M., Brown, M., Li, W., Liu, X.S., 2008. Model-based analysis of ChIP-Seq
+(MACS). Genome Biol. 9, R137.
+Zhao, Y., Koga, K., Osuga, Y., Izumi, G., Takamura, M., Harada, M., Hirata, T., Hirota, Y.,
+Yoshino, O., Inoue, S., Fujii, T., Kozuma, S., 2013. Cyclic stretch augments production
+of neutrophil chemokines and matrix metalloproteinases-1 (MMP-1) from human
+decidual cells, and the production was reduced by progesterone. Am. J. Reprod.
+Immunol. 69, 454–462.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

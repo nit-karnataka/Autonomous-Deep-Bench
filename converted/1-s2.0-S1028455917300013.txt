@@ -1,0 +1,649 @@
+Taiwanese Journal of Obstetrics & Gynecology 56 (2017) 127e132
+
+Contents lists available at ScienceDirect
+
+Taiwanese Journal of Obstetrics & Gynecology
+journal homepage: www.tjog-online.com
+
+Review Article
+
+Molecular regulation and role of angiogenesis in reproduction
+Momchil Rizov a, Petya Andreeva b, Ivanka Dimova c, *
+a
+
+Medical Centre “ReproBioMed”, Soﬁa, Bulgaria
+SAGBAL “Dr Shterev”, Soﬁa, Bulgaria
+c
+Department of Medical Genetics, Medical University Soﬁa, Soﬁa, Bulgaria
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Accepted 16 June 2016
+
+Angiogenesis is an essential process for proper functioning of the female reproductive system and for
+successful pregnancy realization. The multitude of factors required for physiological angiogenesis and the
+complexity of regulation of their temporalespatial activities contribute to aberrations in human fertilization and pregnancy outcomes. In this study, we reviewed the current knowledge of the temporal
+expression patterns, functions, and regulatory mechanisms of angiogenic factors during foliculogenesis,
+early implantation/placentation and embryo development, as well as recurrent spontaneous abortions.
+Angiogenic factors including vascular endothelial growth factors and angiopoietins have documented
+roles in the development of primordial follicles into mature antral follicles. They also participate in
+decidualization, which is accompanied by the creation of an extensive network of vessels in the stromal
+bed that support the growth of the embryo and the placenta, and maintain early pregnancy. During
+placentation angiogenic and angiomodulatory cytokines, T and B lymphocytes and macrophages affect
+angiogenesis in a context-dependent manner. Defects in angiogenesis at the maternalefetal interface
+contribute to miscarriage in humans. The establishment of more polymorphisms in the genes involved in
+angiogenesis/vasculogenesis, and their pathological phenotype and expression could give opportunities
+for prediction, creating a therapeutic strategy, and treatment of diseases related to female reproductive
+health and problematic conception.
+© 2017 Taiwan Association of Obstetrics & Gynecology. Publishing services by Elsevier B.V. This is an
+open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Keywords:
+angiogenesis in reproduction
+angiopoietin-1 and angiopoietin-2
+uterine endothelial cells
+vascular endothelial growth factor
+
+Introduction
+Angiogenesis is strongly connected to the female reproductive
+system and all its conditionsdfoliculogenesis, decidualization,
+implantation, and embryo development. Similar to these, angiogenesis is a highly organized process of growth (cell proliferation)
+and development (cell differentiation), whereby different molecules are involved, such as hormones, growth factors, receptors,
+cytokines, and immune cells, as well as stem and progenitor cells.
+Angiogenesis and main angiogenic factors
+Blood vessels formation consist of two processes: vasculogenesis and angiogenesis. In the process of vasculogenesis, angioblasts form primitive vessels during embryonic development.
+Capillary plexuses are the ﬁrst primitive and uniform vascular
+
+* Corresponding author. Department of Medical Genetics, Medical University
+Soﬁa, SBALAG “Maichin dom”, 2 Zdrave Street, 1431 Soﬁa, Bulgaria.
+E-mail address: ivanka.i.dimova@gmail.com (I. Dimova).
+
+structures, arising from mesoderm-derived endothelial precursors
+and ﬁnally developing into hierarchically organized arteries, capillaries, and veins. In angiogenesis, new vessels are produced from
+pre-existing ones [1]. Angiogenesis plays a crucial role in many
+physiological and pathological situations such as wound healing,
+tumor growth, adipositas, etc. [2].
+Blood vessels supply all cells and tissues with oxygen (O2),
+which is essential for their function, developmental processes, and
+homeostasis. Rapidly dividing cells increase their O2 demand due to
+the increased metabolism, which results in local hypoxia [3].
+Hypoxia is the primary regulator of neoangiogenesis through the
+activation of hypoxia-inducible factor (HIF)-1a, a highly conserved
+transcription factor that regulates a number of proangiogenic
+genes, including vascular endothelial growth factor (VEGF),
+angiopoietin (ANGPT)-1, ANGPT-2, Tunica interna endothelial cell
+kinase-2 (Tie-2), platelet-derived growth factor (PDGF), basic
+ﬁbroblast growth factor, and monocyte chemoattractant protein-1.
+Stimulation of the HIF pathway induces localized angiogenesis,
+thus ensuring both short- and long-term adaptation to hypoxia.
+
+http://dx.doi.org/10.1016/j.tjog.2016.06.019
+1028-4559/© 2017 Taiwan Association of Obstetrics & Gynecology. Publishing services by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://
+creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+128
+
+M. Rizov et al. / Taiwanese Journal of Obstetrics & Gynecology 56 (2017) 127e132
+
+Various steps occur in angiogenesis from pre-existing blood
+vessels. The most important factors, which induce angiogenesis,
+are VEGF and basic ﬁbroblast growth factor. VEGF induces nitric
+oxide and increases permeability of the pre-existing vessel,
+causing vasodilatation. VEGF also stimulates the motility and
+proliferation of endothelial cells, thus initiating the process of
+capillary sprouting. After their migration to areas of tissue injury,
+endothelial cells begin to proliferate. In the next step, endothelial
+cell proliferation is inhibited and the formation of capillary tubes
+starts. Finally, angiogenesis ends with the recruitment of periendothelial cells to build mature vesselsdpericytes for small
+capillaries and smooth muscle cells for large vessels. The recruitment of pericytes, deposition of structural extracellular matrix
+(ECM) proteins into the subendothelial basement membrane and
+reduced endothelial cell proliferation promote vessel maturationdartery/vein differentiation, branching, and pruning [4].
+PDGF, transforming growth factor beta, and ANGPT-1 and ANGPT2 are needed for vascular stabilization. The differentiation pattern
+of the participating cells is strongly regulated both spatially and
+transitionally.
+ECM proteins participate in vessel sprouting, interacting with
+integrin receptors on endothelial cells. Nonstructural ECM proteins
+(e.g., plasminogen activator and matrix metalloproteinases)
+destabilize celleECM interactions to save continued cell migration,
+while other (e.g., thrombospondin and tenascin C) degrade the ECM
+to permit ingrowth and remodeling of vessels [2].
+As it was mentioned above, the driver of the angiogenesis is
+hypoxia. It induces VEGF production, which then triggers a tyrosine
+kinase pathway leading to the ﬁrst phases of angiogenesis [5]. This
+pathway induces endothelial cell differentiation, proliferation, and
+sprouting. Many further steps are required to direct endothelial
+sprouts into functional, blood-carrying vessels. The generation of
+the lumen and the beginning of blood ﬂow are accompanied by the
+creation of new vascular connections and vessel stabilization [6].
+Better oxygen delivery lowers local VEGF-A expression. Changes in
+the local balance of activating and suppressing angiogenic factors
+occur at this stage [7]. ANGPT-1 promotes stabilization of the
+immature endothelial cell network by upregulation of CD31, and
+vascular endothelial cadherin in endothelial cells. It also regulates
+pericytes and smooth muscle cell growth and differentiation.
+In summary, VEGF-A is a strong mitogenic factor that stimulates the proliferation and migration of vascular endothelial cells
+for the creation and maintenance of vascular structures [8]. In
+contrast, ANGPTs are not mitogenic, but they are fundamental to
+the construction of vessels [9]. As an agonist to the Tie-2 receptor,
+ANGPT-1 helps in maturation and maintaining of blood vessels by
+recruiting periendothelial cells, whereas the endogenous antagonist ANGPT-2 assists in loosening the support cell framework to
+allow for further vascular expansion [10]. The angiolytic (degenerative) effects of ANGPT-2 may become pronounced in the relative absence of VEGF [9].
+
+Angiogenesis and ovarian function
+Vascular system of ovaries differs from that of many other organs by creating and degenerating blood vessels in response to
+physiological conditions, in particular the development of new
+blood vessels from pre-existing ones to ensure the development of
+growing follicles. Primordial follicles and early preantral follicles do
+not have their own blood supply, but rely on blood vessels from the
+surrounding stroma. In the process of development, growing follicles require formation of their individual blood supply. The process of angiogenesis is critical for the function of follicles, including
+steroidogenesis and maturation of the oocyte, and is locally
+
+regulated by angiogenic factors including VEGF (in particular VEGFA) and ANGPTs [11].
+Folliculogenesis is the process of producing a single dominant
+follicle from a pool of growing follicles in the cortex of the ovary and
+involves four major regulatory events: recruitment, preantral follicle development, selection, and atresia. The two main types of
+folliclesdpreantral (primordial, primary, secondary, and tertiary)
+and antral (Graaﬁan, small, medium, large, and preovulatory)dare
+gonadotropin independent and gonadotropin dependent, respectively. Recruitment, the ﬁrst major event in folliculogenesis, occurs
+in primordial follicles nearest the ovarian medulla where blood
+vessels are prominent. It seems that exposure to nutrients or bloodborne regulatory molecules plays a role in the control of recruitment. The cuboidal granulosa cells around the oocyte change their
+shape and begin to express follicle-stimulating hormone (FSH) receptors [12]. FSH-induced changes occur in response to abnormally
+high levels of plasma FSH, because there are blood vessels in the
+vicinity. The transition from a primary to a secondary follicle includes the acquisition of a second layer of granulosa cells and is
+made by the continuing division of the granulosa cells. Most
+importantly, the development of a secondary follicle is a characteristic of the acquisition of a theca layer. The tissue is consisting of
+a layer of stroma-like cells around the basal lamina, and is subsequently differentiated into the inner theca interna and outer theca
+externa. Theca development is accompanied by the neoformation
+of numerous small vessels, by means of angiogenesis. The outer
+layer of stroma cells in the theca externa is differentiated into
+smooth muscle cells innervated by the autonomic nervous system.
+The theca interna is highly vascularized and serves to deliver hormones (e.g., FSH and luteinizing hormone LH), nutrient molecules,
+vitamins, and cofactors required for the growth and differentiation
+of the oocyte and granulosa cells [13].
+It was shown that VEGF is expressed in the theca cells of antral
+follicles and in the granulosa cells nearest the oocyte in preantral
+follicle, but not in granulosa cells of primordial and primary follicles. After in vitro culture, VEGF caused a decrease in the number of
+primordial follicles and a concomitant increase in the number of
+primary follicles that showed growth initiation and reached the
+secondary and preantral stages of development after 7 days and 14
+days, respectively. Follicular viability was also improved in the
+presence of VEGF after 7 days and 14 days in culture [13]. The
+growing follicles produce signiﬁcant quantities of VEGF-A and
+ANGPT-2, but not ANGPT-1, especially after antrum formation.
+VEGF production by slow-growing follicles was inﬂuenced by FSH
+concentration and O2 tension [14]. The production of VEGF is
+related to the stage of follicle growth (antrum formation), but the
+magnitude of VEGF production is inﬂuenced by follicle size and
+activity [15]. In slow-growing follicles, it increased with the
+decrease of O2 concentration, from the typical tissue culture milieu
+(20%) to concentrations commonly found in vascularized tissues
+(5%), in the presence of a high/mid dose of FSH. The current data
+extend the evidence that hypoxic-to-normoxic (0e5%) O2 concentrations promote VEGF production by luteinizing granulosa cells
+collected from women during controlled ovarian stimulation cycles
+or from dispersed luteal cells from monkeys or women [16]. In
+contrast to slow-growing follicles, VEGF production by fastgrowing follicles (the tertiary or large preovulatory follicle) is independent of gonadotropins [17] and O2 [18].
+VEGF promotes follicular development and steroidogenic function by an angiogenic or angiotropic action, as is evident from
+in vivo studies [19e23]. There is also increasing evidence that VEGF
+has extravascular effects in the ovary [8,23,24]. It is worthy to
+investigate other than vascular (extravascular) actions of VEGF in
+the growing follicle, to provide information about VEGF as a
+possible marker for high-quality follicles destined to provide a
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+M. Rizov et al. / Taiwanese Journal of Obstetrics & Gynecology 56 (2017) 127e132
+
+mature oocyte capable of fertilization. Except for VEGF, the other
+important angiogenic factor in ovarian folliculogenesis, suggested
+from the studies in rodent [25], bovine [26], and monkey [27], is
+ANGPT-1 since its mRNA and protein expression increase in antral
+follicles. The high ANGPT-2:ANGPT-1 ratio in developing follicles
+in vitro was found in a granulosa cell study, where nonluteinized
+cells produced more ANGPT-2 than ANGPT-1 during a short-term
+culture. There is also evidence of similar characteristics in the
+follicular ﬂuid of “lead” follicles from controlled ovarian stimulation protocols in women [28,29].
+Another important angiogenic factor for human follicle development is PDGF. Pinkas et al [30]detected PDGF-A and PDGF-B
+protein expression in oocytes and granulosa cells and PDGFR-b in
+granulosa cells from primary follicles. They assumed that binding of
+PDGF ligands to their receptors acts as a signaling factor that triggers
+the activation of primordial follicles. Thе study of Pascuali et al [31]
+demonstrated that inhibition of PDGF signaling by local injection of
+a selective PDGFR inhibitor under the bursa of the rat ovary affects
+follicular development and steroid hormone concentrations by
+decreasing blood vessel formation and stability in the ovaries.
+In summary, folliculogenesis, i.e., the development of primordial
+follicles into mature, antral follicles, requires the creation of a
+vascular network in the follicle wall. Angiogenic factors including
+VEGFs, PDGFs, and ANGPTs have documented roles in this process.
+The concentration of angiogenic factors, similar to other local factors [e.g., anti-Müllerian hormone and steroid hormones (progesterone, androstenedione, and estradiol)] [15,32,33] is inﬂuenced by
+the follicle growth rate.
+Angiogenesis is a critical process not only for follicular growth,
+but also for ovulation and corpus luteum development and function
+[11]. During the folliculareluteal transition, there is a dramatic increase in the expression of ﬁbroblast growth factor 2 (FGF2), which
+occurs in the context of already high levels of VEGF-A. It is a period
+of intense angiogenesis, since the rupture of basement membrane
+after ovulation allows endothelial cells and pericytes to migrate and
+vascularize the luteinizing granulosa cells. Increased blood ﬂow
+and vasodilation are characteristic events in periovulatory follicle,
+but in the same time upregulation of HIF-1a was detected. It was
+assumed that luteinizing hormone surge and human chorionic
+gonadotropin (hCG) are stimulators of the HIF pathway in this
+situation instead of hypoxia [34]. Matrix metalloprotease (MMP)
+family members are highly activated after basement membrane
+breakdown in ovulation, and it was shown that the administration
+of an anti-MMP2 antibody to preovulatory follicles disrupted the
+luteal tissue making it vascular deﬁcient [35]. The most prominent
+feature of luteal angiogenesis is extensive tissue remodeling with a
+valuable role of pericytes in vessel stabilization.
+Angiogenesis and decidualization
+In the initiation of pregnancy, maternal uterine blood vessel
+formation is a basic event for developing embryo. The process is
+preceded by decidualizationdaround the attached blastocyst it is a
+formation of a primary and a secondary decidual zone, important for
+providing a source of growth factors and cytokines for embryo
+development up to Day 10.5 of gestation. Decidualization is a process of differentiation and tissue remodeling. It is determined in the
+late secretory phase of each menstrual cycle following ovulation.
+Decidual cells are modiﬁed stromal cells harboring unique
+biochemical and cellular properties that allow them to support
+embryo implantation. The steroid hormones estrogen and progesterone are critical for the regulation of processes in human endometrium. The action of the steroid hormones are mediated by
+intracellular estrogen receptor and progesterone receptor proteins,
+which are nuclear transcription factors binding to speciﬁc DNA
+
+129
+
+response elements in the promoters of target genes. Critical to this is
+the endometrial expression of several genes closely related to
+angiogenesis. Decidualization is accompanied by the creation of an
+extensive network of vessels in the stromal bed that supports the
+growth of the embryo and the placenta, and maintains early pregnancy. In the study of Laws et al, the expression of connexin 43
+(Cx43), which is a major gap junction protein, was enhanced in
+response to estrogen in the uterine stromal cells that surround the
+implanted embryo during the early stages of pregnancy [36]. Once
+the gap junctions are formed, signaling molecules may pass from the
+donor to the recipient stromal cells via these connections. These
+regulatory molecules, which may include second messengers such
+as cyclic nucleotides, calcium ions, or prostaglandins, are likely to
+impact the gene expression of recipient stromal cells, changing their
+ability to produce VEGF, ANGPT-1, ANGPT-2, and possibly other
+paracrine angiogenic effectors. Lack of the Cx43 gene in the stromal
+cells led to a striking impairment in the development of new blood
+vessels within the stromal compartment, resulting in the arrest of
+embryo growth and early pregnancy loss. Further analysis of this
+phenotypical defect revealed that loss of Cx43 expression resulted in
+aberrant differentiation of uterine stromal cells and impaired production of several key angiogenic factors, including the VEGF. One of
+the earliest signs of the uterine response to its angiogenic stimulus is
+an increase in microvascular permeability at the sites of implantation [37]. VEGF inﬂuences the proliferation and function of uterine
+endothelial cells in the mesometrial region of the pregnant uterus
+where neovascularization mostly occurs.
+The hCG (choriongonadotropin) is another important hormone
+during pregnancy, and it has a large number of effects on uterine
+receptivity [38]. Apart from the classic effects of hCG in the female
+reproductive system, there is growing evidence that hCG can
+induce angiogenesis [39,3]. These studies have shown that hCG is
+able to induce neovascular activity in several in vivo assays [38,39].
+Uterine vascular endothelial cells express functional luteinizing
+hormone/hCG receptors. The hCG can have direct effect on endothelial cells to induce proliferation in some [38], but not all [39],
+in vitro assays and can promote migration and in vitro tube formation [39]. In vivo, the mechanism of hCG-induced angiogenesis
+increased by inducing VEGF expression in endometrial epithelial
+cells and/or directly from trophoblast.
+Angiogenesis in placentation and embryo development
+Many moleculesdproteases, metabolites, ions, growth factors,
+matrix proteins, cytokinesdas well as mechanical forces are
+involved in positive or negative regulation of the processes of
+angiogenesis/vasculogenesis. Trophoblast forms the interface between fetal and maternal tissues, and it is a rich source of angiogenic growth factors [26]. At approximately Day 21, in human
+placentae, chorionic villi are developed and subsequently become
+vascularized via pluripotent mesenchymal precursor cells (vasculogenesis) [10]. Other cells contribute to the vascularization in early
+pregnancy as well. These are uterine natural killer cells. They are
+recruited to the endometrium during the transition of endometrial
+secretory phase and support the deciduas [24]. The main function
+of uterine natural killer cells is the secretion of cytokines that assist
+in successful implantation and placental development [29]. Many
+of those cytokines direct angiogenesis during early pregnancy and
+inﬂuence spiral arteriole modiﬁcations later in pregnancy [29].
+Such angiogenic and angiomodulatory cytokines are ANGPT-1 and
+ANGPT-2, placental growth factor, VEGF-C, interleukin (IL)-18, and
+interferon-g [29]. T and B lymphocytes (and macrophages) surround the embryo after implantation and secrete cytokines [21],
+such as tumor necrosis factor-a, a proinﬂammatory cytokine that
+affects angiogenesis in a context-dependent manner [21]. Tumor
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+130
+
+M. Rizov et al. / Taiwanese Journal of Obstetrics & Gynecology 56 (2017) 127e132
+
+necrosis factor-a upregulates VEGF production in ﬁrst-trimester
+trophoblast, and therefore may indirectly modulate placental
+vascular permeability and angiogenesis [33]. The secretion of Th2
+cytokines (e.g., IL-4, IL-5, IL-6, IL-10, and IL-13) by T lymphocytes
+leads to the release of human placental lactogen and hCG from
+trophoblast [19]. IL-6 is a proangiogenic cytokine, while IL-4 may
+have a positive or negative effect on endothelial cell function [40].
+During implantation, the balance of immune cytokine production
+between mother and fetus determines successful pregnancy, the
+so-called decidual cytokine proﬁle. Macrophages are normal components of the endometrium, and their numbers increase in
+response to pregnancy. A wide variety of macrophages, known as
+Hofbauer cells, are found in the placenta. These cells express
+angiogenic growth factors such as VEGF [3] and IL-17 [41], among
+others. Macrophages can also inhibit angiogenesis through secretion of antiangiogenic mediators, such as a soluble variant of the
+VEGF receptor-1 (sVEGFR-1 or sﬂt-1), which may play an important
+role in pregnancy loss [42].
+It is known that defects in angiogenesis at the maternalefetal
+interface contribute to miscarriage in humans. The expression of
+trophoblastic VEGF was found lower in 8e9 weeks of gestation in
+samples from idiopathic recurrent spontaneous abortions
+compared with samples of gestational age-matched elective terminations [1]. In addition, decidual endothelial cells of recurrent
+abortion samples expressed quantitatively fewer receptors for VEGF
+and ANGPTs [1]. One of the roles for FGF2 in vascular development of
+the human placenta is also likely. FGF2 mRNA expression is high in
+syncytiotrophoblast and cytotrophoblast of ﬁrst-trimester human
+placenta, and FGF2 gene expression is greater in the ﬁrst trimester
+than in the term placenta, suggesting a developmental control of its
+expression. Examples have been shown that FGF2 is released by
+human embryos as well as in gilts. During early human pregnancy,
+ANGPT-1 mRNA and ANGPT-2 mRNA/protein are also expressed in
+the syncytiotrophoblast [28], and there is evidence that ANGPT-2
+mRNA and protein expression also occur in invasive cytotrophoblast [43]. The ANGPT receptors, Tie-1 and Tie-2, have almost
+exclusive expression on endothelial cells in humans and other primate species [44]. ANGPT-1 and ANGPT-2 serve as functional antagonists, because they compete for Tie-2 receptor binding. ANGPT1 binding to Tie-2 promotes vascular maturation by recruiting periendothelial supportive cells, while ANGPT-2 binding leads to
+destabilization of blood vessels, allowing initiation of neovascularization [45]. Fluctuations in ANGPT-1/ANGPT-2 protein ratios can change the angiogenic response. The importance of the
+ANGPTs and their receptors in vascularization in general has
+prompted studies into their aberrant expression levels in human
+miscarriage. Compared with gestational age-matched control tissue, there is a reduced expression of the receptors Tie-1 and Tie-2
+from endometrial vascular endothelia in recurrent miscarriage
+and a low expression of Tie-1 in the trophoblast. There are no data
+for the correlation between ANGPT-2 gene polymorphisms and
+recurrent miscarriages in humans [44]. With recent advances in the
+placental/uterine localization of the ANGPT/Tie-2 receptor axis,
+further clinical studies are necessary to determine its potential role
+to modulate vascularity associated with early implantation.
+Clinical perspectives
+The establishment of more polymorphisms in the genes
+involved in angiogenesis/vasculogenesis, and their pathological
+phenotype and expression could give opportunities for prediction,
+creating a therapeutic strategy and treatment of diseases related to
+female reproductive health and problematic conception.
+There are numerous studies on the role of several genetic polymorphisms in VEGF-A, relating to various cancer diseases, diabetic
+
+retinopathy [46], lateral sclerosis [47], and others. Polymorphisms in
+VEGF genes are often associated with tumor angiogenesis. Several
+single-nucleotide polymorphisms, such as þ405 C/G, e1154 G/A,
+e634 G/C in 50 untranslated region and þ936 C/T, located in the 30
+untranslated region of the VEGF-A gene are often associated with
+different expression of the VEGF gene. This can lead to pathological
+angiogenesis in progressively growing tumor formations, diseases
+of the cardiovascular system, psoriasis, and others [48,49].
+Various studies have been conducted on polymorphisms (þ405
+G/C, þ936 C/T) in the gene for VEGF and their association with
+endometriosis, recurrent implantation failure, spontaneous abortion
+in assisted reproduction, and pathologies associated with the female
+reproductive health [50e52]. Modern methods of analysis of known
+point mutations in the human genome, called single-nucleotide
+polymorphisms, are based on the speciﬁc ampliﬁcation of a region
+of the genome to be tested by classic polymerase chain reaction,
+followed by restriction analysis (restriction fragment length polymorphism RFLP) or sequencing, or by real-time polymerase chain
+reaction, expression analyses, and next generation sequencing.
+Ovarian hyperstimulation syndrome (OHSS) is a severe and
+potentially life-threatening iatrogenic complication due to
+controlled ovarian stimulation during assisted reproductive technology. This condition is characterized by a broad spectrum of
+clinical manifestations. The levels of VEGF and its receptor VEGFR2
+correlate with the severity of OHSS. The severe forms registered
+tense ascites, hemodynamic instability, renal failure, respiratory
+distress syndrome, hemorrhage from ovarian rupture, and thromboembolism. Recent data also suggest that hCG increases the
+expression of VEGF/VEGFR2 in human granulosa cells and raises
+serum VEGF-A [53]. Pregnant patients with OHSS must be monitored very closely because of the increased risk of deterioration due
+to the rapidly rising serum concentrations of hCG. Many authors
+globally indicate VEGF-A þ405 G/C as well as other polymorphisms
+in the gene as a key factor for the development of OHSS. Serum
+levels of VEGF-A are regarded as one of the main predictors of
+OHSS. Probably many other factors take part, directly or indirectly
+through VEGF, including angiotensin II, insulin-like growth factor 1,
+transforming growth factor, PDGF, IL-1, IL-6, and others [54].
+Different polymorphisms and mutations in the VEGF gene itself
+would be reliable biological markers for an ovarian stimulation
+approach. In-depth studies would provide clarity and predictability
+for the opportunity to develop its adequate therapeutic management without endangering the patient's life.
+Conclusion
+It remains to be characterized whether single gene defects
+contribute to aberrations in human pregnancy outcomes. The
+multitude of factors required for physiological angiogenesis and the
+complexity of regulation of their temporalespatial activities suggest that more than one factor may be required for the robust
+angiogenesis associated with successful early pregnancy. Many of
+the factors could also play critical roles in developmental angiogenesis/vasculogenesis within the embryo proper. Clearly, the
+complexities of both of these systems are likely to contribute to the
+high embryo mortality that occurs in human pregnancy. Increased
+knowledge of the temporal expression patterns, functions, and
+regulatory mechanisms of angiogenic factors during early implantation/placentation will enable novel therapeutic advances to be
+made for some forms of human implantation failure and recurrent
+spontaneous abortion.
+Conﬂict of Interest
+None.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+M. Rizov et al. / Taiwanese Journal of Obstetrics & Gynecology 56 (2017) 127e132
+
+Acknowledgments
+This work was supported by SCOPES (grant no. IZ73Z0_152454/
+1), SNSF, Switzerland.
+
+[25]
+
+[26]
+
+References
+[27]
+[1] Carmeliet P. Mechanisms of angiogenesis and arteriogenesis. Nat Med 2000;6:
+389e95.
+[2] Kumar V, Abbas AK, Fausto N, Mitchell R. Robbins basic pathology. 8th ed.
+PAPERBACK Edition; 2007.
+[3] Fong GH. Mechanisms of adaptive angiogenesis to tissue hypoxia. Angiogenesis 2008;11:121e40.
+[4] Kumar TR, Wang Y, Lu N, Matzuk MM. Follicle stimulating hormone is
+required for ovarian follicle maturation but not male fertility. Nat Genet
+1997;15:201e4.
+[5] Folkman J. Fundamental concepts of the angiogenic process. Curr Mol Med
+2003;3:643e51.
+[6] Lubarsky B, Krasnow MA. Tube morphogenesis: making and shaping biological tubes. Cell 2003;112:19e28.
+[7] Adams RH, Alitalo K. Molecular regulation of angiogenesis and lymphangiogenesis. Nat Rev Mol Cell Biol 2007;8:464e78.
+[8] Araújo VR, Duarte AB, Bruno JB, Pinho Lopes CA, de Figueiredo JR. Importance
+of vascular endothelial growth factor (VEGF) in ovarian physiology of mammals. Zygote 2013;21:295e304.
+[9] Fearnley GW. Vascular endothelial growth factor A-stimulated signaling
+from endosomes in primary endothelial cells. Methods Enzymol 2014;535:
+265e92.
+[10] Hazzard TM, Stouffer RL. Angiogenesis in ovarian follicular and luteal development. Baillieres Best Pract Res Clin Obstet Gynaecol 2000;14:883e900.
+[11] Robinson RS, Woad KJ, Hammond AJ, Laird M, Hunter MG, Mann GE.
+Angiogenesis and vascular function in the ovary. Reproduction 2009;138:
+869e81.
+[12] Jones RE. The female reproductive system. Hum Reprod Biol 2006;612:31e3.
+[13] Abdel-Ghani MA, Shimizu T, Suzuki H. Expression pattern of vascular endothelial growth factor in canine folliculogenesis and its effect on the growth
+and development of follicles after ovarian organ culture. Reprod Domest Anim
+2014;49:734e9.
+[14] Xu J, Bernuci MP, Lawson MS, Yeoman RR, Fisher TE, Zelinski MB, et al. Survival, growth, and maturation of secondary follicles from prepubertal, young,
+and older adult rhesus monkeys during encapsulated three-dimensional
+culture: effects of gonadotropins and insulin. Reproduction 2010;140:
+685e97.
+[15] Fisher TE, Molskness TA, Villeda A, Zelinski MB, Stouffer RL, Xu J. Vascular
+endothelial growth factor and angiopoietin production by primate follicles
+during culture is a function of growth rate, gonadotrophin exposure and
+oxygen milieu. Hum Reprod 2013;28:3263e70.
+[16] Tesone M, Stouffer RL, Borman SM, Hennebold JD, Molskness TA. Vascular
+endothelial growth factor (VEGF) production by the monkey corpus luteum
+during the menstrual cycle: isoform-selective messenger RNA expression
+in vivo and hypoxia-regulated protein secretion in vitro. Biol Reprod 2005;73:
+927e34.
+[17] Taylor PD, Hillier SG, Fraser HM. Effects of GnRH antagonist treatment on
+follicular development and angiogenesis in the primate ovary. J Endocrinol
+2004;183:1e17.
+[18] Martinez-Chequer JC. Insulin-like growth factors-1 and -2, but not hypoxia,
+synergize with gonadotropin hormone to promote vascular endothelial
+growth factor-A secretion by monkey granulosa cells from preovulatory follicles. Biol Reprod 2003;68:1112e8.
+[19] Zimmermann RC, Xiao E, Husami N, Sauer MV, Lobo R, Kitajewski J, et al.
+Short-term administration of antivascular endothelial growth factor antibody
+in the late follicular phase delays follicular development in the rhesus monkey. J Clin Endocrinol Metab 2001;86:768e72.
+[20] Zimmermann RC, Xiao E, Bohlen P, Ferin M. Administration of antivascular
+endothelial growth factor receptor 2 antibody in the early follicular phase
+delays follicular selection and development in the rhesus monkey. Endocrinology 2002;14:2496e502.
+[21] Wulff C, Wilson H, Wiegand SJ, Rudge JS, Fraser HM. Prevention of thecal
+angiogenesis, antral follicular growth, and ovulation in the primate by treatment with vascular endothelial growth factor Trap R1R2. Endocrinology
+2002;143:2797e807.
+[22] Celik-Ozenci C, Akkoyunlu G, Kayisli UA, Arici A, Demir R. Localization of
+vascular endothelial growth factor in the zona pellucida of developing ovarian
+follicles in the rat: a possible role in destiny of follicles. Histochem Cell Biol
+2003;120:383e90.
+[23] Roberts AE, Arbogast LK, Friedman CI, Cohn DE, Kaumaya PT, Danforth DR.
+Neutralization of endogenous vascular endothelial growth factor depletes
+primordial follicles in the mouse ovary. Biol Reprod 2007;76:218e23.
+[24] Greenaway J, Connor K, Pedersen HG, Coomber BL, LaMarre J, Petrik J. Vascular
+endothelial growth factor and its receptor, Flk-1/KDR, are cytoprotective in
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+[41]
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+[48]
+[49]
+
+131
+
+the extravascular compartment of the ovarian follicle. Endocrinology
+2004;145:2896e905.
+Abramovich D, Rodriguez Celin A, Hernandez F, Tesone M, Parborell F.
+Spatiotemporal analysis of the protein expression of angiogenic factors and
+their related receptors during folliculogenesis in rats with and without hormonal treatment. Reproduction 2009;137:309e20.
+Hayashi KG, Berisha B, Matsui M, Schams D, Miyamoto A. Expression of mRNA
+for the angiopoietin-tie system in granulosa cells during follicular development in cows. J Reprod Dev 2004;50:477e80.
+Wulff C, Wiegand SJ, Saunders PT, Scobie GA, Fraser HM. Angiogenesis during
+follicular development in the primate and its inhibition by treatment with
+truncated Flt-1-Fc (vascular endothelial growth factor Trap). Endocrinology
+2001;142:3244e54.
+Hurliman AK, Speroff L, Stouffer RL, Patton PE, Lee A, Molskness TA. Changes
+in circulating levels and ratios of angiopoietins during pregnancy but not
+during the menstrual cycle and controlled ovarian stimulation. Fertil Steril
+2010;93:1493e9.
+Nishigaki A, Okada H, Tsuzuki T, Cho H, Yasuda K, Kanzaki H. Angiopoietin 1
+and angiopoietin 2 in follicular ﬂuid of women undergoing a long protocol.
+Fertil Steril 2011;96:1378e83.
+Pinkas H, Fisch B, Rozansky G, Felz C, Kessler-Icekson G, Krissi H, et al.
+Platelet-derived growth factors (PDGF-A and -B) and their receptors in human
+fetal and adult ovaries. Mol Hum Reprod 2008;14:199e206.
+Pascuali N, Scotti L, Abramovich D, Irusta G, Di Pietro M, Bas D, et al. Inhibition
+of platelet-derived growth factor (PDGF) receptor affects follicular development and ovarian proliferation, apoptosis and angiogenesis in prepubertal
+eCG-treated rats. Mol Cell Endocrinol 2015;412:148e58.
+Xu J, Lawson MS, Yeoman RR, Pau KY, Barrett SL, Zelinski MB, et al. Secondary
+follicle growth and oocyte maturation during encapsulated three-dimensional
+culture in rhesus monkeys: effects of gonadotrophins, oxygen and fetuin.
+Hum Reprod 2011;26:1061e72.
+Xu J, Lawson MS, Yeoman RR, Molskness TA, Ting AY, Stouffer RL, et al.
+Fibrin promotes development and function of macaque primary follicles
+during encapsulated three-dimensional culture. Hum Reprod 2013;28:
+2187e200.
+van den Driesche S, Myers M, Gay E, Thong KJ, Duncan WC. HCG up-regulates
+hypoxia inducible factor-1 alpha in luteinized granulosa cells: implications for
+the hormonal regulation of vascular endothelial growth factor A in the human
+corpus luteum. Mol Hum Reprod 2008;14:455e64.
+Gottsch ML, Van Kirk EA, Murdoch WJ. Role of matrix metalloproteinase 2 in
+the ovulatory folliculoeluteal transition of ewes. Reproduction 2002;124:
+347e52.
+Laws MJ, Taylor RN, Sidell N, DeMayo FJ, Lydon JP, Gutstein DE, Bagchi MK,
+Bagchi IC. Gap junction communication between uterine stromal cells plays a
+critical role in pregnancy-associated neovascularization and embryo survival.
+Development 2008;135(15):2659e68.
+Rockwell LC. Inhibition of vascular endothelial growth factor/vascular
+permeability factor action blocks estrogen-induced uterine edema and implantation in rodents. Biol Reprod 2002;67:1804e10.
+Tesarik J, Hazout A, Mendoza C. Luteinizing hormone affects uterine receptivity independently of ovarian function. Reprod Biomed Online 2003;7:
+59e64.
+queux C, Lorquet S, Munaut C, et al.
+Berndt S, d'Hauterive SP, Blacher S, Pe
+Angiogenic activity of human chorionic gonadotropin through LH receptor
+activation on endothelial and epithelial cells of the endometrium. FASEB J
+2006;20:2630e2.
+Naldini A, Pucci A, Bernini C, Carraro F. Regulation of angiogenesis by Th1- and
+Th2-type cytokines. Curr Pharm Des 2003;9:511e9.
+Pongcharoen S, Somran J, Sritippayawan S. Interleukin-17 expression in the
+human placenta. Placenta 2007;28:59e63.
+Girardi G, Yarilin D, Thurman JM, Holers VM, Salmon JE. Complement activation induces dysregulation of angiogenic factors and causes fetal rejection
+and growth restriction. J Exp Med 2006;203:2165e75.
+Hess AP, Hirchenhain J, Schanz A, Talbi S, Hamilton AE, Giudice LC, et al.
+Angiopoietin-1 and -2 mRNA and protein expression in mouse preimplantation embryos and uteri suggests a role in angiogenesis during implantation.
+Reprod Fertil Dev 2006;18:509e16.
+Torry DS, Leavenworth J, Chang M, Maheshwari V, Groesch K, Ball ER, Torry RJ.
+Angiogenesis in implantation. Journal of assisted reproduction and genetics
+2007;24(7):303e15.
+Asahara T, Chen D, Takahashi T, Fujikawa K, Kearney M, Magner M, et al. Tie2
+receptor ligands, angiopoietin-1 and angiopoietin-2, modulate VEGF-induced
+postnatal neovascularization. Circ Res 1998;83:233e40.
+Ray D, Mishra M, Ralph S, Read I, Davies R, Brenchley P. Association of the
+VEGF gene with proliferative diabetic retinopathy but not proteinuria in
+diabetes. Diabetes 2004;53:861e4.
+Achache H, Revel A. Endometrial receptivity markers, the journey to successful embryo implantation. Hum Reprod Update 2006;12:731e46.
+Roskoski R. Vascular endothelial growth factor (VEGF) signaling in tumor
+progression. Crit Rev Oncol Hematol 2007;62:179e213.
+Qi M, Huang X, Zhou L, Zhang J. Four polymorphisms of VEGF
+(þ405C>G, 460T>C, 2578C>A, and 1154G>A) in susceptibility to psoriasis: a meta-analysis. DNA Cell Biol 2014;33:234e44.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+132
+
+M. Rizov et al. / Taiwanese Journal of Obstetrics & Gynecology 56 (2017) 127e132
+
+[50] Almawi WY. Relationship between VEGFA polymorphisms and serum VEGF
+protein levels and recurrent spontaneous miscarriage. Hum Reprod 2013;28:
+2628e35.
+[51] Boudjenah R. Associations between Individual and combined polymorphisms
+of the TNF and VEGF genes and the embryo implantation rate in patients
+undergoing in vitro fertilization (IVF) programs. PLoS One 2014;9:108e287.
+[52] Simon A, Laufer N. Assessment and treatment of repeated implantation failure
+(RIF). J Assist Reprod Genet 2012;29:1227e39.
+
+[53] Nouri K, Haslinger P, Szabo L, Sator M, Schreiber M, Schneeberger C, et al.
+Polymorphisms of VEGF and VEGF receptors are associated with the occurrence of ovarian hyperstimulation syndrome (OHSS)da retrospective caseecontrol study. J Ovarian Res 2014;7:54.
+[54] Geva E, Jaffe RB. Role of vascular endothelial growth factor in ovarian physiology and pathology. Fertil Steril 2000;74:429e38.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

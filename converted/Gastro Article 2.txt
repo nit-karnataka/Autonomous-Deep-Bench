@@ -1,0 +1,463 @@
+Journal of Liver Research, Disorders & Therapy
+
+Correlation of Quantitative HbsAg with Quantitative HBV
+DNA in Different Phases of Chronic Hepatitis B (CHB)
+Patients
+Research Article
+
+Abstract
+Background: Quantitative HBsAg (qHBsAg) level is increasingly recognized as
+an important marker in the course of HBV infection; however, its role in natural
+history of disease is still unclear.
+
+Aim: To study the baseline serum qHBsAg level and its association with
+quantitative HBV DNA levels in different phases of Indian chronic hepatitis B
+(CHB) patients.
+
+Materials: We conducted cross-sectional study of consecutive 120 CHB patients
+(mean age 37 [SD 13] years, 67% males). HBV DNA was measured by RT PCR and
+serum qHBsAg levels by Abott Architect Assay.
+Results: 90.8% were HBe-negative patients. Median serum qHBsAg of study
+cohort was 3.74 log10 IU/mL. Overall correlation between qHBsAg levels and
+HBV DNA levels was weak (spearmen r= 0.298) and also in HBe-negative patients
+(r= 0.179). Patient having qHBsAg/HBV DNA ratio > 49.09 have shown good
+correlation between qHBsAg levels and HBV DNA levels.
+Conclusion: Quantitative HBsAg level was widely distributed among the different
+phases of CHB. Serum qHBsAg may not replace serum HBV DNA test in majority
+of adult CHB population which are mainly in HBe-negative low replicate stage.
+
+Volume 1 Issue 3 - 2016
+
+Hrishikesh Samant1*, Anand Joshi1, Philip
+Abraham1, Devendra Desai1, Tarun Gupta1,
+Deshpande A2 and Forum Malde2
+Division of Gastroenterology, P.D. Hinduja National Hospital
+and Medical Research Centre, India.
+2
+Department of blood bank medicine, P.D. Hinduja National
+Hospital and Medical Research Centre, India.
+1
+
+*Corresponding author: Hrishikesh Samant, Division of
+Gastroenterology, P.D. Hinduja National Hospital and Medical
+Research Centre, Veer Savarkar Marg, Mahim, Mumbai, India
+400 016, Tel: 4023785304; Email:
+Received: November 22, 2015 | Published: January 09,
+2016
+
+Keywords: Chronic hepatitis B; Quantification HBsAg; HBV DNA; Correlation
+
+Abbreviations: CHB: Chronic Hepatitis B; qHBsAG: Quantitative
+
+HBsAg; CCC: Covalently Closed Circular; HBsAg: Hepatitis B
+Surface Antigen; IT: Immune Tolerant; ULN: Upper Limit Normal;
+IC: Immune Clearance; LR: Low Replicative; ENH: HBeAg-Negative
+Hepatitis;
+
+Introduction
+
+Hepatitis B continues to be a major health problem across the
+world, especially in developing countries. As we know the test for
+hepatitis B surface antigen (HBsAg) was introduced more than 20
+years ago, due to lack of appropriate standardisation HBsAg has
+long been used as a qualitative marker for diagnosis of hepatitis
+B [1]. Recently, an automated chemiluminescent micro particle
+immunoassay for detection of HBsAg became available in India
+and offered more reliable quantification of HBsAg [2]. Since HBsAg
+levels correlate with intrahepatic covalently closed circular (CCC)
+HBV DNA, the surrogate marker of the infected cell, it appears that
+serum HBsAg levels may be a valuable addition to HBV DNA in
+the management of patients with chronic hepatitis B (CHB) [3,4].
+
+New data on HBsAg quantification (qHBsAg) is emerging, and
+it is becoming apparent that information on HBsAg levels can add
+to our understanding of both the natural history of the disease
+and its response to treatment. Recent studies have described
+the clinical utility of HBsAg quantification [5-8]. Few studies
+have compared quantitative HBsAg and HBV DNA during natural
+
+Submit Manuscript | http://medcraveonline.com
+
+history of the disease. Results of these are conflicting. Studies by
+Kuhns et al. [9] and Mukherjee et al. [10] had shown no correlation
+between qHBsAg and HBV DNA, while Ozdil et al. [11] reported
+a negative correlation between two. There is paucity of data
+regarding serum HBsAg levels in different phases of treatmentnaïve chronic hepatitis B.
+
+The aim of our study was to learn more about the kinetics
+of serum HBsAg levels and its correlation with HBV DNA levels
+during the natural history of infection in Indian chronic hepatitis
+B patients.
+
+Materials and Methods
+
+We studied all consecutive treatment-naïve adult HBsAgpositive subjects presented between July 2011 and July 2012
+in the Gastroenterology department of tertiary-care hospital.
+Patients with HIV or anti-HCV positivity, history of significant
+alcohol intake (more than 20 g alcohol/day) or hepatotoxic drugs
+within last 6 months prior to enrolment, history chronic liver
+disease due to causes other than hepatitis B or undetectable HBV
+DNA were excluded.
+Demographic features and clinical presentations were noted
+in a spreadsheet. All subjects underwent liver biochemistry
+using a Beckman kit and auto-analyser (Beckman Coulter,
+Inc, USA). Normal ALT was defined as up to 40 IU/L as per the
+manufacturer’s recommendation; values more than 40 IU/L were
+
+J Liver Res Disord Ther 2016, 1(3): 00014
+
+Copyright:
+©2016 Samant et al.
+
+Correlation of Quantitative HbsAg with Quantitative HBV DNA in Different Phases of
+Chronic Hepatitis B (CHB) Patients
+
+taken as elevated. Serological tests have done include HBeAg and
+anti-HBe using the mini-VIDAS kit (BioMerieux, Inc, USA). Test for
+HBV DNA was done using real-time polymerase chain reaction
+(COBAS TaqMan; Roche Diagnostics, Indianapolis, IN, USA); the
+lower limit of detection was 0.4 IU/mL. HBsAg quantification
+(qHBsAg) was done by Abbott Architect assay (Dr. Lal PathlabsNational reference lab at New Delhi, India). All patients were
+counselled and advised to have family members and household
+contacts screened for HBsAg.
+
+The chronic hepatitis B phase was determined for each patient
+after evaluating liver function test over one year, HBe antigen
+status and HBV DNA levels as: Immune tolerant (IT) phase,
+defined as HBeAg positive, high viral load ( > 20000 IU/ml), serum
+ALT <2X upper limit normal (ULN), Immune clearance (IC) phase,
+defined as HBeAg positive, HBV DNA > 20000 IU/ml, serum ALT
+>2 X ULN, Low replicative (LR) phase, defined as HBeAg negative,
+HBV DNA <2000 IU/mL, normal serum ALT and HBeAg-negative
+hepatitis (ENH) phase, defined as HBeAg negative, HBV DNA
+>2000 IU/mL, serum ALT >2 X ULN. Correlation between HBV
+DNA and quantitative HBsAg was studied within each phase.
+
+Statistical methods
+
+Numerical variables are represented in the form of mean as
+well as median or inter-quartile range whenever applicable.
+Table 1: Baseline characteristics in the four phases.
+
+Qualitative data are represented by means of frequency and
+percentage. Correlation was analysed using the non-parametric
+two-tailed Spearman rank correlation test where variables are not
+normally distributed. All p values less than 0.05 are considered
+significant. Numerical data were calculated using Microsoft Excel
+and analysed using SPSS version 16 software package (SPSS, Inc.,
+Chicago, IL, USA).
+
+Results
+
+A total of 120 treatment-naïve HBsAg-positive patients (80
+men, 66.6%; aged 25 to 49, mean 37) were evaluated during
+the study period. Cirrhosis was present in 9 and hepatocellular
+carcinoma was diagnosed in 2 (1.6%) patients on Imaging.
+Ultrasonography findings were normal in 96 (80%) subjects.
+During screening of family members, HBsAg positivity was found
+in 24 (20%) subjects.
+
+On serological testing, of the 120 HBsAg-positive subjects, 109
+(90.8%) were HBe-negative and 11 (9.6%) were HBe-positive.
+On further classifying into phases of chronic hepatitis B, 4 (3.3%)
+subjects were in immune-tolerant phase, 7 (5.8%) in immunereactive phase, 96 (80%) in low-replicative phase, and 13 (10.8%)
+had HBe-negative hepatitis. The male female ratio, mean age, and
+the mean ALT values, median quantitative HBV DNA (IU/ml) and
+median quantitative HBsAg (IU/ml) are shown in Table 1.
+
+Immune Tolerant
+(n=4)
+
+Immune Reactive
+( n=7)
+
+Low Replicative
+( n=96)
+
+HBe-Negative Hepatitis
+( n=13)
+
+28.2 ±13.6
+
+39.5 ±15.6
+
+36.2 ±12.2
+
+42.2 ±12.9
+
+Median HBV DNA
+(IU/ml)
+
+41 ±14
+
+373 ± 676.2
+
+33.5 ± 18.2
+
+42.2 ± 66.5
+
+9.6 (0.089 to 170)
+X 106
+
+1.7 ( 0.21 to 1.7) X
+108
+
+4.64 (0.02 to 157)
+X 102
+
+5.15 (0.30 to 200) X 104
+
+Median qHBsAg
+( IU/ml)
+
+4.24 log10 IU/ml (0.29
+to 11.5) X 104 IU/ml
+
+4.06 log10 IU/ml
+(0.025 to 12.5) X 104
+IU/ml
+
+3.71 log10 IU/ml
+(0.1 to 537) X 104
+IU/ml
+
+3.78 log10 IU/ml
+(0.10 to 2.54) X 104 IU/ml
+
+Age (yr)
+Gender (M:F)
+ALT (IU/L)
+
+3:1
+
+6:1
+
+Median quantitative HBsAg of study population was 3.74
+log10 IU/ml (range -0.1 to 5378468 IU/ml). Median quantitative
+HBsAg in cirrhosis (n=9) patients was 3.41 log10 IU/ml (range
+-0.1 to 26153 IU/ml). It was lower than median HBsAg of study
+population, however it did not reached statistical significance
+(p=0.72). Median HBsAg levels among subjects with family
+history of hepatitis B (n=24) was 3.74 log10 IU/ml (range -89.67 to
+125000 IU/ml) and was similar to median HBsAg of study group.
+
+2/5
+
+63:33
+
+8:5
+
+There was a modest negative correlation between age
+and quantitative serum HBsAg levels (r = -0.39, p<0.05). The
+correlation between ALT and HBsAg did not pass the test of
+statistical significance (r= 0.045, p>0.05).
+
+Overall correlation between serum quantitative HBsAg levels
+and serum HBV DNA levels was weak, with correlation coefficient
+0.29 (Figure 1). In HBe-negative patients, the correlation was
+weak (r= 0.17), however the correlation was strong (r= 0.87)
+among small number of HBe-positive subjects (Figure 2 & 3).
+
+Citation: Samant H, Joshi A, Abraham P, Desai D, Gupta T, et al. (2016) Correlation of Quantitative HbsAg with Quantitative HBV DNA in Different Phases
+of Chronic Hepatitis B (CHB) Patients. J Liver Res Disord Ther 1(3): 00014. DOI: 10.15406/jlrdt.2016.01.00014
+
+Correlation of Quantitative HbsAg with Quantitative HBV DNA in Different Phases of
+Chronic Hepatitis B (CHB) Patients
+
+Copyright:
+©2016 Samant et al.
+
+3/5
+
+Figure 1: Overall correlation of HBsAg and HBV DNA.
+
+Figure 2: Correlation of HBsAg and HBV DNA in HBe-positive CHB.
+
+The ratio between HBV DNA and HBsAg ranged from 0.00051
+to 62658.4 and the ratio increased exponentially over 49.09. We
+took a cut-off ratio of 49.09 (87.5th percentile of total HBV DNAto-quantitative HBsAg ratio) to divide our cohort in to two groups.
+This was similar to a Korean study by Lee et al. [12]. We observed
+
+that the correlation between HBV DNA and HBsAg in the group
+that showed HBV DNA-to-HBsAg ratio higher than 49.09 was
+stronger (Spearman r=0.83, p<0.001, n=15) than those with ratio
+at or below 49.09 (Spearman r= 0.28, p<0.001, n= 105). This
+group mainly consist of HBe-positive subjects.
+
+Citation: Samant H, Joshi A, Abraham P, Desai D, Gupta T, et al. (2016) Correlation of Quantitative HbsAg with Quantitative HBV DNA in Different Phases
+of Chronic Hepatitis B (CHB) Patients. J Liver Res Disord Ther 1(3): 00014. DOI: 10.15406/jlrdt.2016.01.00014
+
+Correlation of Quantitative HbsAg with Quantitative HBV DNA in Different Phases of
+Chronic Hepatitis B (CHB) Patients
+
+Copyright:
+©2016 Samant et al.
+
+4/5
+
+Figure 3: Correlation of HBsAg and HBV DNA in HBe-negative CHB.
+
+Discussion
+Serum HBV DNA level is commonly used to monitor treatment
+response in the management of chronic hepatitis B, but the test
+is expensive [13,14]. The clinical impact of HBsAg quantification
+has recently drawn attention. Standardised quantitative serum
+HBsAg test is now available, and is relatively simple and less
+expensive and can be performed in a fully automated manner.
+Quantitative serum HBsAg correlates well with intrahepatic HBV
+viral DNA [4,15].
+
+We found the overall correlation between serum HBsAg and
+HBV DNA weak. There was a tendency for better correlation
+between HBsAg and HBV DNA in HBe-positive patients. This has
+corroborated the findings of recent study in similar cohort by
+Ramchandran et al. [16]. However, the number of HBe-positive
+patients fulfilling the inclusion criteria was only eleven. The
+correlation is weak in the low-replicative phase, which forms
+the majority of our chronic hepatitis B study population. Similar
+results were shown by Brunetto et al. [17] in their study of
+HBe-negative genotype D patients. Although we did not test for
+genotype, we expect that most samples would be of HBV genotype
+D, because unpublished data from our hospital reported this
+genotype as the most common. This suggests that quantitative
+HBsAg is more related with HBV DNA levels in initial replicative
+phase than in later non-replicative phases.
+It is difficult to compare amongst phases of chronic hepatitis
+B as numbers in Immune-tolerant and Immune-reactive phases
+were small but it’s worth mentioning that median serum HBsAg
+levels in our study were higher in the immune-tolerant and
+immune-reactive phases and lower in the low-replicative and
+
+e-negative hepatitis phase. Earlier similar results have been
+reported in a study from Europe mainly involving genotypes A
+and D1 and also in two Korean studies of genotype C [18,19]
+
+In our study group if patients were divided in two groups by
+HBV DNA-to-HBsAg ratio, with a cut-off value of 49.09 (87.5th
+percentile), the correlation between quantitative HBsAg and HBV
+DNA in patients having ratio>49.09 was stronger compared to
+those having ratio less or equal to 49.09. This is also because Hbepositive subjects mainly had ratio >49.09.
+
+The study has limitation that the number of HBe-positive
+patients fulfilling the inclusion criteria was few. This has restricted
+us from carrying any major presumptions from our HBe-positive
+patient cohort. Since we enrolled consecutive adult subjects, it
+explains the low rate of HBe positivity in our study group but also
+mimics real time scenario.
+
+Conclusion
+
+In conclusion, quantitative serum HBsAg test is less likely to
+replace serum HBV DNA test in the low replicative stage of chronic
+hepatitis B which forms our majority of adult CHB population.
+
+References
+1.	
+2.	
+
+Jaroszewicz J, Calle Serrano B, Wursthorn K, Deterding K, Schlue J, et
+al. (2010) Hepatitis B surface antigen (HBsAg) levels in the natural
+history of hepatitis B virus (HBV) infection- a European perspective.
+J Hepatol 52(4): 514-522.
+
+Deguchi M, Yamashita N, Kagita M, Asari S, Iwatani Y, et al. (2004)
+Quantitation of hepatitis B surface antigen by an automated
+chemiluminescent micro particle immunoassay. J Virol Methods
+115(2): 217-222.
+
+Citation: Samant H, Joshi A, Abraham P, Desai D, Gupta T, et al. (2016) Correlation of Quantitative HbsAg with Quantitative HBV DNA in Different Phases
+of Chronic Hepatitis B (CHB) Patients. J Liver Res Disord Ther 1(3): 00014. DOI: 10.15406/jlrdt.2016.01.00014
+
+Correlation of Quantitative HbsAg with Quantitative HBV DNA in Different Phases of
+Chronic Hepatitis B (CHB) Patients
+
+3.	
+4.	
+5.	
+6.	
+
+7.	
+8.	
+9.	
+
+Wursthorn K, Lutgehetmann M, Dandri M, Volz T, Buggisch P, et al.
+(2006) Peg-interferon alpha-2b plus adefovir induce strong cccDNA
+decline and HBsAg reduction in patients with chronic hepatitis B.
+Hepatology 44(3): 675-684.
+
+Thompson AJ, Nguyen T, Iser D, Ayres A, Jackson K, et al. (2010)
+Serum hepatitis B surface antigen and hepatitis B e antigen titers:
+disease phase influences correlation with viral load and intra hepatic
+hepatitis B virus markers. Hepatology 51(6): 1933-1944.
+MoucariR, Mackiewicz V, Lada O, Ripault MP, Castelnau C, et al.
+(2009) Early HbsAg drop: A strong predictor of sustained virological
+response to peglated interferon alfa-2a in HbeAg-negative patients.
+Hepatology 49(4): 1151-1157.
+
+Marcellin P, Piratvisuth T, Brunetto MR, Bonino F, Farci P, et al. (2010)
+On-treatment decline in serum HBsAg levels predicts sustained
+immune control 1 year post treatment and subsequent HBsAg
+clearance in HBeAg negative hepatitis B virus infected patients
+treated with peginterferon alfa. Hepatol Int 4: 151-156.
+
+Wursthorn K, Jung M, Riva A, Goodman ZD, Lopez P, et al. (2010)
+Kinetics of Hepatitis B surface antigen decline during 3 years of
+telbivudine treatment in hepatitis B e antigen-positive patients.
+Hepatology 52(5): 1611-1620.
+
+Sonneveld MJ, Rijckborst V, Boucher CA, Hansen BE, Janssen HL
+(2010) Prediction of sustained viral response to Pegylated interferon
+alfa-2b for HBeg positive chronic hepatitis B using on-treatment
+HBsAg decline. Hepatology 52(4): 1251-1257.
+Kuhns MC, Kleinman SH, McNamara AL, Rawal B, Glynn S, et al.
+(2004) Lack of correlation between HBsAg and HBV DNA levels in
+blood donors who test positive for HBsAg and anti-HBc: Implications
+for future HBV screening policy. Transfusion 44(9): 1332-1339.
+
+10.	 Mukherjee RM, Reddy PB, Arava J, Rao P, Mitnala S, et al. (2010)
+Relationship between serum HBsAg levels, HBV DNA level, and
+peripheral immune cells in patients with chronic hepatitis B virus
+infection, Hepatic Medicine: Evidence and Research. Hepat Med 2:
+157-162.
+
+Copyright:
+©2016 Samant et al.
+
+5/5
+
+11.	 Ozdil B, Cosar AM, Akkiz H, Sandikci MU, Kece C (2009) Negative
+correlation between viral load and HBsAg levels in chronic HBVinfected patients. Arch Virol 154(9): 1451-1455.
+12.	 Lee JH, Kim SJ, Ahn SH, Lee J, Park Y, et al. (2010) Correlation between
+quantitative serum HBsAg and HBV DNA test in Korean patients who
+showed high level of HbsAg. J Clin Pathol 63(11): 1027-1031.
+
+13.	 Gish RG, Locarnini SA (2006) Chronic hepatitis B: Current testing
+strategies. Clin Gastroenterol Hepatol 4(6): 666-676.
+14.	 Andersson KL, Chung RT (2009) Monitoring During and After
+Antiviral Therapy for Hepatitis B. Hepatology 49(5 suppl): S166173.
+
+15.	 Chan HLY, Wong VWS, Tse AML, Tse CH, Chim AM, et al. (2007) Serum
+hepatitis B surface antigen quantitation can reﬂect hepatitis B virus
+in the liver and predict treatment response. Clin Gastroenterol
+Hepatol 5(12): 1462-1468.
+16.	 Ramachandran J, Ismail AM, Chawla G, Fletcher GJ, Goel A, et al.
+(2014) Serum HBsAg quantification in treatment-naïve Indian
+patients with chronic hepatitis B. Indian J Gastroenterol. 33(2): 131135.
+
+17.	 Brunetto MR, Oliveri F, Colombatto P, Moriconi F, Ciccorossi P, et al.
+(2010) Hepatitis B surface antigen serum levels help to distinguish
+active from inactive hepatitis B virus genotype D carriers.
+Gastroenterology 139: 483-490.
+18.	 Yoo SH, Jang JW, Kwon JH, Chang UI, Nam SW, et al. (2010) Significance
+of hepatitis B surface antigen levels in the natural history and disease
+stage of hepatitis B virus-related liver diseases in Korea [Abstract].
+Korean J Hepatol 16(S3): S32.
+
+19.	 Kim YJ, Cho HJ, Choi MS, Lee JH, Koh KC, et al. (2010) Association
+between quantitative HBsAg and serum HBV DNA levels in chronic
+hepatitis B patients [Abstract]. Liver Int 31(6): 817-831.
+
+Citation: Samant H, Joshi A, Abraham P, Desai D, Gupta T, et al. (2016) Correlation of Quantitative HbsAg with Quantitative HBV DNA in Different Phases
+of Chronic Hepatitis B (CHB) Patients. J Liver Res Disord Ther 1(3): 00014. DOI: 10.15406/jlrdt.2016.01.00014
+
+

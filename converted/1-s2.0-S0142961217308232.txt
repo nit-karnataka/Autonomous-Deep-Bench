@@ -1,0 +1,936 @@
+Biomaterials 158 (2018) 95e105
+
+Contents lists available at ScienceDirect
+
+Biomaterials
+journal homepage: www.elsevier.com/locate/biomaterials
+
+Heterocellular 3D scaffolds as biomimetic to recapitulate the tumor
+microenvironment of peritoneal metastases in vitro and in vivo
+Emiel De Jaeghere a, b, 1, Elly De Vlieghere a, b, 1, Jasper Van Hoorick c,
+Sandra Van Vlierberghe c, Glenn Wagemans a, Leen Pieters d, Elodie Melsens e,
+Marleen Praet f, Jo Van Dorpe b, f, Matthieu N. Boone g, Rouba Ghobeira h,
+Nathalie De Geyter h, Marc Bracke a, b, Christian Vanhove b, i, Sara Neyt j, Geert Berx b, k,
+Bruno G. De Geest b, l, Peter Dubruel c, Heidi Declercq b, d, Wim Ceelen b, e,
+Olivier De Wever a, b, *
+a
+
+Laboratory Experimental Cancer Research (LECR), Ghent University, De Pintelaan 185, 9000 Ghent, Belgium
+Cancer Research Institute Ghent (CRIG), Ghent University, De Pintelaan 185, 9000 Ghent, Belgium
+Polymer Chemistry & Biomaterials Group, Centre of Macromolecular Chemistry, Ghent University, Krijgslaan 281, S4-Bis, 9000 Ghent, Belgium
+d
+Department of Basic Medical Sciences, Ghent University, De Pintelaan 185, 9000 Ghent, Belgium
+e
+Experimental Surgery Lab, Department of Surgery, Ghent University, De Pintelaan 185, 9000 Ghent, Belgium
+f
+Department of Pathology, Ghent University Hospital, Ghent University, De Pintelaan 185, 9000 Ghent, Belgium
+g
+Department of Physics and Astronomy, Ghent University, Proeftuinstraat 86, 9000 Ghent, Belgium
+h
+Department of Applied Physics, Research Unit Plasma Technology (RUPT), Ghent University, Sint-Pietersnieuwstraat 41, B4, 9000 Ghent, Belgium
+i
+Institute Biomedical Technology, Ghent University, De Pintelaan 185, 9000 Ghent, Belgium
+j
+MOLECUBES NV, Ottergemsesteenweg-Zuid 808, 325 Ghent, Belgium
+k
+Department of Biomedical Molecular Biology, Unit of Molecular and Cellular Oncology, Inﬂammation Research Center, VIB, Technologiepark Zwijnaarde
+927, 9052 Ghent, Belgium
+l
+Department of Pharmaceutics, Ghent University, Ottergemstesteenweg 460, 9000 Ghent, Belgium
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 24 October 2017
+Received in revised form
+20 December 2017
+Accepted 21 December 2017
+Available online 23 December 2017
+
+Peritoneal metastasis is a major cause of death and preclinical models are urgently needed to enhance
+therapeutic progress. This study reports on a hybrid hydrogel-polylactic acid (PLA) scaffold that mimics
+the architecture of peritoneal metastases at the qualitative, quantitative and spatial level. Porous PLA
+scaffolds with controllable pore size, geometry and surface properties are functionalized by type I
+collagen hydrogel. Co-seeding of cancer-associated ﬁbroblasts (CAF) increases cancer cell adhesion, recovery and exponential growth by in situ heterocellular spheroid formation. Scaffold implantation into
+the peritoneum allows long-term follow-up (>14 weeks) and results in a time-dependent increase in
+vascularization, which correlates with cancer cell colonization in vivo. CAF, endothelial cells, macrophages and cancer cells show spatial and quantitative aspects as similarly observed in patient-derived
+peritoneal metastases. CAF provide long-term secretion of complementary paracrine factors implicated
+in spheroid formation in vitro as well as in recruitment and organization of host cells in vivo. In
+conclusion, the multifaceted heterocellular interactions that occur within peritoneal metastases are
+reproduced in this tissue-engineered implantable scaffold model.
+© 2017 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Tissue engineering
+Hybrid scaffolds
+Tumor microenvironment
+Hydrogels
+Cancer-associated ﬁbroblasts
+Biomimetics
+
+1. Introduction
+Peritoneal metastases originating from ovarian and colorectal
+
+* Corresponding author.
+E-mail address: Olivier.dewever@ugent.be (O. De Wever).
+1
+Emiel De Jaeghere and Elly De Vlieghere contributed equally.
+
+cancer are common and are increasingly regarded as a treatable
+locoregional progression of disease, rather than a manifestation of
+systemic disease. This new insight resurged an interest in intraperitoneal chemotherapy after surgical cytoreduction [1]. Since
+reintroduction of intraperitoneal chemotherapy, there is a trend
+toward long-term survival and even disease cure, with reported 5year survival rates as high as 50% [2,3]. Although intraperitoneal
+
+https://doi.org/10.1016/j.biomaterials.2017.12.017
+0142-9612/© 2017 Elsevier Ltd. All rights reserved.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+96
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+
+chemotherapy has encouraging efﬁcacy, its major limiting factor is
+the very poor tissue penetration. Accordingly, there is limited survival beneﬁt from intraperitoneal chemotherapy for patients with
+residual tumor nodules exceeding the size of 5.0 mm for ovarian
+cancer and 2.5 mm for colorectal cancer [4,5]. Another important
+point to be emphasized is that the peritoneal tumor microenvironment, mainly composed of cancer-associated ﬁbroblasts (CAF)
+and their extracellular matrix, also contributes to therapy resistance by inducing interstitial hypertension and scavenging
+chemotherapy, among others [6,7]. To further improve intraperitoneal chemotherapy's potential, preclinical peritoneal metastasis
+models should more closely mimic the tumor microenvironment of
+bulky residual disease (>5.0 mm, ±100 mm3).
+Several xenograft models are currently used to model peritoneal
+metastases and can be grouped into three categories [8]. 1) The
+intraperitoneal injection of suspended cancer cells (cancer cell line
+or patient-derived) into the abdominal cavity has been a useful and
+widely used tool to establish peritoneal metastases. For some
+cancer cell lines, this procedure yields high tumor take and
+dissemination rates and permits fast tumor growth, and as such,
+replicates peritoneal metastases in patients quite well macroscopically. The countless tumor nodules are ideally suited to study the
+processes of peritoneal dissemination, but their size is considered
+too small (<1 mm) to be relevant for intraperitoneal drug applications for bulky residual disease [9e11]. 2) In contrast, the subperitoneal injection of cancer cells initiates a single, localized, large
+tumor nodule (due to controlled cancer cell transfer), whereas
+additional peritoneal metastases occur rarely or not at all. This
+technique, however, should be regarded as an ectopic model where
+the metastasis is established at the wrong side of the peritoneal
+layer and is not directly exposed to the abdominal cavity [12,13]. 3)
+In a tumor transplant model, human cancer cells are subcutaneously injected into a donor mouse. Once the tumor grows to an
+appropriate size, it is engrafted orthotopically into the abdominal
+cavity of another host animal (acceptor) [14]. A disadvantage of this
+model is that the transplant tumor generally fails both to elicit an
+efﬁcient inﬁltration of blood vessels and to initiate vascular anastomoses between graft and recipient blood vessels.
+While much has been learned with the aforementioned models,
+they do not fully recapitulate what is observed in the cognate
+peritoneal metastasis microenvironment. In fact e in these xenografts e the bulk of tumor comprises only cancer cells, while CAF,
+extracellular matrix, immune cells and blood vessels are only a
+minor component of the mass. Obviously, the presence of a suitable
+microenvironment is considered to be important to assess tumor
+response to intraperitoneal (or intravenous) chemotherapy [15].
+Continued development in the ﬁelds of cancer systems biology, 3D
+modeling, biomaterials and tissue engineering provides new opportunities to design more patient-relevant metastasis models. For
+instance, tissue engineering of the pre-metastatic niche [16] and
+bone metastases [17] has been successful but e to the best of our
+knowledge e no attempts have yet been made to engineer a biomimetic of a peritoneal metastasis that can provide an advanced
+technology platform for both in vitro and in vivo experiments.
+The present work aimed to employ hybrid hydrogel-polylactic
+acid (PLA) scaffolds to combine the advantages of both (bio)materials and to overcome the challenges discussed above, including
+size and geometry requirements, participation of the tumor
+microenvironment, efﬁcient engraftment and successful cell colonization. 3D printing enables fabrication of scaffolds e “peritoneal
+metastases” e of practically any desired dimension and geometry.
+Above all, scaffolds are highly porous, which permits cellular
+inﬁltration and ensures interaction with host tissue, including
+angiogenesis and inﬂammation, both of which are important to
+metastasis and drug resistance [18]. The rigid and mechanical
+
+stable nature of the PLA scaffolds allows implantation into the
+peritoneum of an appropriate host animal. PLA is considered to be
+biocompatible, but both biochemical surface modiﬁcation by gelMOD coating and the employment of a type I collagen hydrogel
+provide a more matrix- and cell-interactive nature to the construct.
+Another key point is that CAF are drivers of peritoneal metastasis
+[19]; the addition of CAF to cancer cells in a type I collagen hydrogel
+stimulated cancer cell growth and invasion in ovarian and colorectal cancer models [19,20].
+In summary, we examined the potential of hybrid hydrogel-PLA
+scaffolds and CAF to support the in vitro engineering of the tumor
+microenvironment of bulky peritoneal metastases and the subsequent implantation of this tissue-engineered construct to serve as
+an in vivo technology platform for intraperitoneal xenografts.
+
+2. Methods
+2.1. Scaffold development
+Scaffolds were produced using fused deposition modeling
+(FDM) as reported in a similar fashion earlier by Van Hoorick et al.
+[21] In brief, scaffolds were fabricated using a transparent Poly (Llactic acid) (PLA, Mn: 132400 g/mol and Mw: 166500 g/mol) ﬁlament (Velleman, Gavere, Belgium) in combination with an Ultimaker 1 device (Ultimaker, Geldermalsen, Netherlands). The pore
+size (550 mm), printing temperature (210  C), number of layers
+(n ¼ 20) and layer height (200 mm) were transferred into a G-code
+using an in-house developed scaffold generator v1.8 program
+(Ghent University) written in Visual Basic for Applications in
+Microsoft Excel 2010. Next, the G-codes driving the circular printing nozzle (diameter 400 mm) were transferred to the Ultimaker 1
+using Cura 13.06.4 software (Ultimaker, Geldermalsen). As a result,
+porous PLA slabs of 50 mm (length)  50 mm (width)  4 mm
+(height) with a lay down pattern of 0/90 were deposited at 11 mm/
+s at 210  C in meander. After manufacture, slabs were cut with a
+circular metallic puncher to obtain cylindrical scaffolds with a
+diameter of 6 mm (Fig. 1A). The mechanical properties of the
+scaffolds were determined using a Tinius-Olsen 5ST tensile tester
+using a 500 N load cell. Measurements were performed up until
+400 N load and analyzed using Horizon software.
+
+2.2. Scaffold surface modiﬁcation
+The cylindrical scaffolds were subjected to an argon plasma
+using a FEMTO plasma reactor version 3 (Diener Electronic,
+Ebhausen, Germany) for 30s at a pressure of 0.8 mbar and a power
+of 100 W. Next, the scaffolds were exposed to ambient atmosphere
+for 20 min to allow for the reaction of free radicals on the surface
+with oxygen to form (hydro)peroxides, as previously reported [22].
+To perform the coating, the plasma activated cylindrical PLA scaffolds were immersed into a 2 w/v% gel-MOD (DS 97, see supplementary materials and methods) solution in double distilled water,
+containing 2 mol% Irgacure 2959 (BASF, Antwerp, Belgium) (relative to the amount of methacrylamides starting from a stock solution containing 8 mg/ml Irgacure 2959) at 40  C under continuous
+magnetic stirring. Next, a 5-min vacuum treatment was performed
+to allow sufﬁcient intrusion of the solution throughout the pores of
+the scaffolds. Afterwards, the scaffolds were placed on glass slides
+and exposed to UV-A irradiation (356 nm, 8 mW/cm2) for 60 min to
+induce covalent crosslinking. Finally, the scaffolds were sterilized
+by ethylene oxide (AMSCO Eagle 3017, Steris, Antwerp, Belgium)
+(Fig. 1A).
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+
+97
+
+Fig. 1. PLA scaffolds. A) Workﬂow of scaffold production: a cuboid scaffold slab is obtained via fused deposition modeling (1); cylinder (d ¼ 6 mm) is punched from the slab (2);
+surface is activated via plasma treatment (3); introduction of gelatin coating by immersing the scaffold in 2 w/v% solution containing 2 mol% Irgacure 2959 photoinitiator, intrusion
+in the pores is facilitated by vacuum treatment (4); crosslinking of gel-MOD coating using UV-A treatment (365 nm) (5); end product scaffold ready for cell seeding (6). B) Stressstrain plot obtained from compression test: 1) force exhibiting area where contact with scaffold and tensile tester is established; 2) elastic deformation area used to calculate Emodulus; 3) plastic region of deformation. C) Top view optical microscopy image of scaffold. D) mCT reconstruction of scaffold: isometric view (left), top view (center) and cross
+section (right).
+
+2.3. Characterization of PLA scaffolds
+The dimensions (height, diameter, pore size and strut thickness)
+of the scaffolds were measured by microscopy and mCT. The
+porosity was calculated based on data collected by mCT and helium
+pycnometry. Mechanical properties of the PLA scaffolds were obtained using compression tests with compressive forces up to
+400 N. More detailed information can be found in the supporting
+experimental section.
+
+2.4. Cell lines
+Isolation, characterization and culture of human colorectal CAF
+were previously described [9,20,23]. SK-OV-3 is a human ovarian
+cancer cell line (ATCC number: HTB-77). HCT-8/E11 is a human
+colon cancer cell line (ATCC number: CCL-244). SK-OV-3 Luc and
+HCT-8/E11 Luc cells were prepared by pFL4.76 plasmid transfection
+and selection (Promega). SK-OV-3 Luc eGFP and CAF tdTomato were
+obtained by retroviral transduction of pLenti6(Blast)-eGFP-V5 and
+pLenti6(Blast)-tdTomato-V5 vectors respectively. All cell lines were
+maintained in Dulbecco's modiﬁed Eagle's medium (DMEM)
+
+(Invitrogen) supplemented with 10% FBS and antibiotics (penicillin/
+streptomycin) and incubated at 37  C with 10% CO2 in air.
+Authenticity of ATCC cell lines was conﬁrmed by short tandem
+repeat proﬁling. All cell lines tested negative for mycoplasma
+contamination.
+
+2.5. Tumor/control scaffold seeding procedure
+Tumor scaffolds were obtained by seeding PLA scaffolds with a
+combination of CAF and cancer cells. Seeding density was optimized at 2  106 cancer cells (either SK-OV-3 Luc (eGFP) or HCT-8/
+E11 Luc) and 8  106 CAF (CAF tdTomato). For each scaffold, the
+pelleted cells were suspended in 0.4 ml 0.2% type I collagen suspension at room temperature. 1 ml 0.2% collagen suspension contains: 454 ml collagen type I (Bioconnect, 100mg/22.68 ml), 182 ml
+CMF-HBSS), 72 ml MEM10X, 72 ml NaHCO3, 20 ml NaOH 1 M and
+200 ml culture medium [24]. Prior to seeding, scaffolds were incubated at 37  C for 1 h in a 24-well culture plate. During seeding,
+temperature was maintained on a plate heater set at 37  C. Seeding
+was performed in a 2-ml tube by pipetting the collagen-suspended
+cells onto the scaffolds. Passive percolation at atmospheric pressure
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+98
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+
+for 20s was followed by a 20-s vacuum treatment (N816$3 KN.18
+diaphragm pump, KNF, Aartselaar, Belgium). The seeded scaffolds
+were subsequently positioned in a 24-well culture plate. Finally, the
+seeded scaffolds were inverted after 30 min to reduce gravityinduced remodeling of the collagen suspension and cell distribution inside the scaffold (Fig. 2A). Cell-free scaffolds have undergone
+the same seeding procedure with collagen only, without cells, and
+are referred to as control scaffolds. After incubation overnight in a
+humidiﬁed 10% CO2 atmosphere at 37  C, scaffolds were maintained in 2 ml of Dulbecco's modiﬁed Eagle's medium (DMEM)
+(Invitrogen) supplemented with 10% FBS and antibiotics (penicillin/
+streptomycin). Medium was refreshed twice a week.
+
+injection of a suspension of 1  106 SK-OV-3 Luc cells (in 250 ml
+saline). Small tumors had already spread widely throughout the
+peritoneal cavity after 6 weeks. These tumors were parafﬁn
+embedded for H&E staining.
+
+2.6. In vitro viability and organization of tumor scaffolds
+
+3. Results
+
+Bioluminescence imaging (BLI) was applied to longitudinally
+monitor the viability and proliferation of the cancer cells independently from the CAF, as only cancer cells were transferred with
+the luciferase gene. Cellular viability was assessed using LIVE/DEAD
+staining. Although it provides information about viability, it cannot
+distinguish cancer cells from CAF. Cellular organization within the
+tumor scaffolds was observed using ﬂuorescently labeled cells (CAF
+tdTomato and SK-OV-3 Luc eGFP) and Haematoxylin&Eosin stainings (H&E) on parafﬁn-embedded sections. More detailed information can be found in the supporting experimental section.
+Scaffold seeding and viability monitoring was performed multiple
+times (>4), 2 representative experiments are shown.
+
+3.1. Synthesis and characterization of the PLA scaffold
+
+2.7. Luminex
+On days 1, 3 and 8 of HCT-8/E11 and CAF cultures, aliquots of
+supernatant were collected and subjected to secretome analysis
+using Luminex multiplex arrays by Eve Technologies (Calgary, AB
+Canada). Discovery assays used are Human Cytokine Array/Chemokine Array 65-Plex Panel (HD65) and Human Angiogenesis
+Array & Growth Factor 17-plex Array (HDAGP17). All samples were
+assayed at least in duplicate and prepared standards were included
+in all runs. In the analysis, baseline media analyte levels were
+accounted for.
+2.8. In vivo experiments
+Animal experiments were carried out in accordance with the
+regulatory guidelines of the Ethics Committee of the Ghent University Hospital. A total of 6 female athymic Swiss Nu/nu mice
+(Charles River) at 6 weeks of age were used for xenograft studies
+and kept in standard housing conditions with water and food ad
+libitum. Tumor scaffolds (n ¼ 6), seeded with SK-OV-3 Luc eGFP and
+CAF tdTomato 3 weeks prior to intraperitoneal implantation, were
+sutured to the parietal peritoneum of the right lower abdominal
+quadrant. As a control, four of these mice were sutured cell-free/
+control scaffolds (n ¼ 4) to the parietal peritoneum of the left
+lower abdominal quadrant. Cancer cell growth was monitored
+weekly by bioluminescence imaging. Blood vessel inﬁltration was
+in vivo visualized and quantiﬁed by contrast-enhanced mCT using
+the X-Cube cone beam mCT (MOLECUBES NV, Ghent, Belgium) at 4
+weeks post implantation (4/6 mice). At this time point, two mice
+were sacriﬁced and the implanted scaffolds were harvested for
+H&E and immunohistochemical stainings. At the endpoint, 12e14
+weeks post implantation, in vivo and ex vivo contrast-enhanced mCT
+scans were performed (4/6 mice). Finally, the tumor and control
+scaffolds were parafﬁn embedded for H&E stainings (Fig. 3A and B).
+Data is shown from two independent experiments. More detailed
+information can be found in the supporting experimental section.
+The traditional mouse model was obtained by intraperitoneal
+
+2.9. Statistics
+Statistical analysis was performed using GraphPad Prism 5.03.
+Blood vessel inﬁltration was analyzed by Mann-Whitney U onetailed tests, correlations were analyzed with Spearman's rank correlation coefﬁcients. Differences with p < .05 were considered statistically signiﬁcant.
+
+Polymer-based scaffolds, such as polylactic acid (PLA) scaffolds,
+ensure mechanical stability, high porosity and that size and shape
+requirements are met. Fused deposition modeling (FDM), a
+manufacturing technology that lays down molten polymer in additive layers with a 3D printer, is applied to generate scaffolds from
+PLA ﬁlaments. The surface of the PLA scaffolds is coated with
+gelatin to increase cellular interactivity. In short, scaffolds are argon
+plasma treated and consequently dip coated in a 2 w/v% gel-MOD
+(cross-linkable gelatin) solution containing 2 mol% Irgacure 2959
+which is cross-linked through UV-A irradiation (Fig. 1A). The stiffness of the PLA scaffolds is assessed by a compression test, a
+Young's modulus of 115.6 MPa ± 14.6 MPa and an onset of deformation at around 10 MPa (yield strength) (Fig. 1B, Table 1). The
+controlled architecture of the scaffolds is analyzed through microscopy and mCT. Pores and struts have reproducible sizes, even at
+the edges of the scaffold, with an average of 599 mm ± 28 mm and
+347 mm ± 17 mm respectively (Fig. 1CeD). The large pores and struts
+result in a high porosity; about 2/3 of the volume of the scaffold is
+available for cell/tissue inﬁltration. However, there are some discrepancies between measurement tools. mCT results in 59.02%
+(±2.09%) porosity whereas helium pycnometry indicates a porosity
+of 71.08% (±3.14%) (Table 1). Differences can be explained by resolution limitation of mCT (8  8  8 mm3) and selected cut-off
+values.
+3.2. CAF stimulate 3D cancer cell colonization in PLA scaffolds
+PLA scaffolds are 3D colonized by co-seeding luciferase positive
+cancer cells with human CAF in a suspension of type I collagen
+(Fig. 2A). Type I collagen, a gel-forming ECM protein, ﬁlls the void
+space in scaffolds and supports 3D growth of cells. Vacuum pressure enables the collagen/cell mixture to reach the center of the
+scaffolds. Upon geliﬁcation, single cells are randomly dispersed in
+the collagen-occupied voids of the scaffold. Both HCT-8/E11 colon
+cancer cells (Fig. S1A) and SK-O-V-3 ovarian cancer cells (Fig. 2B)
+show an initial bioluminescent signal that drops within the ﬁrst
+days and starts to recover at the end of week 2. Importantly, coseeding of cancer cells with CAF surges the initial bioluminescent
+signal and signal intensity is correlated with increasing CAF
+numbers. The four-to-one ratio of the number of CAF to the number
+of cancer cells shows the highest initial bioluminescent signal,
+which remains stable over a two-week period (Fig. 2B). Scaffolds
+with the four-to-one ratio were maintained in long-term culture
+and monitored by phase-contrast microscopy and bioluminescence
+(Fig. 2C). Within this long-term period, four stages of cellular organization are identiﬁed in the scaffolds seeded with a combination
+of SK-OV-3 and CAF: adhesion/selection, recovery, spheroid formation and exponential growth phase (Fig. 2C); whereas only two
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+
+99
+
+Fig. 2. In vitro characterization of ovarian tumor scaffolds. A) Schematic representation of the procedure to seed a combination of extracellular matrix and cells. PLA scaffolds are
+placed in a mixture of cancer cells and CAF suspended in type I collagen. By applying vacuum pressure, this mixture is drawn into the scaffolds and polymerizes at 37  C, creating
+tumor scaffolds. B) Graph (upper panel) and BLI images (lower panel) depicting the viability of 1.5  106 SK-OV-3 Luc cells in the scaffolds seeded with increasing numbers of CAF
+(n ¼ 4  2). C) Graph (upper panel), BLI (middle panel) and phase-contrast (lower panel) images of scaffolds seeded with 2  106 SK-OV-3 Luc and 8  106 CAF at week 0, 3 and 5
+(n ¼ 6). Hydrogel contraction by CAF reestablish void space within the scaffolds, as indicated by dotted line (not present at baseline). At week 5, LIVE (green)/DEAD (red) staining
+(D), SEM (E) and H&E staining on microsections (F) were performed. In D) confocal image shows LIVE/DEAD staining while inset shows differential interference contrast (DIC) image
+at the same position of the confocal image. In E) right panel shows magniﬁcation of white rectangular box in left panel. In F) SK-OV-3 Luc and CAF are indicated by green and red
+arrows respectively. Left and right panel show a monolayer and a spheroid, respectively, originally in contact with PLA scaffold (ﬁxation and staining procedures dissolve PLA). G)
+Confocal image of a scaffold seeded with 2  106 SK-OV-3 Luc eGFP (green) and 8  106 CAF tdTomato (red) after 5 weeks of in vitro culture. Inset shows phase-contrast image at
+similar position of confocal image. Dotted line indicates spheroid in both confocal and DIC image. (For interpretation of the references to color in this ﬁgure legend, the reader is
+referred to the Web version of this article.)
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+100
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+Table 1
+Material and scaffold characteristics.
+Property
+
+Value
+
+SD
+
+Mn PLA (g/mol)
+MW PLA (p/mol)
+Scaffold diameter (mm)
+Scaffold height (mm)
+Volume (mm3)
+Pore size (mm)
+Strut thickness (mm)
+E-Modulus (Mpa)
+Scaffold volume/inﬁll density (mCT) (%)
+Scaffold volume/inﬁll density (He pycnometry) (%)
+Volume of voids/porosity (mCT) (%)
+Volume of voids/porosity (He pycnometry) (%)
+
+132400
+166500
+6.05
+4.09
+117.58
+599
+347
+115.6
+40.98
+28.92
+59.02
+71.08
+
+0.02
+0.02
+0.623
+28
+17
+14.6
+2.09
+3.14
+2.09
+3.14
+
+stages are identiﬁed in the scaffolds seeded with a combination of
+HCT-8/E11 and CAF: adhesion/selection and spheroid formation/
+exponential growth (Fig. S1B). HCT-8/E11 cells have, in contrast to
+SK-OV-3 cells, strong E-cadherin-mediated cell-cell adhesion,
+which is most probably responsible for rapid spheroid formation
+[25]. LIVE/DEAD staining at week 5 shows high viability of cells
+both within spheroids and adhered to struts (Fig. 2D). Cells adhered
+to struts are oriented in the print direction of the scaffold, parallel
+to the movement of the printing nozzle. Occasionally, cells connecting both a vertical and horizontal strut are observed (Fig. 2E).
+eGFP expressing SK-OV-3 cells form heterocellular spheroids with
+tdTomato expressing CAF as well as homocellular monolayers
+attached to struts. In general, CAF do not grow on struts but are only
+present within spheroids, making up to 30% of the spheroid cell
+number. This organization is conﬁrmed by H&E staining of parafﬁnembedded sections; basophilic (afﬁnity to haematoxylin) cancer
+cells are organized into monolayers adhered to struts, whereas
+spheroids contain both basophilic cancer cells and eosinophilic
+(afﬁnity to eosin) CAF/matrix (Fig. 2F and G). Similarly, HCT-8/
+E11 cells not only grow as monolayers attached to struts but also as
+spheroids, although there is clearly more cancer cell-CAF intermingling in spheroids with SK-OV-3 cancer cells than occurs with
+HCT-8/E11 cancer cells. In fact, HCT-8/E11 spheroids have a central
+core of HCT-8/E11 cancer cells, surrounded by a CAF-rich matrix
+(Fig. S1C). Above all, bioluminescence imaging, ﬂuorescence microscopy and histological data show that CAF are essential for
+cancer cell colonization and formation of a tumor scaffold in vitro.
+3.3. In vivo evaluation of tumor scaffolds and inﬁltrated cells
+We further explored whether tumor scaffolds could be used as
+an orthotopic peritoneal metastasis model. Tumor scaffolds were
+maintained in vitro for 3 weeks prior to surgical implantation to the
+peritoneal wall at the right lower quadrant of the peritoneal cavity.
+This time window is crucial for the cancer cells to recover and to
+form spheroids (microscopic Fig. 2C bottom panel; macroscopic
+Fig. 3A). Interestingly, phase-contrast microscopy reveals that type I
+collagen hydrogels are initially intact, but then contract over time,
+most likely through CAF-mediated contractile activity, resulting in
+the creation of voids within the scaffolds, which in turn allows
+
+101
+
+space for both host cell inﬁltration and vascularization in vivo
+(Fig. 2C). In 4 out of 6 mice, a control scaffold (collagen-PLA [gelMOD]; no cells) was added to the left lower quadrant. The bioluminescent activity of the cancer cells in the scaffolds was longitudinally monitored. In 3 out of 6 mice, a steep decrease in
+bioluminescent signal in the ﬁrst week after implantation was
+observed, which showed recovery by the second week (Fig. 3BeC).
+This could reﬂect a temporal drop in cancer cell viability or an
+insufﬁcient distribution of the luciferin within the scaffold. Longterm follow-up reveals an exponential increase of a localized
+bioluminescent signal at the scaffold implantation area. At 4 weeks
+post implantation, the scaffolds contain clusters of cancer cells and
+CAF surrounded by mouse ﬁbroblasts, adipocytes, inﬂammatory
+cells and endothelial cells, forming heterogeneous tumor tissue. At
+the intersection between the scaffold and the peritoneal wall, an
+intimate interaction between the tumor and the muscle cells is
+observed (Fig. 3D). Mesothelial cells do not cover the scaffold.
+Immunohistochemical staining with a human speciﬁc antivimentin antibody and a cross-species anti-aSMA antibody indicates the presence of inﬁltrating mouse CAF surrounding cancer
+cells and human co-seeded CAF (Fig. 3E). Blood vessels are clearly
+visible on the H&E sections (Fig. 3D); the wide distribution of blood
+vessels throughout the scaffold is in agreement with the absence of
+necrotic areas. The area of blood vessels correlates (R ¼ 1,
+p ¼ .0083) with the bioluminescent signal of the cancer cells in the
+scaffold (Fig. S2B). Peri- and intra-tumor scaffold vascularization is
+evidenced by ex vivo macroscopic evaluation (Fig. 4AeB shows preand post-implanted scaffolds) and contrast-enhanced mCT both
+in vivo (Fig. 4CeD) and ex vivo (Fig. 4E). Tissue sections of the
+scaffold show that CD31 positive vessels are covered by aSMA
+positive pericytes (Fig. 4F). Peri-tumor scaffold branching of vessels
+is observed ex vivo macroscopically and in vivo using mCT. Video 1
+demonstrates a blood vessel following the inner lining of the
+peritoneal wall until the tumor scaffold, where it bends 90 to enter
+the scaffold. Video 2 is a 3D reconstruction of the same tumor
+scaffold. Contrast-enhanced mCT shows a 15-fold increase
+(p ¼ .0147) in the blood vessel volume in an 8-week time period
+(week 4: 0.06 vol % blood vessel (IQR ¼ 0.03e0.48), week 12:
+5.18 vol % blood vessel (IQR ¼ 3.42e5.60)) (Fig. 4G). Tissue exposure
+to biomaterials triggers a foreign body response (FBR) characterized by inﬂammatory cell recruitment and ﬁbrosis-induced vessel
+regression. To evaluate the FBR to PLA scaffolds, control scaffolds
+were peritoneally implanted. H&E staining shows that control
+scaffolds are inﬁltrated by inﬂammatory cells, ﬁbroblasts and small
+blood vessels. Although blood vessels are present, robust neovascularization is not observed since the blood vessel volume
+percentage is 3.97-fold lower (p ¼ .0495) in control scaffolds
+(0.06 vol % blood vessel (IQR ¼ 0.008e2.88)) compared to tumor
+scaffolds (5.05 vol % blood vessel (IQR ¼ 1.71e5.50)) (Fig. 4GeH).
+This suggests an active and sustained cancer cell/CAF-dependent
+recruitment and organization of blood vessels in tumor scaffolds.
+Supplementary data related to this article can be found online at
+https://doi.org/10.1016/j.biomaterials.2017.12.017
+To further demonstrate that tumor scaffolds actively recruit host
+cells and do not only elicit an FBR to the biomimetic construct, we
+
+Fig. 3. In vivo biomimetic of ovarian peritoneal metastases. A) Schematic timeline of the in vivo experiments. The collagen/cell mixture was seeded in PLA scaffolds 3 weeks prior to
+in vivo implantation of tumor scaffolds. Mice were monitored weekly by BLI (B, C) (n ¼ 6). Contrast-enhanced mCT (week 4 and 12) and histology (end-point) were performed (D, E).
+Weekly BLI results of individual mice are indicated in a graph (B) with an indication when mCT and end-point histology were performed. Gray lines represent individual mice,
+whereas the black line is the average BLI. C) BLI images of four individual mice monitored over 11 weeks. D) H&E staining of a tumor scaffold 4 weeks post implantation. Black
+rectangular boxes on the overview slide indicate the areas used for magniﬁcation represented in 1e4. PLA; PLA scaffold that is dissolved during histological processing. S; Spheroid
+of cancer cells and CAF. B; Blood vessel. Me; Mesothelium. Mu; Muscle. St; Stroma. Ic; Immune cells. At; Adipose tissue. E) Immunohistochemical staining of a tumor scaffold 4
+weeks post implantation with human speciﬁc anti-vimentin visualizes human cells only (i.e. seeded cells) and with cross-species anti-aSMA visualizes both host cells and seeded
+aSMA positive cells. CC; Cancer cells are human vimentin positive and aSMA negative. hCAF; Human CAF are human vimentin and aSMA positive. mCAF; Mouse CAF are human
+vimentin negative and aSMA positive.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+102
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+
+compared the histological organization of 1) a peritoneally
+implanted SK-OV-3 tumor scaffold, 2) a patient-derived ovarian
+cancer peritoneal metastasis removed during cytoreductive surgery
+and 3) an ovarian xenograft tumor obtained by intraperitoneal injection of SK-OV-3 single cell suspension (traditional xenograft)
+(Fig. 4J). The heterocellular nature of the tumor scaffold is similar to
+what we observe in patient samples: nests of cancer cells surrounded by stroma. This morphology resembles the cancer cell/CAF
+spheroid formation in the tumor scaffolds. Tumor scaffolds and
+patient-derived samples abundantly contain pericyte-covered
+(aSMA positive) blood vessels, whereas intraperitoneally injected
+SK-OV-3 cells form small peritoneal metastases with only occasional blood vessels. The organization of aSMA positive ﬁbroblasts
+is different between traditional xenografts and patient-derived
+samples/tumor scaffolds. In traditional xenografts, occasional
+aSMA positive ﬁbroblasts tightly adhere to the periphery of SK-OV3 nests in one to three layers. In tumor scaffolds and patientderived samples, however, aSMA positive ﬁbroblasts are arranged
+in a multilayered network pattern in close contact with cancer cells.
+Furthermore, numbers of CAF occasionally exceed those of cancer
+cells. Inﬂammation, an intricate part of tumor progression, is
+characterized by presence of CD68 positive macrophages in tumor
+scaffolds and patient samples. However, CD68 positive macrophages are not observed in traditional SK-OV-3 xenografts. In
+conclusion, peritoneally implanted SK-OV-3 tumor scaffolds and
+patient-derived tumor tissue show a similar morphological, blood
+vessel and (aSMA positive) ﬁbroblast organization as well as (CD68
+positive) macrophage inﬁltration.
+An FBR to a cell-free/control scaffold is characterized by inﬁltration of host cells similar like those observed in a tumor scaffold,
+but to a spatial different and quantitative lesser extent. To understand why tumor scaffolds more truthfully mimic a patient-derived
+peritoneal metastasis compared to intraperitoneal injection of SKOV-3 cells or an FBR to the hybrid hydrogel-PLA scaffold, we
+decided to investigate the secretome of both cancer cells and CAF.
+Secretory products such as chemokines, cytokines and growth
+factors serve paracrine communication with the host and are
+responsible for tumor inﬁltration of macrophages, endothelial cells,
+ﬁbroblasts and pericytes. While some growth factors/cytokines/
+chemokines are similarly secreted by both cancer cells and CAF
+(CXCL10, GROa, VEGF-A, angiopoietin-2, FGF-2, IL-8, IFNa2), others
+are uniquely secreted by the cancer cells (CX3CL1, eotaxin-2, MIP1a, Rantes, MDC, LIF, IL-28a, IL-1a, TGFa, GM-CSF, PDGF-AA, PDGFBB, SCF, TNFa, HB-EGF, PLGF) and others are uniquely secreted by
+the CAF (eotaxin-1, MCP-1, MCP-2, MCP-3, MCP-4, SDF-1a&b, ENA78, IL-15, IL-6, IL-23, Flt-3L, endoglin, follistatin, SF/HGF, VEGF-C)
+(Fig. S3 and Table S1). Thus, the complementary secretory proﬁle
+of growth factors/chemokines/cytokines by both cancer cells and
+CAF is most probably responsible for recruitment and organization
+of host cells in tumor scaffolds as similarly observed in ovarian
+cancer patient-derived peritoneal metastases.
+
+103
+
+4. Discussion
+Key features of the design include a type I collagen hydrogel to
+imbibe and trap cells in a gel phase, and vacuum pressure to allow
+distribution of the cell-laden hydrogel throughout all pores of the
+network. Notably, in the absence of the collagen hydrogel, cells ﬂow
+through the pores network of the scaffold without adhering to the
+PLA substrate, even though it was activated by argon plasma
+treatment and subsequently coated with gel-MOD. Furthermore,
+PLA scaffolds can be designed into any desired size and shape with
+relatively high mechanical strength and they can be sutured onto
+biological surfaces such as the peritoneum. Peritoneal metastases
+are dome-shaped elevations on the peritoneal surface and their size
+is of clinical importance since intraperitoneal chemotherapy has
+limited survival beneﬁt in patients with peritoneal metastases
+exceeding the size of 5.0 mm for ovarian cancer [4] and 2.5 mm for
+colon cancer [5]. The established technology of FDM enables
+manufacture of peritoneal metastases with tunable properties,
+such as weight, size and shape, being therefore superior to traditional peritoneal metastasis models in terms of (clinically relevant)
+spatial dimensions.
+Since solid tumors are more than a mass of genetically altered
+cells (i.e. the cancer cells), scaffolds were co-seeded with cancer
+cells and ﬁbroblasts, which are abundantly present in the tumor
+microenvironment (i.e. so-called cancer-associated ﬁbroblasts,
+CAF). Interestingly, in absence of CAF, cancer cells (both ovarian SKOV-3 and colorectal HCT-8/E11 cells) prefer to adhere to and grow
+on the scaffolds' struts, suggesting 2D growth on a 3D substrate.
+CAF, however, promote the formation of heterocellular spheroids
+within the hydrogel-occupied pores of the scaffold, a process
+strongly dependent upon the CAF seeding number. Indeed,
+spheroid formation is profoundly inﬂuenced by CAF through
+paracrine signaling [26e28]. Furthermore, Chen et al. found that
+CAF-induced spheroid formation led to the sustaining of cancer cell
+stemness [27]. In ovarian cancer, there is strong evidence that
+spheroids originating from malignancy-related ascites exhibit
+increased tumorigenic capacity in vivo, potentially seed metastatic
+lesions and could be correlated with therapy resistance [29,30].
+Besides spheroid formation, we have observed a signiﬁcant difference in cancer cell viability; all CAF seeding numbers increased
+cancer cell survival, an effect that exponentially increased with
+increasing CAF numbers. This is consistent with prior related
+in vitro studies that have shown increased viability of cancer cells
+co-cultured with CAF. In these studies, the ﬁbroblast-mediated
+increase in viability was attributable to growth factors and chemokines such as SF/HGF, NRG1, SDF1, among others [20,31,32]. CAF
+support tumorigenesis through various mechanisms, including
+cancer cell stemness, proliferation, invasion and angiogenesis.
+Furthermore, clinical data demonstrated that stromal characteristics, such as the carcinoma-stroma ratio [33e37] and the stromal
+gene signature [38,39], can predict patient survival and are
+
+Fig. 4. Blood vessel inﬁltration. Stereomicroscopic images of a tumor scaffold before implantation (at week 0) (A) and at week 4 post implantation (B). In A) dotted lines indicate
+spheroids and in B) arrows indicate blood vessels. C) Contrast-enhanced mCT images of a mouse implanted with a cell-free/control scaffold (CS) and tumor scaffold (TS) 4 weeks post
+implantation. Scaffolds are differently orientated. The arrows indicate the blood vessels inﬁltrating the tumor scaffold. This was conﬁrmed by post mortem analysis, as can be seen in
+the insert (same tumor scaffold). D) 3D reconstruction of the blood vessels surrounding and inﬁltrating the same tumor scaffold. Dotted line indicates position of tumor scaffold. E)
+Contrast-enhanced mCT 3D reconstruction of an ex vivo tumor scaffold. Arrow indicates inﬁltrating blood vessel. Tissue (red) has a lower density than the PLA scaffold (yellow). F)
+Immunohistochemistry was performed on a tumor scaffold 4 weeks post implantation by using anti-CD31 antibodies (endothelial cells) and anti-aSMA antibodies (CAF and
+pericytes). Both proteins are markers for mature blood vessels, which are indicated with an arrow. G) and H) Quantiﬁcation of inﬁltrating blood vessels on contrast-enhanced mCT
+images. Volume percent blood vessels is calculated by using: (volume inﬁltrated blood vessels/volume scaffold)  100. The volume of blood vessels in tumor scaffolds increases over
+time (G) and tumor scaffolds have a higher volume of inﬁltrating blood vessels compared to control scaffolds (H). I) H&E staining of a cell-free/control scaffold 4 weeks post
+implantation and tumor scaffold 4 and 12 weeks post implantation. Arrows indicate blood vessels. J) H&E and immunohistochemical stainings of an ovarian tumor scaffold (4 weeks
+post implantation), a patient-derived ovarian cancer peritoneal metastasis removed during cytoreductive surgery and a mouse xenograft tumor obtained by intraperitoneal injection of SK-OV-3 Luc cells. Black rectangular boxes indicate area of magniﬁcation on the overview slide. Dotted lines indicate epithelial nests embedded in stroma. Anti-aSMA
+visualizes human and mouse CAF as well as pericytes covering endothelial cells of functional blood vessels. Anti-CD68 visualizes human and mouse macrophages. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the Web version of this article.)
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+104
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+
+correlated with poor prognosis.
+An FBR is mainly mediated by macrophages as inducers of
+ﬁbrotic encapsulation via VEGF release and neovascularization [18].
+Accordingly, an FBR is likely to occur in T and B cell immunodeﬁcient mice commonly used in xenograft models. An FBR is in general undesirable and can be deleterious to the function of the
+implanted tumor scaffold. Several aspects indicate that the host cell
+response to the implanted tumor scaffold is not merely an FBR but
+an active, controlled recruitment of host cells by paracrine factors
+produced by the tumor scaffold. Firstly, rapid contraction of
+collagen hydrogels in vitro is the result of contractile forces generated by CAF, which in turn determines the new tissue formation
+in vivo by allowing space and structural support for host cell inﬁltration and vascularization. Secondly, the scaffolds were maintained up to 14 weeks without the appearance of thick ﬁbrotic
+tissue at the contact area between the implanted scaffold and the
+host. In contrast, a typical FBR occurs within 4 weeks after scaffold
+implantation. Thirdly, blood vessel inﬁltration correlates with
+growth and viability of cancer cells in the tumor scaffold. Fourthly, a
+control scaffold without cells shows a 4-fold lower neovascularization compared to a tumor scaffold. This highlights the
+importance of cancer cell/CAF-derived paracrine factors in the
+recruitment of pericyte-covered (aSMA positive) CD31 expressing
+endothelial cells. Fifthly, cancer cells and CAF produce a complementary cocktail of factors implicated in the stimulation of neovascularization. While macrophage-derived VEGF is mainly the
+initiator of an FBR, tumor scaffolds produce VEGF supplemented
+with pro-angiogenic factors such as PDGF family members, SF/HGF,
+PLGF, among others. Sixthly, the complementary pro-angiogenic
+cocktail that shows a sustained release (data not shown) is most
+probably responsible for the 15-fold increase in blood vessel volume over an 8-week time period. And lastly, CD68 positive macrophages did not accumulate at the scaffold-host interface but
+showed close association with cancer cell nests as is similarly
+observed in a patient-derived peritoneal metastasis.
+An important aspect is whether the tumor hybrid scaffold is
+superior to traditional tumor models in preclinical drug testing. A
+commonly used model is the intraperitoneal injection of a cancer
+cell suspension, which simulates the process of peritoneal
+dissemination in intra-abdominal cancers. However, it is difﬁcult to
+achieve heterologous growth of human cancer cell lines in the
+abdominal cavity of nude mice by direct intraperitoneal injection
+due to the acute conversion from an adherent-dependent to a
+suspension-dependent type of survival of the human cancer cells.
+Direct intraperitoneal injection of 1  106 SK-OV-3 cells in nude
+mice results in a long latency and in a small number of palpable
+tumor nodes [10]. Histological analysis revealed necrotic areas and
+minimal stromal contribution of both CAF and blood vessels to
+tumorigenesis in this traditional peritoneal metastasis model. This
+stands in stark contrast with a patient-derived peritoneal metastasis showing abundant stromal components intermingled between multicellular clusters of cancer cells. Of interest, tumor
+scaffolds implanted on the peritoneum are histologically similar to
+native tumor tissue; in addition to multicellular clusters of cancer
+cells, they also contain a multilayered network composed of aSMA
+positive ﬁbroblasts, a pericyte-stabilized vascular network and
+inﬁltrating immune cells.
+Models that truthfully mimic peritoneal metastases are important for the preclinical evaluation of intraperitoneal drug delivery
+[40]. The uptake of both low-molecular-weight and high-molecular-weight drugs is strongly inﬂuenced by stromal-environmental
+factors in peritoneal metastases. Peritoneal metastases have a
+raised interstitial ﬂuid pressure due to stiff stroma (established by
+extracellular matrix-producing CAF) and leaky blood vessels
+[41,42]. In addition, there are several reports on chemotherapy
+
+scavenging of CAF, thus reducing the availability of these drugs to
+nearby cancer cells. The tumor scaffold model in this study differs
+from most peritoneal metastasis models, because of its consistency
+in size and the marked histological similarity to patient-derived
+peritoneal metastases. Furthermore, this model allows the longitudinal use of advanced in vivo techniques (bioluminescence and
+mCT). Lastly, speciﬁc size-dependent aspects of tumor biology such
+as oxygenation, perfusion and interstitial ﬂuid pressure may be
+evaluated more accurately.
+In conclusion, we have tissue-engineered and characterized a
+new implantable scaffold model based on the human tumor
+microenvironment. Our ﬁndings underscore that CAF enhance both
+cancer cell survival and angiogenesis by offering a privileged
+environment. Our approach describes another step forward in
+recapitulating the multifaceted tumor microenvironment by
+increasing complexity of tissue-engineered tumor models. It is
+likely that the scaffold model could be further developed as a
+platform technology that may enable mechanistic studies for drug
+penetration and efﬁcacy after intraperitoneal chemotherapy
+delivery.
+Acknowledgements
+This research was supported by Research Council of Ghent
+University (BOF) and grants from “Kom op tegen Kanker”, “Stichting
+tegen Kanker”, Cancer Research Institute Ghent (CRIG) and the
+European Research Council.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at
+https://doi.org/10.1016/j.biomaterials.2017.12.017.
+References
+[1] W.P. Ceelen, M.F. Flessner, Intraperitoneal therapy for peritoneal tumors:
+biophysics and clinical evidence, Nat. Rev. Clin. Oncol. 7 (2010) 108e115,
+https://doi.org/10.1038/nrclinonc.2009.217.
+[2] V.J. Verwaal, S. van Ruth, E. de Bree, G.W. van Slooten, H. van Tinteren, H. Boot,
+et al., Randomized trial of cytoreduction and hyperthermic intraperitoneal
+chemotherapy versus systemic chemotherapy and palliative surgery in patients with peritoneal carcinomatosis of colorectal cancer, J. Clin. Oncol. 21
+(2003) 3737e3743, https://doi.org/10.1200/JCO.2003.04.187.
+[3] D.K. Armstrong, B. Bundy, L. Wenzel, H.Q. Huang, R. Baergen, S. Lele, et al.,
+Intraperitoneal cisplatin and paclitaxel in ovarian cancer, N. Engl. J. Med. 354
+(2006) 34e43, https://doi.org/10.1056/NEJMoa052985.
+[4] R.R. Barakat, P. Sabbatini, D. Bhaskaran, M. Revzin, A. Smith, E. Venkatraman,
+et al., Intraperitoneal chemotherapy for ovarian carcinoma: results of longterm follow-up, J. Clin. Oncol. 20 (2002) 694e698. http://www.ncbi.nlm.nih.
+gov/pubmed/11821450.
+[5] D. Elias, F. Gilly, F. Boutitie, F. Quenet, J.-M. Bereder, B. Mansvelt, et al., Peritoneal colorectal carcinomatosis treated with surgery and perioperative
+intraperitoneal Chemotherapy : retrospective analysis of 523 patients from a
+multicentric French study, J. Clin. Oncol. 28 (2010) 63e68, https://doi.org/
+10.1200/JCO.2009.23.9285.
+[6] C. Carlier, A. Mathys, E. De Jaeghere, M. Steuperaert, O. De Wever, W. Ceelen,
+Tumour tissue transport after intraperitoneal anticancer drug delivery, Int. J.
+Hyperth
+33
+(2017)
+534e542,
+https://doi.org/10.1080/
+02656736.2017.1312563.
+[7] C. Carlier, B. Laforce, S.J.M. Van Malderen, F. Gremonprez, R. Tucoulou,
+J. Villanova, et al., Nanoscopic tumor tissue distribution of platinum after
+intraperitoneal administration in a xenograft model of ovarian cancer,
+J. Pharm. Biomed. Anal 131 (2016) 256e262, https://doi.org/10.1016/
+j.jpba.2016.09.004.
+[8] F. Gremonprez, W. Willaert, W. Ceelen, Intraperitoneal chemotherapy (IPC)
+for peritoneal carcinomatosis: review of animal models, J. Surg. Oncol. 109
+(2014) 110e116, https://doi.org/10.1002/jso.23464.
+€n, C.J. Jones, B. De Craene, et
+[9] E. De Vlieghere, F. Gremonprez, L. Verset, L. Marie
+al., Tumor-environment biomimetics delay peritoneal metastasis formation by
+deceiving and redirecting disseminated cancer cells, Biomaterials 54 (2015)
+148e157, https://doi.org/10.1016/j.biomaterials.2015.03.012.
+[10] E. De Vlieghere, C. Carlier, W. Ceelen, M. Bracke, O. De Wever, Data on in vivo
+selection of SK-OV-3 Luc ovarian cancer cells and intraperitoneal tumor formation with low inoculation numbers, Data Bus. 6 (2016) 542e549, https://
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+E. De Jaeghere et al. / Biomaterials 158 (2018) 95e105
+doi.org/10.1016/j.dib.2015.12.037.
+[11] M.R. Kuracha, P. Thomas, B.W. Loggie, V. Govindarajan, Patient-derived
+xenograft mouse models of pseudomyxoma peritonei recapitulate the human
+inﬂammatory tumor microenvironment, Cancer Med 5 (2016) 711e719,
+https://doi.org/10.1002/cam4.640.
+[12] F. Gremonprez, B. Descamps, A. Izmer, C. Vanhove, F. Vanhaecke, O. De Wever,
+et al., Pretreatment with VEGF ( R ) -inhibitors reduces interstitial ﬂuid
+pressure, increases intraperitoneal chemotherapy drug penetration, and impedes tumor growth in a mouse colorectal carcinomatosis model, Oncotarget
+6 (2015), https://doi.org/10.18632/oncotarget.5092.
+[13] C. Carlier, S. Strese, K. Viktorsson, E. Velander, P. Nygren, M. Uustalu, et al.,
+Preclinical activity of melﬂufen (J1) in ovarian cancer, Oncotarget (2016),
+https://doi.org/10.18632/oncotarget.11163.
+[14] W. Bouquet, S. Deleye, S. Staelens, L. De Smet, N. Van Damme, I. Debergh, et
+al., Antitumour efﬁcacy of two paclitaxel formulations for hyperthermic
+intraperitoneal chemotherapy (HIPEC) in an in vivo rat model, Pharm. Res. 28
+(2011) 1653e1660, https://doi.org/10.1007/s11095-011-0401-1.
+[15] M.A. Swartz, N. Iida, E.W. Roberts, S. Sangaletti, M.H. Wong, F.E. Yull, et al.,
+Tumor microenvironment complexity: emerging roles in cancer therapy,
+Cancer Res. 72 (2012) 2473e2480, https://doi.org/10.1158/0008-5472.CAN12-0122.
+[16] B.A. Aguado, G.G. Bushnell, S.S. Rao, J.S. Jeruss, L.D. Shea, Engineering the premetastatic niche, Nat. Biomed. Eng 1 (2017) 77, https://doi.org/10.1038/
+s41551-017-0077.
+[17] L.C. Martine, B.M. Holzapfel, J.A. McGovern, F. Wagner, V.M. Quent, P. Hesami,
+et al., Engineering a humanized bone organ model in mice to study bone
+metastases, Nat. Protoc. 12 (2017) 639e663, https://doi.org/10.1038/
+nprot.2017.002.
+[18] E. Dondossola, B.M. Holzapfel, S. Alexander, S. Filippini, D.W. Hutmacher,
+P. Friedl, Examination of the foreign body response to biomaterials by
+nonlinear intravital microscopy, Nat. Biomed. Eng 1 (2016) 7, https://doi.org/
+10.1038/s41551-016-0007.
+[19] L. Zhao, G. Ji, X. Le, C. Wang, L. Xu, M. Feng, et al., Long noncoding RNA
+LINC00092 acts in cancer-associated ﬁbroblasts to drive glycolysis and progression of ovarian cancer, Cancer Res. 77 (2017) 1369e1382, https://doi.org/
+10.1158/0008-5472.CAN-16-1615.
+[20] O. De Wever, Q.-D. Nguyen, L. Van Hoorde, M. Bracke, E. Bruyneel, C. Gespach,
+et al., Tenascin-C and SF/HGF produced by myoﬁbroblasts in vitro provide
+convergent pro-invasive signals to human colon cancer cells through RhoA
+and Rac, Faseb. J. 18 (2004) 1016e1018, https://doi.org/10.1096/fj.03-1110fje.
+[21] J. Van Hoorick, H. Declercq, A. De Muynck, A. Houben, L. Van Hoorebeke,
+R. Cornelissen, et al., Indirect additive manufacturing as an elegant tool for the
+production of self-supporting low density gelatin scaffolds, J. Mater. Sci.
+Mater. Med. 26 (2015), https://doi.org/10.1007/s10856-015-5566-4.
+[22] T. Desmet, T. Billiet, E. Berneel, R. Cornelissen, D. Schaubroeck, E. Schacht, et
+al., Post-plasma grafting of AEMA as a versatile tool to biofunctionalise
+polyesters for tissue engineering, Macromol. Biosci. 10 (2010) 1484e1494,
+https://doi.org/10.1002/mabi.201000147.
+€ls, P. Pauwels,
+[23] A. De Boeck, A. Hendrix, D. Maynard, M. Van Bockstal, A. Danie
+et al., Differential secretome analysis of cancer-associated ﬁbroblasts and
+bone marrow-derived precursors to identify microenvironmental regulators
+of colon cancer progression, Proteomics 13 (2013) 379e388, https://doi.org/
+10.1002/pmic.201200179.
+[24] O. De Wever, A. Hendrix, A. De Boeck, W. Westbroek, G. Braems, S. Emami, et
+al., Modeling and quantiﬁcation of cancer cell invasion through collagen type I
+matrices, Int. J. Dev. Biol. 54 (2010) 887e896, https://doi.org/10.1387/
+ijdb.092948ow.
+[25] S.J. Vermeulen, E.A. Bruyneel, M.E. Bracke, G.K. De Bruyne, K.M. Vennekens,
+K.L. Vleminckx, et al., Transition from the noninvasive to the invasive
+phenotype and loss of alpha-catenin in human colon cancer cells, Cancer Res.
+55 (1995) 4722e4728. http://www.ncbi.nlm.nih.gov/pubmed/7553655
+(Accessed August 21 2017).
+[26] S.Y. Jeong, J.H. Lee, Y. Shin, S. Chung, H.J. Kuh, Co-culture of tumor spheroids
+and ﬁbroblasts in a collagen matrix-incorporated microﬂuidic chip mimics
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+[42]
+
+105
+
+reciprocal activation in solid tumor microenvironment, PLoS One 11 (2016)
+1e17, https://doi.org/10.1371/journal.pone.0159013.
+W.-J. Chen, C.-C. Ho, Y.-L. Chang, H.-Y. Chen, C.-A. Lin, T.-Y. Ling, et al., Cancerassociated ﬁbroblasts regulate the plasticity of lung cancer stemness via
+paracrine signalling, Nat. Commun. 5 (2014) 1e17, https://doi.org/10.1038/
+ncomms4472.
+C.-P. Liao, H. Adisetiyo, M. Liang, P. Roy-Burman, Cancer-associated ﬁbroblasts
+enhance the gland-forming capability of prostate cancer stem cells, Cancer
+Res. 70 (2010) 7294e7303, https://doi.org/10.1158/0008-5472.CAN-09-3982.
+J. Liao, F. Qian, N. Tchabo, P. Mhawech-Fauceglia, A. Beck, Z. Qian, et al.,
+Ovarian cancer spheroid cells with stem cell-like properties contribute to
+tumor generation, metastasis and chemotherapy resistance through hypoxiaresistant metabolism, PLoS One 9 (2014), https://doi.org/10.1371/journal.pone.0084941 e84941.
+H.J. Allen, C. Porter, M. Gamarra, M.S. Piver, E.A. Johnson, Isolation and
+morphologic characterization of human ovarian carcinoma cell clusters present in effusions, Exp. Cell Biol. 55 (1987) 194e208. http://www.ncbi.nlm.nih.
+gov/pubmed/3678576 (Accessed August 31 2017).
+A. De Boeck, P. Pauwels, K. Hensen, J.-L. Rummens, W. Westbroek, A. Hendrix,
+et al., Bone marrow-derived mesenchymal stem cells promote colorectal
+cancer progression through paracrine neuregulin 1/HER3 signalling, Gut 62
+(2013) 550e560, https://doi.org/10.1136/gutjnl-2011-301393.
+A. Orimo, P.B. Gupta, D.C. Sgroi, F. Arenzana-Seisdedos, T. Delaunay, R. Naeem,
+et al., Stromal ﬁbroblasts present in invasive human breast carcinomas promote tumor growth and angiogenesis through elevated SDF-1/CXCL12
+secretion,
+Cell
+121
+(2005)
+335e348,
+https://doi.org/10.1016/
+j.cell.2005.02.034.
+W.E. Mesker, J.M.C. Junggeburt, K. Szuhai, P. de Heer, H. Morreau, H.J. Tanke, et
+al., The carcinoma-stromal ratio of colon carcinoma is an independent factor
+for survival compared to lymph node status and tumor stage, Cell. Oncol. 29
+(2007) 387e398. http://www.ncbi.nlm.nih.gov/pubmed/17726261 (Accessed
+August 31 2017).
+N.P. West, M. Dattani, P. McShane, G. Hutchins, J. Grabsch, W. Mueller, et al.,
+The proportion of tumour cells is an independent predictor for survival in
+colorectal cancer patients,, Br. J. Canc. 102 (2010) 1519e1523, https://doi.org/
+10.1038/sj.bjc.6605674.
+E.F.W. Courrech Staal, M.W.J.M. Wouters, J.W. van Sandick, M.M. Takkenberg,
+V.T.H.B.M. Smit, J.M.C. Junggeburt, et al., The stromal part of adenocarcinomas
+of the oesophagus: does it conceal targets for therapy?,, Eur. J. Cancer 46
+(2010) 720e728, https://doi.org/10.1016/j.ejca.2009.12.006.
+A. Labiche, N. Heutte, P. Herlin, J. Chasle, P. Gauduchon, N. Elie, Stromal
+compartment as a survival prognostic factor in advanced ovarian carcinoma,
+Int. J. Gynecol. Canc. 20 (2010) 28e33, https://doi.org/10.1111/
+IGC.0b013e3181bda1cb.
+H. Panayiotou, N.M. Orsi, H.H. Thygesen, A.I. Wright, M. Winder, R. Hutson, et
+al., The prognostic signiﬁcance of tumour-stroma ratio in endometrial carcinoma.,, BMC Canc. 15 (2015) 955, https://doi.org/10.1186/s12885-015-19817.
+G. Finak, N. Bertos, F. Pepin, S. Sadekova, M. Souleimanova, H. Zhao, et al.,
+Stromal gene expression predicts clinical outcome in breast cancer, Nat. Med.
+14 (2008) 518e527, https://doi.org/10.1038/nm1764.
+P. Farmer, H. Bonnefoi, P. Anderle, D. Cameron, P. Wirapati, P. Wirapati, et al.,
+A stroma-related gene signature predicts resistance to neoadjuvant chemotherapy in breast cancer, Nat. Med. 15 (2009) 68e74, https://doi.org/10.1038/
+nm.1908.
+M. Stadler, S. Walter, A. Walzl, N. Kramer, C. Unger, M. Scherzer, et al.,
+Increased complexity in carcinomas: analyzing and modeling the interaction
+of human cancer cells with their microenvironment, Semin. Canc. Biol. 35
+(2015) 107e124, https://doi.org/10.1016/j.semcancer.2015.08.007.
+R. Kalluri, The biology and function of ﬁbroblasts in cancer,, Nat. Rev. Cancer
+16 (2016) 582e598, https://doi.org/10.1038/nrc.2016.73.
+€
+C.-H. Heldin, K. Rubin, K. Pietras, A. Ostman,
+High interstitial ﬂuid pressure d
+an obstacle in cancer therapy, Nat. Rev. Cancer 4 (2004) 806e813, https://
+doi.org/10.1038/nrc1456.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

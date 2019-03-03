@@ -1,0 +1,729 @@
+Endourology and Stones
+Wideband Doppler Ultrasound-guided
+Mini-endoscopic Combined Intrarenal
+Surgery as an Effective and Safe
+Procedure for Management of Large
+Renal Stones: A Preliminary Report
+Takaaki Inoue, Hidefumi Kinoshita, Shinsuke Okada, Shuzo Hamamoto, Makoto Taguchi,
+Takashi Murota, and Tadashi Matsuda on behalf of the SMART Study Group
+OBJECTIVE
+MATERIALS AND
+METHODS
+
+RESULTS
+
+CONCLUSION
+
+To evaluate the efficacy and safety of wideband Doppler ultrasound-guided mini-endoscopic combined intrarenal surgery (mini-ECIRS) for large renal stones.
+This study included 41 patients with large renal stones (>30 mm) treated by mini-ECIRS using
+a retrograde flexible ureteroscope and miniature nephroscope by wideband Doppler ultrasound
+guidance in the modified Valdivia position from January 2013 to September 2015. Surgical parameters, including the stone-free rate, operative time, complications (especially hemorrhagic complications), and hemoglobin drop were recorded and analyzed. Univariate analysis was performed
+to identify risk factors for a hemoglobin drop of ≥1 g/dL.
+The mean stone size, including staghorn calculi in 41.4% of cases, was 45.5 ± 14.7 mm. Percutaneous access into the calices using wideband Doppler ultrasound was successful in all cases. The
+mean total operative time was 158.4 ± 51.3 minutes. The mean mini-ECIRS time (from first percutaneous puncture to end of procedure) was 106.2 ± 36.0 minutes. The initial stone-free rate was
+73.2% (n = 30). The final stone-free rate after auxiliary treatment was 97.5% (n = 40). The mean
+hemoglobin drop was 0.54 ± 0.65 g/dL. Three (7.3%) postoperative modified Clavien grade II complications occurred. Univariate analysis revealed no significant risk factors for a hemoglobin drop
+of ≥1 g/dL.
+Wideband Doppler ultrasound-guided renal puncture is safe and feasible. Wideband Doppler
+ultrasound-guided mini-ECIRS is a beneficial, versatile, and safe treatment option for management of large renal stones of >30 mm. UROLOGY 95: 60–66, 2016. © 2016 Elsevier Inc.
+
+P
+
+ercutaneous nephrolithotomy (PCNL) was first introduced as a minimally invasive modality in 1976.
+It has since remained the gold standard treatment
+for large renal stones of >20 mm.1,2 However, despite the
+high stone-free rate (SFR), investigators have reported a
+high incidence of complications (20.5%-83.0%).3,4 Bleeding is the most troublesome of these complications and can
+occur due to mispuncture of major vessels (such as interlobar arteries), tract creation, renal mucosa laceration due
+to stone manipulation, and postoperative pseudoaneurysm
+Financial Disclosure: The authors declare that they have no relevant financial interests.
+From the Department of Urology and Stone Center, Takii-Hospital of Kansai Medical
+University, Moriguchi, Osaka, Japan; the Department of Urology and Andrology, Kansai
+Medical University, Hirakata, Osaka, Japan; the Department of Urology, Gyotoku General
+Hospital, Ichikawa, Chiba, Japan; and the Department of Nephrourology, Nagoya City
+University Graduate School of Medical Sciences, Nagoya, Japan
+Address correspondence to: Tadashi Matsuda, M.D, Ph.D., Department of Urology
+and Andrology, Kansai Medical University, Shinmachi 2-5-1, Hirakata, Osaka 5730101, Japan. E-mail: matsudat@hirakata.kmu.ac.jp
+Submitted: February 3, 2016, accepted (with revisions): May 18, 2016
+
+60
+
+© 2016 Elsevier Inc.
+All rights reserved.
+
+formation.5 In several reports, the perioperative hemoglobin drop after standard PCNL using a ≥ 24F tract was 1.66
+to 2.33 g/dL.6-8 However, the risk of bleeding in some novel
+techniques, such as minimally invasive PCNL (miniPCNL), ultramini-PCNL, and micro-PCNL, which are characterized by a reduced tract sheath size, is lower than that
+in standard PCNL.9,10 In contrast, the decreased size of the
+scope and tract sheath increases the operative times for management of large renal stones, resulting in systemic absorption of irrigation fluid due to elevated intrapelvic
+pressure in the prone position.10,11 The combination of retrograde intrarenal surgery (RIRS) and mini-PCNL, termed
+minimally invasive endoscopic combined intrarenal surgery
+(mini-ECIRS), recently showed better outcomes than miniPCNL alone for large renal stones of >30 mm.12
+To decrease the risk of intraoperative and postoperative renal hemorrhage, the most important process during
+PCNL is the establishment of ideal caliceal access for tract
+creation. Generally, percutaneous caliceal puncture aims
+http://dx.doi.org/10.1016/j.urology.2016.05.038
+0090-4295
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+for the fornix of the target calyx because this area contains fewer blood vessels. However, hemorrhage may occur,
+albeit rarely, despite puncture into the fornix of the target
+calyx. Recognition of the blood vessel paths within the renal
+parenchyma is usually impossible even with fluoroscopic
+or B-mode ultrasound guidance. Lu et al5 reported that the
+use of color Doppler ultrasound guidance for puncture of
+the target calyx allowed for real-time detection and avoidance of renal blood vessels and decreased the incidence of
+hemorrhagic complications. However, compared with the
+real vessel size, color Doppler and power Doppler ultrasound cause the blood vessels to appear thicker and more
+protruding (blooming appearance). Therefore, more sensitive puncture of the target calyx for avoidance of renal
+blood vessels such as interlobar arteries is difficult.5,13
+Wideband Doppler ultrasound suppresses the blooming appearance and displays a clearer picture of how the blood
+vessels run throughout the tissue in real time than do color
+Doppler and power Doppler.
+In this study, we selected the renal puncture line using
+wideband Doppler ultrasound and performed mini-ECIRS
+for large renal stones (>30 mm). We evaluated the efficacy and safety of this technique.
+
+concentration and estimated glomerular filtration rate (eGFR),
+and performance of imaging examinations, such as plain X-rays
+of the kidney, ureters, and bladder (KUB); computed tomography; abdominal ultrasonography; and intravenous urography. The
+stone size and location were reviewed on the imaging series. The
+size of simple stones was measured by the long axis of the stone,
+and the size of multiple renal stones was measured by adding the
+length of the longest axis of each stone. We routinely administered an antibiotic (flomoxef sodium 1 g) 30 minutes before surgery
+in patients with a negative urine culture, and we usually administered an appropriate antibiotic based on the result of the positive urine culture starting the day before surgery. Patients who
+were taking an anticoagulation agent withdrew the agent for an
+appropriate duration before surgery.
+Percutaneous caliceal puncture during the procedure was performed using wideband Doppler ultrasound (Aplio 300 TOSHIBA
+Ultrasound System, Japan, or α7 Aloka Ultrasound System, Japan).
+Wideband Doppler ultrasound provides a blood flow image with
+high resolving power and improved spatial resolution and time
+resolution. Wideband Doppler ultrasound suppresses the blooming appearance and displays a clearer image of the path of the
+blood vessels in real time than do conventional color Doppler
+and power Doppler. Therefore, this method can be used to accurately visualize peripheral vascular flow (Fig. 1A-C).
+
+Operative Technique
+
+MATERIALS AND METHODS
+Preoperative Evaluation and Settings
+We retrospectively analyzed 41 patients in our prospective database who underwent mini-ECIRS using wideband Doppler ultrasound for management of renal stones (>30 mm) from January
+2013 to September 2015 at the Department of Urology and Stone
+Center, Kansai Medical University Takii Hospital, Osaka, Japan.
+Our institutional review board approved this study. All patients
+provided written informed consent.
+All patients were evaluated preoperatively by obtaining a
+medical history and performing a clinical examination, routine
+laboratory tests, including measurement of the hemoglobin
+
+All procedures were performed under general anesthesia in the
+modified Valdivia position (semi-supine combined lithotomy position), allowing for simultaneous antegrade and retrograde access.
+The procedure was performed by 2 surgeons; 1 performed antegrade
+mini-PCNL and the other performed RIRS. Mini-PCNL in all
+procedures was performed by a single surgeon. First, using a retrograde approach, a semi-rigid ureteroscope was inserted into the
+ureter of the diseased side with a 0.035-mm guidewire, and the
+lower and middle ureters were observed to confirm the presence
+of stones and predict a usable size of ureteral access sheath (UAS).
+If no stones were found in the ureter, a UAS of size 9.5/11.5F
+(Flexor; Cook Medical, Bloomington, IN) or 11/13F (Navigator HD; Boston Scientific, Marlborough, MA) was placed near
+the ureteropelvic junction under fluoroscopic guidance. A flexible
+
+Figure 1. Doppler ultrasound images in same ultrasound system. (A) Color Doppler mode; (B) power Doppler mode;
+(C) wideband Doppler mode; (D) twin-view image of B-mode and wideband Doppler modes during puncture. Percutaneous
+puncture was performed in real time to detect and avoid renal blood vessels. (Color version available online.)
+
+UROLOGY 95, 2016
+
+61
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+ureteroscope (URF-P6; Olympus, Tokyo, Japan, or FLEX-X2; Karl
+Storz, Tuttlingen, Germany) was inserted through the UAS to
+confirm the stones in the pelvis and the target calyx for antegrade
+puncture. If the UAS could not be inserted near the ureteropelvic junction because of large ureteral stones, RIRS was initially
+performed to treat the ureteral stones using a holmium laser.
+Second, using an antegrade approach, the target calyx was confirmed using B-mode ultrasound, and the path of the blood vessels
+in the same renal parenchyma was confirmed in real time using
+wideband Doppler ultrasound. When puncturing the target calyx,
+the ultrasound screen was converted to a twin-view image
+(Fig. 1D). The target calyx was punctured in 2 steps. An 18gauge coaxial needle was first used to puncture the renal capsule,
+and a 22-gauge coaxial needle was then inserted into the outer
+cylinder of the 18-gauge coaxial needle and used to puncture the
+renal parenchyma until the target calyx was reached. This technique provides the 22-gauge coaxial puncture needle with a stable
+axis, which allows for finer puncture of the target calyx. After
+successful puncture, an 18F or 19.5F mini-PCNL tract (Karl Storz)
+was created under fluoroscopic guidance. A 12F miniature
+nephroscope (LithoClast; Boston Scientific Japan, Tokyo, Japan)
+and a holmium laser were then used to disintegrate the renal stones.
+The fragments were actively flushed out of the collecting system
+by irrigation fluid, or extracted using nitinol baskets. Renal stones
+that could not be reached by percutaneous procedures were disintegrated using flexible ureteroscopy and laser lithotripsy. The
+almost-disintegrated fragments were passed to the percutaneous
+tract with flexible ureteroscopy and removed through the percutaneous tract sheath. At the conclusion of the procedure, an
+indwelling 6F ureteral stent was placed in the urinary tract, and
+a 14F or 16F nephrostomy tube was inserted. If no residual fragments were seen on the image, the nephrostomy tube was clamped
+the next day and removed 2 to 3 days after surgery. The ureteral
+stent was removed 1 to 2 weeks later.
+
+Postoperative Evaluation and Analysis
+The day after surgery, all patients were evaluated by routine laboratory tests including determination of the hemoglobin concentration and eGFR and performance of urinalysis, ultrasonography,
+and KUB X-rays. A stone-free status was defined as <4-mm residual fragments on KUB X-rays and ultrasonography at 1 day
+and 1 month postoperatively. If ≥5-mm residual fragments were
+present on KUB X-rays and ultrasonography 1 day postoperatively, auxiliary treatment was performed 1 week postoperatively. We prospectively recorded the perioperative data and
+intraoperative and postoperative complications. In this study, we
+defined a hemoglobin drop of ≥1 g/dL as severe bleeding. Univariate analysis was performed to identify risk factors for a hemoglobin drop of ≥1 g/dL. Postoperative complications were graded
+according to the modified Clavien classification system. SPSS
+version 21 (IBM Corp., Armonk, NY) was used to analyze the
+collected data. The mean ± standard deviation was calculated,
+and Pearson’s chi-square test and the Mann-Whitney U test were
+performed as appropriate. Statistical significance was defined as
+a P value of <.05.
+
+RESULTS
+The patient and stone demographics are summarized in
+Table 1. The mean patient age was 59.1 ± 11.8 years. The
+mean stone size was 45.5 ± 14.7 mm, including 26.8%
+(n = 11) partial staghorn calculi and 14.6% (n = 6) complete
+62
+
+Table 1. Patient and stone demographics
+Wideband
+Mini-ECIRS
+(n = 41)
+Sex (male or female)
+Age (years)
+BMI (kg/m2)
+ECOG performance status
+0
+1
+2
+3
+4
+Hemoglobin (g/dL)
+eGFR (ml/min/1.73 m2)
+Positive preoperative urine cultures
+History of renal operations
+Shockwave lithotomy
+Retrograde intrarenal surgery
+Percutaneous nephrolithotomy
+Open surgery
+Preoperative interventions
+Stent
+Nephrostomy
+History of anticoagulation
+Antiplatelet agent
+Anticoagulant agent
+Stone location
+U1
+R2
+R3
+Stone shape
+Non-staghorn
+Staghorn
+Complete staghorn
+Partial staghorn
+Stone size (mm)
+Stone CT value (HU)
+
+28/13
+59.1 ± 11.8
+25.1 ± 4.3
+32 (78.0)
+4 (9.7)
+3 (7.3)
+2 (5.0)
+0 (0.0)
+13.6 ± 2.0
+69.5 ± 20.5
+21 (51.2)
+6
+9
+2
+2
+
+(14.6)
+(21.9)
+(4.8)
+(4.8)
+
+7 (17.1)
+0 (0.0)
+5 (12.1)
+0 (0.0)
+0 (0.0)
+29 (70.7)
+12 (29.2)
+24 (58.5)
+17 (41.4)
+6 (14.6)
+11 (26.8)
+45.5 ± 14.7
+1106.8 ± 322.1
+
+BMI, body mass index; CT, computed tomography; ECIRS, endoscopic combined intrarenal surgery; ECOG, Eastern Cooperative
+Oncology Group; eGFR, estimated glomerular filtration rate; HU,
+Hounsfield unit.
+Data are presented as mean ± standard deviation or n (%).
+
+staghorn calculi. All 41 patients underwent successful percutaneous access of the target calyx in the modified Valdivia position under ultrasound guidance. The treatment
+outcomes are summarized in Table 2. The distance between
+the skin and renal capsule, measured ultrasonographically
+during percutaneous puncture, was 51.9 ± 21.7 mm. The
+mean number of attempts until successful puncture of the
+target calyx was 1.8, and most successful punctures were
+of the middle calyx (75.6%). All procedures were successfully performed using a single tract with an 18F (73.1%)
+or 19.5F (26.9%) tract sheath size and combined RIRS.
+The initial SFR was 73.2% (n = 30). Auxiliary treatments were performed in 10 cases of residual stones, including 9 second ECIRS procedures for treatment of 4
+complete staghorn calculi, 4 partial staghorn calculi, and
+1 non-staghorn calculus, and ureteroscopy for 1 nonstaghorn calculus. As a result, the final SFR was 97.5%
+(n = 40). The total operative time (from cystoscopy to the
+end of the procedure) was 158.4 ± 51 minutes. The total
+UROLOGY 95, 2016
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Table 2. Treatment outcomes
+Wideband
+Mini-ECIRS
+(n = 41)
+Number of attempts until successful
+puncture of target calix is achieved
+Skin to renal capsule distance using
+ultrasound (mm)
+Number of calices punctured
+Upper calix
+Middle calix
+Lower calix
+Type of ureteral access sheath
+Sheathless
+9.5/11.5F
+11/13F
+Number of tracts
+Single
+Multiple
+Tract size
+18F
+19.5F
+Total operative time (min)
+Total mini-ECIRS time (min)
+Fluoroscopy time (s)
+Stone-free rate
+Initial (1 day postoperatively)
+Final (1 month postoperatively)
+Auxiliary treatments
+Second ECIRS
+Retrograde intrarenal surgery
+Shockwave lithotomy
+Comparison of preoperative and
+postoperative data
+Hb drop (g/dL)
+With use of 18F tract (g/dL)
+With use of 19.5F tract (g/dL)
+eGFR drop (mL/min/1.73 m2)
+Complications
+Fever of ≥38.5°C
+Adjacent organ injury
+Pelvic extravasation
+Perirenal urinoma
+Transfusion
+Significant bleeding (Hb drop of
+≥2 g/dL)
+Hb drop of ≥1 g/dL
+Clavien grade classification
+I
+II
+IIIa
+IIIb
+IV
+V
+Hospitalization (days)
+
+1.8 ± 1.3
+51.9 ± 21.7
+2 (4.8)
+31 (75.6)
+8 (19.5)
+2 (4.8)
+23 (56.1)
+16 (39.1)
+41 (100.0)
+0 (0.0)
+30 (73.1)
+11 (26.9)
+158.4 ± 51.3
+106.2 ± 36.0
+336.4 ± 169.7
+30 (73.2)
+40 (97.5)
+9 (21.9)
+1 (2.4)
+0 (0.0)
+0.54 ± 0.65
+0.63 ± 0.66
+0.39 ± 0.70
+2.0 ± 9.8
+3
+0
+0
+0
+0
+0
+
+(7.3)
+(0.0)
+(0.0)
+(0.0)
+(0.0)
+(0.0)
+
+10 (24.4)
+0 (0.0)
+3 (7.3)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+12.8 ± 7.3
+
+Hb, hemoglobin; other abbreviations as in Table 1.
+Data are presented as mean ± standard deviation or n (%).
+
+mini-ECIRS time (from insertion of the puncture needle
+to the end of the procedure) was 106.2 ± 36.0 minutes.
+The mean hemoglobin drop was 0.54 ± 0.65 g/dL. The
+maximum hemoglobin drop was 2.0 g/dL. The mean
+hemoglobin drop with use of an 18F and 19.5F sheath
+size was 0.63 ± 0.66 g/dL and 0.39 ± 0.70 g/dL, respectively, with no significant difference (P = .443). No patient
+UROLOGY 95, 2016
+
+required a blood transfusion. The mean eGFR drop was
+2.0 ± 9.8 mL/min/1.73 m2. Postoperative fever (>38.5°C)
+occurred in 3 patients (7.3%, Clavien grade II). No major
+complications such as adjacent organ injury, pelvic extravasation, or perirenal urinoma occurred.
+Univariate analysis revealed no significant risk factors
+for a postoperative hemoglobin drop of ≥1 g/dL (Table 3).
+
+COMMENT
+In the present study, wideband Doppler ultrasoundguided mini-ECIRS was a useful and safe procedure for the
+management of large renal stones. Although standard PCNL
+usually uses a 24F to 30F percutaneous tract sheath, some
+investigators recently reported that a larger tract sheath
+size is associated with a higher bleeding risk.14 Kukreja et al6
+reported that the mean hemoglobin drop associated with
+the use of a <22F and >26F tract sheath was 1.1 ± 0.7 g/
+dL and 1.66 ± 1.1 g/dL, respectively (P = .002). Yamaguchi
+et al15 reported that the incidence of blood transfusion associated with the use of an <18F, 24-26F, 27-30F, and 3234F tract sheath was 1.1%, 4.8%, 5.9%, and 12.1%,
+respectively (P < .0001). Therefore, mini-PCNL, which uses
+a smaller tract sheath, was introduced to decrease the bleeding risk. Mini-PCNL is performed using a 16F to 20F tract
+sheath and a 12F miniature nephroscope. Sabnis et al,16
+who performed mini-PCNL through an 18F to 19.5F percutaneous tract sheath for 32 patients with renal stones with
+a mean size of 15.2 mm, found that the mean hemoglobin drop was 1.43 ± 1.01 g/dL. Shah et al,10 who performed ultramini-PCNL using a 13F tract sheath for treating
+renal stones with a mean size of 26.6 ± 4.7 mm, found that
+the mean hemoglobin drop was 1.2 ± 0.3 g/dL. Furthermore, Armagan et al17 performed micro-PCNL using an 8F
+tract sheath for treating renal stones with a mean size of
+17.9 ± 5.0 mm and found that the mean hemoglobin drop
+was 1.1 ± 0.8 g/dL. The advantages of a smaller tract sheath
+are less bleeding and fewer hemorrhage complications.
+However, a smaller tract sheath, nephroscope, and working
+channel increase the operative time and may limit the indication for the procedure with respect to stone size. A
+smaller tract sheath may also cause postoperative fever
+because of high renal pelvic pressure and possible absorption of microorganisms from the fragmented calculi.10,18 We
+performed wideband Doppler ultrasound-guided miniECIRS in the modified Valdivia position to overcome
+these disadvantages, diminish the bleeding risk, ensure a
+high SFR, and decrease the risk of postoperative urinary
+infection.
+Percutaneous caliceal puncture during PCNL generally aims for the fornix of the target calyx. However, bleeding may occur despite puncture of this fornix. Therefore,
+most investigators have suggested that the best entry
+into the desired calyx would be through Brodel’s line. It
+is difficult to distinguish this avascular plane using fluoroscopy or B-mode ultrasonography.7 In several studies, the
+hemoglobin drop during PCNL by fluoroscopy and
+63
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Table 3. Factors associated with postoperative Hb decrease of ≥1 g/dL
+
+Age (years)
+Sex
+Male
+Female
+BMI (kg/m2)
+History of anticoagulation
+Yes
+None
+Skin to renal capsule distance using ultrasound (mm)
+Mini-ECIRS time (min)
+Punctured calix
+Middle calix
+Other calix
+Tract size
+18F
+19.5F
+
+Hb Decrease of
+<1 g/dL
+(n = 31)
+
+Hb Decrease
+of ≥1 g/dL
+(n = 10)
+
+Univariate
+Analysis
+(P Value)
+
+58.5 ± 15.1
+
+55.9 ± 14.6
+
+.393
+.894
+
+21
+10
+25.3 ± 4.6
+
+7
+3
+24.5 ± 3.3
+
+3
+28
+50.9 ± 24.5
+102.5 ± 34.0
+
+2
+8
+55.2 ± 8.7
+117.0 ± 40.1
+
+23
+8
+
+8
+2
+
+22
+9
+
+8
+2
+
+.482
+.386
+.081
+.622
+.71
+.575
+
+Abbreviations as in Tables 1 and 2.
+Data are presented as mean ± standard deviation or n.
+
+ultrasonography guidance was reportedly 1.10 to 2.16 g/dL
+and 1.20 to 2.33 g/dL, respectively.6,8,19 These hemoglobin drops occurred because more bleeding is associated with
+a larger tract sheath size. In 1989, McNamara20 first reported the performance of percutaneous procedures using
+color Doppler ultrasound mode. Doppler ultrasonography
+has a power Doppler mode that displays the magnitude of
+vascular flow and a color Doppler mode that displays the
+running of vascular flow. These Doppler modes can show
+the vascular flow in real time. Using these Doppler modes
+for puncture of the target calyx might result in easy detection and avoidance of renal blood vessels such as interlobar arteries and veins and arcuate arteries and veins.
+Tzeng et al,7 who performed PCNL through a 30F tract
+sheath using B-mode or power Doppler ultrasound guidance, found that the hemoglobin drops associated with each
+method were 2.33 ± 0.46 g/dL and 1.47 ± 0.61 g/dL, respectively. Thus, Doppler ultrasonography is a beneficial
+method with which to decrease hemorrhagic complications. However, color and power Doppler ultrasound have
+some weaknesses. First, the blood vessels shown by these
+Doppler modes are thicker than the actual size because of
+the blooming appearance. Therefore, it is difficult for some
+physicians to identify an accurate puncture line in the renal
+parenchyma that will avoid major vessels. Second, when
+performing the puncture under color or power Doppler in
+real time, the tip of the puncture needle exhibits halation and the puncture needle cannot be seen on the ultrasound screen. To overcome these weak points, we
+punctured the target calyx by combining wideband Doppler
+and B-mode ultrasound on a twin-view image. Wideband
+Doppler ultrasound suppresses the blooming appearance and
+clearly displays peripheral blood vessels. Furthermore, the
+twin-view image, which shows wideband Doppler ultrasound on 1 screen and B-mode on the other screen, can
+avoid halation of the tip of the puncture needle. We also
+performed a 2-step puncture to reduce the blur of the tip
+64
+
+of the puncture needle, ensuring a delicate puncture. Consequently, the mean hemoglobin drop in the present study
+was 0.54 ± 0.65 g/dL, which is lower than in other reports
+(Table S1). This method may be 1 option that allows safe
+puncture of the target calyx because of the ability to capture
+an accurate and objective view of the blood vessel path.
+However, if there is a large distance between the skin and
+renal capsule on ultrasonography, the path of the blood
+vessels within the renal parenchyma can be difficult to
+discern because the ultrasonic waves cannot penetrate
+deeply enough. In the present study, although the hemoglobin drop tended to increase (≥1 g/dL) when the distance between the skin and renal capsule was >55.2 mm,
+likely because the ultrasonic waves could not reach the renal
+parenchyma, that distance was not significant.
+Although a fluoroscopy- or ultrasound-guided approach for percutaneous renal access is the usual method,
+precise percutaneous renal access remains challenging.
+Several approaches were recently reported to allow easy
+and safe puncture of the renal collecting system. These
+methods include 3-dimensional CT guidance, markerbased navigation systems, real-time electromagnetic tracking systems, and electronically instrumented needles.21-24
+There is now high expectation for the efficacy of these
+methods.
+Generally, the first treatment option for large renal stones
+may be standard PCNL, which is superior to mini-PCNL.
+However, Knoll et al25 reported similar SFRs of 96% and
+92% between mini-PCNL and standard PCNL, respectively, for the management of 20-mm renal stones. Pan
+et al,26 who performed mini-PCNL for the management of
+20- to 30-mm renal stones, reported a high SFR of 96.6%.
+Recently, Shah et al10 also found an SFR of 81.8% using
+ultramini-PCNL for patients with 20- to 30-mm renal
+stones. Even if PCNL is performed using a small tract sheath
+for large renal stones (20-30 mm), the SFR is higher.
+However, mini-PCNL alone for the management of large
+UROLOGY 95, 2016
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+renal stones (>30 mm) has a poor SFR of 38.9%.9 Therefore, although the general indications for mini-PCNL in
+adults may include renal stones of <20 or 30 mm in size,
+the definite indications for mini-PCNL have not been
+clearly defined.11 However, Hamamoto et al12,27 found that
+when mini-ECIRS was combined with RIRS and miniPCNL for 30- to 40-mm and >40-mm renal stones, including staghorn stones, better outcomes were obtained,
+with a high SFR of 71.4%. The simultaneous approach involving both RIRS and PCNL improves the efficiency of
+disintegration and removal of renal stones and increases
+the SFR. In the present study, mini-ECIRS was performed for management of large renal stones of 45.5 mm,
+and a high SFR of 73.2% was achieved.
+We performed mini-ECIRS with the patients in the
+modified Valdivia position. This position has some advantages, including a comfortable simultaneous approach for
+both RIRS and PCNL, elimination of cardiovascular and
+respiratory problems, easy flushing out of small fragments
+by the flow of the irrigation fluid, a comfortable sitting position for surgeons during PCNL, and maintenance of lower
+renal pelvis pressure because of the horizontal tract sheath,
+which reduces the risk of fluid absorption.7,28,29 In the present
+study, although the operative time for the management of
+large renal stones was relatively long at 158.4 minutes, the
+incidence of postoperative fever was low at 7.3%. However,
+disadvantages of this modified Valdivia position include constant collapse of the pyelocaliceal system and difficulty maintaining the operative field. Additionally, the performance
+of lower-pole puncture is more difficult in this position than
+in the prone position because of renal hypermobility to the
+ventral side.
+Few reports have described the use of wideband Doppler
+in clinical practice. In gastroenterological medicine,
+wideband Doppler ultrasound has been used for the quantitative evaluation of bowel wall vascularity in patients with
+Crohn’s disease and the vascularity of liver tumors, such
+as hemangiomas or focal nodular hyperplasia.30,31 To our
+knowledge, this is the first report of mini-ECIRS using
+wideband Doppler ultrasound in the urological field.
+However, a limitation of the study is that it was an experimental case series. Therefore, a prospective randomized control study involving a large number of cases, such
+as comparison among B-mode and wideband Doppler, fluoroscopy, and wideband Doppler, is required. Another limitation is that in some cases, the ultrasonic waves could not
+penetrate the full distance between the skin and renal
+capsule; in these cases, wideband Doppler was not available. Future studies should investigate in which cases
+wideband Doppler is available and effective.
+
+CONCLUSION
+Wideband Doppler ultrasound-guided renal puncture is safe
+and feasible. Wideband Doppler ultrasound-guided miniECIRS is efficient, safe, and versatile for management of
+large renal stones of >30 mm.
+UROLOGY 95, 2016
+
+References
+1. Fernstrom I, Johansson B. Percutaneous pyelolithotomy: a new extraction technique. Scand J Urol Nephrol. 1976;10:257-259.
+2. Turk C, Knoll T, Petrik A, et al. Guidelines on urolithiasis. European Association of Urology, 2015.
+3. Rosette JD, Assimos D, Desai M, et al. The clinical research office
+of the endourological society percutaneous nephrolithotomy global
+study: indications, complications, and outcomes in 5803 patients.
+J Endourol. 2011;25:11-16.
+4. Michel MS, Trojan L, Rassweiler JJ, et al. Complications in percutaneous nephrolithotomy. Eur Urol. 2007;51:899-906.
+5. Lu MH, Pu XY, Gao X, et al. A comparative study of clinical value
+of Singke B-mode ultrasound guidance and B-mode combined with
+color Doppler ultrasound guidance in mini-invasive percutaneous
+nephrolithotomy to decrease hemorrhagic complications. Urology.
+2010;76:815-820.
+6. Kukreja R, Desai M, Patel S, et al. Factors affecting blood loss during
+percutaneous nephrolithotomy: prospective study. J Endourol.
+2004;18:715-722.
+7. Tzeng BC, Wang CJ, Huang SW, et al. Doppler ultrasound-guided
+percutaneous nephrolithotomy: a prospective randomized study.
+Urology. 2011;78:535-539.
+8. Yan S, Xiang F, Yongsheng S, et al. Percutaneous nephrolithotomy
+guided solely by ultrasonography: a 5-year study of >700 cases. BJU
+Int. 2013;112:965-971.
+9. Desai J, Solanki R. Ultra-mini percutaneous nephrolithotomy (UMP):
+one more armamentarium. BJU Int. 2013;112:1046-1049.
+10. Shah AK, Xu K, Liu H, et al. Implementation of ultramini percutaneous nephrolithotomy for treatment of 2-3 cm kidney stones: a
+preliminary report. J Endourol. 2015;29:1231-1236.
+11. Zhong W, Zeng G, Wu K, et al. Does a smaller tract in percutaneous nephrolithotomy contribute to high renal pelvic pressure and postoperative fever? J Endourol. 2008;22:2147-2151.
+12. Hamamoto S, Yasui T, Okada A, et al. Endoscopic combined
+intrarenal surgery for large calculi: simultaneous use of flexible
+ureteroscopy and mini-percutaneous nephrolithotomy monotherapy.
+J Endourol. 2014;14:735-737.
+13. Xu Y, Wu Z, Yu S, et al. Doppler ultrasound-guided percutaneous
+nephrolithotomy with two-step tract dilation for management of
+complex renal stones. Urology. 2012;79:1247-1251.
+14. Kim BS. Recent advancement or less invasive treatment of percutaneous nephrolithotomy. Korean J Urol. 2015;56:614-623.
+15. Yamaguchi A, Skolarikos A, Buchholz NP, et al. Operating times
+and bleeding complications in percutaneous nephrolithotomy:
+a comparison of tract dilation methods in 5537 patients in the clinical research office of the Endourological Society Percutaneous Nephrolithotomy Global Study. J Endourol. 2011;25:933-999.
+16. Sabnis RB, Jagtap J, Mishra S, et al. Treating renal calculi 1-2 cm
+in diameter with minipercutaneous or retrograde intrarenal
+surgery: a prospective comparative study. BJU Int. 2012;110:346349.
+17. Armagan A, Tepeler A, Silay MS, et al. Micropercutaneous nephrolithotomy in the treatment of moderate-size renal calculi. J Endourol.
+2013;27:177-181.
+18. Dogan HS, Sahin A, Cetinkaya Y, et al. Antibiotic prophylaxis in
+percutaneous nephrolithotomy: prospective study in 81 patients.
+J Endourol. 2002;16:649-653.
+19. Isac W, Rizkala E, Liu X, et al. Endoscopic-guided versus fluoroscopicguided renal access for percutaneous nephrolithotomy: a comparative analysis. Urology. 2013;81:251-256.
+20. McNamara MP Jr. Percutaneous procedure guided by color-flow
+Doppler sonography. AJR Am J Roentgenol. 1989;152:11231125.
+21. Eiley DM, Ozsvath B, Siegel DN, et al. Percutaneous nephrolithotomy with renal angiomyolipomas: a rare challenge. J Endourol.
+1999;13:27-30.
+22. Rassweiler JJ, Muller M, Fangerau M, et al. iPad-assisted percutaneous access to the kidney using marker-based navigation: initial clinical experience. Eur Urol. 2012;61:628-631.
+
+65
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+23. Rodrigues PL, Vilaca JL, Oliveira C, et al. Collecting system percutaneous access using real-time tracking sensors: first pig model in vivo
+experience. J Urol. 2013;190:1932-1937.
+24. Bader MJ, Gratzke C, Seitz M, et al. The “all-seeing needle”: initial
+results of an optical puncture system confirming access in percutaneous nephrolithotomy. Eur Urol. 2011;59:1054-1059.
+25. Knoll T, Zeng G, Wu W, et al. Do patients benefit from miniaturized tubeless percutaneous nephrolithotomy? A comparative prospective study. J Endourol. 2010;24:1075-1079.
+26. Pan J, Chen Q, Xue W, et al. RIRS versus mPCNL for single renal
+stone of 2-3 cm: clinical outcome and cost-effective analysis in Chinese
+medical nephrolithotomy. Urolithiasis. 2013;41:73-78.
+27. Hamamoto S, Yasui T, Okada A, et al. Efficacy of endoscopic combined intrarenal surgery in the prone split-leg position for staghorn
+calculi. J Endourol. 2015;29:19-24.
+28. Valdivia Uria JG, Valle Gerhold J, Lopez Lopez JA, et al.
+Technique and complications of percutaneous nephroscopy:
+experience with 557 patients in the supine position. J Urol.
+1998;160:1975-1978.
+
+66
+
+29. Hoznek A, Rode J, Ouzaid I, et al. Modified supine percutaneous nephrolithotomy for large kidney and ureteral stones: technique and results.
+Eur Urol. 2012;61:164-170.
+30. Kratzer W, Schmidt SA, Mittrach C, et al. Contrast-enhanced
+wideband harmonic imaging ultrasound (SonoVue): a new technique for quantifying bowel wall vascularity in Crohn’s disease. Scand
+J Gastroenterol. 2005;40:985-991.
+31. Janica J, Serwatka W, Polakow J, et al. Hemangiomas and focal nodular
+hyperplasia images in contrast-enhanced, wideband phase-inversion
+harmonic power Doppler imaging. Med Sci Monit. 2004;10:2631.
+
+APPENDIX
+SUPPLEMENTARY DATA
+
+Supplementary data associated with this article can be found,
+in the online version, at http://dx.doi.org/10.1016/j.urology.2016
+.05.038.
+
+UROLOGY 95, 2016
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

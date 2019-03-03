@@ -1,0 +1,1188 @@
+Actas Urol Esp. 2017;41(7):426---434
+
+Actas Urológicas Españolas
+www.elsevier.es/actasuro
+
+REVIEW ARTICLE
+
+Is extracorporeal shock wave lithotripsy a current
+treatment for urolithiasis? A systematic review夽
+P. Bahílo Mateu a,∗ , A. Budía Alba a , E. Liatsikos b , M. Trassierra Villa a ,
+J.D. López-Acón a , D. de Guzmán Ordaz a , F. Boronat Tormo a
+a
+b
+
+Servicio de Urología, Hospital Universitario y Politécnico La Fe, Valencia, Spain
+Universidad de Patras, Patras, Greece
+
+Received 25 January 2017; accepted 25 January 2017
+Available online 21 July 2017
+
+KEYWORDS
+Lithiasis;
+Extracorporeal
+lithotripsy;
+Endourology;
+Treatment
+
+Abstract
+Introduction: Technological advances have prompted a change in the management of urolithiasis. Endourological techniques are gaining importance because they are highly effective
+treatments. The aim of this study was to answer the question of whether extracorporeal shock
+wave lithotripsy (ESWL) is still a competitive alternative compared with other therapeutic
+modalities.
+Acquisition of evidence: We conducted a literature search of articles published in the past 5
+years. We identiﬁed 12 randomized and comparative studies and assessed the methodology and
+results of the study variables. We performed a narrative synthesis of the included studies. To
+summarize the variables, we used the mean and standard deviation for continuous variables
+and absolute numbers and percentages for the qualitative variables.
+Analysis of the evidence: Of the studies reviewed, 7 evaluated the various treatments for
+nephrolithiasis and 5 evaluated the treatments for ureteral lithiasis. At the renal level, a stonefree rate of 33.33---91.5% at 3 months was reached with ESWL, while a rate of 90.4---100% was
+achieved with the other endourological techniques, without ﬁnding statistically signiﬁcant differences in the studies. At the ureteral level, a stone-free rate of 73.5---82.2% at 3 months
+was reached with ESWL, while a rate of 79---94.1% was achieved with the other endourological
+techniques, without ﬁnding statistically signiﬁcant differences in the studies.
+Conclusion: There is a lack of homogeneity among the published studies. ESWL is a minimally
+invasive treatment that with an appropriate technique and patient selection achieves high
+effectiveness, thus maintaining an important role at this time.
+© 2017 AEU. Published by Elsevier España, S.L.U. All rights reserved.
+
+夽 Please cite this article as: Bahílo Mateu P, Budía Alba A, Liatsikos E, Trassierra Villa M, López-Acón JD, de Guzmán Ordaz D, et al. ¿Es
+la litotricia extracorpórea por ondas de choque en la actualidad un tratamiento vigente para el tratamiento de la litiasis urinaria? Revisión
+sistemática. Actas Urol Esp. 2017;41:426---434.
+∗ Corresponding author.
+E-mail address: pilarbahilo@hotmail.com (P. Bahílo Mateu).
+
+2173-5786/© 2017 AEU. Published by Elsevier España, S.L.U. All rights reserved.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Is extracorporeal shock wave lithotripsy a current treatment for urolithiasis?
+
+PALABRAS CLAVE
+Litiasis;
+Litotricia
+extracorpórea;
+Endourología;
+Tratamiento
+
+427
+
+¿Es la litotricia extracorpórea por ondas de choque en la actualidad un tratamiento
+vigente para el tratamiento de la litiasis urinaria? Revisión sistemática
+Resumen
+Introducción: Los avances tecnológicos han motivado un cambio en el manejo de la urolitiasis. Las técnicas endourológicas están cobrando mayor importancia, ya que son tratamientos
+altamente eﬁcaces. El objetivo de este trabajo es responder a la cuestión de si la LEOCH sigue
+siendo una alternativa competitiva frente a otras modalidades terapéuticas.
+Adquisición de la evidencia: Se realizó una búsqueda bibliográﬁca de artículos publicados en
+los últimos 5 años. Fueron identiﬁcados 12 estudios aleatorizados y comparativos. Se evaluó la
+metodología y el resultado de las variables estudiadas. Se ha realizado una síntesis narrativa de
+los estudios incluidos. Para resumir las variables se ha utilizado la media y la desviación estándar
+en variables continuas, y para variables cualitativas el número absoluto y el porcentaje.
+Análisis de la evidencia: De los estudios revisados, 7 trabajos evaluaban los distintos tratamientos para litiasis renales y 5 para litiasis ureterales. A nivel renal, con LEOCH se alcanza una TLL a
+los 3 meses entre 91,5-33,33%, mientras que con otras técnicas endourológicas entre 100-90,4%,
+sin encontrar diferencias estadísticamente signiﬁcativas en todos los estudios. A nivel ureteral
+con LEOCH se alcanza una TLL a los 3 meses entre 82,2-73,5%, mientras que con otras técnicas
+endourológicas entre 94,1-79%, sin encontrar diferencias estadísticamente signiﬁcativas todos
+los estudios.
+Conclusión: Existe una falta de homogeneidad entre los estudios publicados. La LEOCH es un
+tratamiento mínimamente invasivo, que con una adecuada técnica y selección del paciente
+alcanza una elevada efectividad, manteniendo un papel importante en la actualidad.
+© 2017 AEU. Publicado por Elsevier España, S.L.U. Todos los derechos reservados.
+
+Introduction
+
+Evidence acquisition
+
+With the development of extracorporeal shock wave
+lithotripsy (ESWL) in the 1980s as a treatment for urinary
+lithiasis, there was a signiﬁcant change in the management
+of this condition. Open surgery, which until now had been the
+standard treatment, was displaced by a technique that was
+minimally invasive, effective and with a low complication
+rate.
+Subsequently, contraindications to the use of ESWL in
+certain patients, as well as their complications, led to
+the onset of endourology. Due to the development and
+technological advances achieved in medicine, we are witnessing a new change in the management of urolithiasis.
+Ureteroscopy (URS), retrograde intrarenal surgery (RIRS) or
+percutaneous nephrolithotomy (PCNL) are becoming more
+important among clinical urological practice, as they are
+highly effective treatments that allow a stone-free rate
+(SFR) to be achieved in a single surgical intervention.
+These changes are also reﬂected in the number of scientiﬁc publications. Currently, there is a tendency to decrease
+the work on ESWL and increase studies on endourological
+technique.1
+The treatment of lithiasis is gaining importance because
+it allows for its elimination in a single procedure compared
+to a less invasive treatment, although with a higher rate of
+retreatment. In this situation, we ask ourselves if we are
+facing the onset of the disappearance of ESWL, just as it did
+decades ago with open surgery.
+The aim of this study is to try to answer the question of
+whether ESWL is still a competitive alternative compared to
+other therapeutic modalities.
+
+Search strategy
+A literature search was conducted in PubMed of articles published in the last ﬁve years. We used as search
+criteria the terms: Ureteroscopy/retrograde intrarenal
+surgery/Flexible ureteroscopy/RIRS or percutaneous
+nephrolithotomy/percutaneous
+lithotripsy/PCNL
+or
+extracorporeal shock wave lithotripsy/ESWL.
+
+Inclusion criteria
+The inclusion criteria for the selection and revision of the
+articles obtained were:
+• Studies published in the last ﬁve years.
+• Written in English or Spanish.
+• Randomized and comparative studies of the use of ESWL
+for the treatment of urinary lithiasis (renal or ureteral)
+versus other endourological techniques (URS, RIRS, PCNL).
+• Studies in adult population.
+• Studies that include at least among the variables studied
+the SFR and the complications associated with the applied
+treatment.
+
+Systematic review process
+Studies that met the inclusion criteria described above were
+evaluated for the analysis of evidence. The methodology
+and results of the variables studied in each of them were
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+428
+
+P. Bahílo Mateu et al.
+487 studies initially identified
+
+29 comparative studies
+ESWL vs. endourological techniques
+
+13 comparative and randomized studies
+
+7 treatment of renal lithiasis
+5 treatment of ureteral lithiasis
+
+Figure 1
+
+Review process performed.
+
+assessed: SFR, efﬁciency coefﬁcient (EC), complication rate,
+retreatment index, mean number of procedures, as well as
+mean operative time.
+Of the 487 articles included in the initial search that
+responded to the terms used, a total of 29 studies compared
+the effectiveness of lithotripsy versus other techniques.
+After an initial screening of titles and abstracts, it was
+observed that 10 were review papers, 6 corresponded to
+retrospective or non-randomized studies and 13 were articles on comparative and randomized studies of the results
+of the application of ESWL versus other endourological techniques such as treatment of urolithiasis. Of these, one was
+dismissed due to multiple errors of published results and
+only 12 papers were selected. Seven studies evaluated the
+results of the application of the different techniques at the
+renal level and 5 of them at the ureteral level (Fig. 1).
+
+Data acquisition
+The data were extracted by PB and reviewed by a second
+author (AB) to avoid possible errors in obtaining and summarizing them.
+
+Data analysis
+A narrative synthesis of the included studies was conducted.
+To summarize the variables, the mean and standard deviation (SD) was used for continuous variables, and absolute
+number and percentage for qualitative variables. The main
+variables analyzed were SFR and EC. Secondary variables
+were the complication rate, the operative time, the retraction index and the average number of procedures.
+
+Evidence analysis
+Tables 1 and 2 summarize the basic characteristics of the
+included studies in which the treatment outcome was evaluated and compared using different renal and ureteral
+lithiasis techniques, respectively.
+All groups underwent ESWL on an outpatient basis, and all
+other techniques required hospitalization. Except for Deem
+et al.8 and Lopes Neto et al.,10 ESWL was performed under
+general anesthesia. Other studies applied lithotripsy session
+under intravenous sedation. The RIRS, URS, miniPerc, PCNL
+
+and laparoscopic techniques were performed under general
+anesthesia.
+Some studies evaluated and compared the average operative time. The average time for performing a lithotripsy
+session was between 12.2 ± 5.16 and 49.2 ± 1.7 min,2,3,5,12
+the average surgical time of the URS was 39.1 ± 1.5 min,12
+the mean operative time for RIRS was between 44 ± 7.4
+and 78.7 ± 20.03 min2---6 and the mean operative time
+for minipercutaneous surgery was 61.1 ± 1.3 min.2 Vilches
+et al.5 and Javanmard et al.6 found statistically signiﬁcant
+differences between the surgical times used to perform
+ESWL and RIRS.
+The SFR results are shown in Table 3 according to the
+follow-up times in which it was evaluated. Except two
+studies2,8 that did not indicate the maximum size of the
+residual lithiasis with which the patient was considered free
+of renal lithiasis, the rest of the groups considered the resolution of the renal lithiasis when in the imaging tests no renal
+calculi remains were observed, or these were smaller than
+3 mm. Most studies2,4---8 use noncontrast computed tomography (ncCT) for outcome assessment. Singh et al.3 evaluated
+the resolution of renal lithiasis using urinary tract radiography and ultrasound.
+Vilches et al.5 conducted a stratiﬁed analysis of SFR
+according to calculi size and observed that for calculi sized
+between 1 and 1.5 cm the SFR was 41.2% for ESWL and
+75% for RIRS. Those differences were statistically signiﬁcant
+(p = 0.006). Sener et al.4 analyzed and compared EC between
+the different techniques. An EC of 0.85, 0.79 and 0.09 was
+observed for RIRS, ESWL and the control group respectively,
+without evaluating the statistical signiﬁcance of the results.
+For the evaluation and comparison of complications,
+most studies used modiﬁed Clavien---Dindo classiﬁcation.2,7
+None of the studies showed statistically signiﬁcant differences between the techniques evaluated. Table 4 shows the
+total percentage of complications in the different studies.
+Some studies evaluated the percentage of retreatments
+for the resolution of renal lithiasis.2,3,6,8 For ESWL, it is
+between 36---67%; 2.1---9.5% for RIRS; 2.2% for minipercutaneous renal surgery and 0% for PCNL. Those differences are
+statistically signiﬁcant in all studies. Sener et al.4,7 also studied the mean number of procedures for ESWL, ranging from
+1.48 ± 0.65 to 2.7 ± 0.4 according to the different studies,
+and was signiﬁcantly higher than for RIRS.4
+Table 5 details SFR and EC of the treatment of renal lithiasis in proximal ureter. All the studies evaluated the outcome
+of the intervention using a simple radiography of the urinary
+tract and only the group of Lopes-Neto et al.10 used ncCT in
+the case of diagnostic doubt.
+Isalam et al.11 evaluated and compared the treatment
+of distal ureteral calculi by URS or ESWL reaching a SFR at
+3 months (size of residual fragment is not deﬁned as nonsigniﬁcant) of 94.1% and 73.5%, respectively (p = 0.001) and
+an EC of 0.818 for URS and of 0.532 for ESWL.
+For the evaluation and comparison of complications
+between the different techniques at the ureteral level,
+most studies 11---13 conducted a descriptive study of the
+same, while Lopes Neto et al.10 and Ozturk et al.9 classiﬁed them according to the modiﬁed Clavien---Dindo scale.
+Table 6 describes the total complication rate.
+When analyzing those studies that share the same
+methodology in the performance of ESWL,2,4,7,9,11,12 it is
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Is extracorporeal shock wave lithotripsy a current treatment for urolithiasis?
+Table 1
+
+429
+
+Characteristics of the studies on renal lithiases.
+
+Study
+
+Techniques
+
+Number of
+patients
+
+Size of the
+lithiasis
+
+Location of the
+renal lithiasis
+
+Other
+characteristics
+
+Period
+
+Kumar et al.2
+
+ESWL vs. RIRS
+vs. Miniperc
+ESWL vs. RIRS
+ESWL vs. RIRS
+ESWL vs. RIRS
+ESWL vs. RIRS
+ESWL vs. RIRS
+vs. control
+ESWL vs. PNL
+
+42/43/41
+
+1---2 cm
+
+Lower calyx
+
+Radiolucent
+lithiases
+
+2012---2013
+
+35/35
+70/70
+31/24
+25/21
+50/50/50
+
+1---2 cm
+<1 cm
+≤1.5 cm
+1---2 cm
+<1 cm
+
+Lower calyx
+Lower calyx
+Lower calyx
+Renal pelvis
+Lower calyx
+
+12/20
+
+1---2 cm
+
+Middle ad
+upper calyx
+
+Singh et al.3
+Sener et al.4
+Vilches et al.5
+Javanmard et al.6
+Sener et al.7
+Deem et al.8
+
+Obese patients
+Asymptomatic
+patients
+
+2011---2013
+2012
+2009---2010
+2010---2014
+2011---2014
+2008---2010
+
+RIRS: retrograde intrarenal surgery; Miniperc: minipercutaneous; PNL: percutaneous nephrolithotomy; ESWL: extracorporeal shock wave
+lithotripsy.
+
+Table 2
+
+Characteristics of the studies on ureteral lithiases.
+
+Study
+Ozturk et al.
+
+9
+
+Lopes Neto et al.10
+Isalam and Malik11
+Kumar et al.12
+Manzoor et al.13
+
+Techniques
+
+Num. of patients
+
+Stone size
+
+Ureteral lithiasis location
+
+Period
+
+ESWL vs.
+vs. Lap
+ESWL vs.
+vs. Lap
+ESWL vs.
+ESWL vs.
+ESWL vs.
+
+RIRS
+
+52/48/51
+
+1---2 cm
+
+Proximal ureter
+
+---
+
+URS
+
+14/16
+
+>1 cm
+
+Proximal ureter
+
+2008---2010
+
+URS
+URS
+URS
+
+68/68
+37/41
+199/199
+
+<2.5 cm
+<2 cm
+1---1.5 cm
+
+Distal ureter
+Proximal ureter
+Proximal ureter
+
+2010---2011
+2010---2011
+2010---2011
+
+RIRS: retrograde intrarenal surgery; Lap: laparoscopy; ESWL: extracorporeal shock wave lithotripsy; URS: ureteroscopy.
+
+Table 3
+
+Lithiasis-free rate (LFR) according to the time evaluated.
+
+Study
+
+Time
+
+ESWL (% LFR)
+
+RIRS (% LFR)
+
+PNL (% LFR)
+
+Miniperc (% LFR)
+
+Control (%LFR)
+
+p
+
+Kumar et al.2
+Singh et al.3
+Sener et al.4
+Vilches et al.5
+Javanmard et al.6
+Deem et al.8
+
+3
+1
+3
+2
+3
+1
+3
+1
+3
+
+73.8
+48.57
+92
+48.3
+68
+16.67
+33.33
+48.6
+91.5
+
+86.1
+82.85
+92
+70.8
+90.4
+----52.3
+100
+
+----------95
+85
+-----
+
+95.1
+-----------------
+
+----2
+-------------
+
+0.01
+0.005
+0.001
+0.109
+0.019
+<0.0001
+0.005
+0.176
+<0.05
+
+Sener et al.7
+
+months
+month
+months
+months
+months
+week
+months
+week
+months
+
+RIRS: retrograde intrarenal surgery; ESWL: extracorporeal shock wave lithotripsy, Miniperc: minipercutaneous, PNL: percutaneous
+nephrolithotomy.
+
+observed that for the treatment of renal calculi with ESWL,
+SFR at 3 months is reached up to 92%.4 At the ureteral level,
+SFR at 3 months is 84.9%. The percentage of complications
+with extracorporeal lithotripsy is between 5.7% and 7.4%
+(Table 7).
+No study included in this study performs a cost analysis
+according to the different techniques used in the treatment
+of urolithiasis.
+
+Discussion
+ESWL, as well as endourological techniques, are highly
+effective treatments for the treatment of urinary lithiasis.
+Selecting the best therapeutic modality for each patient is
+a point of controversy for the urologist.
+The results of prospective and randomized studies
+comparing these techniques help to draw conclusions in
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+430
+Table 4
+
+P. Bahílo Mateu et al.
+Percentage of total complications according to different studies.
+
+Study
+
+% complications
+
+Kumar2
+Singh3
+Sener4
+Vilches5
+Javanmard6
+Sener7
+Deem8,a
+
+p
+
+ESWL
+
+RIRS
+
+PNL
+
+Miniperc
+
+7.1
+17
+5.7
+16.1
+20
+6
+---
+
+9.3
+11
+2.8
+37.5
+14.2
+14
+---
+
+---------
+
+24.3
+-------
+
+-----
+
+-----
+
+0.10
+0.22
+>0.05
+>0.05
+0.211
+0.318
+---
+
+RIRS: retrograde intrarenal surgery; ESWL: extracorporeal shock wave lithotripsy; Miniperc: minipercutaneous; PNL: percutaneous
+nephrolithotomy.
+a Does not specify total complication rate.
+
+Table 5
+
+Rate free of lithiasis in the treatment of lithiasis in proximal ureter according to different studies.
+
+Study
+
+Time
+
+Ozturk et al.9,a
+Lopes Neto10,b
+Manzoor et al.13,c
+Total
+≤12 mm
+>12 mm
+Kumar et al.12,d
+Total
+<1 cm
+1---2 cm
+
+% LFR
+
+p
+
+ESWL
+
+URS
+
+LAP
+
+3 months
+2 months
+
+81
+35.7
+
+79
+62.5
+
+96
+93.3
+
+<0.05
+0.005
+
+1 week
+
+49.2
+44.6
+52
+
+57.8
+44.3
+55.7
+
+---
+
+0.088
+0.88
+0.019
+
+3 months
+
+82.2
+84.9
+78.4
+
+86.6
+87.7
+85.4
+
+-----
+
+0.34
+0.32
+0.12
+
+Coefﬁcient of efﬁciency
+ESWL
+--0.192
+---
+
+0.673
+0.691
+0.464
+
+URS
+
+p
+
+LAP
+
+--0.554
+
+--0.932
+
+-----
+
+---
+
+---
+
+---
+
+0.852
+0.892
+0.834
+
+-------
+
+--0.32
+0.01
+
+LAP: laparoscopy; ESWL: extracorporeal shock wave lithotripsy; URS: ureteroscopy; LFR: lithiasis-free rate.
+a LFR deﬁned as the absence of residual stones or fragments <4 mm.
+b LFR deﬁned as the absence of lithiasis or residual fragments ≤3 mm.
+c Does not deﬁne non-signiﬁcant residual fragment size.
+d LFR deﬁned as absence of lithiasis or residual fragments <3 mm.
+
+Table 6
+
+Percentage of total complications according to different studies.
+
+Study
+
+Ozturk et al.9
+Lopes Neto et al.10
+Kumar et al.12
+Isalam and Malik11
+Manzoor et al.13
+
+% complications
+
+p
+
+ESWL
+
+URS
+
+LAP
+
+7.06
+21.43
+6.6
+7.4
+---
+
+4.11
+18.7
+11.1
+8.8
+---
+
+7.86
+0
+-------
+
+Does not specify the total rate of complications.
+LAP: laparoscopy; ESWL: extracorporeal shock wave lithotripsy; URS: ureteroscopy.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+<0.05
+0.127
+>0.05
+0.75
+---
+
+Is extracorporeal shock wave lithotripsy a current treatment for urolithiasis?
+
+431
+
+Table 7 Percentage of free rate of lithiasis and complications in the treatment of urinary lithiasis by extracorporeal lithotripsy
+at 3 months of intervention according to different studies.
+Study
+2
+
+Kumar et al.
+Sener et al.4
+Sener et al.7
+Ozturk et al.9
+Kumar et al.12
+Isalam and Malik11
+
+Location
+
+% LFR
+
+% complications
+
+Lower calyx
+Lower calyx
+Lower calyx
+Proximal ureter
+Proximal ureter
+Distal ureter
+
+73.8
+92
+91.5
+81
+84.9
+73.5
+
+7.1
+5.7
+6
+7.06
+6.6
+7.4
+
+LFR: lithiasis-free rate.
+
+therapeutic decision making. When we do not have multicentric studies, it is important to observe if the mythology
+used in different studies, as well as the analyzed variables,
+are coincident. After the literature review, we observed a
+lack of homogeneity in the deﬁnition of the main variables
+studied. They use different times for the evaluation of SFR
+and consider different sizes for the non-signiﬁcant residual
+fragment. Studies in the literature did not use the same scale
+to classify the complications of the different techniques
+used.
+In our opinion, it is necessary to unify evaluation criteria.
+In order to evaluate the outcome of a technique, it would be
+necessary to deﬁne pure SFR, which would correspond to the
+absence of renal calculi after treatment, and residual SFR,
+which would include the persistence of non-signiﬁcant residual fragments. Consequently, the patient would be identiﬁed
+with lithiasic fragments that could cause recurrence of the
+disease. The size of those fragments as well as the follow-up
+time is also a point of discrepancy among studies. The majority considered as a non-signiﬁcant residual fragment when
+the size is smaller than 3 mm at 3 months of the intervention.
+However, recent studies14 have shown that fragments of
+4 mm, which are considered clinically insigniﬁcant, caused
+44% of related events after one-year follow-up, of which up
+to 29% were reoperations. In addition, it should be agreed
+upon the ideal follow-up moment to assess the result of
+the applied technique. Most studies considered the optimal
+time 3 months of follow-up, giving a margin for the expulsion of fragments, as demonstrated by studies comparing
+the variable at different times of treatment.6,7
+Another difference lies in what is the ideal method of
+valuing the outcome of the intervention. The image test
+should be standardized in order to make a proper comparison
+of the different studies. A sensitivity of up to 97% has been
+described with ncCT for the diagnosis of urolithiasis. It is
+the best complementary examination compared to others.15
+However, if we consider the dose of radiation emitted and
+that many patients will present a chronic disease in need of
+retreatment, ncCT is not the ideal test for follow-up. The
+combination of plain radiography and ultrasound achieves
+a sensitivity of up to 89%, a speciﬁcity of 100%, a positive
+predictive value of 100% and a negative predictive value of
+81%.16 Therefore, it should be considered a valid option for
+the control of renal lithiasis initially radiopaque.17
+Few studies4,10,12 include EC as variable study for the
+evaluation of the results of the applied technique. Clayman
+
+et al.18 deﬁned a concept that includes, besides the outcome
+of the technique used, the necessary auxiliary procedures
+and retreatments. This variable allows distinguishing among
+patients who are solved with a single technique or those who
+have needed other procedures. We consider that EC should
+be the main outcome variable, as SFR may be an isolated
+parameter of the effectiveness of a technique alone, the
+EC, however, allows a more accurate comparison between
+different therapeutic alternatives.
+Regarding the evaluation of complications, most of the
+groups use the modiﬁed Clavien---Dindo scale for classiﬁcation. We consider that Clavien---Dindo scale does not fully
+conform to the speciﬁc characteristics of ESWL. For this
+reason, our group is working on the development of a new
+classiﬁcation that is more coherent and adapted to the
+technique, which also includes the concepts of the area
+of treatment complication and related isocosts. This classiﬁcation will homogenize the classiﬁcation criteria among
+the different centers and lithotriptors. This classiﬁcation is
+under external validation.19
+When we analyze the results of the reviewed studies,
+most of them evaluate the treatment of renal calculi in the
+lower pole, probably because of the anatomical difﬁculty
+involved in the treatment. At this level, with ESWL, SFR
+is reached between 48.3% and 92% and in RIRS the SFR is
+between 70.8 and 82.85%; not all studies reporting statistically signiﬁcant differences. On the contrary, the difference
+in efﬁcacy of ESWL versus PCNL is signiﬁcant. Zhang et al.20
+and Srisubat et al.21 conducted study reviews and metaanalysis where treatment of ureteral lithiasis was compared
+by RIRS, PCNL and ESWL. They concluded that for both the
+lower calyx and the rest of renal locations, PNL is the technique that best SFR reaches, but at the expense of longer
+hospital stay. Regarding the treatment of ureteropelvic junction or located in the middle and upper calyx, we considered
+that other studies would be necessary to obtain conclusions.
+Javanmard et al.6 conducted a study of obese patients,
+representing a selection bias in favor of endourological techniques. Deem et al.8 evaluated the treatment of lithiasis
+located in the middle and upper calyceal stones, and they
+only reach a SFR at 3 months with ESWL 33% of patients. This
+result is lower than other studies that, despite trying renal
+lithiasis in the lower calyceal stones, they obtained better
+outcomes.2,7
+The SFR results are not consistent among studies. Studies
+comparing the treatment of lithiasis in the proximal ureter
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+432
+with different procedures do not show similar outcomes.
+Lopes Neto et al.10 and Manzoor et al.13 obtained best SFR
+with ureteroscopy for cases of urolithiasis greater than 1 cm.
+According to these results, there are studies in the literature
+review on the treatment of proximal ureteral calculi greater
+than 1 cm and they report greater effectiveness for endourological treatment.22 In a study review and meta-analysis, Cui
+et al.23 also found greater efﬁciency with ureteroscopy, but
+with a higher complication rate and hospital stay.
+According to studies published in the last ﬁve years, there
+is not enough scientiﬁc evidence to believe that endourological techniques have displaced extracorporeal lithotripsy in
+the treatment of urolithiasis and we are at the beginning of
+the end of the ESWL era. ESWL continues to represent a valid
+therapeutic tool in clinical practice with its advantages and
+disadvantages and, therefore, with speciﬁc indications.
+Nowadays, we have several options of minimally invasive treatment. The appropriate choice will depend on the
+characteristics of the lithiasis (size, radiological density
+and location), patient characteristics (BMI, skin-to-stone
+distance, skeletal deformities, hemorrhagic diathesis, pregnancy, urinary tract anatomy), available technology, the
+experience of the surgeon, the success rates of each technique in the hands of the operator, failure predictors of the
+technique and patient preference.
+There have been signiﬁcant advances in the technology of lithotripters. ESWL is considered as a technique of
+choice for the treatment of ureteral stones smaller than
+1 cm and a renal level up to 2 cm. The new devices generate waves with higher positive peak pressure, the focal
+areas are smaller and their application is better tolerated by
+patients. The main advantages of ESWL compared to other
+endourological techniques are the following: it is less invasive, the possibility of being performed under intravenous
+sedation with good tolerability and favorable safety proﬁle.
+The key to optimizing the result is to make the appropriate
+selection of the patients who are candidate for this technique. Technological advances in image diagnosis facilitate
+the identiﬁcation of renal lithiasis susceptible to treatment
+with ESWL. The low-dose ncCT is now available, and provides
+detailed information on the characteristics of renal lithiasis
+and urinary anatomy. It is possible to accurately measure
+the focal length, the density of the stone, and the size.
+Those three factors that Tran et al.24 described as triple
+D score have an inverse correlation with the fragmentation
+of renal stones. If the skin-to-stone distance is signiﬁcant
+(>10 cm) the effectiveness of ESWL decreases, therefore,
+in these cases endourological techniques may be the best
+choice. The size of the renal lithiasis is an important factor
+for the assessment of the therapeutic decision. The quantiﬁcation of the renal lithiasis should be standardized to
+facilitate comparisons between studies. The location of the
+renal lithiasis, together with the anatomical characteristics
+of the urinary tract, are relevant factors in decision making. The presence of distal stenoses to the position of the
+renal lithiasis or non-favorable calyceal anatomical factors
+signiﬁcantly limits the use of ESWL and occasionally RIRS.
+Radiological densities above 900 HU predict a decrease in
+the effectiveness of ESWL. Most of the studies included in
+this study do not specify these factors as inclusion/exclusion
+
+P. Bahílo Mateu et al.
+criteria according to the treatment technique. In our opinion, they should be considered in order to optimize the
+effectiveness of the different techniques and to compare
+the results.
+Another important factor in the success of ESWL is
+the careful performance of the procedure. Some authors
+demonstrated that ESWL can get comparable or even better results than other endourological techniques.4,9,12 In our
+experience, the technique must be performed by an expert
+urologist, as she or he achieves optimal control of the parameters that determine the success of the intervention. It is
+necessary an adequate management of energy application
+for fragmentation of renal stones, patient placement and
+constant monitoring of renal lithiasis location by radioscopy
+or ultrasound, as well as the correct administration of analgesic drugs to minimize patient movement. The increase of
+the energy applied in the renal lithiasis is an important factor in the effectiveness of the technique. In a retrospective
+study, Budía Alba et al.25 did not ﬁnd differences in the rate
+of complications in implementing more energy by increasing
+the number of waves per session. They observed a significant improvement of clinical effectiveness and reduced
+retreatment. A subsequent prospective study has conﬁrmed
+the initial results of more effectivity (75% in the standard
+treatment vs 87.7% in the extended treatment) without an
+increase in observed complications.26
+We do not have randomized and comparative studies that evaluate the different treatments in terms of
+cost-effectiveness. Selecting the best treatment modality
+according to the economic cost represents a point of controversy in urology. At the same time, it is a challenge for the
+urologist due to the advantages and disadvantages of each
+method regardless of costs. We agree with Cone et al.27 in
+that clinical decisions should not be based only in terms of
+costs, but we should analyze the total cost of each technique
+before deciding on a treatment option.
+According to the literature reviewed, despite the
+heterogeneity and limited quality of cost-effectiveness
+assessments available, most studies have shown that the
+URS is more favorable than ESWL for ureteral lithiasis
+treatment.28 However, there are signiﬁcant differences
+between effectiveness and cost depending on countries and
+technologies. In the evaluations conducted in the USA, in a
+systematic review conducted by Matlaga et al.28 described
+that the URS was associated with better SFR and lower
+cost than ESWL. But the authors acknowledge that it is
+difﬁcult to assess the magnitude of the URS beneﬁt over
+cost, given the wide variety of existing health systems. In
+Egypt, Salem et al.29 found similar results in a prospective study of urolithiasis in proximal ureter. Yet, studies in
+Asia showed that the higher cost of lithotripsy was linked
+to the cost of acquiring and maintaining the lithotripter.
+Compared with European and American studies, the costs
+associated with ESWL were very low, as lithotripters are
+produced by themselves and the acquisition and maintenance costs are signiﬁcantly reduced.30 Our group has
+shown that in the Spanish health system the ESWL is
+more cost-effective in both renal and ureteral stones, with
+no difference in the complication rate between the two
+modes.31,32
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Is extracorporeal shock wave lithotripsy a current treatment for urolithiasis?
+
+Conclusions
+According to the literature reviewed in the last ﬁve years
+there is a lack of homogeneity among the different studies
+that evaluate and compare the treatment of urolithiasis by
+different techniques. ESWL plays an important role in the
+treatment of renal calculi in the urinary tract. It is a minimally invasive treatment that with an adequate technique
+and selection of the patient achieves high effectiveness.
+
+Conﬂict of interest
+
+13.
+
+14.
+
+15.
+
+The authors declare that they have no conﬂict of interest.
+
+References
+1. García-Galisteo E, Sánchez-Martínez N, Molina-Díaz P, LópezRueda B, Baena-González V. Invasive treatment trends in urinary
+calculi in a third level hospital. Actas Urol Esp. 2015;39:32---7.
+2. Kumar A, Kumar N, Vasudeva P, Kumar Jha S, Kumar R, Singh
+H. A prospective randomized comparison between extracorporeal shock wave lithotripsy (ESWL), retrograde intrarenal
+surgery (RIRS) and miniperc for treatment of 1---2 cm radiolucent lower calyceal renal calculi: a single center experience. J
+Urol. 2015;193:160---4.
+3. Singh BP, Prakash J, Sankhwar SN, Dhakad U, Sankhwar PL, Goel
+A, et al. Retrograde intrarenal surgery vs extracorporeal shock
+wave lithotripsy for intermediate size inferior pole calculi: a
+prospective assessment of objective and subjective outcomes.
+Urology. 2014;83:1016---22.
+4. Sener NC, Imamoglu MA, Bas O, Ozturk U, Goskel Goktug HN,
+Tuygun C, et al. Prospective randomized trial comparing shock
+wave lithotripsy and ﬂexible ureterorenoscopy for lower pole
+stones smaller than 1 cm. Urolithiasis. 2014;42:127---31.
+5. Vilches RM, Aliaga A, Reyes D, Sepulveda F, Mercado A, Moya
+F, et al. Comparison between retrograde intrarenal surgery and
+extracorporeal shock wave lithotripsy in the treatment of lower
+pole kidney stones up to 15 mm. Prospective, randomized study.
+Actas Urol Esp. 2015;39:236---42.
+6. Javanmard B, Razaghi MR, Ansari Jafari A, Mazloomfard MM.
+Flexible ureterorenoscopy versus extracorporeal shock wave
+lithotripsy for the treatment of renal pelvis stones of 10---20 mm
+in obese patients. J Lasers Med Sci. 2015;6:162---6.
+7. Sener NC, Bas O, Sener E, Zengin K, Ozturk U, Altunkol A,
+et al. Asymptomatic lower pole small renal stones: shock wave
+lithotripsy, ﬂexible ureteroscopy or observation? A prospective
+randomized trial. Urology. 2015;85:33---7.
+8. Deem S, DeFade B, Modak A, Emmett M, Martinez F, Davalos
+J. Percutaneous nephrolithotomy versus extracorporeal shock
+wave lithotripsy for moderate sized kidney stones. Urology.
+2011;78:739---43.
+9. Ozturk MD, Sener NC, Goktug HN, Nalbant I, Gucuk A, Imamoglu
+MA. The comparison of laparoscopy, shock wave lithotripsy and
+retrograde intrarenal surgery for large proximal ureteral stones.
+Can Urol Assoc J. 2013;7:E673---6.
+10. Lopes Neto AC, Korkes F, Silva JL, Amarante RD, Mattos MH,
+Tobias-Machado M, et al. Prospective randomized study of treatment of large proximal ureteral stones: extracorporeal shock
+wave lithotripsy versus ureterolithotripsy versus laparoscopy. J
+Urol. 2012;187:164---8.
+11. Isalam M, Malik A. Ureteroscopic pneumatic versus extracorporeal shock wave lithotripsy for lower ureteral stones. J Coll
+Physicians Surg Pak. 2012;22:444---7.
+12. Kumar A, Nand B, Kumar N, Kumar R, Vasudeva P, Mohanty
+NK. A prospective randomized comparison between shockwave
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+433
+
+lithotripsy and semirigid ureteroscopy for upper ureteral stones
+<2 cm: a single center experience. J Endourol. 2013;27:1---5.
+Manzoor S, Hashmi AH, Sohail MA, Mahar F, Bhatti S, Khuhro AQ.
+Extracorporeal shock wave lithotripsy (ESWL) vs. ureterorenoscopic (URS) manipulation in proximal ureteric stone. J Coll
+Physicians Surg Pak. 2013;23:726---30.
+Chew BH, Brotherhood HL, Sur RL, Wang AQ, Knudsen
+BE, Yong C, et al. Natural history, complications and reintervention rates of asymptomatic residual stone fragments
+after ureteroscopy: a report from the EDGE research consortium. J Urol. 2016;195:982---6.
+Mermuys K, De Geeter F, Bacher K, Van De Moortele K, Coenegrachts K, Steyaert L, et al. Digital tomosynthesis in the
+detection of urolithiasis: diagnostic performance and dosimetry
+compared with digital radiography with MDCT as the reference
+standard. Am J Roentgenol. 2010;195:161.
+Gorelik U, Ulish Y, Yagil Y. The use of standard imaging techniques and their diagnostic value in the workup of renal colic in
+the setting of intractable ﬂank pain. Urology. 1996;47:637.
+Pearle M, Goldfarb D, Assimos D, Curhan G, Denu-Ciocca CJ,
+Matlaga BR, et al. Medical management of kidney stones:
+AUA guidelines. Linthicum, MD: American Urological Association
+Education and Research, Inc.; 2014.
+Clayman RV, McClennan BL, Garvin TJ, Denstedt JD, Andriole
+GL. Lithostar: an electromagnetic, acoustic shock wave unit
+for extracorporeal lithotripsy. In: Lingeman JE, Newman DM,
+editors. Shock wave lithotripsy, vol. 2. US: Springer; 1989. p.
+403---9.
+C-14. Nueva clasiﬁcación para el registro de las complicaciones
+de la litotricia extracorpórea por ondas de choque. In: LópezAcón JD, Budía Alba A, Trassierra Villa M, et al., editors. LXXXI
+Congreso Nacional de Urología. 2016.
+Zhang W, Zhou T, Wu T, Gao X, Peng Y, Xu Ch, et al. Retrograde intrarenal surgery versus percutaneous nephrolithotomy
+versus extracorporeal shockwave lithotripsy for treatment of
+lower pole renal stones: a meta-analysis and systematic review.
+J Endourol. 2015;29:745---59.
+Srisubat A, Potisat S, Lojanapiwat B, Setthawong V, Laopaiboon
+M. Extracorporeal shock wave lithotripsy (ESWL) versus percutaneous nephrolithotomy (PCNL) or retrograde intrarenal surgery
+(RIRS) for kidney stones. Cochrane Database Syst Rev. 2014;24.
+CD007044.
+Xu Y, Lu Y, Li J, Luo S, Liu Y, Jia Z, et al. A meta-analysis
+of the efﬁcacy of ureteroscopic lithotripsy and extracorporeal shock wave lithotripsy on ureteral calculi. Acta Cir Bras.
+2014;29:346---52.
+Cui X, Ji F, Yan H, Ou T, Jia Ch, He X, et al. Comparison
+between extracorporeal shock wave lithotripsy and ureteroscopic lithotripsy for treating large proximal ureteral stones:
+a meta-analysis. Urology. 2015;85:748---56.
+Tran TY, McGillen K, Blanchard Cone E, Gyan P. Triple D score is a
+reportable predictor of shockwave lithotripsy stone-free rates.
+J Endourol. 2015;29:226.
+Budía Alba A, López Acón JD, Polo-Rodrigo A, Bahílo-Mateu
+P, Trassierra-Villa M, Boronat-Tormo F. Analysis of the safety
+proﬁle of treatment with a large number of shock waves per
+session in extracorporeal lithotripsy. Actas Urol Esp. 2015;39:
+291---5.
+Budía Alba A, Bahilo Mateu P, Ordaz Guzmán G, López-Acón
+JD, Trassierra-Villa M, Boronat-Tormo F. Nuevas estrategias y
+protocolos en LEOCH. Arch Esp Urol. 2017;70:113---23.
+Cone EB, Eisner BH, Ursiny M, Pareek G. Cost-effectiveness
+comparison of renal calculi treated with ureteroscopic
+laser lithotripsy versus shockwave lithotripsy. J Endourol.
+2014;28:639.
+Matlaga BR, jansen JP, Meckley LM, Byrne TW, Lingeman JE.
+Economic outcomes of treatment for ureteral and renal stones:
+a systematic literature review. J Urol. 2012;188:449---54.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+434
+29. Salem HK. A prospective randomized study comparing shock
+wave lithotripsy and semirigid ureteroscopy for the management of proximal ureteral calculi. Urology. 2013;74:231.
+30. Cui H, Thomee E, Noble JG, Reynard JM, Turney BW. Efﬁcacy of
+the lithotripsy in treating lower pole renal stones. Urolithiasis.
+2013;41:231.
+31. Bahilo P, Caballer V, López-Acón D, Budía A, Vivas-Consuelo
+D, Trassierra M, et al. Comparison of extracorporeal shock
+
+P. Bahílo Mateu et al.
+wave lithotripsy versus retrograde intrarenal surgery in the
+management of small moderated-sized renal stones: a costeffectiveness analysis. Eur Urol Suppl. 2016;15:e468.
+32. Budía A, Caballer V, Vivas-Consuelo D, Conca MA, Díez JA, Bahilo
+P, et al. Comparison of extracorporeal shock wave lithotripsy
+versus ureteroscopy holmium laser lithotripsy in the management of ureteral stones: a cost-effectiveness analysis. Med Surg
+Urol. 2016;5:3.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+

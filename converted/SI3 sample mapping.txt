@@ -1,0 +1,1115 @@
+Actas Urol Esp. 2017;41(9):552---561
+
+Actas Urológicas Españolas
+www.elsevier.es/actasuro
+
+REVIEW ARTICLE
+
+Small-caliber percutaneous nephrolithotomy
+(SC-PCNL). Therapeutic decision algorithm夽
+J.H. Amón Sesmero a,∗ , M. Cepeda Delgado a , B. de la Cruz Martín a ,
+J.A. Mainez Rodriguez a , D. Alonso Fernández a , V. Rodriguez Tesedo a ,
+D.A. Martín Way b , J. Gutiérrez Aceves c
+a
+
+Servicio de Urología, Hospital Universitario Río Hortega, Valladolid, Spain
+Servicio de Urología, Hospital Universitario Virgen de la Nieves, Granada, Spain
+c
+Department of Urology, Wake Forest Baptist Medical Center, Winston Salem, NC, USA
+b
+
+Received 23 August 2016; accepted 21 November 2016
+Available online 5 September 2017
+
+KEYWORDS
+Percutaneous
+nephrolithotomy;
+Minipercutaneous;
+Micropercutaneous
+
+Abstract
+Introduction: The progressive reduction in the caliber of the tract in percutaneous kidney
+surgery to the point of miniaturization has expanded its use to smaller stones that until now
+have been treated with extracorporeal shock wave lithotripsy (ESWL) and retrograde intrarenal
+surgery (RIRS).
+Objective: To provide an update on the various techniques of small-caliber nephrolithotomy
+(SC-PCNL) analyze their efﬁcacy, safety and indications and determine their degree of implantation at this time.
+Material and methods: We performed a review in PubMed of Spanish and English medical literature on the various techniques of SC-PCNL.
+Results: The use of SC-PCNL has reduced the morbidity associated with standard PCNL, particularly bleeding, and has enabled tubeless nephrolithotomy with greater safety. There are various
+techniques with blurred terminology (Miniperc, Microperc, Mini-microperc, Ultraminiperc),
+which differ in terms of gauge employed and in certain technical aspects that require their
+indications be speciﬁed. Currently, SC-PCNL competes with techniques that are less invasive
+than standard PCNL such as ESWL and the RIRS in treating small stones, but the role of SC-PCNL
+is still not sufﬁciently understood and continues to be the subject of debate.
+Conclusions: The indications for PCNL are expanding to small stone sizes due to the miniaturization of the technique. PCNL competes in this ﬁeld with ESWL and RIRS. Larder studies are
+needed to establish the speciﬁc indications for PCNL in treating nephrolithiasis.
+© 2016 AEU. Published by Elsevier España, S.L.U. All rights reserved.
+
+夽 Please cite this article as: Amón Sesmero JH, Cepeda Delgado M, de la Cruz Martín B, Mainez Rodriguez JA, Alonso Fernández D,
+Rodriguez Tesedo V, et al. Nefrolitectomía percutánea de calibre reducido (NLP-CR). Algoritmo de decisión terapéutica. Actas Urol Esp.
+2017;41:552---561.
+∗ Corresponding author.
+E-mail address: amonsesmero@gmail.com (J.H. Amón Sesmero).
+
+2173-5786/© 2016 AEU. Published by Elsevier España, S.L.U. All rights reserved.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Small-calibre percutaneous nephrolithotomy. Therapeutic decision algorithm
+
+PALABRAS CLAVE
+Nefrolitectomía
+percutánea;
+Minipercutánea;
+Micropercutánea
+
+553
+
+Nefrolitectomía percutánea de calibre reducido (NLP-CR). Algoritmo de decisión
+terapéutica
+Resumen
+Introducción: La progresiva reducción del calibre del tracto en cirugía percutánea renal, hasta
+alcanzar la miniaturización, ha expandido su utilización a litiasis de menor tamaño que hasta
+ahora se trataban mediante litotricia extracorpórea por ondas de choque (LEOCH) y cirugía
+retrógrada intrarrenal (CRIR).
+Objetivo: Realizar una puesta al día de las diferentes técnicas de nefrolitectomía de calibre reducido (NLP-CR) analizando su eﬁcacia, seguridad e indicaciones, así como su grado de
+implantación en la actualidad.
+Material y métodos: Realizamos una revisión en PubMed de la literatura en castellano e inglés
+sobre las diferentes técnicas de NLP-CR.
+Resultados: La NLP-CR ha disminuido la morbilidad asociada a la NLP estándar, particularmente
+el sangrado, y ha posibilitado la nefrolitectomía tubeless con mayor seguridad. Existen diferentes técnicas con confusa terminología (miniperc, microperc, mini-microperc, ultraminiperc)
+que se diferencian en el calibre que emplean y en determinados aspectos técnicos que hacen
+que sus indicaciones deban ser precisadas. Actualmente, la NLPCR compite con técnicas menos
+invasoras que la NLP estándar, como la LEOCH y la CRIR en el tratamiento de las litiasis de
+pequeño tamaño, pero todavía su papel no está suﬁcientemente esclarecido y es aún motivo
+de debate.
+Conclusiones: Las indicaciones de la NLP se están expandiendo a tamaños litiásicos más
+pequeños debido a la miniaturización de la técnica, compitiendo en este campo con LEOCH y
+CRIR. Precisamos mayores estudios para establecer sus indicaciones precisas en el tratamiento
+de la litiasis renal.
+© 2016 AEU. Publicado por Elsevier España, S.L.U. Todos los derechos reservados.
+
+Introduction
+Percutaneous nephrolithotomy (PCNL) is currently considered the standard treatment for renal calculi larger than
+2 cm1,2 but also for lithiases of 1---2 cm located in the renal
+lower pole with unfavorable factors for extracorporeal shock
+wave lithotripsy (ESWL), as recommended by the European
+guidelines on urolithiasis.3 Since its initial description by
+Fernström,4 PCNL has undergone signiﬁcant changes in various aspects that have increased its efﬁcacy and safety.
+Different patient positions have been described in the
+literature,5---7 as well as new energies of fragmentation have
+emerged,8 different ways of dilating the tract9 and various
+calibers have been arisen. All those different approaches to
+treat PCNL have had a varying degree of acceptance among
+the urological community. The reduction of the caliber of
+the tract has had a great importance in percutaneous kidney
+surgery for the possibility of reducing complications inherent to dilatation. In addition to this, it is possible to reduce
+nephrostomy tube caliber or prevent it, and consequently
+improve the postoperative comfort of the patient.8
+In 1998, Jackman10 described a mini-percutaneous
+nephrolithotomy (m-PCNL) procedure in order to adapt
+the technique used in adults to the anatomy of the
+child. Subsequently, the m-PCNL technique was used
+successfully in adults.11---13 Later on, advances in endoscopic technology and energy-based fragmentation have
+brought along substantial reductions in caliber, namely,
+‘microperc’,14 ‘mini-microperc’15 and ‘ultra-miniperc’,16
+which have miniaturized percutaneous nephrolithotomy and
+
+have expanded the role of PCNL in the treatment of lithiasis.
+At present, m-PCNL competes with techniques that are
+less invasive than standard PCNL, such as ESWL and retrograde intrarenal surgery (RIRS) in treating small stones.
+However, the role of m-PCNL is still not sufﬁciently understood and continues to be a subject of debate.
+Our objective is to evaluate the scientiﬁc evidence that
+would answer the following questions: 1) is the reduction
+of the tract beneﬁcial? 2) what calibers are currently in
+use in PCNL?; and 3) in which cases are the use of calibers
+recommended?
+
+Evidence acquisition
+A literature review was performed using the PubMed
+database between 1975 and 2016 that included keywords from the Medical Subject Headings: percutaneous
+nephrolithotomy, minipercutaneous nephrolithotomy, ultraminipercutaneous nephrolithotomy and micropercutaneous
+nephrolithotomy. A total of 6199 articles were found, of
+which 250 were selected from studies of both experimental animals and humans, conducted in adults and pediatric,
+and published in English. Of these, 93 articles were selected
+that analyzed the different calibers used in the percutaneous renal surgery for the treatment of renal calculi. We
+examined the results and complications of those studies to
+determine the most optimal indications for percutaneous
+renal surgery depending on the factors that deﬁne successes
+and side effects reactions.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+554
+
+Evidence synthesis
+We reviewed each of the selected studies to answer the
+questions set as objectives.
+
+Arguments in favor of reducing the size of the
+caliber
+Although PCNL represented a scientiﬁc progress on open
+surgery of calculi in terms of morbidity and postoperative
+reduction, with success rates ranging from 76% to 98%, it
+also entailed non-negligible rates of complications.17 Bleeding, both intraoperatively and postoperatively, is the most
+common complication, with transfusion rates ranging from
+2% to 23%.17---19 It seems evident that performing dilation
+to create a conventional nephrostomy tract may damage
+vessels adjacent to it. Although experimental studies in animals demonstrate that alterations in renal structure and
+function are similar when comparing sequential dilation to
+balloon dilation,20 we have sufﬁcient evidence on the relevant role of the caliber of the tract as predisposing factor
+of bleeding.18,21---24
+Traxer,25 in his experimental study with pigs, demonstrated that the dilation of the tract will cause injury in the
+renal parenchyma that will be replaced by a scar, with the
+consequent area of ischemia and small loss of renal function.
+The author compares the damage produced by a mini percutaneous tract in the renal parenchyma versus a conventional
+tract, ﬁnding no volume differences in the parenchymal scar
+(0.63% for m-PCNL vs. 0.91% for standard PCNL). Thus, the
+study by Traxer demonstrated that the volume of damaged
+renal parenchyma does not exceed 1% of the total in both
+accesses.25 However, these studies also report that the tissue adjacent to the tract suffers damage, recognizing areas
+of interstitial inﬂammation and ischemia in the tissue that
+can evolve to healing as well.
+The lack of information that we have about the actual
+damage that the tract produces in the papilla after healing
+has also been pointed out. It is estimated that the damage
+of the collecting ducts at that level may be undervalued and
+that the loss of global function may be greater than the one
+estimated so far, particularly when several tracts are used.26
+On the other hand, the caliber of the tract should be
+adapted to the particular intrarenal anatomy of the patient.
+Unlike ﬂexible ureteroscopy, where we manage parameters
+such as infundibular length and width to identify patients
+with ‘unfavorable calyceal anatomy’,27 the priority when
+choosing the access calyx in PCNL has been the tuning of the
+axis of it with the lithiasis and the subcostal situation, without considering the conciliation between calyceal anatomy
+and caliber of the tract, since the latter was conditioned by
+the available technology.
+Another argument in favor of reducing the caliber of the
+tract is the possibility of performing tubeless PCNL with
+greater safety. Several comparative studies had pointed
+out the possibility of reducing postoperative pain and hospital stay by replacing the 22---28 Fr caliber nephrostomy
+tube with a 9---10 Fr pigtail catheter, with no difference
+in bleeding.28,29 That led to ﬁnishing PCNL without leaving nephrostomy. The concept of tubeless PCNL is almost
+as old as PCNL,30 although early complications reported by
+
+J.H. Amón Sesmero et al.
+few patients made the original idea of Wickham not to have
+a broad endorsement.31
+In 1997, Bellman32 demonstrated the safety and beneﬁts
+of this clinical experiment on 50 patients in a case-control
+study, and although there are clear restrictions on tubeless
+PCNL,33,34 according to a recent review, it is currently supported by more than 19 randomized comparative studies.8
+The use of sealant substances, that are necessary when
+standard caliber tracts are used,35---37 raises controversy due
+to the risk of lithiasis formation.38 Reducing the caliber of
+the m-PCNL tract could obviate the use of sealants when
+the tract is occluded spontaneously. Miniaturized calibers
+of PCNL, m-PCNL and ultra-mini PCNL are associated with
+tubeless intervention.14---16
+Therefore, in order to reduce morbidity associated with
+calibers used by standard PCNL, and in the light of technological improvements, there have been changes in the
+instruments and in some aspects of this surgical technique.
+
+Classiﬁcation of percutaneous nephrolithotomy
+according to the caliber of the tract
+PCNL has been performed since its origins with Amplazt from
+26 Fr to 30 Fr. The caliber is appropriate to make way for the
+nefroscopes designed for this technique. Other authors have
+considered the 24 Fr caliber also as standard.39
+When the PCNL was adapted to the pediatric population, the so called m-PCNL technique was ﬁrst performed
+in a child using 15 Fr Hickman catheter sleeve and a 10 Fr40
+caliber infant cystoscope. Subsequently, Jackman10 systematized the technique by operating on 11 children with
+an 11 Fr gauge provided by a catheter designed for such
+purpose. Then, the technique was applied in adults and
+the same author used a 13 Fr11 caliber. In other initial
+studies, Monga and Lahme used 20 Fr and 15 Fr sheaths,
+respectively.12,13 In 2007, the Storz team developed mPCNL system with 18 Fr, 19.5 Fr, and 24 Fr sheaths that
+accommodate a 12 Fr nephroscope (Fig. 1), and shortly
+thereafter Wolf designed a similar equipment of sheaths of
+15Fr and 18 Fr and nephroscope of 14 Fr.41 There seemed to
+be consensus in deﬁning m-PCNL as any PCNL employing a
+caliber equal to or lower than 20 Fr in a range that decreased
+to 11 Fr.11,13,42,43 But with the description of the microperc14
+and later the ultra-mini PCNL16 and mini-microperc,15 the
+caliber was redeﬁned for m-PCNL. Microperc employs a
+4.8 Fr caliber with optics of 0. 9 mm.14 Ultra-mini PCNL
+uses sheaths from 11 Fr to 13 Fr with miniature nephroscope
+6 Fr,16 and mini-microperc is a subsequent modiﬁcation of
+microperc 8 Fr.15
+A recent review concludes that a correct terminology
+would deﬁne m-PCNL as all PCNL using tract sized from 14 Fr
+to 20 Fr, ultra-mini PCNL from 11 Fr to 13 Fr, mini-microperc
+for 8 Fr gauge and microperc for 4.8 Fr gauge.39
+PCNL with 22 Fr caliber would therefore be unclassiﬁed.
+One of the few references in the literature to this caliber is a
+retrospective study comparing the different sizes of Amplatz
+sheath from 22 Fr to 30 Fr. According to their ﬁndings, the
+fall in hemoglobin was signiﬁcantly lower and the creatinine level signiﬁcantly higher in patients treated with large
+Amplatz compared to the 22 Fr calibre.44
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Small-calibre percutaneous nephrolithotomy. Therapeutic decision algorithm
+
+Figure 1
+
+Nephroscope and sheaths for miniperc.
+
+In view of the complexity of terms referring to the caliber, it has been proposed to simplify the nomenclature of
+PCNL-CR, referring to the strict size of the tract used as follows: PCNL+30 , PCNL+20 , PCNL+12 , etc.45 or also establish an
+equivalence of the gauges with the nomenclature of the following sizes: XL, L, M, S, XS and XSS which would correspond
+to calibers greater than 25 Fr, 20 Fr to <25 Fr, 15 Fr to < 20 Fr,
+10 Fr to < 15 Fr, 5 Fr to < 10 Fr and < 5 Fr, respectively.46
+
+Mini-percutaneous nephrolithotomy/miniperc
+The ﬁrst reduction in caliber was reported by Helal in 1997,
+when treating a small-size lithiasis in a 2-year-old child,
+using a child cystoscope inserted through a 15 Fr tract provided by a peelable vascular sheath.40 Then, as discussed
+above, it was Jackman who coined the term ‘miniperc’ or
+mini-PCNL to treat 11 children with lithiasis smaller than
+2 cm using an 11 Fr tract, achieving a success rate of 85%
+without describing complications.10 When the technique was
+transferred to the adult, preliminary studies showed success rates comparable to standard PCNL on lithiases smaller
+than 2 cm. Jackman applied it in 9 adults with lithiases
+smaller than or equal to 2 cm, achieving a success rate of
+89% without mentioning complications.11 Chan42 reported
+a success rate of 94% in 17 patients, using a 13 Fr sheath.
+Monga,12 using a 20 Fr sheath, reaches a success rate of
+90% in 21 patients, reporting only complications in one
+case. Shortly after, Lahme13 achieved similar results in 19
+patients, referring only to a pyelonephritis as a complication. All the authors noted the lower morbidity of this
+
+555
+
+technique over standard PCNL, although this consideration
+had no scientiﬁc support since none of those studies compared both techniques. A recent publication of more than
+1300 patients undergoing m-PCNL-16 Fr reported a success
+rate of 82%, with a complication rate of 20.1%. Those results
+are apparently similar to the ones obtained in standard
+PCNL, although in this series of cases most were Clavien 1
+and 2 and only 3.5% were Clavien 3.47
+The results obtained in early comparative studies were
+not encouraging. The experimental study by Traxer discussed above, which compares the damage produced by an
+11 Fr tract versus a 30 Fr tract in the renal parenchyma of
+the pig, did not justify the reduction of the caliber since the
+lesion was similar.25 In a retrospective study, Giusti48 compared m-PCNL, standard PCNL and tubeless PCNL, ﬁnding
+worse results in m-PCNL in terms of success rate and operating time, and although this technique had shorter hospital
+stay than standard PCNL, it did not exceed tubeless PCNL.
+In another prospective, non-randomized study of 50 consecutive patients comparing PCNL with 26 Fr Amplatz versus
+m-PCNL18 Fr, differences were found only in the minor hospitalization and postoperative pain of the m-PCNL. However,
+there was a bias in the results due to the difference in the
+lithiasic size of the treated patients.22
+Subsequent comparative studies that are better designed
+have supported the statement that m-PCNL has lower morbidity. Cheng,49 in a prospective randomized study with
+standard PCNL (24 Fr) versus m-PCNL (16 Fr) in three groups
+of patients (staghorn stones, renal pelvis and complex
+calyceal stones), showed a signiﬁcantly lower bleeding rate
+that required transfusion for m-PCNL (10.4% for PCNL-24 Fr
+vs 1.4% for PCNL-16 Fr). The results showed similar success
+rates for the group of staghorn stones and renal pelvis,
+but better results for m-PCNL in the complex calyceal
+stones group (85.2% vs. 70% for m-PCNL and standard PCNL,
+respectively). According to the authors, that is due to
+the greater procedure of the m-PCNL sheath compared to
+the conventional one. In a prospective case-control study,
+Mishra50 included 25 cases of m-PCNL (14 Fr-18 Fr) versus 28
+cases of standard PCNL (24---28 Fr) of 1 to 2 cm sized renal
+stone. The author found no differences in success rate, and
+although the m-PCNL speciﬁed longer operative time than
+the standard, it was higher than the latter in the lower drop
+in hemoglobin, lower need for analgesia, and shorter hospital stay, noting the additional advantage of the higher rate
+of intraoperative conversion to tubeless m-PCNL. A recent
+meta-analysis involving 8 studies with 353 m-PCNL and 396
+standard PCNL reveals similar stone-free rates in both techniques, showing signiﬁcant differences in favor of m-PCNL
+in rates of bleeding, transfusion, pain, and postoperative
+stay. Standard PCNL was superior only in the operative
+time.51
+But m-PCNL should not only be compared to its standard
+counterpart, but with less invasive techniques such as ESWL
+and RIRS, given the range of lithiasic size in which it has
+been used. Zeng52 compares m-PCNL with ESWL in infants
+under 3 years of age with lithiasis ranging from 15 to 30 mm,
+ﬁnding similar success rates (96% vs 86% for m-PCNL and
+ESWL, respectively), but there were signiﬁcant differences
+in complication rates and retreatment in favor of m-PCNL.
+Kruck,53 in a retrospective study of 482 patients comparing m-PCNL, RIRS and ESWL, points out a signiﬁcantly worse
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+556
+
+J.H. Amón Sesmero et al.
+
+success rate for the latter, both in the lower pole and in any
+other location.
+Several studies comparing m-PCNL with RIRS report a
+higher success rate, lower cost and no need for a double
+J stent in m-PCNL, although they show a greater fall in
+hemoglobin.53---56
+
+Microperc
+How much could the caliber be reduced in percutaneous
+surgery? This question was the basis for the development of micro-percutaneous nephrolithotomy. Bader et al.57
+used an optical needle of 0.9 mm diameter connected
+to a light source for ultrasound-guided needle aspiration
+in 15 patients undergoing PCNL. Shortly thereafter, Desai
+expanded the technique by performing the entire procedure through this 4.85 Fr needle.14 The only working channel
+was transferring ﬁber optics, irrigation, and a 275 ␮m laser
+ﬁber. The miniature PCNL named microperc emerged in this
+way. The key was the quality of the micro-optics, which provided sufﬁcient vision to perform the procedure safely and
+the main advantage is that there is no need for dilation of
+the tract; decreasing the possibility of bleeding. Microperc
+is manufactured by PolyDiagnost (Pfaffenhofen, Germany)
+with partially inventoried equipment39 (Fig. 2).
+Although from 2011 to the present several case series
+have been published on small calculi (10---20 mm) in both
+children and adults, with success rates around 90% and
+complication rates lower than 10%,41,58---64 the number of
+treated patients is still small and restricted to a few centers to draw clear conclusions (Table 1). A retrospective
+study of 98 patients compared microperc to m-PCNL in
+10---20 mm-sized stones in the lower calyx, showing a similar
+success rate, but a lower bleeding rate, shorter operative time, shorter hospital stay, and a higher tubeless
+rate for microperc.65 Similar results were obtained by both
+techniques in pediatric patients with a lithiasic range of
+10---20 mm.66
+But microperc, given the constraints it has on stone size,
+must be confronted with RIRS and ESWL. Sabnis,67 in a
+prospective randomized study, compared 35 patients undergoing microperc with 35 patients undergoing RIRS, for a
+renal stone size smaller than 15 mm. The success rate and
+
+operating time were similar; however, microperc caused
+greater drop in hemoglobin and greater pain, but had less
+need for double J stent.67 Fata,68 in a similar study but with
+fewer patients, found no signiﬁcant differences between the
+two techniques. In contrast, in the lower calyx, microperc was superior to RIRS in a retrospective study of 127
+patients with renal stones smaller than 20 mm.69 Microperc
+obtained a higher stone-free rate, shorter operative time,
+and less need for a double J stent, although the fall in
+hemoglobin and postoperative duration were greater with
+this technique.69
+The literature shows a resolution rate for microperc
+equivalent to RIRS and m-PCNL in renal calculi smaller
+than 20 mm, and it seems to have a minimally invasive
+proﬁle. However, this technique has signiﬁcant limitations.
+Unlike m-PCNL, microperc does not allow the use of ﬂexible ureterorenoscopes by anterograde.8 The technique
+using 4.8 Fr needle, and even the 8 Fr sheath, due to its
+reduced size, is smaller than that achieved with the sheaths
+employing m-PCNL, which requires direct access to lithiasis
+because tangential trajectories to the stone may invalidate
+fragmentation.70 If during this procedure a migration of fragments occurs, we are forced to reconvert the procedure to
+RIRS or m-PCNL in order to reach a complete resolution. In
+series with a large number of patients, such as Hatipoglu
+(n: 140) or Ganpule (n: 139), the rate of reconversion to mPCNL due to migration of remains or poor vision was 8.57%
+and 6.47%,41,62 respectively.
+Another drawback to be noted is the absence of the
+‘venturi’ effect produced by m-PCNL, which enables spontaneous extraction of the lithiasic fragments through the
+sheath, and this forces the lithiasis to vaporize to avoid
+signiﬁcant debris.41
+Finally, a controversial aspect in this ﬁeld is the high
+pressures reached in the renal pelvis during some phases
+of the intervention due to the absence of drainage through
+the micropercutaneous sheath. This technique has proved
+to have pressures signiﬁcantly higher than those achieved
+with standard PCNL during the different phases of the
+intervention.71 The highest pressure reached with microperc was 30.3 mm Hg compared to 20.1 mm Hg with standard
+PCNL, which is the threshold pressure for pyelovenous
+reﬂux.72 However, the complication rate was similar in both
+groups. The question is whether this hyperpresence has or
+does not have clinical consequences.71
+
+Ultra-mini PCNL
+
+Figure 2
+
+Equipment for microperc.
+
+Ultra-mini percutaneous nephrolithotomy (UMP) corresponds to the miniaturized PCNL using 11 Fr to 13 Fr calibers
+manufactured by LUT (Leben und Technologie). Once the
+18 gauge needle is punched and the guide is passed, the
+11 Fr or 13 Fr sheath with its obturator is slid through the
+guide without dilation (Figs. 3 and 4). UMP employs a 6 Fr
+nephroscope and holmium laser as the only feasible source
+of energy for fragmentation.39 UMP offers some advantages
+over microperc in relation to its greater caliber, such as the
+possibility of extracting small fragments with baskets and
+maintaining the ‘venturi effect’ offered by m-PCNL. The ﬁrst
+experience with this technique16 comprised 36 patients with
+renal calculi smaller than 2 cm in which a success rate of
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Small-calibre percutaneous nephrolithotomy. Therapeutic decision algorithm
+Table 1
+
+557
+
+Descriptive series of microperc, in pediatric and adult population.
+
+Author
+
+Year
+
+N
+
+Size (mm)
+
+14
+
+2011
+2012
+2013
+2013
+2013
+2014
+2015
+2015
+2015
+
+10
+11
+30
+21
+19
+140
+139
+40
+70
+
+14.3
+12.8
+17.9
+17.5
+14.8
+15
+13
+16.5
+11
+
+Desai
+Piskin58
+Armagan59
+Tepeler60
+Silay61
+Hatipoglu62
+Ganpule41
+Daggülli63
+Karatab64
+
+Stone-free
+88.9%
+85%
+93%
+85.7%
+89.5%
+82.1%
+91.5%
+80%
+95.7%
+
+Complic.
+10%
+8.5%
+10%
+9%
+5.3%
+8%
+10%
+2.5%
+5.7%
+
+Type
+Adult
+Pediatric
+Adult
+Adult
+Pediatric
+Adult
+Adult
+Pediatric
+Adult
+
+monotherapy and 90.9% when associated with RIRS.73 In children, UMP achieved better results compared to microperc in
+that it will not generate overpressure in the urinary tract.74
+A recent randomized comparative study with standard PCNL
+in renal stones smaller than 2.5 cm showed equal success
+rate for both techniques, but UMP had fewer complications
+and required less radiation exposure and shorter operative
+time.75
+
+Indications of the different calibers
+
+Figure 3
+
+Ultraminiperc in lower calyx with 13 Fr. sheath.
+
+Figure 4
+
+Nephroscope and UMP sheaths.
+
+97.2% was achieved per month, with a complication rate of
+16.7%. No patient required transfusion, but there were two
+cases of sepsis.16
+Subsequently, UMP has been performed in renal stones
+ranging from 2 to 3 cm, with success rates of 81.8% in
+
+Despite the appearance of this treatment nearly two
+decades ago, the indications of the PCNL with reduced calibers are not well deﬁned and the EUA and AUA guidelines
+on urolithiasis make few references on their use. A comparative meta-analysis of ESWL, RIRS and reduced caliber PCNL
+from 2014 concludes that RIRS should be the ﬁrst choice
+of treatment, given its greater efﬁcacy and lesser morbidity, until we have more randomized studies.76 De77 exhibits
+the same conclusions in his more recent meta-analysis when
+comparing PCNL versus RIRS. In the minimally invasive PCNL
+subgroup, the results in both success rate and complications
+were favorable for RIRS. Thus, the authors consider that
+this technique should be the standard treatment for renal
+stones smaller than 2 cm.77 But other studies show favorable
+results for m-PCNL except for bleeding.53---56 A recent randomized comparative study for renal stones larger than 1 cm
+between m-PCNL and RIRS showed similar success rates,
+surgical time, hemoglobin fall and hospital stay, but the
+postoperative pain and the need for analgesia was greater
+for RIRS.78
+Obviously, the standard treatment of renal stones larger
+than 2 cm in children is m-PCNL,3 but the indications in the
+adult are not yet well clariﬁed and it has been used in renal
+stones larger than 2 cm, as well as in renal stones smaller
+than 2 cm where ESWL or RIRS42 had previously failed, or
+were located in the lower pole.35,54
+Initially, Chan42 proposed some accurate recommendations: lithiasic volume between 1 and 2 cm2 , failure or unfavorable lower pole anatomy for ESWL or ureterorenoscopy
+(URS), or presence of anatomical abnormality that compromises them, cystine stones smaller than 2 cm2 and as
+secondary access to residual calculi in standard PCNL.42 Subsequently, other authors have expanded their indications.
+Thus, obstructive uropathy has been used in the treatment
+of large proximal ureteral calculi, achieving a higher success
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+558
+
+J.H. Amón Sesmero et al.
+
+Indications of the different calibers of PCNL according to the lithiasic
+1 cm
+
+2 cm
+
+3 cm
+
+4 cm
+
+24-30 Fr standard PCNL
+Miniperc 14-20 Fr:
+Ultraminiperc 11-13 Fr
+
+Microperc 4.8 Fr
+
+Children
+ESWL failure
+Lower calyx
+Any calyx with unfavorable anatomy
+For RIRS
+Intolerance to double J
+Impossibility of sheath ascent in RIRS
+Calyceal diverticulum
+Support to RIRS
+
+Children
+ESWL failure
+Lower calyx
+Any calyx with unfavorable anatomy
+For RIRS.
+Intolerance to double J
+Impossibility of sheath ascent in RIRS
+Calyceal diverticulum
+Support to RIRS (MicroECIRS)
+
+Figure 5
+
+Lithiasis >2cm in any situation
+
+Children
+Lithiasis <2cm if failed ESWL
+Lithiasis>2cm with anatomy
+Unfavorable for RIRS
+2-3 cm lithiasis if PCNL is indicated
+Combined with RIRS (miniecirs)
+Large proximal ureteral lithiasis
+Suppport to standard PCNL
+
+Support to Standard PCNL
+
+PCNL
+M
+U
+L
+T
+I
+T
+R
+A
+C
+T
+
+Support to Standard PCNL
+
+Indications of the different calibers of PCNL according to the lithiasic size.
+
+rate, with shorter operative time and less need for retreatment than retrograde ureterorenoscopy.79,80 A randomized
+comparative study exposes better results than URS in proximal ureteral stones.81 Even large series of Asian authors
+report the use of obstructive uropathy in the treatment of
+staghorn stones with multiple tracts.49,82---84 Cheng found no
+difference in the success rate between standard PCNL versus m-PCNL in staghorn stones (75.9% vs 72.2%, respectively;
+p > 0.05).49 But it seems clear that one of the limitations of
+m-PCNL is the time it takes for extracting fragments.22,50
+Therefore, its role in large volumes of lithiasis would support
+the standard PCNL23 in inaccessible or residual lithiasis,42 or
+in surgery combined with RIRS.85,86
+In renal stones smaller than 2 cm, m-PCNL is comparable to standard PCNL in success rate, with lower
+rate of complications22,84 and is clearly superior to
+ESWL in both adults and children, despite its greater
+invasiveness.52,53,87---89 M-PCNL provides an interesting fact
+that is impeded in microperc and ultra-mini PCNL, such as
+the possibility of using ﬂexible ones.8
+Microperc seems to have a clear application in pediatric
+patients requiring percutaneous surgery to treat small or
+moderate size stones.58,61,63,90 The lack of need to insert a
+double J stent at the end of the intervention makes this
+technique preferable to RIRS in infants.91
+But Cheng’s indications are not yet established in adults.
+Do microperc and ultra-mini PCNL have a role in the
+
+treatment of adult renal stones? Although neither EAU nor
+AUA clinical guidelines mention those techniques due to the
+lack of scientiﬁc evidence, the current sparse literature outlines some possible indications for microperc: renal stone
+<15 mm with unfavorable anatomy for ESWL or RIRS, auxiliary accesses in the context of multitract PCNL8,39,92 and
+its employability in the small diverticulum and horseshoe
+kidney.14
+Although we do not yet have enough data to identify
+possible indications of ultra-mini PCNL due to the limited
+experience with this technique, the small caliber used would
+offer indications superimposable to microperc, including in
+the pediatric population.93 Nonetheless, intrarenal pressure
+control and the possibility to perform the venturi effect
+and use nitinol baskets to evacuate small fragments could
+expand its scope beyond the 15 mm microperc. Fig. 5 summarizes the indications of the different PCNL calibers in
+reference to the renal stone size according to the existing
+literature.
+
+Conclusions
+PCNL developments related to the narrowing of the tract
+caliber has changed the indications of this technique,
+expanding its scope to smaller sizes that were restricted
+to less invasive techniques such as ESWL and RIRS. While
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Small-calibre percutaneous nephrolithotomy. Therapeutic decision algorithm
+m-PCNL has an increasingly deﬁned role as a less invasive
+percutaneous technique, miniaturized caliber PCNL requires
+further study to establish accurate indications in the treatment of renal stones.
+19.
+
+Conﬂict of interest
+20.
+
+None.
+
+References
+1. Skolarikos A1, Alivizatos G, de la Rosette JJ. Percutaneous
+nephrolithotomy and its legacy. Eur Urol. 2005;47:22---8.
+2. Wolf JS Jr, Clayman RV. Percutaneous nephrostolithotomy. What
+is its role in 1997? Urol Clin North Am. 1997;24:43---58.
+3. Turk C, Petrik A, Sarica K, Skolarikos A, Straub M, Knoll T, et al.
+EAU Guidelines on interventional treatmentfor urolithiasis. Eur
+Urol. 2016;69:475---82.
+4. Fernström I, Johansson B. Percutaneous pyelolithotomy. A new
+extraction technique. Scand J Urol Nephrol. 1976;10:257---9.
+5. Valdivia Uria JG, Valle Gerhold J, Lopez Lopez JA, Villarroya Rodríguez S, Ambroj Navarro C, Ramirez Fabián M, et al.
+Technique and complications of percutaneous nephroscopy:
+experience with 557 patients in the supine position. J Urol.
+1998;160:1975---8.
+6. Ibarluzea G, Scoffone CM, Cracco CM, Poggio M, Porpiglia F, Terrone C, et al. Supine Valdivia and modiﬁed lithotomy position
+for simultaneous anterograde and retrograde endourological
+access. BJU Int. 2007;100:233---6.
+7. Ray AA, Chung DG, Honey RJ. Percutaneous nephrolithotomy in
+the prone and prone-ﬂexed positions: anatomic considerations.
+J Endourol. 2009;23:1607---14.
+8. Ghani KR, Andonian S, Bultitude M, Desai M, Giusti G, Okhunov
+Z, et al. Percutaneous nephrolithotomy: update, trends, and
+future directions. Eur Urol. 2016;70:382---96.
+9. Dehong C, Liangren L, Huawei L, Qiang W. A comparison
+among four tract dilation methods of percutaneous nephrolithotomy: a systematic review and meta-analysis. Urolithiasis.
+2013;41:523---30.
+10. Jackman SV, Hedican SP, Peters CA, Docimo SG. Percutaneous
+nephrolithotomy in infants and preschool age children: experience with a new technique. Urology. 1998;52:697---701.
+11. Jackman SV, Docimo SG, Cadeddu JA, Bishoff JT, Kavoussi LR,
+Jarrett TW. The mini-perc technique: a less invasive alternative
+to percutaneous nephrolithotomy. World J Urol. 1998;16:371---4.
+12. Monga M, Oglevie S. Minipercutaneous nephrolithotomy. J
+Endourol. 2000;14:419---21.
+13. Lahme S, Bichler KH, Strohmaier WL, Götz T. Minimally invasive
+PCNL in patients with renal pelvic and calyceal stones. Eur Urol.
+2001;40:619---24.
+14. Desai MR, Sharma R, Mishra S, Sabnis RB, Stief C, Bader M.
+Single-step percutaneous nephrolithotomy (microperc): the initial clinical report. J Urol. 2011;186:140---5.
+15. Sabnis R, Ganesamoni R, Ganpule A, Mishra S, Vyas J, Jagtap
+J. Current role of microperc in the management of small renal
+calculi. Indian J Urol. 2013;29:214---8.
+16. Desai J, Zeng G, Zhao Z, Zhong W, Chen W, Wu W. A novel
+technique of ultra-mini-percutaneous nephrolithotomy: introduction and an initial experience for treatment of upper urinary
+calculi less than 2 cm. Biomed Res Int. 2013;2013:490793.
+17. Michel MS, Trojan L, Rassweiler JJ. Complications in percutaneous nephrolithotomy. Eur Urol. 2007;51:899---906.
+18. Yamaguchi A, Skolarikos A, Buchholz NP, Chomón GB, Grasso M,
+Saba P, et al. Operating times and bleeding complications in
+percutaneous nephrolithotomy: a comparison of tract dilation
+methods in 5,537 patients in the Clinical Research Ofﬁce of the
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+33.
+
+34.
+35.
+
+36.
+
+37.
+
+38.
+
+559
+
+Endourological Society Percutaneous Nephrolithotomy Global
+Study. Clinical Research Ofﬁce of The Endourological Society Percutaneous Nephrolithotomy Study Group. J Endourol.
+2011;25:933---9.
+Stoller ML, Wolf JS Jr, St. Lezin MA. Estimated blood loss and
+transfusion rates associated with percutaneous nephrolithotomy. J Urol. 1994;152 Pt 1:1977---81.
+Handa RK, Matlaga BR, Connors BA, Ying J, Paterson RF, Kuo
+RL, et al. Acute effects of percutaneous tract dilation on renal
+function and structure. J Endourol. 2006;20:1030---40.
+Davidoff R, Bellman GC. Inﬂuence of technique of percutaneous tract creation on incidence of renal hemorrhage. J Urol.
+1997;157:1229---31.
+Knoll T, Wezel F, Michel MS, Honeck P, Wendt-Nordahl G.
+Do patients beneﬁt from miniaturized tubeless percutaneous nephro- lithotomy? A comparative prospective study. J
+Endourol. 2010;24:1075---9.
+Akman T, Binbay M, Sari E, Yuruk E, Tepeler A, Akcay M, et al.
+Factors affecting bleeding during percutaneous nephrolithotomy: single surgeon experience. J Endourol. 2011;25:327---33.
+Kukreja R, Desai M, Patel S, Bapat S, Desai M. Factors affecting
+blood loss during percutaneous nephrolithotomy: prospective
+study. J Endourol. 2004;18:715---22.
+Traxer O, Smith TG 3rd, Pearle MS, Corwin TS, Saboorian H, Cadeddu JA, et al. Renal parenchymal injury after
+standard and mini percutaneous nephrostolithotomy. J Urol.
+2001;165:1693---5.
+Williams SK, Leveillee RJ. Management of staghorn calculus:
+single puncture with judicious use of the ﬂexible nephroscope.
+Curr Opin Urol. 2008;18:224---8.
+Grasso M, Ficazzola M. Retrograde ureteropyeloscopy for lower
+pole caliceal calculi. J Urol. 1999;162:1904---8.
+Maheshwari PN, Andankar MG, Bansal M. Nephrostomy tube
+after percutaneous nephrolithotomy: large-bore or pigtail
+catheter? J Endourol. 2000;14:735---7.
+Pietrow PK, Auge BK, Lallas CD, Santa-Cruz RW, Newman GE,
+Albala DM, et al. Pain after percutaneous nephrolithotomy:
+impact of nephrostomy tube size. J Endourol. 2003;17:411---4.
+Wickham JE, Miller RA, Kellett MJ, Payne SR. Percutaneous
+nephrolithotomy: one stage or two? Br J Urol. 1984;56:
+582---5.
+Winﬁeld HN, Weyman P, Clayman RV. Percutaneous nephrostolithotomy: complications of premature nephrostomy tube
+removal. J Urol. 1986;136:77---9.
+Bellman GC, Davidoff R, Candela J, Gerspach J, Kurtz S, Stout L.
+Tubeless percutaneous renal surgery. J Urol. 1997;157:1578---82.
+Cracco CM, Scoffone CM, Scarpa RM. New developments in percutaneous techniques for simple and complex branched renal
+stones. Curr Opin Urol. 2011;21:154---60.
+Antonelli JA, Pearle MS. Advances in percutaneous nephrolithotomy. Urol Clin North Am. 2013;40:99---113.
+Nagele U, Schilling D, Anastasiadis AG, Corvin S, Seibold J, Kuczyk M, et al. Closing the tract of minipercutaneous nephrolithotomy with gelatine matrix hemostatic
+sealant can replace nephrostomy tube placement. Urology.
+2006;68:489---93.
+Shah HN, Hegde S, Shah JN, Mohile PD, Yuvaraja TB, Bansal MB.
+A prospective, randomized trial evaluating the safety and efﬁcacy of ﬁbrin sealant in tubeless percutaneous nephrolithotomy.
+J Urol. 2006;176 Pt 1:2488---92.
+Cormio L, Perrone A, Di Fino G, Ruocco N, de Siati M,
+de La Rosette J, et al. TachoSil sealed tubeless percutaneous nephrolithotomy to reduce urine leakage and
+bleeding: outcome of a randomized controlled study. J Urol.
+2012;188:145---50.
+Kim IY, Eichel L, Edwards R, Uribe C, Chou DS, Abdelshehid
+C, et al. Effects of commonly used hemostatic agents on the
+porcine collecting system. J Endourol. 2007;21:652---4.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+560
+39. Wright A, Rukin N, Smith D, de la Rosette J, Somani BK.
+‘Mini, ultra, micro’ --- nomenclature and cost of these new
+minimally invasive percutaneous nephrolithotomy (PCNL) techniques. Ther Adv Urol. 2016;8:142---6.
+40. Helal M, Black T, Lockhart J, Figueroa TE. The Hickman
+peel-away sheath: alternative for pediatric percutaneous
+nephrolithotomy. J Endourol. 1997;11:171---2.
+41. Ganpule AP, Bhattu AS, Desai M. PCNL in the twenty-ﬁrst century: role of microperc, miniperc, and ultraminiperc. World J
+Urol. 2015;33:235---40.
+42. Chan DY, Jarrett TW. Mini-percutaneous nephrolithotomy. J
+Endourol. 2000;14:269---72.
+43. Nagele U, Schilling D, Sievert KD, Stenzl A, Kuczyk M. Management of lower-pole stones of 0.8 to 1.5 cm maximal diameter
+by the minimally invasive percutaneous approach. J Endourol.
+2008;22:1851---3.
+44. Karaköse A, Aydogdu Ö, Yusuf Z. The use of the amplatz sheath
+in percutaneous nephrolithotomy: does amplatz sheath size
+matter? Curr Urol. 2014;7:127---31, 43.
+45. Tepeler A, Sarica K. Standard, mini, ultra-mini, and micro
+percutaneous nephrolithotomy: what is next? A novel labeling system for percutaneous nephrolithotomy according to the
+size of the access sheath used during procedure. Urolithiasis.
+2013;41:367---8.
+46. Schilling D, Husch T, Bader M, Herrmann TR, Nagele U. Nomenclature in PCNL or the Tower of Babel: a proposal for a uniform
+terminology. World J Urol. 2015;33:1905---7.
+47. Hu G, Guo Z, Liu H, Luo M, Liu M, Lai P, et al. A novel minimally
+invasive percutaneous nephrolithotomy technique: safety and
+efﬁcacy report. Scand J Urol. 2015;49:174---80.
+48. Giusti G, Piccinelli A, Taverna G, Benetti A, Pasini L, Corinti M,
+et al. Miniperc? No, thank you! Eur Urol. 2007;51:810---4.
+49. Cheng F, Yu W, Zhang X, Yang S, Xia Y, Ruan Y. Minimally invasive tract in percutaneous nephrolithotomy for renal stones. J
+Endour. 2010;24:1579---82.
+50. Mishra S, Sharma R, Garg C, Kurien A, Sabnis R, Desai
+M. Prospective comparative study of miniperc and standard
+PNL for treatment of 1 to 2 cm size renal stone. BJU Int.
+2011;108:896---9.
+51. Zhu W, Liu Y, Liu L, Lei M, Yuan J, Wan SP. Minimally invasive versus standard percutaneous nephrolithotomy: a meta-analysis.
+Urolithiasis. 2015;43:563---70.
+52. Zeng G, Jia J, Zhao Z, Wu W, Zhao Z, Zhong W. Treatment of
+renal stones in infants: comparing extracorporeal shock wave
+lithotripsy and mini-percutaneous nephrolithotomy. Urol Res.
+2012;40:599---603.
+53. Kruck S, Anastasiadis AG, Herrmann TR, Walcher U,
+Abdelhafez MF, Nicklas AP, et al. Minimally invasive percutaneous nephrolithotomy: an alternative to retrograde
+intrarenal surgery and shockwave lithotripsy. World J Urol.
+2013;31:1555---61.
+54. Kirac M, Bozkurt OF, Tunc L, Guneri C, Unsal A, Biri
+H. Comparison of retrograde intrarenal surgery and minipercutaneous nephrolithotomy in management of lower-pole
+renal stones with a diameter of smaller than 15 mm. Urolithiasis. 2013;41:241---6.
+55. Pan J, Chen Q, Xue W, Chen Y, Xia L, Chen H, et al. RIRS versus
+mPCNL for single renal stone of 2---3 cm: clinical outcome and
+cost-effective analysis in Chinese medical setting. Urolithiasis.
+2013;41:73---8.
+56. Zeng G, Zhu W, Li J, Zhao Z, Zeng T, Liu C, et al. The comparison
+of minimally invasive percutaneous nephrolithotomy and retrograde intrarenal surgery for stones larger than 2 cm in patients
+with a solitary kidney: a matched-pair analysis. World J Urol.
+2015;33:1159---64.
+57. Bader MJ, Gratzke C, Seitz M, Sharma R, Stief CG, Desai M.
+The ‘‘allseeing needle’’: initial results of an optical puncture
+
+J.H. Amón Sesmero et al.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+system conﬁrming access in percutaneous nephrolithotomy. Eur
+Urol. 2011;59:1054---9.
+Piskin MM, Guven S, Kilinc M, Arslan M, Goger E, Ozturk A. Preliminary, favorable experience with microperc in kidney and
+bladder stones. J Endourol. 2012;26:1443---7.
+Armagan A, Tepeler A, Silay MS, Ersoz C, Akcay M, Akman T,
+et al. Micropercutaneous nephrolithotomy in the treatment of
+moderate-size renal calculi. J Endourol. 2013;27:177---81.
+Tepeler A, Armagan A, Sancaktutar AA, Silay MS, Penbegul N,
+Akman T, et al. The role of microperc in the treatment of symptomatic lower pole renal calculi. J Endourol. 2013;27:13---8.
+Silay MS, Tepeler A, Atis G, Sancaktutar AA, Piskin M, Gurbuz C,
+et al. Initial report of microperc in the treatment of pediatric
+nephrolithiasis. J Pediatr Surg. 2013;48:1578---83.
+Hatipoglu NK, Tepeler A, Buldu I, Atis G, Bodakci MN, Sancaktutar AA, et al. Initial experience of micro-percutaneous
+nephrolithotomy in the treatment of renal calculi in 140 renal
+units. Urolithiasis. 2014;42:159---64.
+Dağgülli M, Utanğaç MM, Dede O, Bodakçi MN, Penbegül N,
+Hatipoğlu NK, et al. Micro-percutaneous nephrolithotomy in the
+treatment of pediatric nephrolithiasis: a single-center experience. J Pediatr Surg. 2016;51:626---9.
+Karatag T, Buldu I, Inan R, Istanbulluoglu MO. Is micropercutaneous nephrolithotomy technique really efﬁcacicous for
+the treatment of moderate size renal calculi? Yes. Urol Int.
+2015;95:9---14.
+Tok A, Akbulut F, Buldu I, Karatag T, Kucuktopcu O, Gurbuz G, et al. Comparison of microperc and mini-percutaneous
+nephrolithotomy for medium-sized lower calyx stones. Urolithiasis. 2016;44:155---9.
+Karatag T, Tepeler A, Silay MS, Bodakci MN, Buldu I, Daggulli
+M, et al. A comparison of 2 percutaneous nephrolithotomy
+techniques for the treatment of pediatric kidney stones of
+sizes 10---20 mm: microperc vs miniperc. Urology. 2015;85:
+1015---8.
+Sabnis RB, Ganesamoni R, Doshi A, Ganpule AP, Jagtap J,
+Desai MR. Micropercutaneous nephrolithotomy (microperc)
+vs retrograde intrarrenal surgery for the management of
+small renal calculi: a randomized controlled trial. BJU Int.
+2013;112:355---61.
+Ramón de Fata F, García-Tello A, Andrés G, Redondo C, Meilán E,
+Gimbernat H, et al. Comparative study of retrograde intrarenal
+surgery and micropercutaneous nephrolithotomy in the treatment of intermediate-sized kidney stones. Actas Urol Esp.
+2014;38:576---83.
+Armagan A, Karatag T, Buldu I, Tosun M, Basibuyuk I, Istanbulluoglu MO, et al. Comparison of ﬂexible ureterorenoscopy
+and micropercutaneous nephrolithotomy in the treatment for
+moderately size lower-pole stones. World J Urol. 2015;33:
+1827---31.
+Ganpule A, Chabra JS, Kore V, Mishra S, Sabnis R, Desai M.
+Factors predicting outcomes of micropercutaneous nephrolithotomy: results from a large single-centre experience. BJU Int.
+2016;117:478---83.
+Tepeler A, Akman T, Silay MS, Akcay M, Ersoz C, Kalkan S,
+et al. Comparison of intrarenal pelvic pressure during micropercutaneous nephrolithotomy and conventional percutaneous
+nephrolithotomy. Urolithiasis. 2014;42:275---9.
+Thomsen HS, Talner LB, Higgins CB. Intrarenal backﬂow during retrograde pyelography with graded intrapelvic pressure. A
+radiologic study. Invest Radiol. 1982;17:593---603.
+Shah AK, Xu K, Liu H, Huang H, Lin T, Bi L, et al. Implementation of ultramini percutaneous nephrolithotomy for treatment
+of 2---3 cm kidney stones: a preliminary report. J Endourol.
+2015;29:1231---6.
+Dede O, Sancaktutar AA, Dağguli M, Utangaç M, Baş O, Penbegul N. Ultra-mini-percutaneous nephrolithotomy in pediatric
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+Small-calibre percutaneous nephrolithotomy. Therapeutic decision algorithm
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+nephrolithiasis: both low pressure and high efﬁciency. J Pediatr
+Urol. 2015;11:253.
+Karakan T, Kilinc MF, Doluoglu OG, Yildiz Y, Yuceturk CN,
+Bagcioglu M, et al. The modiﬁed ultra-mini percutaneous
+nephrolithotomy technique and comparison with standard
+nephrolithotomy: a randomized prospective study. Urolithiasis.
+2017;45:209---13.
+Srisubat A 1, Potisat S, Lojanapiwat B, Setthawong V, Laopaiboon M. Extracorporeal shock wave lithotripsy (ESWL) versus
+percutaneous nephrolithotomy (PCNL) or retrograde intrarenal
+surgery (RIRS) for kidney stones. Cochrane Database Syst Rev.
+2014;11:CD007044.
+De S, Autorino R, Kim FJ, Zargar H, Laydner H, Balsamo
+R, et al. Percutaneous nephrolithotomy versus retrograde
+intrarenal surgery: a systematic review and meta-analysis. Eur
+Urol. 2015;67:125---37.
+Lee JW, Park J, Lee SB, Son H, Cho SY, Jeong H. Minipercutaneous nephrolithotomy vs retrograde intrarenal surgery
+for renal stones larger than 10 mm: a prospective randomized
+controlled trial. Urology. 2015;86:873---7.
+Long Q, Guo J, Xu Z, Yang Y, Wang H, Zhu Y, et al. Experience of
+mini-percutaneous nephrolithotomy in the treatment of large
+impacted proximal ureteral stones. Urol Int. 2013;90:384---8.
+Yang Z, Song L, Xie D, Hu M, Peng Z, Liu T, et al. Comparative
+study of outcome in treating upper ureteral impacted stones
+using minimally invasive percutaneous nephrolithotomy with
+aid of patented system or transurethral ureteroscopy. Urology.
+2012;80:1192---7.
+Gu XJ, Lu JL, Xu Y. Treatment of large impacted proximal
+ureteral stones: randomized comparison of minimally invasive
+percutaneous antegrade ureterolithotripsy versus retrograde
+ureterolithotripsy. World J Urol. 2013;31:1605---10.
+Zeng G, Mai Z, Zhao Z, Li X, Zhong W, Yuan J, et al. Treatment of
+upper urinary calculi with Chinese minimally invasive percutaneous nephrolithotomy: a single-center experience with 12,482
+consecutive patients over 20 years. Urolithiasis. 2013;41:225---9.
+Zhong W, Zeng G, Wu W, Chen W, Wu K. Minimally invasive percutaneous nephrolithotomy with multiple mini tracts in a single
+session in treating staghorn calculi. Urol Res. 2011;39:117---22.
+
+561
+
+84. Liu C, Cui Z, Zeng G, Wan SP, Li J, Zhu W, et al. The optimal minimally invasive percutaneous nephrolithotomy strategy for the
+treatment of staghorn stones in a solitary kidney. Urolithiasis.
+2016;44:149---54.
+85. Amón JH, Cepeda M, Conde C, Alonso D, González V,
+Martínez-Sagarra JM. Retrograde intrarenal surgery (RIRS).
+Technical complement for cases of acute lithiasis. Actas Urol.
+2011;35:108---14.
+86. Hamamoto S, Yasui T, Okada A, Taguchi K, Kawai N, Ando
+R, et al. Endoscopic combined intrarenal surgery for large
+calculi: simultaneous use of ﬂexible ureteroscopy and minipercutaneous nephrolithotomy overcomes the disadvantageous
+of percutaneous nephrolithotomy monotherapy. J Endourol.
+2014;28:28---33.
+87. Ferakis N. Stavropoulos mini percutaneous nephrolithotomy
+in the treatment of renal and upper ureteral stones: lessons
+learned from a review of the literature. Urol Ann. 2015;7:141---8.
+88. Kiremit MC, Guven S, Sarica K, Ozturk A, Buldu I, Kafkasli A,
+et al. Contemporary management of medium-sized (10---20 mm)
+renal stones: a retrospective multicenter observational study. J
+Endourol. 2015;29:838---43.
+89. Kumar A, Kumar N, Vasudeva P, Kumar Jha S, Kumar R, Singh H.
+A prospective, randomize comparison of shock wave lithotripsy,
+retrograde intrarenal surgery and miniperc for treatment of 1
+to 2 cm radiolucent lower calyceal renal calculi: a single center
+experience. J Urol. 2015;193:160---4.
+90. Pérez-Fentes D, Blanco-Gómez B, García-Freire C. Micropercutaneous nephrolithotomy. A new therapeutic option for
+pediatric renal lithiasis. Actas Urol Esp. 2014;38:483---7.
+91. Baş O, Dede O, Aydogmus Y, Utangaç M, Yikilmaz TN, Damar E,
+et al. Comparison of retrograde intrarenal surgery and micropercutaneous nephrolithotomy in moderately sized pediatric
+kidney stones. J Endourol. 2016;30:765---70.
+92. Druskin SC, Ziemba JB. Minimally invasive (mini) percutaneous
+nephrolithotomy: classiﬁcation, indications, and outcomes.
+Curr Urol Rep. 2016;17:30.
+93. Simal I, Parente A, Burgos L, Ortiz R, Martínez AB, Rojo R, et al.
+Therapeutic possibilities for urolithiasis in childhood. Actas Urol
+Esp. 2016;40:577---84.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+
