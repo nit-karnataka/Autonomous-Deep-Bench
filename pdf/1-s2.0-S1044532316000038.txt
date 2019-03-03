@@ -1,0 +1,1242 @@
+Seminars in Immunology 28 (2016) 54–63
+
+Contents lists available at ScienceDirect
+
+Seminars in Immunology
+journal homepage: www.elsevier.com/locate/ysmim
+
+Review
+
+Enhancing T cell therapy by overcoming the immunosuppressive
+tumor microenvironment
+Ainhoa Arina a,∗ , Leticia Corrales b , Vincenzo Bronte c,∗
+a
+b
+c
+
+Department of Radiation and Cellular Oncology, The Ludwig Center for Metastasis Research, University of Chicago, Chicago, IL, USA
+Department of Pathology, University of Chicago, Chicago, IL 60637, USA
+Verona University Hospital and Department of Medicine, Verona 37134, Italy
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 30 November 2015
+Received in revised form 25 January 2016
+Accepted 26 January 2016
+Available online 10 February 2016
+Keywords:
+Immunosuppression
+Cancer
+Microenvironment
+TIL
+Inﬁltration
+MDSC
+
+a b s t r a c t
+Immune response to tumors can be successfully oriented for therapeutic purposes, as shown by the clinical efﬁcacy of checkpoint blockade in extending the survival of patients with certain solid and hematologic
+neoplasms. Nonetheless, numerous patients do not beneﬁt from these new treatments. Tumor-speciﬁc
+CD8+ T lymphocytes, either endogenously revived by checkpoint interference or adoptively transferred
+after in vitro expansion and retargeting, can be extremely efﬁcient in controlling metastatic disease but
+have to overcome a number of restraints imposed by growing tumors. This immune escape relies on
+a profound modiﬁcation of the tumor environment, which is rendered less permissive to lymphocyte
+arrival, persistence, and functional activity. We review here emerging ﬁndings on the main negative circuits limiting the efﬁcacy of cancer immunotherapy, as well as novel and conventional approaches that
+can translate into rational combination therapies.
+© 2016 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Immunotherapy of cancer is rapidly emerging as a frontline
+approach to cancer therapy due to the recent success of checkpoint inhibitors and adoptive T cell therapy (ACT) of cancer in the
+clinic. Checkpoint inhibitors such as antibodies blocking PD1/PDL1,
+achieved long-term survival and durable remissions in subsets of
+cancer patients [1–4]. However, still many patients show a shortterm beneﬁt or no beneﬁt at all. On the other hand, ACT with in
+vitro-expanded, tumor inﬁltrating lymphocytes (TIL) or T cells from
+peripheral blood genetically modiﬁed to target the tumor [5–7], has
+shown best results so far in metastatic melanoma treated with TILs
+[7], and in acute lymphoblastic leukemia for genetically-modiﬁed
+T cells [8]. There is still ample room for improvement of efﬁcacy,
+
+Abbreviations: ACT, adoptive T cell therapy; TLS, tertiary lymphoid structures; MDSC, myeloid derived-supressor cells; Tfh, T follicular helper; NSCLC,
+non-small cell lung cancer; MSR, mesoporous silica rods; PSC, pancreatic stellate
+cells; TIL, tumor-inﬁltrating lymphocytes; TAM, tumor-associated macrophages;
+RNS, reactive nitrogen species; IDO, indoleamine 2,3 deoxygenase; CAF, cancer
+associate ﬁbroblast; IR, ionizing radiation; COX-1, Cyclooxigenase-1; DPP4, dipeptidyl peptidase-4; ATRA, all-trans retinoic acid; TBI, total body irradiation; 5-FU,
+5-ﬂuouracil; CTX, cyclophosphamide.
+∗ Corresponding author.
+E-mail addresses: aarina@bsd.uchicago.edu (A. Arina), vincenzo.bronte@univr.it
+(V. Bronte).
+
+in particular in solid malignancies other than melanoma. Two elements can be modiﬁed to achieve better therapeutic effects from
+adoptively transferred T cells: the potency of the T cells themselves,
+and the often T cell-refractory tumor microenvironment in which
+T cells must exert their anti-tumoral function. It is likely that therapeutic intervention directed at the tumor microenvironment would
+be particularly important for such cases when the T cell quality is
+suboptimal [9]. The tumor microenvironment can be a formidable
+hurdle for therapeutic effect of endogenous or adoptively transferred T cells by limiting T cell inﬁltration [10], and by counteracting
+T cell activity with a myriad of immunosuppressive mechanisms
+[11].
+Evidence that improved survival [12–14] and clinical responses
+to immunotherapy e.g. with checkpoint inhibitors correlate with
+the presence of T cells in the tumor microenvironment [15], has
+been the driving force to look for the genetic mechanisms dictating T cell inﬁltration or exclusion from tumors [16,17]. One
+such tumor cell intrinsic mechanisms involve the activation of
+the WNT/␤-catenin oncogenic pathway, which resulted in T cell
+exclusion by repressing the expression of CCL4 chemokine and
+subsequent inﬁltration of CD103+ /CD8␣+ dendritic cells (DC) [17].
+Other genetic mechanisms explaining differences in tumor inﬁltration by T cells concern non-malignant cells in the tumor,
+such as endothelial cells (see below). Strategies to increase
+tumor inﬁltration have traditionally targeted tumor vasculature and/or manipulated the chemokines present in the tumor
+
+http://dx.doi.org/10.1016/j.smim.2016.01.002
+1044-5323/© 2016 Elsevier Ltd. All rights reserved.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+A. Arina et al. / Seminars in Immunology 28 (2016) 54–63
+
+microenvironment. New approaches take advantage from the
+advancements in biomaterials using porous scaffolds, which can
+deliver or attract immune cells upon implantation in vivo. Current
+active research on the formation of ectopic tertiary lymphoid structures (TLS) might provide translational clues to generate de novo
+TLS in tumors, potentially making use of such biomaterials.
+Immunosuppressive mechanisms in tumors include T cell
+intrinsic control mechanisms such as the up-regulation of
+molecules that decrease T cell function (e.g. PD1), and T cell
+extrinsic mechanisms including cellular elements such as myeloidderived suppressor cells (MDSC) and ﬁbroblasts, and molecules
+such as indoleamine 2,3 deoxygenase (IDO), among many others. Either blocking such inhibitory mechanisms, or promoting
+immunostimulatory mechanisms that are downregulated or absent
+in tumors, could revive a more favorable environment for T cells.
+The discovery of checkpoint blockade and the encouraging results
+achieved in the clinic with mAbs interfering with rheostats of T
+cell activation represent the ﬁrst tangible demonstration that it
+is possible to reverse cancer-induced T cell dysfunctions and this
+is sufﬁcient to cause tumor eradication, at least in some patients
+affected by speciﬁc malignancies. On a general note, it appears
+that currently explored checkpoint inhibitors can intercept at least
+two different routes: one affecting systemic tolerance (CTLA4)
+and another acting on local, intra-tumoral restraints (PD-1/PDL1). While CTLA4 blockade can enhance CD8+ T cell inﬁltration
+in treated patients [18] and hence predispose the tumor environment to the activity of PD-1/PD-L1 blockade, the response to the
+last checkpoint inhibitors is dependent on pre-existing, tumorinﬁltrating CD8+ T cells [19]. In experimental melanoma models,
+the combination of mAbs anti-CTLA4 and anti-PD-L1 increased the
+intratumoral ratio of effector T cell to both Treg and MDSC [20],
+ﬁndings that might explain the recent conﬁrmation of the additive
+activity of combination therapy in a randomized, phase III study in
+metastatic melanoma patients [21].
+Preclinical data support the notion that checkpoint inhibitors
+could be synergistic with ACT [22–27]. This is reasonable as ex vivo
+“revived” or genetically manipulated T cells will likely decrease
+their function upon prolonged exposure to the tumor microenvironment. Since different reviews have recently addressed the
+biology and clinical signiﬁcance of checkpoint blockade [28,29],
+we will focus our attention on emerging strategies to overcome
+suppressive mechanisms in cancer that can boost the efﬁcacy of
+tumor-speciﬁc CD8+ T lymphocytes. Speciﬁcally, we will discuss
+the regulation of myelomonocytic cell recruitment, reversion of
+the enzymatic inhibition of T cell activation and targeting of the
+ﬁbroblastic tumor stroma. We will also discuss novel ways to overcome immune suppression by promoting immune stimulation in
+the tumor via STING/type I IFN, or systemically, by manipulating
+gut microbiota.
+In summary, here we will review therapeutic approaches,
+including conventional cancer therapies, i.e. radiotherapy and
+chemotherapy, that result in increased T cell inﬁltration or reversed
+immunosuppression within the tumor microenvironment and
+could therefore be combined with T cell therapy for enhancing its
+impact on cancer patients.
+
+2. Strategies to increase tumor inﬁltration by T cells
+2.1. Generation of lymphoid structures inside tumors
+Tertiary lymphoid structures (TLS) are ectopic lymphoid formations that display an organization very similar to that of lymph
+nodes, including a T cell zone with mature DC, a germinal center
+with proliferating B cells, follicular DC and T follicular helper (Tfh)
+cells (reviewed in [30]). TLS develop under conditions of chronic
+
+55
+
+inﬂammation and cancer, and their presence has been associated
+with improved prognosis in lung and colorectal cancers [31–33].
+Clinical responses to vaccinations against HPV in patients with
+advanced cervical intraepithelial neoplasia were associated with
+generation of TLS [34]. However, not all lymphoid aggregates in
+tumors reminiscent of TLS are necessarily indicative of a strong
+adaptive immune response against the tumor, but certain qualitative requirements seem to exist. For example, in non-small cell
+lung cancer (NSCLC) patients, high density of CD8 T cells per se
+is not a prognostic value unless combined with a high density of
+mature DC [35]. Similarly, the generation of TLS after vaccination
+with a GMCSF-secreting vaccine in pancreatic cancer patients, did
+not correlate with improved survival unless it showed a suppressed
+T regulatory (Treg) and enhanced Th17 gene signature [36]. Expression of CCL21 by cancer cells in a mouse tumor model resulted in
+the generation of lymphoid-like structures that contained mostly
+Treg cells but no B cell germinal centers, and fueled immune tolerance and tumor progression [37]. In breast cancer, the presence
+of Tfh in germinal centers predicted high lymphocytic inﬁltration,
+survival and response to chemotherapy [38]. Therefore, therapeutic strategies should be directed at the generation of TLS with all
+the elements of germinal centers. Although generation of TLS for
+immunotherapy of cancer has not been experimentally tested yet,
+a conceptually close approach pursuing the generation of ectopic
+lymphoid tissue to promote antitumor T cell responses is based on
+the use of LIGHT. LIGHT (TNFSF14) is a member of the TNF family that can act as a costimulatory molecule through binding to
+HVEM on T cells [39]. LIGHT can also be secreted as a cytokine and
+bind lymphotoxin-␤ receptor (LT␤R) expressed on non-lymphoid
+cells. LT␤R signaling promotes the organization and maintenance
+of lymphoid structures including lymph nodes, through its ability to induce the expression of various chemokines such as CCL21,
+as well as adhesion molecules [40]. Overexpression of LIGHT by
+cancer cells in preclinical models dramatically increased T cell inﬁltration of T cell-void tumors [41]. This correlated with an increase
+in expression of CXCL10, CXCL9 and CCL21, as well as MAdCAM-1
+in the tumor. Exogenous administration of an adenovirus encoding LIGHT before surgical excision of the tumor generated CTL that
+eliminated distant metastases [42].
+2.2. Use of porous scaffolds
+Novel strategies linking material engineering and immunology exploit organic or inorganic scaffolds implanted in mice to
+manipulate the trafﬁcking of immune cells [43,44]. Macroporous
+scaffolds have been generated from polymerized alginate that integrate a collagen-mimetic peptide to facilitate T cell migration, plus
+macroparticles with soluble IL15/IL15R␣ fusion protein, and lipid
+bilayer-bound anti-CD3, -CD28 and -CD137 antibodies to promote
+T cell activation and survival [44]. Surgical implantation of such
+organic scaffolds preloaded with anti-tumor T cells resulted in
+dramatically improved anti-tumoral effects when compared to systemic administration of the T cells, in a model of residual disease
+following surgical resection of breast cancer, and in an aggressive
+ovarian cancer model [44]. The antitumor effects were accompanied by strong proliferation and heavy inﬁltration of tumors by
+T cells delivered by the scaffold. In a similar approach, inorganic
+mesoporous silica rods (MSRs) have been used to create scaffolds that achieved sustained release of bioactive molecules and
+recruited high numbers of DC [43]. A unique feature of these MSRs
+is that they are delivered by needle injection and spontaneously
+assemble to form 3D structures (the “scaffolds”), therefore bypassing the need for surgical implantation. MSRs technology was proven
+to generate strong antibody and T cell responses when used for
+vaccination. Although T cell inﬁltration of tumors in a therapeutic setting was not assessed, it is conceivable that the recruitment
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+56
+
+A. Arina et al. / Seminars in Immunology 28 (2016) 54–63
+
+of DC to peritumoral/intratumoral sites, combined to proper activation signals that could be delivered in the MSRs scaffolds might
+promote higher recruitment of T cells into the tumor.
+2.3. Manipulation of chemokines in the tumor microenvironment
+Chemokine gradients govern T cells migration into healthy tissues and tumors and therefore represent an obvious target when
+seeking to increase tumor inﬁltration by T cells. Recent studies in
+mice make use of pharmacological agents already available in the
+clinics for that purpose. In an example of drug repurposing, Barreira da Silva et al. [45] found that treatment of tumor-bearing mice
+with Sitagliptin, currently used in type II-diabetes, increased tumor
+inﬁltration by T cells. Sitagliptin inhibits the enzyme dipeptidyl
+peptidase-4 (DPP4). Membrane-bound or soluble DPP4 mediate
+in vivo truncation of the CXCL10 chemokine among other proteins.
+In this study, the effect of Sitagliptin in augmenting T cell inﬁltration seemed speciﬁc of the CXCR3/CXCL10 axis. Treatment with
+Sitaglaptin was synergistic with checkpoint inhibitors anti-CTLA4
+and anti-PD1 administered together. In another study, Ene-Obong
+et al. observed that in patients with pancreatic ductal adenocarcinoma, poor survival correlated with lower densities of CD8 T
+cells in the stroma adjacent to tumor cells [46]. Activated pancreatic stellate cells (PSC) present in non-adjacent stroma, secreted
+CXCL12 that “sequestered” CD8 T cells away from the tumor, preventing their access to the tumor regions. Consistently, treatment
+of mice bearing fully developed pancreatic tumors with ATRA (alltrans retinoic acid), which renders PSC quiescent, increased CD8
+T cell inﬁltration in juxtatumoral stroma. However, the effect of
+ATRA might be not mediated only by a decreased production of
+CXCL12, since quiescent PSC produce lower levels of other proteins
+that can prevent T cell inﬁltration such as ﬁbronectin [46]. Notably,
+increasing levels of CXCL12 in the tumor itself would not necessarily increase T cell inﬁltration, since too high levels of this chemokine
+can cause repulsion of T cells [47], as further discussed below.
+2.4. Targeting tumor vasculature
+A number of studies focused on the peculiarities of tumor
+vasculature to reverse poor T cell inﬁltration of tumors. Speciﬁc
+expression of certain molecules by tumor endothelial cells (FasL,
+Endothelin B receptor) [16,48] or functional abnormalities causing
+poor perfusion [49], resulted into paucity of CD8 T cells inﬁltrating
+tumor tissue. Administration of low-dose TNF directed to tumor
+vessels caused vascular “normalization” and increased tumor T
+cell inﬁltration in a murine model of pancreatic cancer. Reprogrammed macrophages in treated tumors produced angiopoietin
+2 that sensitized endothelial cells to VCAM induction by low-dose
+TNF, which promoted leukocyte adhesion [50]. Interestingly, vessel normalization by low-dose TNF, but not vascular destruction by
+IFN␥ improved survival. Low-dose TNF also enhanced the efﬁcacy
+of therapeutic vaccination and adoptive T cell transfer.
+Targeting of VEGF/VEGFR pathway in preclinical studies
+resulted in higher CD8 T cell inﬁltration that was associated with
+enhanced effects of cancer cell vaccines [51,52] and adoptive T
+cell therapy [53]. In particular, low doses of anti-VEGF receptor
+2-antibody [52] showed very similar effects to low-dose TNF. The
+immune-promoting effects of VEGF blockade were therefore initially attributed to vessel normalization [52,53]. However, a recent
+study suggests an alternative mechanism involving FasL [48]. VEGF
+and Cyclooxigenase-1 (COX-1) co-expressed in human ovarian cancer, cooperate with IL10 to induce FasL expression speciﬁcally in
+tumor endothelium. Endothelial FasL killed CD8 T cells preferentially compared to Tregs, due to higher expression of c-FLIP in Tregs.
+Pharmacological blockade of VEGF and COX1 with anti-VEGF antibodies and acetylsalicylic acid respectively, limited FasL expression
+
+on endothelium, increasing CD8 T cell inﬁltration and enhancing
+the anti-tumoral effects of adoptive T cell transfer. Therefore, the
+increased T cell inﬁltration found after anti-angiogenesis therapy
+could be due to a reduction of FasL-mediated killing of CD8 T cells.
+A search for molecules differentially expressed by endothelial
+cells from ovarian tumors with or without tumor-inﬁltrating lymphocytes (TILs), revealed endothelial B receptor (ETB R) as another
+key molecule that can be pharmacologically targeted to increase
+T cell inﬂux into tumors [16]. High expression of ETB R associated
+with absence of TILs in ovarian cancer patients. The mechanism
+suggested involved increased NO production resulting in decreased
+expression of ICAM1 by endothelium. In vivo treatment of mice
+with a speciﬁc ETB R-inhibitor peptide, BQ-788, increased T cell
+homing, and synergized with prophylactic and therapeutic vaccination protocols in preclinical models in which the vaccine showed
+no therapeutic beneﬁt by itself.
+
+3. Strategies to overcome suppressive mechanisms in the
+tumor microenvironment
+3.1. Modulation of cytokine and chemokine microenvironment to
+regulate myelomonocytic cell recruitment
+MDSC and tumor-associated macrophages (TAM) recruited or
+differentiated within the tumor by tumor-derived factors inhibit
+the innate and adaptive antitumor immune response and aid
+tumorigenesis by invasion of nearby tissues, stroma remodeling,
+and promotion of cell proliferation, among others. Thus, targeting
+their recruitment or functionality has potential for cancer treatment [54].
+The simplest way to inhibit immune regulatory myelomonocytic cells in cancer is to cut their recruitment to the tumor stroma
+since many of the stromal cells are constantly replenished by blood
+circulating precursors. For example, the vast majority of TAM originates from the monocyte pool, and their recruitment is primarily
+determined by the CCL2-CCR2 axis. Among chemokines, CCL2 represents the natural candidate, and preclinical studies have shown
+that CCL2 blockade can be used also to boost anti-tumor immunity,
+in addition to exert an anti-metastatic activity. In fact, administration of anti-CCL2/CCL12 mAbs combined with a recombinant
+vaccines for different NSCLC mouse models augmented efﬁcacy
+and enhanced and resulted in cure of about half of the mice [55].
+Moreover, the combined treatment increased the number of activated intratumoral CD8+ T cells. Even when used as single agent
+in models of NSCLC, antitumor and anti-metastatic activity of CCL2
+blockade was lost in immunodeﬁcient mice [56]. Interestingly, the
+treatment did not alter the number of TAM but their function, which
+lead to the activation of CD8+ T lymphocytes within the tumor. In
+agreement, with these results, we observed that tumors expressing a strong antigen can be spontaneously rejected in ccl2 gene
+ablated mice [57]. The effect depends, in part, on the creation of
+a tolerogenic environment in the spleen of tumor-bearing hosts.
+In fact, through the CCR2/CCL2 axis the spleen of tumor-bearing
+mice accumulate Ly6Chi monocytic cells in the marginal zone: these
+cells share markers with granulocyte–macrophage progenitors and
+show properties in common with hemopoietic precursors, since
+they can give rise to both mononuclear phagocytes and granulocytes [57]. Interestingly, CCL2 serum levels in cancer patients
+correlate with accumulation of myeloid progenitors and predict
+overall survival of patients who respond to cancer vaccines [57].
+Targeting CCL2/CCR2 axis with a monoclonal antibody (carlumab,
+CNTO 888) showed initial but modest effects as single therapeutic agent in patients with metastatic castration-resistant prostate
+cancer [58,59], paving the way to possible combination strategies
+with immune modulators. However, the sudden discontinuation
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+A. Arina et al. / Seminars in Immunology 28 (2016) 54–63
+
+of the therapy in mice resulted in unwanted and severe rebound
+effects, with an increased mobilization of monocytes from bone
+marrow, overproduction of IL-6 and VEGF-A that caused increased
+metastatic disease and death [60]. An interesting evolution of targeting CCL2/CCR2 axis is based on the delivery of small interference
+RNA targeting CCR2 mRNA to monocytes, by means of optimized
+lipid nanoparticles: repeated treatment with these nanocarriers
+resulted in a reduced accumulation of TAM in two different mouse
+tumor models [61]. In addition to the adverse action on metastases, targeting CCL2 for long time might have secondary effects,
+since the CCL2-CCR2 axis is required for monocyte recruitment in
+infection and normal homeostatic replenishment of the intestinal
+macrophage pool.
+The intra-tumoral production of reactive nitrogen species (RNS),
+such as peroxynitrite, can induce post-translational modiﬁcations
+of chemokines and cytokines by nitration/nitrosylation of speciﬁc
+amino acids, as shown for human and mouse CCL2. As a result of
+these changes, the modiﬁed CCL2 could no longer attract tumorspeciﬁc CD8+ T lymphocytes, but could still recruit myeloid cells
+to the tumor site [62]. This is an additional mechanism contributing to create a cold tumor environment, which can be reversed
+by pharmacological intervention. In fact, in vivo administration
+of a novel drug, the [3-((aminocarbonyl)furoxan-4-yl]methyl salicylate (AT38) that blocks intratumoral RNS production, ablated
+post-translational, RNS-induced modiﬁcation of CCL2, promoted a
+robust T cell inﬁltration within the tumor, and allowed the adoptively transferred, tumor-speciﬁc CD8+ T lymphocytes to reject
+solid tumors [62].
+Another cytokine controlling monocyte recruitment and conversion to macrophages in the inﬂamed tumor environment is
+CSF-1. The pharmacologic inhibitor of CSF-1R signaling, GW2580,
+abrogated tumor recruitment of CD11b+ Gr-1lo Ly6Chi monocytic
+(MO)-MDSC in mice bearing a lung carcinoma model and decreased
+the expression of both proangiogenic and immunosuppressive
+genes [63]. A brain-penetrant tyrosine kinase inhibitor of CSF-1R
+tyrosine kinase activity (BLZ945) blocked tumor progression and
+increased mouse survival in a model of autochthonous, PDGFB-driven glioma [64]. Even though circulating myeloid cells and
+microglia were reduced in mice exposed to BLZ945, tumors had
+similar numbers of TAM, another example suggesting that redundant chemoattractants might be responsible for TAM recruitment.
+In glioma-bearing mice, BLZ945 modiﬁed the M2 polarization of
+TAM, increasing their killing and phagocytic function and blocking glioma cell-macrophage heterotypic signaling. Of translational
+value, gene signatures of mouse TAM reconditioned by BLZ945
+therapy associated with enhanced survival in patients affected
+by proneural glioblastoma multiforme [64]. The clinical relevance
+of blocking CSF-1/CSF-1R signaling was also conﬁrmed in an
+experimental setting in which radiotherapy was followed by an
+increase in CSF-1 expression in immunocompetent mice bearing
+prostate cancer; in this setting, CSF-1R inhibition with GW2580
+and PLX3397 greatly affected myeloid inﬁltration and signiﬁcantly
+delayed tumor regrowth after irradiation [65].
+The role of CSF-1R in promoting the immunosuppressive
+tumor microenvironment was conﬁrmed by recent clinical studies. Patients with locally advanced tenosynovial giant cell tumor
+(PVNS), not amenable to surgical treatment were treated with
+RG71555, a human monoclonal antibody that inhibits the dimerization of CSF-1R. Patients showed clinical responses associated with
+profound reduction of CSF-1R+ and CD163+ macrophages in tumor
+tissues accompanied by an increase in CD8+ T cells, which reproduced results in transplantable tumor models characterized by
+robust TAM inﬁltration [66]. Adverse effects were modest (mostly
+periorbital edema) but a fast and persistent depletion of human
+CD14+ CD16+ but not CD14+ CD16− monocytes was observed [66].
+To conﬁrm the systemic effects on normal macrophages, the
+
+57
+
+RG7155 mAb reduced CSF-1R+ and CD68+ CD163+ macrophages in
+the liver and colon of cynomologus monkeys, whereas alveolar
+macrophages in the lung were marginally affected [66]. Another
+monoclonal antibody against CSF-1R (IMC-CS4) is undergoing a
+phase I clinical trial (NCT01346358) to assess safety and pharmacokinetic proﬁle in patients with advanced solid tumors, either
+refractory to standard therapy or for whom no standard therapy is
+available. Moreover, PLX-3397, a small inhibitor of CSF-1R is tested
+in ongoing phase I/II clinical trials both in solid and hematological
+tumors.
+3.2. Reversing the enzymatic inhibition of T cell activation.
+The myelo-monocyte compartment conditioned by developing
+cancers can alter the functionality of tumor-speciﬁc CD8+ T lymphocytes also by imposing metabolic restraints. Many enzymes
+with immune regulatory activity are up-regulated, either in tumor
+environment or draining lymph nodes, such as arginase 1, inducible
+nitric oxide synthase and IDO, along with an increased production of nitric oxide and reactive oxygen and nitrogen species
+[54]. Among these enzymes, targeting IDO for therapeutic interventions is advancing more rapidly to the clinic. This enzyme
+catabolizes l-tryptophan and can be constitutively expressed in
+the tumor cells or upregulated in myeloid cells in response to
+local inﬂammatory signals, including the IFN-␥ produced by tumorinﬂiltrating T lymphocytes [67]. This counter-regulatory response,
+which normally intervenes in the host to control tissue homeostasis during acute T lymphocyte activation, can become detrimental
+for the anti-tumor activity of effector T lymphocytes. Thus, combination of IDO-inhibitor drugs with emerging immunotherapeutic
+approaches may be synergistic, as indicated by preclinical studies
+of combination therapies with anti-CTLA-4, anti-PD-1 or adoptively
+transferred T cells [68–71].
+3.3. Targeting cancer associated ﬁbroblasts
+Cancer associate ﬁbroblast (CAF) can contribute to impede diffusion of soluble molecules and trafﬁcking of immune cells to the
+tumor in virtue of their ability to produce components of the extracellular matrix. However, CAF expressing the ﬁbroblast activation
+protein-a (FAP) on their membrane can release the chemochine
+CXCL12, which can contribute in T cell exclusion from tumor environment (see Section 2.3). It has been advanced that, once released
+in the environment, CXCL12 can coat cancer cells, masking them
+from the immune attack through a not yet identiﬁed mechanism
+[72]. CAF can be deleted by conditional knockout in mice bearing
+an autochthonous pancreatic cancer and this synergizes with antiPD-L1 treatment in releasing the antitumor activity of pre-existing
+T cells [72]. Since widespread depletion of FAP+ stromal cells might
+have catastrophic consequences due to their function in regulating
+tissue architecture homeostasis [73], CAF must be targeted by alternative approaches, such as their reprogramming by administration
+of a vitamin D analog [74] or interfering with CXCL12 chemokine.
+The latter treatment opened the environment of pancreatic cancer,
+allowing the accumulation of T cells and tumor growth control in
+association with anti-PD-L1 [72].
+3.4. Enhancing innate immune recognition of tumors by using
+STING agonists
+Engagement of type I IFN receptor 1 (IFNAR1), recognizing both
+IFN-␣ and -␤, in tumor-inﬁltrating CD8␣+ /CD103+ DC is required
+for a full cross-presentation of tumor antigens and activation of
+tumor-speciﬁc CD8+ T cells, both in primary tumors and after radiation therapy [75–78]. It is likely that the tumor antigens involved in
+a successful cross-presentation and activation of therapeutic CD8+
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+58
+
+A. Arina et al. / Seminars in Immunology 28 (2016) 54–63
+
+T cell response are generated by passenger non-synonymous mutations in cancer genes [79]. Type I IFN production by DC requires the
+sensing of tumor-cell derived DNA in the cytosolic DC compartment through the STING-mediated pathway. In brief, cytoplasm
+detection of DNA by cGAMP synthase generates canonical 2 to 5
+cyclic GMP-AMP, which binds to STING and promotes the recruitment and phosphorylation of TANK-binding kinase 1 and interferon
+regulatory factor 3 (IRF3). IRF3 translocate to the nucleus where it
+controls transcriptional programs leading to type I IFN production,
+this cytokine acts in autocrine and paracrine fashion by binding to
+receptors on tumor-associated DC [75–78].
+Recent evidence indicates that STING pathway can be exploited
+for enhancing intra-tumoral immunity. First, interference with
+CTLA-4 and PD-1 rheostats is therapeutically ineffective in mice
+lacking STING, suggesting that STING might be an essential downstream hub for checkpoint blockade therapies [76]. Moreover, the
+STING activator cGAMP was unsuccessful alone but synergized
+with radiation to decrease tumor burden and increase survival in
+wild type but not STING-deﬁcient mice, which suggest that cGAMP
+might be used as novel drug to decrease tumor resistance to radiation [78]. Last, intra-tumoral injection of non-canonical cyclic
+dinucleotides, appropriately designed to activate human in addition to mouse STING, demonstrated therapeutic effects in multiple
+mouse tumor models, including melanomas, breast, and colon cancers; mice that regressed tumors developed a long lasting memory
+CD8+ T cell response and rejected a second tumor challenge [80].
+3.5. Promotion of anti-tumor immunity by manipulation of gut
+microbiota
+Myeloid cell distribution and function within the tumor
+microenvironment is partly inﬂuenced by the gut microbiota, to
+the extent that chemotherapy and active immunotherapy can be
+severely impaired in microbiota-depleted mice [81]. In particular,
+gut microbiota seems to release unidentiﬁed signals that maintain a functional tone in myelomonocytic cells and allow them to
+respond with diversiﬁed cancer killing programs to either platinum
+therapy or the immune stimulatory combination of intra-tumoral
+injection of mAbs blocking IL-10R and the TLR9 agonist CpGoligonucleotides [81]. A multifaceted relationship also connects
+microbiota and checkpoint blockade therapy. Either antibiotictreated or germ-free mice bearing transplantable melanomas did
+not respond to anti-CTLA4 therapy unless distinct Bacteroides
+species were introduced back in the gut. T cell responses speciﬁc for
+B. thetaiotaomicron or B. fragilis associated with the efﬁcacy of CTLA4 blockade in both mice and patients. The therapeutic response to
+checkpoint therapy was related to anti-CTLA4-induced subclinical
+colitis, which caused bacterial colonization of the mucosal layer,
+induction of Th1 immune responses in the tumor draining lymph
+nodes and maturation of intratumoral DC [82]. Another commensal, Biﬁdobacterium was responsible for the resistance of mouse
+strains housed in different mouse facilities, and oral administration of this bacterial species was sufﬁcient to improve melanoma
+tumor control and synergize with anti-PD-L1 therapy. Analogously
+to the previous case, the increased DC functionality at the tumor
+site and the consequent enhancement of CD8+ T cell priming and
+accumulation in the tumor microenvironment were found to be
+responsible for the microbiota-driven help [83].
+4. Conventional therapies as immunostimulants
+The rising of immunotherapy has also directed investigators
+to study the interactions of conventional therapies, i.e. radio and
+chemotherapy, with the immune system. In the case of radiation, it is increasingly clear that the immune function of the
+
+host will determine the extent of therapeutic response [84–86].
+Recent preclinical work has focused on high-dose “ablative” radiation, uncovering a role for STING-mediated [78] activation of class
+I-interferon production by the immune system [87] in the immunestimulating effects of radiation. These ﬁndings lay out the rationale
+for combination therapies, such as checkpoint inhibition or ACT
+plus radiotherapy. Similarly, cumulative evidence indicates that
+the efﬁcacy of chemotherapy relies at least partially in the immune
+system, either by promoting the recognition of cancer cells, or by
+eliminating suppressive mechanisms [88].
+4.1. Radiotherapy
+Local treatment of tumors with ionizing radiation (IR) acts at
+several levels to promote both T cell inﬁltration and function.
+Single doses of radiation increased in several animal models the
+expression of adhesion molecules in endothelium, in particular
+VCAM-1 [89–91], whereas ICAM-1 and E-selectin were upregulated in patients receiving conventional fractionated radiotherapy
+[92]. Low doses (2 Gy) of local IR were sufﬁcient to induce this
+response [91]. IR can also induce vascular normalization [93], in
+particular when used in combination with adoptive T cell therapy [91,93]. Furthermore, IR can induce the expression of T cell
+attractive chemokines such as CXCL9, CXCL10, CXCL16 and CCL5 in
+the tumor microenvironment [90,91,93,94]. All these mechanisms
+result in an increased inﬂux of endogenous T cells at day 5–14 post
+IR [91,94–97], whereas the recruitment of adoptively transferred T
+cells can occur even at day 1–3 post-IR [89,94]. A possible explanation for this delay in the increase of endogenous when compared
+to adoptively transferred T cells, might be a higher dependence on
+the activation/reprogramming of innate immune cells, such as DC
+[87,95] and TAM [91], which takes place quite rapidly after IR (day
+1–3) [87,91,95].
+Besides increasing tumor inﬁltration by T cells, radiation can
+also activate the immune function. The mechanisms described
+by which radiation can favor immune recognition of cancer cells
+include: increased MHC expression [89,98,99], increased antigen
+expression [100,101], up-regulation of Fas [102] and calreticulin
+[103] on cancer cells. Furthermore, radiation can induce stromal
+“loading” and subsequent recognition by T cells in tumors expressing strong antigens [87,104]. Since most of the studies have used
+high-dose hypofractionated radiation, it is not clear at this point
+whether conventional fractionated radiation is equally immunestimulatory. One of the few studies analyzing this question showed
+that local low-dose gamma irradiation can alter myelomonocytic
+cells in the tumor environment. In a mouse model of pancreatic cancer, low dose irradiation “reprogrammed” TAM toward
+an M1-like phenotype characterized by enhanced secretion of
+pro-inﬂammatory cytokines like IL-12 and nitric oxide output;
+reconditioned macrophages supported anti-tumor Th1 responses,
+endothelial activation and CTL recruitment to tumors [91].
+With this background, a synergistic effect could be expected
+from the combination of radiation with checkpoint inhibitors. For
+the anti-CTLA4/radiation combination, a prominent effect in systemic disease was observed in preclinical models of metastatic
+breast cancer [105]. In the ﬁrst thorough analysis of the combination between radiotherapy and checkpoint blockade in patients
+with metastatic melanoma [106], regression of lesions occurred
+in a number of patients receiving anti-CTLA4 and hypofractionated stereotactic radiation but the majority of them did not beneﬁt
+from the therapy. Analyzing mice bearing tumors, the adjuvant
+activity of local radiation on overall antitumor response related to
+the broadened diversity of the TCR repertoire of intra-tumoral as
+well as splenic and circulating T cells. Resistance was attributed
+to upregulation of PD-L1 on melanoma cells and consequent T
+cell exhaustion [106]. Radiation can increase the expression of
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+A. Arina et al. / Seminars in Immunology 28 (2016) 54–63
+
+PDL-1 in the tumor microenvironment [107], therefore the blockade of the PD-L1/PD-1 pathway might be necessary for optimal local
+and systemic effects of checkpoint inhibitor/radiation combinatorial therapies, as suggested by preclinical studies [106–108].
+IR is also used systemically (total body irradiation, TBI) as
+preconditioning regime for adoptive T cell transfer, sometimes
+in conjunction with chemotherapy [109]. TBI works through
+mechanisms still incompletely understood, although increased
+availability of T cell homeostatic cytokines resulting in homeostatic
+expansion [110,111], decreased numbers of regulatory T cells [111],
+and systemic innate immunity stimulation through TLR activation
+[112], have been suggested. In mice, higher doses of preconditioning TBI before adoptive transfer correlated with better anti-tumoral
+effects [113]. In patients, adding 12 Gy TBI to chemotherapy as
+preconditioning regime increased the levels of pro-T cell survival
+cytokines IL-7 and IL-15, and resulted in high response rates [114].
+The mechanisms discussed above regarding local radiation could
+also contribute to a higher inﬁltration of tumors by adoptively
+transferred T cells after TBI, because the tumor is also irradiated.
+The effects of TBI are long lasting, since they can still result in higher
+inﬁltration when T cell transfer is delayed 3 weeks since TBI [93].
+4.2. Chemotherapy
+The antitumor activity of chemotherapy can rely on several
+off-target, beneﬁcial effects directed toward the host innate and
+adaptive immune system, which cooperate for successful tumor
+eradication [115] by inﬂuencing both tumor immunogenicity and
+tumor-induced suppression. Cancer cells dying after being exposed
+to particular antineoplastic agents, such as anthracyclines and
+oxaliplatin, either present on their surface or release extracellularly damage-associated molecular pattern molecules, including
+calreticulin, ATP, and high mobility group box 1 protein, which in
+turn can heighten the functions of DC [116]. The molecular mechanisms underlying this “immunogenic cell death” are different but
+translate into enhanced phagocytosis and antigen presentation by
+DC, DC maturation, activation of NLRP3-inﬂammasome-dependent
+release of IL-1␤ and TLR4- and Myd88-dependent inﬂammatory
+response, all contributing to various extent to enhance the priming
+of anti-tumor T lymphocytes [116]. The activity of anthracyclines
+on intratumoral DC can further extend to the point of guiding them
+toward dying cancer cells, allowing the expression of formyl peptide receptor 1 (FPR1) and its tight association with the ligand
+annexin 1. The genetic inactivation of Fpr1 impaired DC spatial
+distribution in cancer, as well the ability to present antigens from
+dying cells and prime T cell responses toward tumor antigen [117].
+In clinical support of these ﬁndings, a loss-of-function allele of the
+gene coding for formyl peptide receptor 1 (FPR1) associated with
+poor metastasis-free and overall survival in breast and colorectal
+cancer patients undergoing adjuvant chemotherapy [117].
+Anthracyclines can also induce in cancer cells a TLR3-dependent
+recognition of endogenous RNA leading to the autocrine release of
+type I IFN and downstream production of the chemokine CxCL10
+[118]. Thus, both autocrine and paracrine activity of IFN underlie
+the in vivo efﬁcacy of chemotherapy on the adaptive immunity.
+Chemotherapy can exert negative effect on the tumor environment by increasing the macrophage-assisted chemoresistance
+of cancer cells (reviewed in [119]). However, depending on the
+tumor and likely the stage of the disease, chemo and radiotherapy can reshape the stromal components by acting locally but
+also in tumor distant sites. Conventional chemotherapeutic agents,
+such as gemcitabine [120–122] and 5-ﬂuouracil (5-FU) [123], can
+be extremely cytotoxic for MDSC; in particular, M-MDSC are particularly susceptible to low doses of these therapeutic agents,
+doses with limited or no impact on cancer cells, but able to cause
+a long-lasting depletion of the splenic M-MDSC pool [57]. The
+
+59
+
+elimination of M-MDSC relieved tumor-dependent immunosuppression and unmasked the therapeutic activity of otherwise
+ineffective, adoptively transferred, tumor-speciﬁc T cells [57].
+This selectivity can be further explored to improve ACT. We
+recently found that lipid nanocapsules (LNCs) loaded with a
+modiﬁed liposoluble form of gemcitabine targeted the immunosuppressive M-MDSC subset. Subcutaneous administration of
+gemcitabine-loaded LNCs reduced the percentage of spleen and
+tumor-inﬁltrating M-MDSC in lymphoma and melanoma-bearing
+mice, with enhanced efﬁcacy when compared to free gemcitabine;
+thus relieving tumor-associated immunosuppression. Very low
+dose administration of gemcitabine-loaded LNCs increased the efﬁcacy of adoptive T cell therapy in tumor-bearing mice (Sasso et al.,
+unpublished observations).
+The effect of chemotherapy on myelomonocytic cells can also
+heighten negative regulation of anti-tumor response, in part by
+hyper-activation of the innate immunity pathways. Gemcitabine
+and 5-FU, in fact, can trigger the inﬂammasome complex in
+MDSC through the intracellular lysosomal permeabilization and the
+release of cathepsin B. The resulting IL-1␤ production promoted the
+secretion of IL-17 by CD4+ T cells, which had a negative impact on
+the overall anticancer efﬁcacy of the combined chemotherapy regimen. Interestingly, anakinra, an IL-1 receptor antagonist approved
+for the treatment of rheumatoid arthritis, could restore the therapeutic window by interfering with the effect of IL-1␤ released from
+MDSC [124].
+The selective depletion of monocytes in blood and lymphoid organs, including splenic immunosuppressive M-MDSC, was
+recently shown for trabectedin, a drug approved in Europe (by
+the EMEA) for the treatment of sarcomas and ovarian carcinomas, which also reduced TAM inﬁltration in multiple mouse cancer
+models [125]. Interestingly, trabectedin selectively triggered cell
+apoptosis in monocytes, but not in granulocytes and lymphocytes
+[125]. The increased susceptibility to trabectedin of both human
+and mouse monocytes was found to depend on the higher expression of TRAIL death receptors in these cells, which mediated the
+cleavage of caspase-8 and the activation of the extrinsic apoptotic pathway [125]. The importance of apoptosis regulation in
+MDSC biology is highlighted by recent ﬁndings. The development
+of M-MDSC and polymorphonuclear (PMN)-MDSC subsets, in fact,
+requires the continuous inhibition of different apoptotic pathways,
+notably the caspase-8 dependent extrinsic pathway in M-MDSC,
+and the mitochondrial intrinsic pathway in PMN-MDSC [126].
+Despite the promising results of checkpoint blockade combination therapy, many patients with melanoma are refractory and
+this percentage increases when other neoplasms are considered.
+Interestingly, preclinical data support a rationale for combining
+anti-PD-1 and anti-CTLA4 treatment with epigenetic-modulating
+drugs, such as inhibitors of either DNA methyltransferase or histone
+deacetylase. This protocol was able to cure the majority of mice
+bearing large transplantable tumors of poorly immunogenic and
+metastatic colon and mammary carcinomas, by mainly affecting
+the number of tumor-inﬁltrating and splenic PMN-MDSC. Further
+investigation about the molecular target of the epigenetic regulation pointed to phosphatidylinositide 3-kinases: highly active
+inhibitors mimicked the effect on PMN-MDSC without affecting
+CD8+ T cell activity [127].
+These data also reinforce the concept that cancers resistant
+to immune checkpoint blockade can beneﬁt from MDSC elimination. Cisplatin preconditioning changed the percentages of
+myeloid cells by increasing DC and eliminating MDSC and enhanced
+cytokine-induced killer cell responses in melanoma-bearing mice
+[128]. Paclitaxel, an agent inhibiting microtubules disassembly,
+enforces MDSC differentiation to DC [129], whereas docetaxel, a
+drug with similar action, selectively kills M2 macrophages and
+polarizes MDSC toward an M1-like phenotype possibly through
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+60
+
+A. Arina et al. / Seminars in Immunology 28 (2016) 54–63
+
+Fig. 1. Different tumor environments require distinct approaches to improve cancer immunotherapy by T lymphocytes. From left to right, three main tumor environments
+can be envisioned based on current evidence. Left panel: in some tumors, T cells are absent and vascularization is compromised, restricting the arrival and survival of incoming
+T lymphocytes; approaches triggering a local activation and recruitment of APCs might be necessary to overcome these limitations to T cell therapy. Middle panel: deranged
+vascularization might allow a limited inﬁltration of tumor-speciﬁc T cells, but treatments are necessary to promote additional and protracted inﬂux of effectors. Right panel:
+in other tumors, vascularization is not the limiting factor, T cells can reach the environment but they are subject to a negative inﬂuence of tumor-induced inhibitory pathways.
+These represent diagrammatic and summarizing scenarios, which might coexists under some circumstances. In the future, a full characterization of the immune proﬁle of
+the patient’s tumor might help identifying the prevalent landscape(s). Abbreviations are indicated in the main text.
+
+interference with STAT3 signaling [130]. Cyclophosphamide (CTX)
+seems to induce complex and sometimes conﬂicting effects on
+MDSC. In preclinical model of colon cancer the metronomic CTX
+administration in combination with gemcitabine mitigated Tregand PMN-MDSC-mediated immunosuppression, increased intratumoral IFN-␥ production and triggered anti-tumor immunity in
+vivo [131]. In clinical studies, however, CTX in combination with
+doxorubicin increased the number of circulating, immature MDSC
+(Lin−/Lo , HLA DR− , CD33+ CD11b+ ) in newly diagnosed solid tumor
+patients [132]. However, it should be considered that in this study
+the patients were also receiving G-CSF, which might affect the systemic accumulation of myeloid cells independently from tumor
+[132].
+Clinical data suggest that the activity of novel targeted therapies might also affect myelomonocytic cells in cancer patients.
+For example sunitinib, a multi-kinase inhibitor acting on multiple
+pathways, including VEGFR and c-kit signaling, induced a strong
+reduction in CD33+ /HLA-DR− M-MDSC in renal cell cancer (RCC)
+patients, even if no correlation between MDSC levels and tumor
+burden was observed [133]. One cycle of bevacizumab, a monoclonal antibody directed against VEGF-A, was sufﬁcient to decrease
+immature myeloid cells (CD45+ lin− HLA-DR− ) and increase DC frequency in the blood of lung, breast and colorectal cancer patients
+[134]. However, in RCC patients, bevacizumab alone had no effect
+on MDSC levels, whereas an increase in circulating MDSC was
+observed after addition of IL-2 to bevacizumab regimen; this
+discrepancy could be attributed to tumor burden, an important
+variable, since RCC patients usually receive anti-VEGF therapy for
+advanced tumors, normally associated with higher MDSC levels
+[135]. The treatment of melanoma patients with vemurafenib, a
+highly speciﬁc inhibitor of mutant B-RAF V600E, which constitutively activate the MAP kinase pathway and it is detected in about
+60% of cutaneous melanomas, reduced the frequency of both CD14+
+HLA-DR− MDSC and CD14− CD66b+ ARG-1+ MDSC [136].
+
+In considering the interplay between chemotherapy and CD8+ T
+cells, however, it must be pointed out that the combination of either
+immune stimulators (vaccines, checkpoint inhibitors) or adoptive
+cell transfer of effector T cells with chemotherapeutic agent has the
+potential to affect negatively T lymphocyte expansion. A personalized peptide vaccine boosted immunological cellular and humoral
+responses in unresectable pancreatic cancer patients and gemcitabine did not affect the immune reactivity [137]. However, while
+resting T cells are spared by administration of a low dose gemcitabine regimen sufﬁcient to alter systemically the MDSC numbers
+and functions, antigen-activated T cells can be killed in vivo by this
+treatment following their adoptive transfer (Sasso et al., unpublished observations), notably narrowing the therapeutic window.
+Therefore, the type of drug, dose and schedule must be carefully tested in clinical trials exploring the adjuvant activity of
+chemotherapy on ACT.
+5. Concluding remarks
+The outcome of T cell therapy is determined by the quality of
+the T cells and the immunosuppressive characteristics of the particular tumor microenvironment. Here we reviewed emerging and
+conventional therapeutic strategies aimed at changing the tumor
+microenvironment into a more favorable environment for T cell
+inﬁltration and function (Fig. 1), to be used in conjunction with
+ACT or checkpoint inhibitors. One obvious issue is the hierarchy
+and the rationale for combining different treatments and moving them forward to clinical translation. Biomarkers are urgently
+needed to guide this process. As we move deeper toward personalized medicine and better molecular proﬁling and classiﬁcation of
+cancers, we should also make efforts to characterize the immune
+context of tumor microenvironment. We need to deﬁne which are
+the prevailing mechanisms restraining T cell effectiveness in different subgroups of patients. Tumors with different histology might
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+A. Arina et al. / Seminars in Immunology 28 (2016) 54–63
+
+share immune regulatory pathways, i.e. different mutations and
+epigenetic modiﬁcations might shape the surrounding stroma in
+converging ways. If this were the case, cancers from patients could
+be classiﬁed according to their immune escape proﬁle and thus be
+treated with the most appropriate therapeutic approaches.
+
+[23]
+
+[24]
+
+Acknowledgments
+
+[25]
+
+This work was supported by grants from the Italian Ministry of
+Health; Italian Ministry of Education (FIRB cup: B31J11000420001),
+Universities, and Research; Italian Association for Cancer Research
+(AIRC, grants 6599, 12182 and 14103) to V.B, as well as the Ludwig
+Foundation (A.A.). L.C. is supported by a Cancer Research Institute
+Irvingtonpostdoctoral fellowship.
+
+[26]
+
+[27]
+
+[28]
+[29]
+
+References
+[30]
+[1] J.R. Brahmer, C.G. Drake, I. Wollner, J.D. Powderly, J. Picus, W.H. Sharfman,
+et al., Phase I study of single-agent anti-programmed death-1 (MDX-1106)
+in refractory solid tumors: safety, clinical activity, pharmacodynamics, and
+immunologic correlates, J. Clin. Oncol. 28 (2010) 3167–3175.
+[2] J.R. Brahmer, S.S. Tykodi, L.Q. Chow, W.J. Hwu, S.L. Topalian, P. Hwu, et al.,
+Safety and activity of anti-PD-L1 antibody in patients with advanced cancer,
+N. Engl. J. Med. 366 (2012) 2455–2465.
+[3] O. Hamid, C. Robert, A. Daud, F.S. Hodi, W.J. Hwu, R. Kefford, et al., Safety and
+tumor responses with lambrolizumab (anti-PD-1) in melanoma, N. Engl. J.
+Med. 369 (2013) 134–144.
+[4] S.L. Topalian, F.S. Hodi, J.R. Brahmer, S.N. Gettinger, D.C. Smith, D.F. McDermott, et al., Safety, activity, and immune correlates of anti-PD-1 antibody in
+cancer, N. Engl. J. Med. 366 (2012) 2443–2454.
+[5] M. Kalos, C.H. June, Adoptive T cell transfer for cancer immunotherapy in the
+era of synthetic biology, Immunity 39 (2013) 49–60.
+[6] C. Yee, The use of endogenous T cells for adoptive transfer, Immunol. Rev. 257
+(2014) 250–263.
+[7] S.A. Feldman, Y. Assadipour, I. Kriley, S.L. Goff, S.A. Rosenberg, Adoptive cell
+therapy – tumor-inﬁltrating lymphocytes, T-cell receptors, and chimeric antigen receptors, Semin. Oncol. 42 (2015) 626–639.
+[8] M. Sadelain, CAR therapy: the CD19 paradigm, J. Clin. Invest. 125 (2015)
+3392–3400.
+[9] A. Arina, V. Bronte, Myeloid-derived suppressor cell impact on endogenous
+and adoptively transferred T cells, Curr. Opin. Immunol. 33 (2015) 120–125.
+[10] T.F. Gajewski, The next hurdle in cancer immunotherapy: overcoming the
+non-T-cell-inﬂamed tumor microenvironment, Semin. Oncol. 42 (2015)
+663–671.
+[11] D.H. Munn, V. Bronte, Immune suppressive mechanisms in the tumor
+microenvironment, Curr. Opin. Immunol. 39 (2015) 1–6.
+[12] A. Cipponi, G. Wieers, N. van Baren, P.G. Coulie, Tumor-inﬁltrating lymphocytes: apparently good for melanoma patients, but why? Cancer Immunol.
+Immunother. 60 (2011) 1153–1160.
+[13] J. Galon, A. Costes, F. Sanchez-Cabo, A. Kirilovsky, B. Mlecnik, C. Lagorce-Pages,
+et al., Type, density, and location of immune cells within human colorectal
+tumors predict clinical outcome, Science 313 (2006) 1960–1964.
+[14] E. Sato, S.H. Olson, J. Ahn, B. Bundy, H. Nishikawa, F. Qian, et al., Intraepithelial
+CD8+ tumor-inﬁltrating lymphocytes and a high CD8+/regulatory T cell ratio
+are associated with favorable prognosis in ovarian cancer, Proc. Natl. Acad.
+Sci. U.S.A. 102 (2005) 18538–18543.
+[15] R.R. Ji, S.D. Chasalow, L. Wang, O. Hamid, H. Schmidt, J. Cogswell, et al., An
+immune-active tumor microenvironment favors clinical response to ipilimumab, Cancer Immunol. Immunother. 61 (2012) 1019–1031.
+[16] R.J. Buckanovich, A. Facciabene, S. Kim, F. Benencia, D. Sasaroli, K. Balint, et al.,
+Endothelin B receptor mediates the endothelial barrier to T cell homing to
+tumors and disables immune therapy, Nat. Med. 14 (2008) 28–36.
+[17] S. Spranger, R. Bao, T.F. Gajewski, Melanoma-intrinsic beta-catenin signalling
+prevents anti-tumour immunity, Nature 523 (2015) 231–235.
+[18] R.R. Huang, J. Jalil, J.S. Economou, B. Chmielowski, R.C. Koya, S. Mok, et al.,
+CTLA4 blockade induces frequent tumor inﬁltration by activated lymphocytes regardless of clinical responses in humans, Clin. Cancer Res. 17 (2011)
+4101–4109.
+[19] P.C. Tumeh, C.L. Harview, J.H. Yearley, I.P. Shintaku, E.J. Taylor, L. Robert, et al.,
+PD-1 blockade induces responses by inhibiting adaptive immune resistance,
+Nature 515 (2014) 568–571.
+[20] M.A. Curran, W. Montalvo, H. Yagita, J.P. Allison, PD-1 and CTLA-4 combination
+blockade expands inﬁltrating T cells and reduces regulatory T and myeloid
+cells within B16 melanoma tumors, Proc. Natl. Acad. Sci. U.S.A. 107 (2010)
+4275–4280.
+[21] J. Larkin, V. Chiarion-Sileni, R. Gonzalez, J.J. Grob, C.L. Cowey, C.D. Lao,
+et al., Combined nivolumab and ipilimumab or monotherapy in untreated
+melanoma, N. Engl. J. Med. 373 (2015) 23–34.
+[22] M.M. Berrien-Elliott, S.R. Jackson, J.M. Meyer, C.J. Rouskey, T.L. Nguyen, H.
+Yagita, et al., Durable adoptive immunotherapy for leukemia produced by
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+61
+
+manipulation of multiple regulatory pathways of CD8+ T-cell tolerance, Cancer Res. 73 (2013) 605–616.
+S.J. Blake, A.L. Ching, T.J. Kenna, R. Galea, J. Large, H. Yagita, et al., Blockade of PD-1/PD-L1 promotes adoptive T-cell immunotherapy in a tolerogenic
+environment, PLOS ONE 10 (2015) e0119483.
+L.B. John, C. Devaud, C.P. Duong, C.S. Yong, P.A. Beavis, N.M. Haynes, et al.,
+Anti-PD-1 antibody therapy potently enhances the eradication of established
+tumors by gene-modiﬁed T cells, Clin. Cancer Res. 19 (2013) 5636–5646.
+D.A. Mahvi, J.V. Meyers, A.J. Tatar, A. Contreras, M. Suresh, G.E. Leverson, et al.,
+Ctla-4 blockade plus adoptive T-cell transfer promotes optimal melanoma
+immunity in mice, J. Immunother. 38 (2015) 54–61.
+E.K. Moon, R. Ranganathan, E. Eruslanov, S. Kim, K. Newick, S. O’Brien, et al.,
+Blockade of programmed death 1 augments the ability of human T cells engineered to target NY-ESO-1 to control tumor growth after adoptive transfer,
+Clin. Cancer Res. 22 (2016) 436–447.
+W. Peng, C. Liu, C. Xu, Y. Lou, J. Chen, Y. Yang, et al., PD-1 blockade enhances
+T-cell migration to tumors by elevating IFN-gamma inducible chemokines,
+Cancer Res. 72 (2012) 5209–5218.
+P. Sharma, J.P. Allison, The future of immune checkpoint therapy, Science 348
+(2015) 56–61.
+L. Chen, X. Han, Anti-PD-1/PD-L1 therapy of human cancer: past, present, and
+future, J. Clin. Invest. 125 (2015) 3384–3391.
+M.C. Dieu-Nosjean, J. Goc, N.A. Giraldo, C. Sautes-Fridman, W.H. Fridman, Tertiary lymphoid structures in cancer and beyond, Trends Immunol. 35 (2014)
+571–580.
+D. Coppola, M. Nebozhyn, F. Khalil, H. Dai, T. Yeatman, A. Loboda, et al., Unique
+ectopic lymph node-like structures present in human primary colorectal carcinoma are identiﬁed by immune gene array proﬁling, Am. J. Pathol. 179
+(2011) 37–45.
+L. de Chaisemartin, J. Goc, D. Damotte, P. Validire, P. Magdeleinat, M. Alifano,
+et al., Characterization of chemokines and adhesion molecules associated
+with T cell presence in tertiary lymphoid structures in human lung cancer,
+Cancer Res. 71 (2011) 6391–6399.
+M.C. Dieu-Nosjean, M. Antoine, C. Danel, D. Heudes, M. Wislez, V. Poulot,
+et al., Long-term survival for patients with non-small-cell lung cancer with intratumoral lymphoid structures, J. Clin. Oncol. 26 (2008)
+4410–4417.
+L. Maldonado, J.E. Teague, M.P. Morrow, I. Jotova, T.C. Wu, C. Wang, et al., Intramuscular therapeutic vaccination targeting HPV16 induces T cell responses
+that localize in mucosal lesions, Sci. Transl. Med. 6 (2014) 221ra213.
+J. Goc, C. Germain, T.K. Vo-Bourgais, A. Lupo, C. Klein, S. Knockaert, et al.,
+Dendritic cells in tumor-associated tertiary lymphoid structures signal a Th1
+cytotoxic immune contexture and license the positive prognostic value of
+inﬁltrating CD8+ T cells, Cancer Res. 74 (2014) 705–715.
+E.R. Lutz, A.A. Wu, E. Bigelow, R. Sharma, G. Mo, K. Soares, et al., Immunotherapy converts nonimmunogenic pancreatic tumors into immunogenic foci of
+immune regulation, Cancer Immunol. Res. 2 (2014) 616–631.
+J.D. Shields, I.C. Kourtis, A.A. Tomei, J.M. Roberts, M.A. Swartz, Induction
+of lymphoidlike stroma and immune escape by tumors that express the
+chemokine CCL21, Science 328 (2010) 749–752.
+C. Gu-Trantien, S. Loi, S. Garaud, C. Equeter, M. Libin, A. de Wind, et al., CD4(+)
+follicular helper T cell inﬁltration predicts breast cancer survival, J. Clin. Invest.
+123 (2013) 2873–2892.
+Y. Wang, M. Zhu, M. Miller, Y.X. Fu, Immunoregulation by tumor
+necrosis factor superfamily member LIGHT, Immunol. Rev. 229 (2009)
+232–243.
+Y. Iwai, M. Ishida, Y. Tanaka, T. Okazaki, T. Honjo, N. Minato, Involvement
+of PD-L1 on tumor cells in the escape from host immune system and tumor
+immunotherapy by PD-L1 blockade, Proc. Natl. Acad. Sci. U.S.A. 99 (2002)
+12293–12297.
+P. Yu, Y. Lee, W. Liu, R.K. Chin, J. Wang, Y. Wang, et al., Priming of naive T
+cells inside tumors leads to eradication of established tumors, Nat. Immunol.
+5 (2004) 141–149.
+P. Yu, Y. Lee, Y. Wang, X. Liu, S. Auh, T.F. Gajewski, et al., Targeting the primary tumor to generate CTL for the effective eradication of spontaneous
+metastases, J. Immunol. 179 (2007) 1960–1968.
+J. Kim, W.A. Li, Y. Choi, S.A. Lewin, C.S. Verbeke, G. Dranoff, et al., Injectable,
+spontaneously assembling, inorganic scaffolds modulate immune cells in vivo
+and increase vaccine efﬁcacy, Nat. Biotechnol. 33 (2015) 64–72.
+S.B. Stephan, A.M. Taber, I. Jileaeva, E.P. Pegues, C.L. Sentman, M.T. Stephan,
+Biopolymer implants enhance the efﬁcacy of adoptive T-cell therapy, Nat.
+Biotechnol. 33 (2015) 97–101.
+R. Barreira da Silva, M.E. Laird, N. Yatim, L. Fiette, M.A. Ingersoll, M.L. Albert,
+Dipeptidylpeptidase 4 inhibition enhances lymphocyte trafﬁcking, improving both naturally occurring tumor immunity and immunotherapy, Nat.
+Immunol. 16 (2015) 850–858.
+A. Ene-Obong, A.J. Clear, J. Watt, J. Wang, R. Fatah, J.C. Riches, et al., Activated
+pancreatic stellate cells sequester CD8+ T cells to reduce their inﬁltration of
+the juxtatumoral compartment of pancreatic ductal adenocarcinoma, Gastroenterology 145 (2013) 1121–1132.
+M.C. Poznansky, I.T. Olszak, R. Foxall, R.H. Evans, A.D. Luster, D.T. Scadden,
+Active movement of T cells away from a chemokine, Nat. Med. 6 (2000)
+543–548.
+G.T. Motz, S.P. Santoro, L.P. Wang, T. Garrabrant, R.R. Lastra, I.S. Hagemann,
+et al., Tumor endothelium FasL establishes a selective immune barrier promoting tolerance in tumors, Nat. Med. 20 (2014) 607–615.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+62
+
+A. Arina et al. / Seminars in Immunology 28 (2016) 54–63
+
+[49] A. Johansson, J. Hamzah, C.J. Payne, R. Ganss, Tumor-targeted TNFalpha stabilizes tumor vessels and enhances active immunotherapy, Proc. Natl. Acad.
+Sci. U.S.A. 109 (2012) 7841–7846.
+[50] U. Fiedler, Y. Reiss, M. Scharpfenecker, V. Grunow, S. Koidl, G. Thurston, et al.,
+Angiopoietin-2 sensitizes endothelial cells to TNF-alpha and has a crucial role
+in the induction of inﬂammation, Nat. Med. 12 (2006) 235–239.
+[51] B. Li, A.S. Lalani, T.C. Harding, B. Luan, K. Koprivnikar, G. Huan Tu, et al., Vascular endothelial growth factor blockade reduces intratumoral regulatory T
+cells and enhances the efﬁcacy of a GM-CSF-secreting cancer immunotherapy,
+Clin. Cancer Res. 12 (2006) 6808–6816.
+[52] Y. Huang, J. Yuan, E. Righi, W.S. Kamoun, M. Ancukiewicz, J. Nezivar, et al.,
+Vascular normalizing doses of antiangiogenic treatment reprogram the
+immunosuppressive tumor microenvironment and enhance immunotherapy, Proc. Natl. Acad. Sci. U.S.A. 109 (2012) 17561–17566.
+[53] R.K. Shrimali, Z. Yu, M.R. Theoret, D. Chinnasamy, N.P. Restifo, S.A. Rosenberg,
+Antiangiogenic agents can increase lymphocyte inﬁltration into tumor and
+enhance the effectiveness of adoptive immunotherapy of cancer, Cancer Res.
+70 (2010) 6171–6180.
+[54] S. Ugel, F. De Sanctis, S. Mandruzzato, V. Bronte, Tumor-induced myeloid
+deviation: when myeloid-derived suppressor cells meet tumor-associated
+macrophages, J. Clin. Invest. 125 (2015) 3365–3376.
+[55] Z. Fridlender, G. Buchlis, V. Kapoor, G. Cheng, J. Sun, S. Singhal, et al., CCL2
+blockade augments cancer immunotherapy, Cancer Res. 70 (2010) 109–118.
+[56] Z.G. Fridlender, V. Kapoor, G. Buchlis, G. Cheng, J. Sun, L.C. Wang, et al., Monocyte chemoattractant protein-1 blockade inhibits lung cancer tumor growth
+by altering macrophage phenotype and activating CD8+ cells, Am. J. Respir.
+Cell Mol. Biol. 44 (2011) 230–237.
+[57] S. Ugel, E. Peranzoni, G. Desantis, M. Chioda, S. Walter, T. Weinschenk, et al.,
+Immune tolerance to tumor antigens occurs in a specialized environment of
+the spleen, Cell Rep. (2012).
+[58] K.J. Pienta, J.P. Machiels, D. Schrijvers, B. Alekseev, M. Shkolnik, S.J. Crabb,
+et al., Phase 2 study of carlumab (CNTO 888), a human monoclonal antibody against CC-chemokine ligand 2 (CCL2), in metastatic castration-resistant
+prostate cancer, Investig. New Drugs 31 (2013) 760–768.
+[59] S.K. Sandhu, K. Papadopoulos, P.C. Fong, A. Patnaik, C. Messiou, D. Olmos,
+et al., A ﬁrst-in-human, ﬁrst-in-class, phase I study of carlumab (CNTO 888), a
+human monoclonal antibody against CC-chemokine ligand 2 in patients with
+solid tumors, Cancer Chemother. Pharmacol. 71 (2013) 1041–1050.
+[60] L. Bonapace, M.M. Coissieux, J. Wyckoff, K.D. Mertz, Z. Varga, T. Junt, et al., Cessation of CCL2 inhibition accelerates breast cancer metastasis by promoting
+angiogenesis, Nature 515 (2014) 130–133.
+[61] F. Leuschner, P. Dutta, R. Gorbatov, T.I. Novobrantseva, J.S. Donahoe, G.
+Courties, et al., Therapeutic siRNA silencing in inﬂammatory monocytes in
+mice, Nat. Biotechnol. 29 (2011) 1005–1010.
+[62] B. Molon, S. Ugel, F. Del Pozzo, C. Soldani, S. Zilio, D. Avella, et al., Chemokine
+nitration prevents intratumoral inﬁltration of antigen-speciﬁc T cells, J. Exp.
+Med. 208 (2011) 1949–1962.
+[63] S.J. Priceman, J.L. Sung, Z. Shaposhnik, J.B. Burton, A.X. Torres-Collado, D.L.
+Moughon, et al., Targeting distinct tumor-inﬁltrating myeloid cells by inhibiting CSF-1 receptor: combating tumor evasion of antiangiogenic therapy,
+Blood 115 (2010) 1461–1471.
+[64] S.M. Pyonteck, L. Akkari, A.J. Schuhmacher, R.L. Bowman, L. Sevenich, D.F.
+Quail, et al., CSF-1R inhibition alters macrophage polarization and blocks
+glioma progression, Nat. Med. 19 (2013) 1264–1272.
+[65] J. Xu, J. Escamilla, S. Mok, J. David, S. Priceman, B. West, et al., CSF1R signaling
+blockade stanches tumor-inﬁltrating myeloid cells and improves the efﬁcacy
+of radiotherapy in prostate cancer, Cancer Res. 73 (2013) 2782–2794.
+[66] C.H. Ries, M.A. Cannarile, S. Hoves, J. Benz, K. Wartha, V. Runza, et al., Targeting
+tumor-associated macrophages with anti-CSF-1R antibody reveals a strategy
+for cancer therapy, Cancer Cell 25 (2014) 846–859.
+[67] S. Spranger, R.M. Spaapen, Y. Zha, J. Williams, Y. Meng, T.T. Ha, et al.,
+Up-regulation of PD-L1, IDO, and Tregs in the melanoma tumor microenvironment is driven by CD8+ T cells, Sci. Transl. Med. 5 (2013) 200ra116.
+[68] R.B. Holmgaard, D. Zamarin, D.H. Munn, J.D. Wolchok, J.P. Allison, Indoleamine
+2,3-dioxygenase is a critical resistance mechanism in antitumor T cell
+immunotherapy targeting CTLA-4, J. Exp. Med. 210 (2013) 1389–1402.
+[69] D.A. Wainwright, A.L. Chang, M. Dey, I.V. Balyasnikova, C.K. Kim, A. Tobias,
+et al., Durable therapeutic efﬁcacy utilizing combinatorial blockade against
+IDO, CTLA-4, and PD-L1 in mice with brain tumors, Clin. Cancer Res. 20 (2014)
+5290–5301.
+[70] S. Spranger, H.K. Koblish, B. Horton, P.A. Scherle, R. Newton, T.F. Gajewski,
+Mechanism of tumor rejection with doublets of CTLA-4, PD-1/PD-L1, or IDO
+blockade involves restored IL-2 production and proliferation of CD8(+) T cells
+directly within the tumor microenvironment, J. Immunother. Cancer 2 (2014)
+3.
+[71] S. Ninomiya, N. Narala, L. Huye, S. Yagyu, B. Savoldo, G. Dotti, et al., Tumor
+indoleamine 2,3-dioxygenase (IDO) inhibits CD19-CAR T cells and is downregulated by lymphodepleting drugs, Blood 125 (2015) 3905–3916.
+[72] C. Feig, J.O. Jones, M. Kraman, R.J. Wells, A. Deonarine, D.S. Chan, et al., Targeting CXCL12 from FAP-expressing carcinoma-associated ﬁbroblasts synergizes
+with anti-PD-L1 immunotherapy in pancreatic cancer, Proc. Natl. Acad. Sci.
+U.S.A. 110 (2013) 20212–20217.
+[73] E.W. Roberts, A. Deonarine, J.O. Jones, A.E. Denton, C. Feig, S.K. Lyons, et al.,
+Depletion of stromal cells expressing ﬁbroblast activation protein-alpha from
+skeletal muscle and bone marrow results in cachexia and anemia, J. Exp. Med.
+210 (2013) 1137–1151.
+
+[74] M.H. Sherman, R.T. Yu, D.D. Engle, N. Ding, A.R. Atkins, H. Tiriac, et al., Vitamin D receptor-mediated stromal reprogramming suppresses pancreatitis
+and enhances pancreatic cancer therapy, Cell 159 (2014) 80–93.
+[75] M.S. Diamond, M. Kinder, H. Matsushita, M. Mashayekhi, G.P. Dunn, J.M.
+Archambault, et al., Type I interferon is selectively required by dendritic cells
+for immune rejection of tumors, J. Exp. Med. 208 (2011) 1989–2003.
+[76] E.Y. Woo, M.B. Fuertes, L. Corrales, S. Spranger, M.J. Furdyna, M.Y.K. Leung,
+et al., Innate immune sensing of immunogenic tumors via the host STING
+pathway, Immunity (2014).
+[77] M.B. Fuertes, A.K. Kacha, J. Kline, S.R. Woo, D.M. Kranz, K.M. Murphy, et al.,
+Host type I IFN signals are required for antitumor CD8+ T cell responses
+through CD8{alpha}+ dendritic cells, J. Exp. Med. 208 (2011) 2005–2016.
+[78] L. Deng, H. Liang, M. Xu, X. Yang, B. Burnette, A. Arina, et al., Radiationtriggered cytosolic DNA sensing pathway bridges type I interferon-dependent
+innate and adaptive immune responses, Immunity (2014).
+[79] T.N. Schumacher, R.D. Schreiber, Neoantigens in cancer immunotherapy, Science 348 (2015) 69–74.
+[80] L. Corrales, L.H. Glickman, S.M. McWhirter, D.B. Kanne, K.E. Sivick, G.E. Katibah, et al., Direct activation of STING in the tumor microenvironment leads
+to potent and systemic tumor regression and immunity, Cell Rep. 11 (2015)
+1018–1030.
+[81] N. Iida, A. Dzutsev, C.A. Stewart, L. Smith, N. Bouladoux, R.A. Weingarten, et al.,
+Commensal bacteria control cancer response to therapy by modulating the
+tumor microenvironment, Science 342 (2013) 967–970.
+[82] M. Vetizou, J.M. Pitt, R. Daillere, P. Lepage, N. Waldschmitt, C. Flament, et al.,
+Anticancer immunotherapy by CTLA-4 blockade relies on the gut microbiota,
+Science (2015).
+[83] A. Sivan, L. Corrales, N. Hubert, J.B. Williams, K. Aquino-Michaels, Z.M. Earley, et al., Commensal Biﬁdobacterium promotes antitumor immunity and
+facilitates anti-PD-L1 efﬁcacy, Science (2015).
+[84] B. Burnette, R.R. Weichselbaum, The immunology of ablative radiation, Semin.
+Radiat. Oncol. 25 (2015) 40–45.
+[85] L. Deng, H. Liang, S. Fu, R.R. Weichselbaum, Y.X. Fu, From DNA damage to
+nucleic acid sensing: a strategy to enhance radiation therapy, Clin. Cancer
+Res. 22 (2016) 20–25.
+[86] A.B. Sharabi, M. Lim, T.L. DeWeese, C.G. Drake, Radiation and checkpoint
+blockade immunotherapy: radiosensitisation and potential mechanisms of
+synergy, Lancet Oncol. 16 (2015) e498–e509.
+[87] B.C. Burnette, H. Liang, Y. Lee, L. Chlewicki, N.N. Khodarev, R.R. Weichselbaum,
+et al., The efﬁcacy of radiotherapy relies upon induction of type i interferondependent innate and adaptive immunity, Cancer Res. 71 (2011) 2488–2496.
+[88] L. Galluzzi, A. Buque, O. Kepp, L. Zitvogel, G. Kroemer, Immunological effects
+of conventional chemotherapy and targeted anticancer agents, Cancer Cell 28
+(2015) 690–714.
+[89] A.A. Lugade, J.P. Moran, S.A. Gerber, R.C. Rose, J.G. Frelinger, E.M. Lord, Local
+radiation therapy of B16 melanoma tumors increases the generation of tumor
+antigen-speciﬁc effector cells that trafﬁc to the tumor, J. Immunol. 174 (2005)
+7516–7523.
+[90] A.A. Lugade, E.W. Sorensen, S.A. Gerber, J.P. Moran, J.G. Frelinger, E.M. Lord,
+Radiation-induced IFN-gamma production within the tumor microenvironment inﬂuences antitumor immunity, J. Immunol. 180 (2008) 3132–3139.
+[91] F. Klug, H. Prakash, P.E. Huber, T. Seibel, N. Bender, N. Halama, et al., Low-dose
+irradiation programs macrophage differentiation to an iNOS(+)/M1 phenotype that orchestrates effective T cell immunotherapy, Cancer Cell 24 (2013)
+589–602.
+[92] J. Handschel, F.J. Prott, C. Sunderkotter, D. Metze, U. Meyer, U. Joos, Irradiation
+induces increase of adhesion molecules and accumulation of beta2-integrinexpressing cells in humans, Int. J. Radiat. Oncol. Biol. Phys. 45 (1999) 475–481.
+[93] R. Ganss, E. Ryschich, E. Klar, B. Arnold, G.J. Hammerling, Combination of T-cell
+therapy and trigger of inﬂammation induces remodeling of the vasculature
+and tumor eradication, Cancer Res. 62 (2002) 1462–1470.
+[94] S. Matsumura, B. Wang, N. Kawashima, S. Braunstein, M. Badura, T.O.
+Cameron, et al., Radiation-induced CXCL16 release by breast cancer cells
+attracts effector T cells, J. Immunol. 181 (2008) 3099–3107.
+[95] A. Gupta, H.C. Probst, V. Vuong, A. Landshammer, S. Muth, H. Yagita, et al.,
+Radiotherapy promotes tumor-speciﬁc effector CD8+ T cells via dendritic cell
+activation, J. Immunol. 189 (2012) 558–566.
+[96] H. Liang, L. Deng, S. Chmura, B. Burnette, N. Liadis, T. Darga, et al., Radiationinduced equilibrium is a balance between tumor cell proliferation and T cellmediated killing, J. Immunol. 190 (2013) 5874–5881.
+[97] A. Filatenkov, J. Baker, A.M. Mueller, J. Kenkel, G.O. Ahn, S. Dutt, et al., Ablative
+tumor radiation can change the tumor immune cell microenvironment to
+induce durable complete remissions, Clin. Cancer Res. 21 (2015) 3727–3739.
+[98] E.A. Reits, J.W. Hodge, C.A. Herberts, T.A. Groothuis, M. Chakraborty, E.K.
+Wansley, et al., Radiation modulates the peptide repertoire, enhances MHC
+class I expression, and induces successful antitumor immunotherapy, J. Exp.
+Med. 203 (2006) 1259–1271.
+[99] S. Wan, S. Pestka, R.G. Jubin, Y.L. Lyu, Y.C. Tsai, L.F. Liu, Chemotherapeutics and
+radiation stimulate MHC class I expression through elevated interferon-beta
+signaling in breast cancer cells, PLOS ONE 7 (2012) e32542.
+[100] A.D. Santin, P.L. Hermonat, A. Ravaggi, M. Chiriva-Internati, S. Pecorelli, G.P.
+Parham, Radiation-enhanced expression of E6/E7 transforming oncogenes of
+human papillomavirus-16 in human cervical carcinoma, Cancer 83 (1998)
+2346–2352.
+[101] A. Sharma, B. Bode, R.H. Wenger, K. Lehmann, A.A. Sartori, H. Moch,
+et al., gamma-Radiation promotes immunological recognition of cancer cells
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+A. Arina et al. / Seminars in Immunology 28 (2016) 54–63
+
+[102]
+
+[103]
+
+[104]
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+[114]
+
+[115]
+
+[116]
+
+[117]
+
+[118]
+
+[119]
+[120]
+
+through increased expression of cancer-testis antigens in vitro and in vivo,
+PLOS ONE 6 (2011) e28217.
+M. Chakraborty, S.I. Abrams, C.N. Coleman, K. Camphausen, J. Schlom, J.W.
+Hodge, External beam radiation of tumors alters phenotype of tumor cells
+to render them susceptible to vaccine-mediated T-cell killing, Cancer Res. 64
+(2004) 4328–4337.
+S.R. Gameiro, M.L. Jammeh, M.M. Wattenberg, K.Y. Tsang, S. Ferrone, J.W.
+Hodge, Radiation-induced immunogenic modulation of tumor enhances antigen processing and calreticulin exposure, resulting in enhanced T-cell killing,
+Oncotarget 5 (2014) 403–416.
+B. Zhang, N.A. Bowerman, J.K. Salama, H. Schmidt, M.T. Spiotto, A. Schietinger,
+et al., Induced sensitization of tumor stroma leads to eradication of established cancer by T cells, J. Exp. Med. 204 (2007) 49–55.
+S. Demaria, N. Kawashima, A.M. Yang, M.L. Devitt, J.S. Babb, J.P. Allison, et al.,
+Immune-mediated inhibition of metastases after treatment with local radiation and CTLA-4 blockade in a mouse model of breast cancer, Clin. Cancer
+Res. 11 (2005) 728–734.
+C. Twyman-Saint Victor, A.J. Rech, A. Maity, R. Rengan, K.E. Pauken, E. Stelekati,
+et al., Radiation and dual checkpoint blockade activate non-redundant
+immune mechanisms in cancer, Nature 520 (2015) 373–377.
+L. Deng, H. Liang, B. Burnette, M. Beckett, T. Darga, R.R. Weichselbaum,
+et al., Irradiation and anti-PD-L1 treatment synergistically promote antitumor
+immunity in mice, J. Clin. Invest. 124 (2014) 687–695.
+S.J. Dovedi, A.L. Adlard, G. Lipowska-Bhalla, C. McKenna, S. Jones, E.J. Cheadle,
+et al., Acquired resistance to fractionated radiotherapy can be overcome by
+concurrent PD-L1 blockade, Cancer Res. 74 (2014) 5458–5468.
+C.S. Hinrichs, S.A. Rosenberg, Exploiting the curative potential of adoptive
+T-cell therapy for cancer, Immunol. Rev. 257 (2014) 56–71.
+L. Gattinoni, S.E. Finkelstein, C.A. Klebanoff, P.A. Antony, D.C. Palmer, P.J.
+Spiess, et al., Removal of homeostatic cytokine sinks by lymphodepletion
+enhances the efﬁcacy of adoptively transferred tumor-speciﬁc CD8+ T cells,
+J. Exp. Med. 202 (2005) 907–912.
+J. Kline, I.E. Brown, Y.Y. Zha, C. Blank, J. Strickler, H. Wouters, et al., Homeostatic
+proliferation plus regulatory T-cell depletion promotes potent rejection of
+B16 melanoma, Clin. Cancer Res. 14 (2008) 3156–3167.
+C.M. Paulos, C. Wrzesinski, A. Kaiser, C.S. Hinrichs, M. Chieppa, L. Cassard,
+et al., Microbial translocation augments the function of adoptively transferred
+self/tumor-speciﬁc CD8+ T cells via TLR4 signaling, J. Clin. Invest. 117 (2007)
+2197–2204.
+C. Wrzesinski, C.M. Paulos, A. Kaiser, P. Muranski, D.C. Palmer, L. Gattinoni,
+et al., Increased intensity lymphodepletion enhances tumor treatment efﬁcacy of adoptively transferred tumor-speciﬁc T cells, J. Immunother. 33 (2010)
+1–7.
+M.E. Dudley, J.C. Yang, R. Sherry, M.S. Hughes, R. Royal, U. Kammula, et al.,
+Adoptive cell therapy for patients with metastatic melanoma: evaluation of
+intensive myeloablative chemoradiation preparative regimens, J. Clin. Oncol.
+26 (2008) 5233–5239.
+L. Bracci, G. Schiavoni, A. Sistigu, F. Belardelli, Immune-based mechanisms of
+cytotoxic chemotherapy: implications for the design of novel and rationalebased combined treatments against cancer, Cell. Death Diff. 21 (2014) 15–25.
+L. Zitvogel, L. Galluzzi, M.J. Smyth, G. Kroemer, Mechanism of action of conventional and targeted anticancer therapies: reinstating immunosurveillance,
+Immunity 39 (2013) 74–88.
+E. Vacchelli, Y. Ma, E.E. Baracco, A. Sistigu, D.P. Enot, F. Pietrocola, et al.,
+Chemotherapy-induced antitumor immunity requires formyl peptide receptor 1, Science (2015).
+A. Sistigu, T. Yamazaki, E. Vacchelli, K. Chaba, D.P. Enot, J. Adam, et al., Cancer
+cell-autonomous contribution of type I interferon signaling to the efﬁcacy of
+chemotherapy, Nat. Med. (2014).
+A. Mantovani, P. Allavena, The interaction of anticancer therapies with tumorassociated macrophages, J. Exp. Med. 212 (2015) 435–445.
+E. Suzuki, V. Kapoor, A.S. Jassar, L.R. Kaiser, S.M. Albelda, Gemcitabine
+selectively eliminates splenic Gr-1+/CD11b+ myeloid suppressor cells in
+tumor-bearing animals and enhances antitumor immune activity, Clin. Cancer Res. 11 (2005) 6713–6721.
+
+63
+
+[121] H.K. Le, L. Graham, E. Cha, J.K. Morales, M.H. Manjili, H.D. Bear, Gemcitabine
+directly inhibits myeloid derived suppressor cells in BALB/c mice bearing 4T1
+mammary carcinoma and augments expansion of T cells from tumor-bearing
+mice, Int. Immunopharmacol. 9 (2009) 900–909.
+[122] K. Tomihara, H. Fuse, W. Heshiki, R. Takei, B. Zhang, N. Arai, et al., Gemcitabine
+chemotherapy induces phenotypic alterations of tumor cells that facilitate
+antitumor T cell responses in a mouse model of oral cancer, Oral Oncol. 50
+(2014) 457–467.
+[123] J. Vincent, G. Mignot, F. Chalmin, S. Ladoire, M. Bruchard, A. Chevriaux, et al.,
+5-Fluorouracil selectively kills tumor-associated myeloid-derived suppressor
+cells resulting in enhanced T cell-dependent antitumor immunity, Cancer Res.
+70 (2010) 3052–3061.
+[124] M. Bruchard, G. Mignot, V. Derangere, F. Chalmin, A. Chevriaux, F. Vegran,
+et al., Chemotherapy-triggered cathepsin B release in myeloid-derived suppressor cells activates the Nlrp3 inﬂammasome and promotes tumor growth,
+Nat. Med. 19 (2013) 57–64.
+[125] G. Germano, R. Frapolli, C. Belgiovine, A. Anselmo, S. Pesce, M. Liguori, et al.,
+Role of macrophage targeting in the antitumor activity of trabectedin, Cancer
+Cell 23 (2013) 249–262.
+[126] J.M. Haverkamp, A.M. Smith, R. Weinlich, C.P. Dillon, J.E. Qualls, G. Neale, et al.,
+Myeloid-derived suppressor activity is mediated by monocytic lineages maintained by continuous inhibition of extrinsic and intrinsic death pathways,
+Immunity 41 (2014) 947–959.
+[127] K. Kim, A.D. Skora, Z. Li, Q. Liu, A.J. Tam, R.L. Blosser, et al., Eradication of
+metastatic mouse cancers resistant to immune checkpoint blockade by suppression of myeloid-derived cells, Proc. Natl. Acad. Sci. U.S.A. 111 (2014)
+11774–11779.
+[128] J. Chen, X. Huang, G. Huang, Y. Chen, L. Chen, H. Song, Preconditioning chemotherapy with cisplatin enhances the antitumor activity of
+cytokine-induced killer cells in a murine melanoma model, Cancer Biother.
+Radiopharmaceut. 27 (2012) 210–220.
+[129] H. Naiditch, M.R. Shurin, G.V. Shurin, Targeting myeloid regulatory
+cells in cancer by chemotherapeutic agents, Immunol. Res. 50 (2011)
+276–285.
+[130] K.N. Kodumudi, K. Woan, D.L. Gilvary, E. Sahakian, S. Wei, J.Y. Djeu, A novel
+chemoimmunomodulating property of docetaxel: suppression of myeloidderived suppressor cells in tumor bearers, Clin. Cancer Res. 16 (2010)
+4583–4594.
+[131] M. Tongu, N. Harashima, H. Monma, T. Inao, T. Yamada, H. Kawauchi, et al.,
+Metronomic chemotherapy with low-dose cyclophosphamide plus gemcitabine can induce anti-tumor T cell immunity in vivo, Cancer Immunol.
+Immunother. 62 (2013) 383–391.
+[132] C.M. Diaz-Montero, M.L. Salem, M.I. Nishimura, E. Garrett-Mayer, D.J. Cole,
+A.J. Montero, Increased circulating myeloid-derived suppressor cells correlate
+with clinical cancer stage, metastatic tumor burden, and doxorubicincyclophosphamide chemotherapy, Cancer Immunol. Immunother. 58 (2009)
+49–59.
+[133] J.S. Ko, A.H. Zea, B.I. Rini, J.L. Ireland, P. Elson, P. Cohen, et al., Sunitinib mediates reversal of myeloid-derived suppressor cell accumulation in renal cell
+carcinoma patients, Clin. Cancer Res. 15 (2009) 2148–2157.
+[134] T. Osada, G. Chong, R. Tansik, T. Hong, N. Spector, R. Kumar, et al.,
+The effect of anti-VEGF therapy on immature myeloid cell and dendritic cells in cancer patients, Cancer Immunol. Immunother. 57 (2008)
+1115–1124.
+[135] P.C. Rodriguez, M.S. Ernstoff, C. Hernandez, M. Atkins, J. Zabaleta, R. Sierra,
+et al., Arginase I-producing myeloid-derived suppressor cells in renal cell carcinoma are a subpopulation of activated granulocytes, Cancer Res. 69 (2009)
+1553–1560.
+[136] B. Schilling, A. Sucker, K. Griewank, F. Zhao, B. Weide, A. Gorgens, et al., Vemurafenib reverses immunosuppression by myeloid derived suppressor cells,
+Int. J. Cancer 133 (2013) 1653–1663.
+[137] H. Yanagimoto, T. Mine, K. Yamamoto, S. Satoi, N. Terakawa, K. Takahashi,
+et al., Immunological evaluation of personalized peptide vaccination with
+gemcitabine for pancreatic cancer, Cancer Sci. 98 (2007) 605–611.
+
+Downloaded for PD Hinduja Hospital (library@hindujahospital.com) at National Hospital & Education Society - JC from ClinicalKey.com by Elsevier on March 02, 2019.
+For personal use only. No other uses without permission. Copyright ©2019. Elsevier Inc. All rights reserved.
+
+
